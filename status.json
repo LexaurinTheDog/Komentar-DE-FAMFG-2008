@@ -1,23 +1,40 @@
 {
-  "stage": "authoring",
-  "updated_at": "2026-10-19T18:02:03.290432+00:00",
+  "stage": "authoring_incomplete",
+  "updated_at": "2026-10-19T18:02:43.217803+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
   "completed_units": 193,
   "remaining_units": 336,
   "case_law_sources": [
-    "cases/BGH-XII-ZB-109-16.md",
     "cases/BGH-XII-ZB-114-21.md",
-    "cases/README.md"
+    "cases/BGH-XII-ZB-109-16.md"
   ],
   "validation": {
-    "strict_validator": "not yet passed; full manuscript required",
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 202505,
+      "errors": [
+        "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "exit_code": 1,
+    "full_build_exit_code": 1,
+    "completeness_report": "completeness-report.json",
+    "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true
   },
   "remaining_limitations": [
-    "Full manuscript still in progress",
-    "Independent second pass not performed",
-    "Case-law research selective"
-  ]
+    "336 statutory units from § 169 onward still lack original commentary.",
+    "Full build and strict validation correctly fail because commentary is incomplete.",
+    "Independent second-pass review not performed.",
+    "Case-law research is selective; no exhaustive coverage claimed.",
+    "The source audit verifies current GII delivery and the identified recent commencement provisions, not every historical amending act."
+  ],
+  "commentary_characters": 202505,
+  "commented_scope": "§§ 1–168g"
 }

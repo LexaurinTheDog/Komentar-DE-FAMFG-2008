@@ -4,24 +4,7 @@
   "commentary_characters": 202505,
   "missing_commentary_count": 336,
   "local_links_checked": 68,
-  "broken_local_links": [
-    {
-      "file": "REVIEW.md",
-      "target": "validation.json"
-    },
-    {
-      "file": "SOURCES.md",
-      "target": "technical-audit.json"
-    },
-    {
-      "file": "SOURCES.md",
-      "target": "validation.json"
-    },
-    {
-      "file": "SOURCES.md",
-      "target": "build-result.json"
-    }
-  ],
+  "broken_local_links": [],
   "exact_repeated_substantive_paragraphs": [],
   "near_repeated_commentary_above_0_8_token_jaccard": [],
   "xml_character_disagreements_ignoring_whitespace": [],
