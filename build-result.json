@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-19T18:02:42.755762+00:00",
+  "command": [
+    "python3",
+    "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+    "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-FAMFG-2008"
+  ],
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 336 jednotkám, např.: ['p169', 'p170', 'p171', 'p172', 'p173', 'p174', 'p175', 'p176', 'p177', 'p178']\n",
+  "complete": false,
+  "reason": "336 original commentaries are absent; full build not bypassed"
+}

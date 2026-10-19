@@ -1,0 +1,44 @@
+{
+  "intake_sha256": "a686a8c41e007439a469a7e7377b20c6b7d7e6c5fb33e6a3e0b039b34500c218",
+  "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "added": [],
+  "removed": [],
+  "differences": [
+    {
+      "id": "p14a",
+      "intake_text": "Das Bundesministerium der Justiz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 130a Absatz 3 der Zivilprozessordnung auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.\n\nFußnote: (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)",
+      "official_text": "Das Bundesministerium der Justiz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 130a Absatz 3 der Zivilprozessordnung auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.",
+      "comparison": "literal whitespace-normalized including intake editorial-note differences; inspect before treating as legislative change"
+    },
+    {
+      "id": "p162",
+      "intake_text": "(1) Das Gericht hat in Verfahren, die die Person des Kindes betreffen, das Jugendamt anzuhören. Unterbleibt die Anhörung wegen Gefahr im Verzug, ist sie unverzüglich nachzuholen.\n\n(2) In Verfahren nach den §§ 1666 und 1666a des Bürgerlichen Gesetzbuchs ist das Jugendamt zu beteiligen. Im Übrigen ist das Jugendamt auf seinen Antrag am Verfahren zu beteiligen.\n\n(3) In Verfahren, die die Person des Kindes betreffen, ist das Jugendamt von Terminen zu benachrichtigen und ihm sind alle Entscheidungen des Gerichts bekannt zu machen. Gegen den Beschluss steht dem Jugendamt die Beschwerde zu.\n\nFußnote: (+++ § 162: Zur Nichtanwendung vgl. § 167b Abs. 1 +++)",
+      "official_text": "(1) Das Gericht hat in Verfahren, die die Person des Kindes betreffen, das Jugendamt anzuhören. Unterbleibt die Anhörung wegen Gefahr im Verzug, ist sie unverzüglich nachzuholen.\n\n(2) In Verfahren nach den §§ 1666 und 1666a des Bürgerlichen Gesetzbuchs ist das Jugendamt zu beteiligen. Im Übrigen ist das Jugendamt auf seinen Antrag am Verfahren zu beteiligen.\n\n(3) In Verfahren, die die Person des Kindes betreffen, ist das Jugendamt von Terminen zu benachrichtigen und ihm sind alle Entscheidungen des Gerichts bekannt zu machen. Gegen den Beschluss steht dem Jugendamt die Beschwerde zu.",
+      "comparison": "literal whitespace-normalized including intake editorial-note differences; inspect before treating as legislative change"
+    },
+    {
+      "id": "p190",
+      "intake_text": "",
+      "official_text": "(weggefallen)",
+      "comparison": "literal whitespace-normalized including intake editorial-note differences; inspect before treating as legislative change"
+    },
+    {
+      "id": "p230",
+      "intake_text": "",
+      "official_text": "(weggefallen)",
+      "comparison": "literal whitespace-normalized including intake editorial-note differences; inspect before treating as legislative change"
+    },
+    {
+      "id": "p289",
+      "intake_text": "",
+      "official_text": "(weggefallen)",
+      "comparison": "literal whitespace-normalized including intake editorial-note differences; inspect before treating as legislative change"
+    },
+    {
+      "id": "p364",
+      "intake_text": "",
+      "official_text": "(weggefallen)",
+      "comparison": "literal whitespace-normalized including intake editorial-note differences; inspect before treating as legislative change"
+    }
+  ]
+}

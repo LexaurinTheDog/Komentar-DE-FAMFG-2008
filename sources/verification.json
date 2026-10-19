@@ -1,0 +1,201 @@
+{
+  "authoring_date": "2026-10-19",
+  "checks": [
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-19T17:35:57.839069+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "path": "sources/famfg-2026-10-19.zip",
+      "members": [
+        "BJNR258700008.xml"
+      ],
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP opened; XML parsed",
+      "extracted_sha256": {
+        "BJNR258700008.xml": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-19T17:35:58.066982+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "path": "sources/famfg-index.html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/BJNR258700008.html",
+      "accessed_at": "2026-10-19T17:35:59.088599+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "580404218120946703ba727362d74a2edfc43ca06792c4ba17908719aa721555",
+      "path": "sources/famfg-full.html"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/198/VO.html",
+      "accessed_at": "2026-10-19T17:36:58.454882+00:00",
+      "path": "sources/bgbl-198.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "ba0ac0d16cd14b0e14b277c29158d2a7f26d8d5b4b02ec7dcc8e034c30c2be25",
+      "bytes": 40913
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/192/VO.html",
+      "accessed_at": "2026-10-19T17:37:01.613981+00:00",
+      "path": "sources/bgbl-192.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "b1c78ff366c3ea4052a43c35de312c845a52d7207396bd92faa922133c790807",
+      "bytes": 41326
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/VO.html",
+      "accessed_at": "2026-10-19T17:37:01.880269+00:00",
+      "path": "sources/bgbl-152.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "b5e22d34f18fb4feac4c9c8818ae1695026d3502260263e968ecd967ea7671a7",
+      "bytes": 40979
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-19T17:37:02.254357+00:00",
+      "path": "sources/current-service.html",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "f2c92645e935e53c51e5f69a06756484133dff26f032251a8b6db1d778bb045c",
+      "bytes": 74406
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/198/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-19T17:37:51.280750+00:00",
+      "path": "sources/bgbl-198.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+      "bytes": 308089
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/192/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-19T17:37:52.079741+00:00",
+      "path": "sources/bgbl-192.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "15fcf268bd8ec91b2c27933d163d5ffbad40ac7dc6af37ba6a70300b112d0ce2",
+      "bytes": 333585
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-19T17:37:52.702287+00:00",
+      "path": "sources/bgbl-152.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2021&Gericht=bgh&Seite=17&anz=2980&pos=525",
+      "accessed_at": "2026-10-19T17:40:30.589642+00:00",
+      "path": "sources/case-XII-ZB-114-21.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "d52458a3986c96d3f7c4c815e7e035f4b1e40abf7f7f9e0ddeb3c34ba125248f",
+      "bytes": 43285,
+      "format_validation": "rejected: BGH homepage rather than requested decision"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE312772017.zip",
+      "accessed_at": "2026-10-19T17:40:31.100445+00:00",
+      "path": "sources/case-XII-ZB-601-15.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "948a865cde10ec02f834d5f476832aeb3742cc73634bf72acc57314a80be3804",
+      "bytes": 11988,
+      "format_validation": "ZIP opened; XML parsed",
+      "members": [
+        "jb-KORE312772017.xml"
+      ],
+      "extracted_sha256": {
+        "jb-KORE312772017.xml": "dcad9e3652e8fb0c0b134da58b3cd9c2f4dbaef4532947c0e62d994b71b99c7e"
+      }
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303072017.zip",
+      "accessed_at": "2026-10-19T17:40:31.405955+00:00",
+      "path": "sources/case-XII-ZB-109-16.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "3394ce83a7b915151fba0cebb01bb57725ff4e7eb8301e22d6bd8b0a0656da79",
+      "bytes": 11731,
+      "format_validation": "ZIP opened; XML parsed",
+      "members": [
+        "jb-KORE303072017.xml"
+      ],
+      "extracted_sha256": {
+        "jb-KORE303072017.xml": "305dfb0a7b29a96ad00ec9a2a175590a800a9123dc809a9add5bed5688891ff2"
+      }
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE312662021.zip",
+      "accessed_at": "2026-10-19T17:44:01.737494+00:00",
+      "path": "sources/case-XII-ZB-114-21.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "3b94e6519d5d6bff7da2fe551095e16ec7510d8bc0823a9fb44f147b2310821d",
+      "bytes": 4065,
+      "format_validation": "ZIP opened; XML parsed",
+      "members": [
+        "jb-KORE312662021.xml"
+      ],
+      "extracted_sha256": {
+        "jb-KORE312662021.xml": "8f5e47f4ce73fea4322de272460d55e31595e331b3b5c016c7e716f09274531a"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+      "accessed_at": "2026-10-19T17:58:03.034140+00:00",
+      "path": "sources/urhg-5.html",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "0d1230ebb389ebdfdd0cb265ac74ee91345d19787520507c4db51cf85e375524",
+      "bytes": 4525
+    }
+  ],
+  "version_assessment": {
+    "decisive_date": "2026-10-19",
+    "verified_at": "2026-10-19T17:44:17.906888+00:00",
+    "xml_builddate": "20261008215512",
+    "current_last_change": "Art. 4 G v. 22.6.2026 I Nr. 192; note concerning Art. 4 G v. 2.7.2026 I Nr. 198",
+    "commencement_checks": [
+      {
+        "source": "sources/bgbl-152.pdf",
+        "provisions": "Art. 6 inserts § 95 Abs. 5; Art. 18 Abs. 1",
+        "effective": "2026-10-01",
+        "included": true
+      },
+      {
+        "source": "sources/bgbl-192.pdf",
+        "provisions": "Art. 4 inserts § 41a and adds § 46 Abs. 2; Art. 20 Abs. 1",
+        "effective": "2026-10-01",
+        "included": true
+      },
+      {
+        "source": "sources/bgbl-198.pdf",
+        "provisions": "Art. 4 Nr. 8 inserts § 214 Abs. 2 Satz 3; Art. 10 Abs. 1 Nr. 2",
+        "effective": "2026-07-10",
+        "included": true
+      },
+      {
+        "source": "sources/bgbl-198.pdf",
+        "provisions": "remaining Art. 4; Art. 10 Abs. 2",
+        "effective": "2027-07-01",
+        "included": false
+      }
+    ],
+    "intake_comparison": "No substantive paragraph-text changes after excluding source notes and explicit empty slots held in intake headings; source metadata updated. Six raw differences documented in change-map.json.",
+    "limits": "Official GII index, XML, complete HTML and Aktualitätendienst consulted on the authoring date; no claim to a complete independent audit of every historical amending act."
+  }
+}

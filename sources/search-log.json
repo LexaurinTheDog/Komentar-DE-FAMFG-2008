@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-19",
+  "scope": "selective procedural FamFG research",
+  "searches": [
+    {
+      "method": "firecrawl search",
+      "query": "site.gesetze-im-internet.de famfg Änderung 2026 Oktober Juli",
+      "evidence": "sources/firecrawl-current-search.json"
+    },
+    {
+      "method": "web search",
+      "queries": [
+        "site.recht.bund.de BGBl 2026 198 FamFG Artikel 4 Inkrafttreten",
+        "site.bundesgerichtshof.de FamFG 26 159 Anhörung Beschluss Volltext"
+      ]
+    },
+    {
+      "method": "local national corpus manifest",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "dockets": [
+        "XII ZB 114/21",
+        "XII ZB 601/15",
+        "XII ZB 355/10",
+        "XII ZB 109/16"
+      ]
+    }
+  ],
+  "relied_on_full_text": [
+    "KORE312662021",
+    "KORE303072017"
+  ],
+  "downloaded_not_relied_on": [
+    "KORE312772017"
+  ],
+  "rejected_response": "BGH URL for XII ZB 114/21 returned homepage; replaced with official RII ZIP/XML",
+  "limits": "No exhaustive law-wide case-law search; no claim that absence of a case citation establishes absence of case law."
+}
