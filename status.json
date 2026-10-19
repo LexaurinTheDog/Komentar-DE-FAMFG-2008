@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-19T18:02:43.217803+00:00",
+  "updated_at": "2026-10-19T18:03:41.525575+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -36,5 +36,15 @@
     "The source audit verifies current GII delivery and the identified recent commencement provisions, not every historical amending act."
   ],
   "commentary_characters": 202505,
-  "commented_scope": "§§ 1–168g"
+  "commented_scope": "§§ 1–168g",
+  "resume": {
+    "last_commented_id": "p168g",
+    "next_uncommented_id": "p169",
+    "missing_identifiers": "completeness-report.json#missing_commentary",
+    "full_parser": "_parse.py",
+    "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+    "partial_exporter": "_export_draft.py",
+    "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
+    "instructions": "Continue original commentary from § 169 in batches; retain all existing substantive prose. Never mark complete until all 529 units are commented and full build and strict validation pass."
+  }
 }
