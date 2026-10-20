@@ -1,6 +1,6 @@
 # Selektive Fallkarten
 
-Acht amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
+Elf amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
 
 - [BGH, 27.10.2021, XII ZB 114/21](BGH-XII-ZB-114-21.md): Nachholung fehlerhafter Anhörung, Fachkunde und Zurückverweisung; §§ 68 und 74; begrenzter Prüfungsnachtrag zu §§ 26 und 34.
 - [BGH, 15.03.2017, XII ZB 109/16](BGH-XII-ZB-109-16.md): bestimmter Sachantrag aus rechtzeitigem Gesamtvorbringen; § 117.
@@ -16,3 +16,7 @@ Die Recherche ist selektiv. Die zusätzlich gesicherten Volltexte XII ZB 601/15 
 
 - [BGH, 18.10.2017, XII ZB 195/17](BGH-XII-ZB-195-17.md): Feststellungsantrag des Verfahrenspflegers und schwerer Grundrechtseingriff; § 62, heutige Absatznummer 4 von damaliger Nummer 3 getrennt.
 - [BGH, 15.08.2012, XII ZR 80/11](BGH-XII-ZR-80-11.md): internationale Zuständigkeitskontrolle trotz § 72 Absatz 2; systematische Einordnung zu § 65 Absatz 4 ausdrücklich als Folgerung gekennzeichnet.
+
+- [BGH, 23.06.2010, XII ZB 232/09](BGH-XII-ZB-232-09.md): individuelle und subjektive Anforderungen der Beiordnung; § 78, historische Rechtsmittelpassage nicht übernommen.
+- [BGH, 18.11.2015, IV ZB 35/15](BGH-IV-ZB-35-15.md): umfassendes Kostenentscheidungsermessen statt gegensätzlicher Automatismen; §§ 81 und 84.
+- [BGH, 01.02.2012, XII ZB 188/11](BGH-XII-ZB-188-11.md): gebilligter Umgangsvergleich, ZPO-Rechtsmittelweg, Titelbestimmtheit, Entschuldigung und gesonderte Einstellung; §§ 86, 87, 89 und 93. Keine Billigung der bereits aufgehobenen Ersatzhaft behauptet.

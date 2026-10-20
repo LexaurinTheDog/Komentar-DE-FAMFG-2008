@@ -187,5 +187,66 @@
       "p74"
     ],
     "limits": "Selective research; no additional sufficiently relevant verified new authority added for other15 units. §65 uses labeled systematic inference from BGH on§72. No exhaustive later-case or treatment check. Search snippets not treated as full-text evidence."
+  },
+  "bounded_review_p75_p93": {
+    "date": "2026-10-20",
+    "scope": [
+      "p75",
+      "p76",
+      "p77",
+      "p78",
+      "p79",
+      "p80",
+      "p81",
+      "p82",
+      "p83",
+      "p84",
+      "p84a",
+      "p85",
+      "p86",
+      "p87",
+      "p88",
+      "p89",
+      "p90",
+      "p91",
+      "p92",
+      "p93"
+    ],
+    "firecrawl": "status authenticated,0 remaining cycle credits; no successful Firecrawl search claimed; direct official downloads and web search fallback",
+    "queries": [
+      "site.rechtsprechung-im-internet.de §89 Umgang2012",
+      "site.rechtsprechung-im-internet.de §78 Schwierigkeit FamFG",
+      "site.rechtsprechung-im-internet.de §81 billigem2015",
+      "site.rechtsprechung-im-internet.de XII ZB232/09",
+      "site.rechtsprechung-im-internet.de §81 IV ZB2015"
+    ],
+    "local_corpus_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+    "local_docket_lookup": [
+      "XII ZB188/11",
+      "XII ZB232/09",
+      "IV ZB35/15",
+      "IV ZB9/14",
+      "XII ZB15/13"
+    ],
+    "selected_official_full_texts_read": {
+      "KORE305242012": "Tenor and all reasons1–28",
+      "KORE308272010": "Tenor and all reasons1–33",
+      "KORE309312015": "Tenor and all reasons1–18"
+    },
+    "local_snapshots": "Three selected local records retained; every official tenor/reasons paragraph found in normalized local body",
+    "candidates_not_used": [
+      "IV ZB9/14: docket lookup only",
+      "XII ZB15/13: docket lookup only; not separately read or used as authority"
+    ],
+    "supported_units": [
+      "p78",
+      "p81",
+      "p84",
+      "p86",
+      "p87",
+      "p89",
+      "p93"
+    ],
+    "limits": "Selective research, not exhaustive later-treatment check. Search snippets/third-party commentary not relied on as authority; no new verified case added for other13 units."
   }
 }

@@ -680,6 +680,198 @@
       "bytes": 363624,
       "format_validation": "PDF signature, pdftotext success,10 pages, expected act title/Art.7/Art.21; no anti-bot body",
       "version_evidence": "Art.7 Nr.2/4 effective1.1.2026 byArt.21 Abs.2; former600Euro threshold and precise§493 Abs.6 triggers read"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T15:48:13.580333+00:00",
+      "path": "sources/review-p75-p93-famfg.zip",
+      "purpose": "bounded second pass p75–p93",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783,
+      "xml_path": "sources/review-p75-p93-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": "20261008215512",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "official_stand_notices": [
+          {
+            "type": "Stand",
+            "text": "Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Sonst",
+            "text": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+          }
+        ],
+        "assessment": "preflight-result.json#bounded_review_p75_p93; selected current references checked, no claim of full independent commentary on external statute"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T15:48:13.845121+00:00",
+      "path": "sources/review-p75-p93-index.html",
+      "purpose": "bounded second pass p75–p93",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117,
+      "format_validation": "HTML with expected FamFG title and final provision"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "accessed_at": "2026-10-20T15:48:14.035916+00:00",
+      "path": "sources/review-p75-p93-zpo.zip",
+      "purpose": "bounded second pass p75–p93",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324,
+      "xml_path": "sources/review-p75-p93-zpo.xml",
+      "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": "20260930215513",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "official_stand_notices": [
+          {
+            "type": "Neuf",
+            "text": "Neugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;"
+          },
+          {
+            "type": "Stand",
+            "text": "zuletzt geändert Art. 2 G v. 22.12.2025 I Nr. 349"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 1 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 2 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 3 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Sonst",
+            "text": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+          }
+        ],
+        "assessment": "preflight-result.json#bounded_review_p75_p93; selected current references checked, no claim of full independent commentary on external statute"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famgkg/xml.zip",
+      "accessed_at": "2026-10-20T15:48:14.756985+00:00",
+      "path": "sources/review-p75-p93-famgkg.zip",
+      "purpose": "bounded second pass p75–p93",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/famgkg/xml.zip",
+      "sha256": "1094e1cbea50f9cf9f64eb72ca83e362ebac22ea2ecd4f81c25c453512b9ae7b",
+      "bytes": 28172,
+      "xml_path": "sources/review-p75-p93-famgkg.xml",
+      "xml_sha256": "243303c9c9c0039a0c5947f5d702166bedccdd6fda0c057f91652620f685933b",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": "20260709215551",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "official_stand_notices": [
+          {
+            "type": "Stand",
+            "text": "Zuletzt geändert durch Art. 12 G v. 8.12.2025 I Nr. 318"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 7 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          }
+        ],
+        "assessment": "preflight-result.json#bounded_review_p75_p93; selected current references checked, no claim of full independent commentary on external statute"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gnotkg/xml.zip",
+      "accessed_at": "2026-10-20T15:48:14.899410+00:00",
+      "path": "sources/review-p75-p93-gnotkg.zip",
+      "purpose": "bounded second pass p75–p93",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/gnotkg/xml.zip",
+      "sha256": "11a2a4e406abef55cf9bf30ad9dc959fd217c712c4ddaad0d96b1d868cfeb270",
+      "bytes": 74201,
+      "xml_path": "sources/review-p75-p93-gnotkg.xml",
+      "xml_sha256": "1db1b510a027188b411f52d8e0986338939d4ef7db2e8e46121e94557865bd6b",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": "20260506175832",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "official_stand_notices": [
+          {
+            "type": "Stand",
+            "text": "Zuletzt geändert durch Art. 6 G v. 10.12.2025 I Nr. 320"
+          }
+        ],
+        "assessment": "preflight-result.json#bounded_review_p75_p93; selected current references checked, no claim of full independent commentary on external statute"
+      }
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305242012.zip",
+      "accessed_at": "2026-10-20T15:48:15.081982+00:00",
+      "path": "sources/review-p75-p93-XII-ZB-188-11.zip",
+      "purpose": "bounded second pass p75–p93",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305242012.zip",
+      "sha256": "ea3eaa27a390c7ade1e26c4557389a3b4dcfcce08289d9d076bee5da97596317",
+      "bytes": 7353,
+      "xml_path": "sources/review-p75-p93-XII-ZB-188-11.xml",
+      "xml_sha256": "9ba29fd930643b3fb60301fff58c43e641d88eb0730a3d07e0b35e13fca5d213",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": null,
+      "full_text_read": "Tenor and all reasons; details and supported units in separate case card; historical passages distinguished"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE308272010.zip",
+      "accessed_at": "2026-10-20T15:48:15.253827+00:00",
+      "path": "sources/review-p75-p93-XII-ZB-232-09.zip",
+      "purpose": "bounded second pass p75–p93",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE308272010.zip",
+      "sha256": "cd1e049d0060dab80f39b2cf2b68731af41b76e0688eacb4641de750bc67d392",
+      "bytes": 8512,
+      "xml_path": "sources/review-p75-p93-XII-ZB-232-09.xml",
+      "xml_sha256": "3e2e8e097e2e151bd422a98aca0bdda530548382babd5510b0f58fc1d070f9fb",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": null,
+      "full_text_read": "Tenor and all reasons; details and supported units in separate case card; historical passages distinguished"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE309312015.zip",
+      "accessed_at": "2026-10-20T15:48:22.892965+00:00",
+      "path": "sources/review-p75-p93-IV-ZB-35-15.zip",
+      "purpose": "bounded second pass p75–p93",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE309312015.zip",
+      "sha256": "601a1e050f39d45528afddc1959b7b8e1b3bd22c87630271db020c886e761227",
+      "bytes": 6548,
+      "xml_path": "sources/review-p75-p93-IV-ZB-35-15.xml",
+      "xml_sha256": "6b00b22d97d93b845e6d7e4dbcded36bf39307e5be8b360abf1a484dd815e5cc",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": null,
+      "full_text_read": "Tenor and all reasons; details and supported units in separate case card; historical passages distinguished"
     }
   ],
   "version_assessment": {

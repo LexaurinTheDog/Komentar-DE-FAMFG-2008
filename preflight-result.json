@@ -882,5 +882,45 @@
       "parser_replay": "_parse.py rerun: units/meta/canonical/intake copy/change-map all byte-identical"
     },
     "unresolved_blockers": []
+  },
+  "bounded_review_p75_p93": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T15:54:23.078717+00:00",
+    "version_evidence": {
+      "fresh_xml": "sources/review-p75-p93-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "delivery_equals_authoring_start": true,
+      "builddate": "20261008215512",
+      "commencement_assessment": "Existing detailed BGBl152/192/198 and recent-enactment checks retained, not inferred from retrieval time. Re-read Art.6 BGBl152, Art.4 BGBl192, Art.4 Nr.3 and Art.10 BGBl198. Former two affect other units; §88 Abs.4 becomes effective only1.7.2027.",
+      "p88_future_abs4_absent": true,
+      "cross_reference_evidence": "Fresh official ZPO/FamGKG/GNotKG XML. Read relevant clauses in full. BGBl152 Art.1 Nr.11 adds §802g Abs.1 S.4; imported S.2 and Abs.2 unaffected. BGBl198 Art.7 changes FamGKG§21 from1.7.2027, not the §§55/59 references. No monetary thresholds from external cost laws extrapolated."
+    },
+    "historical_versions_checked": {
+      "duplicate_official_identifiers": [],
+      "duplicate_official_doknr": [],
+      "historical_or_version_elements": [],
+      "intake_change_map": "sources/change-map.json",
+      "selection": "Single operative text per unit; no concatenated histories; p79 expressly entfallen; future §88 Abs.4 excluded"
+    },
+    "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "parser_coverage": {
+      "fresh_metadata_count": 529,
+      "fresh_toc_count": 529,
+      "fresh_html_index_count": 529,
+      "parsed_count": 529,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "all599_norm_nodes_accounted_for": true,
+      "parser_replay": "review-p75-p93-parser-replay.json"
+    },
+    "unresolved_blockers": []
   }
 }

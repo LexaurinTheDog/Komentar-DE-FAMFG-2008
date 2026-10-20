@@ -7,6 +7,6 @@
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 336 jednotkám, např.: ['p169', 'p170', 'p171', 'p172', 'p173', 'p174', 'p175', 'p176', 'p177', 'p178']\n",
-  "scope": "Full book attempted unchanged; expected failure because336 unannotated units outside assigned review",
-  "at": "2026-10-20T15:45:30.124240+00:00"
+  "scope": "Full book attempted unchanged;336 missing commentaries outside assigned review; bounded batch complete",
+  "at": "2026-10-20T15:55:55.544239+00:00"
 }
