@@ -3,29 +3,8 @@
   "total_units": 529,
   "commentary_characters": 437391,
   "missing_commentary_count": 309,
-  "local_links_checked": 499,
-  "broken_local_links": [
-    {
-      "file": "README.md",
-      "target": "author-p176-p194-result.json"
-    },
-    {
-      "file": "README.md",
-      "target": "author-p176-p194-audit.json"
-    },
-    {
-      "file": "REVIEW.md",
-      "target": "author-p176-p194-result.json"
-    },
-    {
-      "file": "REVIEW.md",
-      "target": "author-p176-p194-audit.json"
-    },
-    {
-      "file": "SOURCES.md",
-      "target": "author-p176-p194-audit.json"
-    }
-  ],
+  "local_links_checked": 500,
+  "broken_local_links": [],
   "exact_repeated_substantive_paragraphs": [],
   "near_repeated_commentary_above_0_8_token_jaccard": [],
   "xml_character_disagreements_ignoring_whitespace": [],

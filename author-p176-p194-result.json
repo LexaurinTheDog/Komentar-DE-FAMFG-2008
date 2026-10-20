@@ -1,10 +1,10 @@
 {
   "kind": "author",
-  "complete": false,
+  "complete": true,
   "bounded_scope_only": true,
-  "stage": "bounded_technical_checks_pending",
+  "stage": "bounded_drafted_technical_validation",
   "decisive_date": "2026-10-19",
-  "written_at": "2026-10-20T17:09:46.187040+00:00",
+  "written_at": "2026-10-20T17:10:28.957019+00:00",
   "assigned_ids": [
     "p176",
     "p177",
@@ -41,37 +41,43 @@
     "§§ 181–185a: death/continuation, status formula, successful-contestation costs, finality, new expert evidence and relationship-ended restitution distinguished; current age bands, waiting periods and historical cross-reference checked.",
     "§§ 186–194: scope, concentration, participation/hearing, expert statement, empty slot, guardian, personal hearing and youth-office notification distinguished; § 197 appeal exclusion retained."
   ],
-  "unassigned_commentary_changes": null,
+  "unassigned_commentary_changes": [],
   "total_units": 529,
   "total_commented": 220,
   "remaining_units": 309,
   "whole_book_complete": false,
   "independent_review": false,
   "validation": {
-    "assigned_batch_ok": false,
+    "assigned_batch_ok": true,
     "statutory_agreement": 1.0,
     "strict_validator": {
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 388003,
+      "commentary_chars": 437391,
       "errors": [
-        "krátký/chybějící komentář u 329 jednotek: ['p176(0<400)', 'p177(0<400)', 'p178(0<400)', 'p179(0<400)', 'p180(0<400)', 'p181(0<400)', 'p182(0<400)', 'p183(0<400)']"
+        "krátký/chybějící komentář u 309 jednotek: ['p195(0<400)', 'p196(0<120)', 'p196a(0<400)', 'p197(0<400)', 'p198(0<400)', 'p199(0<120)', 'p200(0<400)', 'p201(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
     "full_build_result": "build-result.json",
-    "partial_output_rebuilt": true
+    "partial_output_rebuilt": true,
+    "local_links_checked": 500,
+    "broken_local_links": [],
+    "exact_repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "statutory_coverage_complete": true
   },
-  "unresolved_blockers": [
-    "technical checkpoint verification pending"
-  ],
+  "unresolved_blockers": [],
   "limitations": [
     "Independent second-pass review of these 20 newly authored units remains outstanding.",
     "The entire book remains incomplete: 309 units from § 195 onward lack commentary.",
     "Case-law research is selective; no on-point verified case selected for § 185a.",
     "Auxiliary statutes checked for cited provisions; specific state jurisdiction concentration ordinances require case-specific verification.",
     "Length and repetition checks do not establish legal quality."
-  ]
+  ],
+  "parser_replay": "author-p176-p194-parser-replay.json",
+  "commentary_characters_written": 49388
 }

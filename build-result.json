@@ -1,9 +1,11 @@
 {
-  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+  "command": [
+    "python3",
+    "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+    "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-FAMFG-2008"
+  ],
   "exit_code": 1,
   "stdout": "",
-  "stderr": "CHYBÍ komentář k 329 jednotkám, např.: ['p176', 'p177', 'p178', 'p179', 'p180', 'p181', 'p182', 'p183', 'p184', 'p185']\n",
-  "whole_book_complete": false,
-  "expected_intermediate_failure": "329unannotated units from176onwards outside assigned review",
-  "checked_at": "2026-10-20T16:57:57.187718+00:00"
+  "stderr": "CHYBÍ komentář k 309 jednotkám, např.: ['p195', 'p196', 'p196a', 'p197', 'p198', 'p199', 'p200', 'p201', 'p202', 'p203']\n",
+  "interpretation": "Expected intermediate failure: 309 missing commentaries outside assigned batch. Bounded partial export used; full units and meta preserved."
 }
