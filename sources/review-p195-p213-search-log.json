@@ -1,0 +1,24 @@
+{
+  "verified_at": "2026-10-20T17:34:19.527166+00:00",
+  "scope": "selective second-pass authority check for assigned195–213",
+  "firecrawl": "firecrawl --status authenticated, zero credits; direct official HTTP and web fallback used; no configuration/install changes",
+  "web_checks": [
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__195.html",
+      "result": "official text returned"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__206.html",
+      "result": "web tool timeout; captured complete official XML supplies provision"
+    }
+  ],
+  "local_search": {
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "pattern": "§\\s*206\\s*(Abs\\.[^\\n]{0,12})?\\s*FamFG|§\\s*195\\s*(Abs\\.[^\\n]{0,12})?\\s*FamFG",
+    "method": "rg -l -m1 --glob *.md; completed exit0 through head pipeline, no result paths",
+    "result": "No result for this narrow literal search; no inference that relevant case law does not exist."
+  },
+  "existing_author_search": "sources/author-p195-p213-search-log.json",
+  "selected_case": "KORE700952024/XII ZB237/23: fresh full XML read and corpus comparison",
+  "other19units": "No new sufficiently relevant fully verified authority selected; statute-based explanations retained. This is selective research, not exhaustive coverage."
+}

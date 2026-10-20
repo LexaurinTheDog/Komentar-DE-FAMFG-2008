@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:27:56.961345+00:00",
+  "generated_at": "2026-10-20T17:35:18.625630+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -1120,6 +1120,101 @@
       "bytes": 245324
     },
     {
+      "path": "sources/review-p195-p213-XII-ZB-237-23.xml",
+      "sha256": "3033cf1166c4e728fa07d28d3a7bd38f2f4e62bcdd1e1aad4e429208c7861075",
+      "bytes": 24645
+    },
+    {
+      "path": "sources/review-p195-p213-XII-ZB-237-23.zip",
+      "sha256": "4b47043a83675d6c17a825328618cc29da169f8b850622ee18c53173f5e5d7c1",
+      "bytes": 6668
+    },
+    {
+      "path": "sources/review-p195-p213-advermig.xml",
+      "sha256": "5ae2dc4c00f478e7d23d7e7a9f860b71758454215b003177518a4b36cde567d5",
+      "bytes": 63975
+    },
+    {
+      "path": "sources/review-p195-p213-advermig.zip",
+      "sha256": "9145f6034d4b23ea94ae2bdac1aa17208ca4d16d6978a1a3dfbac40aeff9f3a4",
+      "bytes": 13667
+    },
+    {
+      "path": "sources/review-p195-p213-adwirkg.xml",
+      "sha256": "d0338fe5fa89ae5048c9dc8a65a39229f799479c066d91970ea287bbb11cfce6",
+      "bytes": 13022
+    },
+    {
+      "path": "sources/review-p195-p213-adwirkg.zip",
+      "sha256": "395729489c64f6db367da3e71ada3a2538444972bc1374bb7021a636d3d3852d",
+      "bytes": 3922
+    },
+    {
+      "path": "sources/review-p195-p213-bgb.xml",
+      "sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "bytes": 2519002
+    },
+    {
+      "path": "sources/review-p195-p213-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "bytes": 467286
+    },
+    {
+      "path": "sources/review-p195-p213-case-corpus-check.json",
+      "sha256": "e89de6a316ee51c1631f8f9bd9a065863bfc8abcaa3089fb384c4603fbcc8602",
+      "bytes": 851
+    },
+    {
+      "path": "sources/review-p195-p213-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/review-p195-p213-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/review-p195-p213-fetch.json",
+      "sha256": "61b2265722f5e39d8e238625ecdb13a5d98f28422712c446a5258e7c35a90ca9",
+      "bytes": 7365
+    },
+    {
+      "path": "sources/review-p195-p213-gewschg.xml",
+      "sha256": "02ad54be753d6fb5b28156cf3a50e973fa710bc1c8170931007580812a769f7e",
+      "bytes": 10950
+    },
+    {
+      "path": "sources/review-p195-p213-gewschg.zip",
+      "sha256": "f65565f798c091183d14c6554ec4cbf256ac72271c5f97648f2dcff89e1395e7",
+      "bytes": 3676
+    },
+    {
+      "path": "sources/review-p195-p213-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/review-p195-p213-search-log.json",
+      "sha256": "ea919f1ff2fd5cd78f8768c03bcba678487dfece93e2fa8bd2d7264e00e15144",
+      "bytes": 1310
+    },
+    {
+      "path": "sources/review-p195-p213-version-map.json",
+      "sha256": "ddefac382f039260892054190d5a8cec45f8c8c54b9ec1ce1e9a51ec61db00bb",
+      "bytes": 4313
+    },
+    {
+      "path": "sources/review-p195-p213-zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/review-p195-p213-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
       "path": "sources/review-p31-OLG-Bamberg-3-Wx-15-24.html",
       "sha256": "63ef2c68388e4cea0f6a24e90d7f104128cd216c95b6ba1d57fcc946a862e72e",
       "bytes": 29629
@@ -1486,8 +1581,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "001c70f1ad5c08a9d7d9507b4ee0d68c01b4ac625b9753c3f553b1e8dd08d0c6",
-      "bytes": 131191
+      "sha256": "d30ac9b4a9b86cae6f1a6953dd635048a651612d74c6face297b0941d46d4ffc",
+      "bytes": 139391
     }
   ]
 }

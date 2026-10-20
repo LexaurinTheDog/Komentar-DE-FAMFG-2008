@@ -5,7 +5,7 @@
   "decisive_date": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/famfg/",
-  "verified_at": "2026-10-20T17:17:48.197009+00:00",
+  "verified_at": "2026-10-20T17:34:19.527166+00:00",
   "version_evidence": {
     "decisive_date": "2026-10-19",
     "rechecked_at": "2026-10-20T16:26:21.879451+00:00",
@@ -1215,5 +1215,41 @@
       "new_xml_identical": true,
       "unresolved_blockers": []
     }
-  ]
+  ],
+  "bounded_review_p195_p213": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T17:34:19.527166+00:00",
+    "version_evidence": "sources/review-p195-p213-version-map.json",
+    "historical_versions_checked": {
+      "fresh_xml_byte_identical": true,
+      "intake_preserved": true,
+      "duplicates": [],
+      "duplicate_doknr": [],
+      "historical_version_elements": [],
+      "future2027excluded": true
+    },
+    "annexes_checked": {
+      "complete": true,
+      "disposition": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+      "unclassified": []
+    },
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "coverage": {
+      "expected": 529,
+      "parsed": 529,
+      "official_norm_nodes": 599,
+      "html_index_agrees": true,
+      "missing": [],
+      "extra": [],
+      "duplicates": []
+    },
+    "parser_replay": "review-p195-p213-parser-replay.json",
+    "unresolved_blockers": []
+  }
 }

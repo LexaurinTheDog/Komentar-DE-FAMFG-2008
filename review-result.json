@@ -1,246 +1,167 @@
 {
-  "task_kind": "bounded independent second-pass review",
+  "kind": "review",
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p176",
-    "p177",
-    "p178",
-    "p179",
-    "p180",
-    "p181",
-    "p182",
-    "p183",
-    "p184",
-    "p185",
-    "p185a",
-    "p186",
-    "p187",
-    "p188",
-    "p189",
-    "p190",
-    "p191",
-    "p192",
-    "p193",
-    "p194"
+    "p195",
+    "p196",
+    "p196a",
+    "p197",
+    "p198",
+    "p199",
+    "p200",
+    "p201",
+    "p202",
+    "p203",
+    "p204",
+    "p205",
+    "p206",
+    "p207",
+    "p208",
+    "p209",
+    "p210",
+    "p211",
+    "p212",
+    "p213"
   ],
-  "baseline_commit": "03b6cdbb79f50a6771bf45a46db0cafc95d45581",
+  "baseline_commit": "3ffb4731f213df2ab3b435e036b36137c32df11f",
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T17:17:48.197009+00:00",
-  "official_url": "https://www.gesetze-im-internet.de/famfg/",
-  "source_preflight": "preflight-result.json",
+  "review_date": "2026-10-20",
+  "verified_at": "2026-10-20T17:34:19.527166+00:00",
+  "scope": "Exactly assigned20units; independent second pass relative to prior authoring; no whole-title certification or external professional approval.",
+  "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p176",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "All2paragraphs checked; mandatory-as-rule youth-office hearing in two precise1600categories, representation condition only for child challenge, discretionary minor-participant alternative, distinct notification triggers and own complaint right correct. Retained unchanged.",
-      "authority": "FamFG176,172,175;BGB1600Abs1",
-      "resolved": true
+      "id": "p195",
+      "disposition": "corrected",
+      "review": "Beide Absätze und die beiden Auslandsanknüpfungen geprüft. Ersatz nachAbs1S2 ist das Landesjugendamt, nicht eine andere zentrale Adoptionsstelle; Behörde und örtliche Anknüpfung korrigiert. Mitteilung, Beschwerderecht,188Abs2und197Abs3getrennt.",
+      "sources": "FamFG195,188,189,194,197;AdVermiG11Abs1Nr2/3"
     },
     {
-      "id": "p177",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Both paragraphs checked; restricted consideration versus nonobjection, formal evidence in169Nr1/4, cumulative private-report conditions correct. Full20/14re-read confirms limited preliminary-inquiry holding11–17. Retained unchanged.",
-      "authority": "FamFG177,169;BGH XII ZB20/14 Rn11–17",
-      "resolved": true
+      "id": "p196",
+      "disposition": "retained",
+      "review": "Gesamter Satz geprüft. Verbindungssperre gegenüber20, getrennte Aktenverwertung und21Aussetzung zutreffend. Beispiel verbindet Sorge und Adoption gerade nicht. Keine zusätzliche ungesicherte Ausnahme behauptet.",
+      "sources": "FamFG196,20,21"
     },
     {
-      "id": "p178",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Added concrete duty to state and substantiate refusal grounds386ZPO and separate hearing/decision387ZPO. Necessity/proportionality, repeated unjustified refusal and limited analogical exhumation analysis confirmed against full20/14.",
-      "authority": "FamFG178;ZPO386–390;BGH XII ZB20/14 Rn18–42",
-      "resolved": true
+      "id": "p196a",
+      "disposition": "clarified",
+      "review": "Gesamte Vorschrift und alle5Absätze9aAdVermiG geprüft. Beratungsausnahmen personengenau ausgeführt, Ausland-Rückausnahme betrifft annehmenden und verbleibenden Elternteil. Bescheinigung, Beratungszeitpunkt, Hinweis und Zurückweisung getrennt.",
+      "sources": "FamFG196a,26,28,197;AdVermiG9a"
     },
     {
-      "id": "p179",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Both paragraphs checked; same-child consolidation and237exception distinguished from other children or other family proceedings. Fictional sibling example and no general consolidation power correct. Retained.",
-      "authority": "FamFG179,237",
-      "resolved": true
+      "id": "p197",
+      "disposition": "clarified",
+      "review": "Alle3Absätze geprüft. Vertrauliche-Geburt-Fiktion1747Abs4S2und ihr Ende ergänzt. Zustellung, Tod/1753, Bestandskraft zutreffend. BGH-Volltext1–22mitBerichtigung gelesen; offengelassene FrageRn10bleibt offen, kein behauptetes allgemeines Berichtigungsrecht.",
+      "sources": "FamFG197,42,59,188;BGB1747Abs4,1753;BGHXIIZB237/23Rn10,12–19"
     },
     {
-      "id": "p180",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Expanded actual2026consent rules: mother unless deceased, child consent, under14representation/14and-over personal consent with representative assent, maternal statutory deeming rule,1595aexisting-father consent. Court recording/genetic evidence do not alone create valid father substitution.",
-      "authority": "FamFG180;BGB1594Abs5,1595–1597;GenDG17;BGBl2026I83Art1/4/6",
-      "resolved": true
+      "id": "p198",
+      "disposition": "retained",
+      "review": "Alle3Absätze und1308BGB gelesen. Rechtskraftregel und Gefahr-im-Verzug-Ausnahme, Bekanntgabe nur im Sofortfall, kein Beschwerdeausschluss inAbs1, Aufhebung ohne eigene Eilregel und Eheverbotsbefreiung vor/nachEheschließung zutreffend.",
+      "sources": "FamFG198,197;BGB1308"
     },
     {
-      "id": "p181",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Entire provision checked; death before finality, court notice to other parties, court-set one-month demand and single timely declaration, deemed main-matter termination absent demand all correct. Retained.",
-      "authority": "FamFG181,184,185",
-      "resolved": true
+      "id": "p199",
+      "disposition": "clarified",
+      "review": "Ganzer Satz, AdWirkG1,2,6gelesen. Aktuellen6Abs5ausdrücklich ergänzt:197Abs2/3für benannte positive Entscheidungen; übrige Beschlüsse Beschwerde/Rechtskraft;6Abs6BfJ-Ausnahme. Ausschluss bei Annahme ab18korrekt.",
+      "sources": "FamFG199,197;AdWirkG1,2,6"
     },
     {
-      "id": "p182",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Both paragraphs checked; current1593addition, ex-officio positive formula only for biological-father challenge and positive finding on merits underAbs2, no positive status from procedural rejection. Retained.",
-      "authority": "FamFG182,184;BGB1592,1593,1600Abs1;BGBl2026I83Art4Nr6/6",
-      "resolved": true
+      "id": "p200",
+      "disposition": "retained",
+      "review": "BeideAbsätze mit allen4Nummern und BGB-Grundlagen geprüft. Trennung/Scheidung, Nutzung/Eigentum, mietrechtliche Folgen und Abgrenzung112/113/210zutreffend; Beispiel Waschmaschine konkret und begrenzt.",
+      "sources": "FamFG200,112,113,210;BGB1361a/b,1568a/b"
     },
     {
-      "id": "p183",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Entire provision checked; successful challenge only, equal court-cost shares excluding minor, own out-of-court costs, no fee amount or automatic losing-party lawyer reimbursement. Two-adult example correct; retained.",
-      "authority": "FamFG183,176,172",
-      "resolved": true
+      "id": "p201",
+      "disposition": "retained",
+      "review": "Alle4Rangstufen gelesen. Vorrang anhängiger Ehesache einschließlich Rechtsmittel, danachWohnung/gegnerischer/eigenerAufenthalt; kein Wahlrecht. International/sachlich gesondert und spätereAbgabe zutreffend.",
+      "sources": "FamFG201,202"
     },
     {
-      "id": "p184",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "All3paragraphs checked; finality/effectiveness, no ordinary variation, erga-omnes limited to status decision, enlarged appeal standing for actual/necessary parties, distinct185/185a restitution. Retained.",
-      "authority": "FamFG184,172,185,185a",
-      "resolved": true
+      "id": "p202",
+      "disposition": "retained",
+      "review": "BeideSätze und281ZPO vollständig gelesen. Anhängigkeit/Rechtshängigkeit, ersterRechtszug, Amtsabgabe, nur281Abs2/3S1und keineMehrkostenautomatik zutreffend. Verbund137bleibt eigenständig.",
+      "sources": "FamFG202,137;ZPO281"
     },
     {
-      "id": "p185",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "All4paragraphs read with ZPO580/584/586; new result-changing report, prior winner entitlement, first-instance/appeal court exclusive venue, special combined-request rule and exclusion586correct. Retained.",
-      "authority": "FamFG185;ZPO580,584,586",
-      "resolved": true
+      "id": "p203",
+      "disposition": "clarified",
+      "review": "Alle3Absätze und206gelesen. Antrag eines Ehegatten, begehrteGegenstände und nur200Abs2Nr2Gesamtliste, SollangabeKinder nurWohnungssache korrekt. Beispiel klargestellt: zusätzliche Wohnungsbeantragung statt unterstellter Wohnungssache bei bloßem Möbelantrag.",
+      "sources": "FamFG203,200,204,205,206,28"
     },
     {
-      "id": "p185a",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "All3paragraphs and every age band checked against enactment83Art4Nr7. Clarified repeated-decision reference to1600BGB and renewed reference point; added actual responsibility under1600Abs5and adult-child objection underAbs2if age changes. No invented case or blanket extension to1593.",
-      "authority": "FamFG185a,185Abs3/4;BGB1600Abs2–5;BGBl2026I83Art4Nr7/6",
-      "resolved": true
+      "id": "p204",
+      "disposition": "retained",
+      "review": "BeideAbsätze und1568aBGB gelesen. Vermieter/Eigentümer/Dienstwohnungsdritter/Rechtsgemeinschaft nur200Abs1Nr2;7allgemein getrennt. Jugendamt aufAntrag beiKindern, Benachrichtigung7Abs4und bloßeAnhörung205getrennt.",
+      "sources": "FamFG204,7,200,205;BGB1568aAbs3–5"
     },
     {
-      "id": "p186",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Corrected potentially overbroad present-day AdWirkG reference: foreign adult adoption recognition108Abs2FamFG; AdWirkG1Abs1S2excludes adoption at18or over,6applies only within statutory scope. All4categories and1308side-line exemption checked.",
-      "authority": "FamFG186,108Abs2;BGB1308;AdWirkG1/6;BGH XII ZB54/18 Rn7–14",
-      "resolved": true
+      "id": "p205",
+      "disposition": "retained",
+      "review": "BeideAbsätze gelesen. RegelfallAnhörung beiKindern, unverzüglicheNachholung nurbeiGefahrAusnahme, Mitteilung/eigenesBehördenrechtsmittel vonBeteiligung getrennt.57Anfechtbarkeitsgrenzen zutreffend.",
+      "sources": "FamFG205,204,57,59Abs3"
     },
     {
-      "id": "p187",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "All5paragraphs checked. Added express AGSchöneberg concentration for Kammergericht district under6Abs1S1AdWirkG, distinct from subsidiary187Abs5fallback. Two-year foreign residence and Land reassignment remain precise.",
-      "authority": "FamFG187,101;AdWirkG6Abs1S1/Abs2",
-      "resolved": true
+      "id": "p206",
+      "disposition": "clarified",
+      "review": "Alle3Absätze und4Auflagen geprüft. Ausschluss bei gleichzeitiger Verzögerung und fehlender genügender Entschuldigung ausdrücklich gemacht; keine freie Zurückweisung allein wegenFristablaufs bei offenerAlternative. Insoweit begrenzte Ermittlungsentlastung, keineWahrheitsfiktion.",
+      "sources": "FamFG206,26,28"
     },
     {
-      "id": "p188",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "All catalog branches andAbs2checked. Spelled out parent-participation exceptions for anonymous consent/permanent inability/unknown residence and their placement in minor alternative, distinct from1772adult effects. Own-request youth-office participation and193hearing distinction confirmed.",
-      "authority": "FamFG188,7,193;BGB1747Abs2S2/Abs4,1749Abs2,1772;BGH XII ZB54/18 Rn39–45",
-      "resolved": true
+      "id": "p207",
+      "disposition": "retained",
+      "review": "BeideSollanordnungen geprüft. Termin/persönlichesErscheinen und sachlicheErörterung getrennt; kein Vergleichszwang oder Versäumnisurteil erfunden. Schutz beiGewalt als Verfahrensgestaltung, kein neuer Anspruch.",
+      "sources": "FamFG207,32,33"
     },
     {
-      "id": "p189",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "All4paragraphs checked. Added distinction between9aAdVermiG counselling exceptions and independent mandatory189expert statement; no general extra counselling-certificate duty from189. Exact provider, free statement and decision-notice recipient retained.",
-      "authority": "FamFG189,194;AdVermiG9a",
-      "resolved": true
+      "id": "p208",
+      "disposition": "retained",
+      "review": "Ganzer Satz gelesen. Hauptsachenerledigung kraftGesetzes vorAbschluss auchBeschwerde, Kosten separat, keine automatische rückwirkendeTitelbeseitigung; Nachlassansprüche gesondert. Beispiel passend.",
+      "sources": "FamFG208"
     },
     {
-      "id": "p190",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Official empty/repealed slot verified against XML heading and empty Content, retained in coverage; no current operative duty or historical text inserted. Fictional outdated-checklist example correct. Retained.",
-      "authority": "FamFG190official XML",
-      "resolved": true
+      "id": "p209",
+      "disposition": "retained",
+      "review": "Alle3Absätze/Sätze gelesen. Durchführungsanordnungen materiellgebunden, Rechtskraftregel, Sollsofortwirkung nur200Abs1Nr1. VollstreckungvorZustellung gesondert, ÜbergabeGeschäftsstelle undZeitvermerk korrekt.",
+      "sources": "FamFG209,200;BGB1361b"
     },
     {
-      "id": "p191",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Full provision and158–158cincorporation checked. Clarified independent interest representation versus legal representative; added own procedural party/remedy status, special197appeal exclusion and158Abs5no separate challenge of appointment/refusal.",
-      "authority": "FamFG191,158–158c,197Abs3",
-      "resolved": true
+      "id": "p210",
+      "disposition": "retained",
+      "review": "Ganzer Satz und aktuelleGewSchG1–3gelesen; zukünftige1a/3Änderungen abgegrenzt. Schutz unabhängigEhe;Tatbestände1/2eigenständig;3Abs1Minderjährigenkonkurrenz und200Wohnungssache unterschieden. Kein2027Instrument vorweggenommen.",
+      "sources": "FamFG210,200;GewSchG1,2,3;BGBl2026I198Art1/10"
     },
     {
-      "id": "p192",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "All3paragraphs checked; personal hearing includes adult adoptee, other parties Sollhearing, child-specific developmental/health/small-age exception. Clarified that infant example is another adoption proceeding, preventing confusion with193hearing of descendants.",
-      "authority": "FamFG192,193,34",
-      "resolved": true
+      "id": "p211",
+      "disposition": "retained",
+      "review": "Alle3Wahlgerichtsstände gelesen. Ausschließlichkeit ohneRangfolge, Tatort/gemeinsameWohnung/gegnerischergewöhnlicherAufenthalt zutreffend; kein automatischer neuerGerichtsstand amSchutzort. DigitalerTatort als Prüfungsbedarf, keine ungesicherte konkrete These.",
+      "sources": "FamFG211,201"
     },
     {
-      "id": "p193",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Added material missing limitation from newly verified full BGH442/18: no193hearing needed when adult adoption rejected already for lack of moral justification, Rn46–48. Separated possible evidentiary use49–51; no exception before granting. Full54/18confirms informed hearing and no automatic formal-party status.",
-      "authority": "FamFG193,188,192Abs3;BGB1767Abs1,1769;BGH XII ZB442/18 Rn46–51;XII ZB54/18 Rn39–45",
-      "resolved": true
+      "id": "p212",
+      "disposition": "clarified",
+      "review": "Ganzer Satz und7Abs4–6/213gelesen. Beteiligungsantrag bei2GewSchG/Kind;1Kontaktverbot allein genügt nicht. Missverständlichen Satz zum angeblich beschränkenden Antrag ersetzt; keinevertretungsrechtliche Rolle erfunden.",
+      "sources": "FamFG212,213,7;GewSchG1,2"
     },
     {
-      "id": "p194",
-      "checked": "Complete assigned statutory unit and its entire commentary read, including all paragraphs/list items, current/historical distinctions, cross-references, consequences, fictional example and repetition.",
-      "finding_and_correction": "Both paragraphs checked; minor adoptee trigger, exception only youth office itself authored189statement, distinct own-request party status, notification and own complaint versus197Abs3nonappealability correct. Retained unchanged.",
-      "authority": "FamFG194,189,188Abs2,197Abs3",
-      "resolved": true
+      "id": "p213",
+      "disposition": "retained",
+      "review": "BeideAbsätze gelesen. Wohnungsüberlassung2GewSchG mitKindern, Sollanhörung/Nachholung, Mitteilung und eigenesBeschwerderecht ohne212Antrag zutreffend;57Statthaftigkeit und216aandereAdressaten getrennt.",
+      "sources": "FamFG213,212,57,216a;GewSchG2"
     }
   ],
-  "case_law_sources": [
-    "cases/BGH-XII-ZB-20-14.md",
-    "cases/BGH-XII-ZB-54-18.md",
-    "cases/BGH-XII-ZB-442-18.md"
-  ],
-  "unresolved_blockers": [],
   "limitations": [
-    "Complete only for exactly20assigned units p176–p194includingp185a; no whole-book completion.",
-    "309units from195onward remain unannotated outside this assignment.",
-    "Selective case-law review:2existing full cases re-read and1new full case read; no verified on-point decision selected for2026section185aor14other assigned units.",
-    "No exhaustive subsequent-treatment study; cited propositions limited to the identified paragraphs.",
-    "Fresh process second pass, no external professional approval.",
-    "Same-day recent-gazette screening reused with its stated scope limits; entire auxiliary statutes not independently historically reconstructed.",
-    "State venue concentration ordinances depend on the concrete Land and district."
+    "Whole title remains incomplete:289units from214not commented; no global completion.",
+    "Only assigned20commentaries reviewed in this process; previous reviewed text preserved.",
+    "Case research selective:one existing decision freshly read in full; no additional verified authority for other19units.",
+    "No exhaustive later-case-law or complete historical-amendment reconstruction.",
+    "Auxiliary statutes and recent gazette screened within recorded scope; no state-specific implementation researched.",
+    "Technical equality/length/repetition checks do not establish legal quality."
   ],
   "whole_book_complete": false,
-  "validation": {
-    "assigned_batch_ok": true,
-    "reviewed_ids_exact": true,
-    "unassigned_commentary_changes": [],
-    "changed_units": [
-      "p178",
-      "p180",
-      "p185a",
-      "p186",
-      "p187",
-      "p188",
-      "p189",
-      "p191",
-      "p192",
-      "p193"
-    ],
-    "unchanged_after_full_review": [
-      "p176",
-      "p177",
-      "p179",
-      "p181",
-      "p182",
-      "p183",
-      "p184",
-      "p185",
-      "p190",
-      "p194"
-    ],
-    "total_expected_official_units": 529,
-    "total_parsed_units": 529,
-    "statutory_agreement": 1.0,
-    "parser_replay_byte_identical": true,
-    "exported_assigned_count": 20,
-    "exported_assigned_statutory_text_agrees": true,
-    "full_builder_exit_code": 1,
-    "strict_validator": {
-      "repo": "Komentar-DE-FAMFG-2008",
-      "units": 529,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 441697,
-      "errors": [
-        "krátký/chybějící komentář u 309 jednotek: ['p195(0<400)', 'p196(0<120)', 'p196a(0<400)', 'p197(0<400)', 'p198(0<400)', 'p199(0<120)', 'p200(0<400)', 'p201(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "whole_book_complete": false,
-    "reason_for_global_failure": "309 unannotated units from195onwards outside this bounded review",
-    "partial_output_rebuilt": true,
-    "local_links_checked": 543,
-    "broken_local_links": [],
-    "repeated_substantive_paragraphs": [],
-    "near_repeated_commentary": [],
-    "source_body_hash_mismatches": [],
-    "validated_at": "2026-10-20T17:20:12.648859+00:00"
-  }
+  "source_preflight": "preflight-result.json",
+  "version_evidence": "sources/review-p195-p213-version-map.json",
+  "case_evidence": "sources/review-p195-p213-case-corpus-check.json"
 }

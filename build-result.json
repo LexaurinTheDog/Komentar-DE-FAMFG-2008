@@ -1,12 +1,13 @@
 {
   "command": [
     "python3",
+    "-B",
     "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-FAMFG-2008"
   ],
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 289 jednotkám, např.: ['p214', 'p214a', 'p215', 'p216', 'p216a', 'p217', 'p218', 'p219', 'p220', 'p221']\n",
-  "scope": "regular whole-book build; expected intermediate failure for 289 unassigned missing comments",
-  "recorded_at": "2026-10-20T17:28:39.398113+00:00"
+  "scope": "regular whole-book build; intermediate failure for289missing unassigned comments",
+  "recorded_at": "2026-10-20T17:35:27.170559+00:00"
 }

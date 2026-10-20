@@ -1,0 +1,95 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T17:34:19.527166+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/famfg/",
+  "fresh_xml": "sources/review-p195-p213-famfg.xml",
+  "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "same_as_authoring_start": true,
+  "builddate": "20261008215512",
+  "official_stand_notices": [
+    "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+    "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+    "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+  ],
+  "commencement_checks": [
+    {
+      "act": "BGBl. 2026 I Nr.152",
+      "amending_clause": "Art.6",
+      "effective_clause": "Art.18 Abs.1; exceptions in Abs.2–4 do not cover Art.6",
+      "effective_date": "2026-10-01",
+      "units": [
+        "p95"
+      ],
+      "evidence": "sources/bgbl-152.pdf",
+      "fresh_identical_evidence": "sources/bgbl-152-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.192",
+      "amending_clause": "Art.4 Nr.1–4",
+      "effective_clause": "Art.20 Abs.1; exceptions in Abs.2–5 do not cover Art.4",
+      "effective_date": "2026-10-01",
+      "units": [
+        "p41a",
+        "p46",
+        "p113"
+      ],
+      "evidence": "sources/bgbl-192.pdf",
+      "fresh_identical_evidence": "sources/bgbl-192-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.198",
+      "amending_clause": "Art.4 Nr.8",
+      "effective_clause": "Art.10 Abs.1 Nr.2; publication on 2026-07-09",
+      "effective_date": "2026-07-10",
+      "units": [
+        "p214"
+      ],
+      "evidence": "sources/bgbl-198.pdf",
+      "fresh_identical_evidence": "sources/bgbl-198-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.198",
+      "amending_clause": "Art.4 Nr.1–7,9",
+      "effective_clause": "Art.10 Abs.2",
+      "effective_date": "2027-07-01",
+      "excluded_future_ids": [
+        "p94a",
+        "p94b",
+        "p94c",
+        "p94d",
+        "p167c",
+        "p216b"
+      ],
+      "other_excluded_changes": [
+        "p57",
+        "p88",
+        "p96",
+        "TOC and subsection renumbering"
+      ],
+      "evidence": "sources/bgbl-198.pdf"
+    }
+  ],
+  "clauses_actually_reread": "BGBl152 Art6/18: §95 change effective1October2026; BGBl192 Art4/20:41a,46,113 changes effective1October2026; BGBl198 Art4/10:onlyFamFG214 change effective10July2026,otherFamFG changes1July2027. None changes assigned195–213. GewSchG Art1/10:1a electronic monitoring and changed3 not yet operative;1bAbs3 enabling provision only early exception.",
+  "evidence_hashes": {
+    "sources/bgbl-152.pdf": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+    "sources/bgbl-192.pdf": "15fcf268bd8ec91b2c27933d163d5ffbad40ac7dc6af37ba6a70300b112d0ce2",
+    "sources/bgbl-198.pdf": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc"
+  },
+  "intake_change_map": "sources/change-map.json",
+  "recent_enactments_check": "sources/recent-enactments-check.json",
+  "recent_check_reuse": "Same-day selected seven official statutory full-text checks reused, not a fresh exhaustive gazette survey.",
+  "auxiliary_sources": {
+    "bgb": "sources/review-p195-p213-bgb.xml",
+    "zpo": "sources/review-p195-p213-zpo.xml",
+    "adwirkg": "sources/review-p195-p213-adwirkg.xml",
+    "advermig": "sources/review-p195-p213-advermig.xml",
+    "gewschg": "sources/review-p195-p213-gewschg.xml"
+  },
+  "auxiliary_scope": "Only actual statutory references used by these20comments; no separate comprehensive amendment history of auxiliary laws. All five deliveries byte-identical to same-day author snapshots.",
+  "historical_selection": "One current XML norm per identifier; future2027 provisions excluded, not appended as current law;2016case facts preserved as historical.",
+  "limitations": [
+    "No complete legislative history since2008.",
+    "No exhaustive subsequent case-law reception search.",
+    "Recent gazette screening and auxiliary-law verification have the documented bounded scope."
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p195",
+    "p196",
+    "p196a",
+    "p197",
+    "p198",
+    "p199",
+    "p200",
+    "p201",
+    "p202",
+    "p203",
+    "p204",
+    "p205",
+    "p206",
+    "p207",
+    "p208",
+    "p209",
+    "p210",
+    "p211",
+    "p212",
+    "p213"
+  ],
+  "baseline_commit": "3ffb4731f213df2ab3b435e036b36137c32df11f",
+  "decisive_date": "2026-10-19",
+  "review_date": "2026-10-20",
+  "verified_at": "2026-10-20T17:34:19.527166+00:00",
+  "scope": "Exactly assigned20units; independent second pass relative to prior authoring; no whole-title certification or external professional approval.",
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p195",
+      "disposition": "corrected",
+      "review": "Beide Absätze und die beiden Auslandsanknüpfungen geprüft. Ersatz nachAbs1S2 ist das Landesjugendamt, nicht eine andere zentrale Adoptionsstelle; Behörde und örtliche Anknüpfung korrigiert. Mitteilung, Beschwerderecht,188Abs2und197Abs3getrennt.",
+      "sources": "FamFG195,188,189,194,197;AdVermiG11Abs1Nr2/3"
+    },
+    {
+      "id": "p196",
+      "disposition": "retained",
+      "review": "Gesamter Satz geprüft. Verbindungssperre gegenüber20, getrennte Aktenverwertung und21Aussetzung zutreffend. Beispiel verbindet Sorge und Adoption gerade nicht. Keine zusätzliche ungesicherte Ausnahme behauptet.",
+      "sources": "FamFG196,20,21"
+    },
+    {
+      "id": "p196a",
+      "disposition": "clarified",
+      "review": "Gesamte Vorschrift und alle5Absätze9aAdVermiG geprüft. Beratungsausnahmen personengenau ausgeführt, Ausland-Rückausnahme betrifft annehmenden und verbleibenden Elternteil. Bescheinigung, Beratungszeitpunkt, Hinweis und Zurückweisung getrennt.",
+      "sources": "FamFG196a,26,28,197;AdVermiG9a"
+    },
+    {
+      "id": "p197",
+      "disposition": "clarified",
+      "review": "Alle3Absätze geprüft. Vertrauliche-Geburt-Fiktion1747Abs4S2und ihr Ende ergänzt. Zustellung, Tod/1753, Bestandskraft zutreffend. BGH-Volltext1–22mitBerichtigung gelesen; offengelassene FrageRn10bleibt offen, kein behauptetes allgemeines Berichtigungsrecht.",
+      "sources": "FamFG197,42,59,188;BGB1747Abs4,1753;BGHXIIZB237/23Rn10,12–19"
+    },
+    {
+      "id": "p198",
+      "disposition": "retained",
+      "review": "Alle3Absätze und1308BGB gelesen. Rechtskraftregel und Gefahr-im-Verzug-Ausnahme, Bekanntgabe nur im Sofortfall, kein Beschwerdeausschluss inAbs1, Aufhebung ohne eigene Eilregel und Eheverbotsbefreiung vor/nachEheschließung zutreffend.",
+      "sources": "FamFG198,197;BGB1308"
+    },
+    {
+      "id": "p199",
+      "disposition": "clarified",
+      "review": "Ganzer Satz, AdWirkG1,2,6gelesen. Aktuellen6Abs5ausdrücklich ergänzt:197Abs2/3für benannte positive Entscheidungen; übrige Beschlüsse Beschwerde/Rechtskraft;6Abs6BfJ-Ausnahme. Ausschluss bei Annahme ab18korrekt.",
+      "sources": "FamFG199,197;AdWirkG1,2,6"
+    },
+    {
+      "id": "p200",
+      "disposition": "retained",
+      "review": "BeideAbsätze mit allen4Nummern und BGB-Grundlagen geprüft. Trennung/Scheidung, Nutzung/Eigentum, mietrechtliche Folgen und Abgrenzung112/113/210zutreffend; Beispiel Waschmaschine konkret und begrenzt.",
+      "sources": "FamFG200,112,113,210;BGB1361a/b,1568a/b"
+    },
+    {
+      "id": "p201",
+      "disposition": "retained",
+      "review": "Alle4Rangstufen gelesen. Vorrang anhängiger Ehesache einschließlich Rechtsmittel, danachWohnung/gegnerischer/eigenerAufenthalt; kein Wahlrecht. International/sachlich gesondert und spätereAbgabe zutreffend.",
+      "sources": "FamFG201,202"
+    },
+    {
+      "id": "p202",
+      "disposition": "retained",
+      "review": "BeideSätze und281ZPO vollständig gelesen. Anhängigkeit/Rechtshängigkeit, ersterRechtszug, Amtsabgabe, nur281Abs2/3S1und keineMehrkostenautomatik zutreffend. Verbund137bleibt eigenständig.",
+      "sources": "FamFG202,137;ZPO281"
+    },
+    {
+      "id": "p203",
+      "disposition": "clarified",
+      "review": "Alle3Absätze und206gelesen. Antrag eines Ehegatten, begehrteGegenstände und nur200Abs2Nr2Gesamtliste, SollangabeKinder nurWohnungssache korrekt. Beispiel klargestellt: zusätzliche Wohnungsbeantragung statt unterstellter Wohnungssache bei bloßem Möbelantrag.",
+      "sources": "FamFG203,200,204,205,206,28"
+    },
+    {
+      "id": "p204",
+      "disposition": "retained",
+      "review": "BeideAbsätze und1568aBGB gelesen. Vermieter/Eigentümer/Dienstwohnungsdritter/Rechtsgemeinschaft nur200Abs1Nr2;7allgemein getrennt. Jugendamt aufAntrag beiKindern, Benachrichtigung7Abs4und bloßeAnhörung205getrennt.",
+      "sources": "FamFG204,7,200,205;BGB1568aAbs3–5"
+    },
+    {
+      "id": "p205",
+      "disposition": "retained",
+      "review": "BeideAbsätze gelesen. RegelfallAnhörung beiKindern, unverzüglicheNachholung nurbeiGefahrAusnahme, Mitteilung/eigenesBehördenrechtsmittel vonBeteiligung getrennt.57Anfechtbarkeitsgrenzen zutreffend.",
+      "sources": "FamFG205,204,57,59Abs3"
+    },
+    {
+      "id": "p206",
+      "disposition": "clarified",
+      "review": "Alle3Absätze und4Auflagen geprüft. Ausschluss bei gleichzeitiger Verzögerung und fehlender genügender Entschuldigung ausdrücklich gemacht; keine freie Zurückweisung allein wegenFristablaufs bei offenerAlternative. Insoweit begrenzte Ermittlungsentlastung, keineWahrheitsfiktion.",
+      "sources": "FamFG206,26,28"
+    },
+    {
+      "id": "p207",
+      "disposition": "retained",
+      "review": "BeideSollanordnungen geprüft. Termin/persönlichesErscheinen und sachlicheErörterung getrennt; kein Vergleichszwang oder Versäumnisurteil erfunden. Schutz beiGewalt als Verfahrensgestaltung, kein neuer Anspruch.",
+      "sources": "FamFG207,32,33"
+    },
+    {
+      "id": "p208",
+      "disposition": "retained",
+      "review": "Ganzer Satz gelesen. Hauptsachenerledigung kraftGesetzes vorAbschluss auchBeschwerde, Kosten separat, keine automatische rückwirkendeTitelbeseitigung; Nachlassansprüche gesondert. Beispiel passend.",
+      "sources": "FamFG208"
+    },
+    {
+      "id": "p209",
+      "disposition": "retained",
+      "review": "Alle3Absätze/Sätze gelesen. Durchführungsanordnungen materiellgebunden, Rechtskraftregel, Sollsofortwirkung nur200Abs1Nr1. VollstreckungvorZustellung gesondert, ÜbergabeGeschäftsstelle undZeitvermerk korrekt.",
+      "sources": "FamFG209,200;BGB1361b"
+    },
+    {
+      "id": "p210",
+      "disposition": "retained",
+      "review": "Ganzer Satz und aktuelleGewSchG1–3gelesen; zukünftige1a/3Änderungen abgegrenzt. Schutz unabhängigEhe;Tatbestände1/2eigenständig;3Abs1Minderjährigenkonkurrenz und200Wohnungssache unterschieden. Kein2027Instrument vorweggenommen.",
+      "sources": "FamFG210,200;GewSchG1,2,3;BGBl2026I198Art1/10"
+    },
+    {
+      "id": "p211",
+      "disposition": "retained",
+      "review": "Alle3Wahlgerichtsstände gelesen. Ausschließlichkeit ohneRangfolge, Tatort/gemeinsameWohnung/gegnerischergewöhnlicherAufenthalt zutreffend; kein automatischer neuerGerichtsstand amSchutzort. DigitalerTatort als Prüfungsbedarf, keine ungesicherte konkrete These.",
+      "sources": "FamFG211,201"
+    },
+    {
+      "id": "p212",
+      "disposition": "clarified",
+      "review": "Ganzer Satz und7Abs4–6/213gelesen. Beteiligungsantrag bei2GewSchG/Kind;1Kontaktverbot allein genügt nicht. Missverständlichen Satz zum angeblich beschränkenden Antrag ersetzt; keinevertretungsrechtliche Rolle erfunden.",
+      "sources": "FamFG212,213,7;GewSchG1,2"
+    },
+    {
+      "id": "p213",
+      "disposition": "retained",
+      "review": "BeideAbsätze gelesen. Wohnungsüberlassung2GewSchG mitKindern, Sollanhörung/Nachholung, Mitteilung und eigenesBeschwerderecht ohne212Antrag zutreffend;57Statthaftigkeit und216aandereAdressaten getrennt.",
+      "sources": "FamFG213,212,57,216a;GewSchG2"
+    }
+  ],
+  "limitations": [
+    "Whole title remains incomplete:289units from214not commented; no global completion.",
+    "Only assigned20commentaries reviewed in this process; previous reviewed text preserved.",
+    "Case research selective:one existing decision freshly read in full; no additional verified authority for other19units.",
+    "No exhaustive later-case-law or complete historical-amendment reconstruction.",
+    "Auxiliary statutes and recent gazette screened within recorded scope; no state-specific implementation researched.",
+    "Technical equality/length/repetition checks do not establish legal quality."
+  ],
+  "whole_book_complete": false,
+  "source_preflight": "preflight-result.json",
+  "version_evidence": "sources/review-p195-p213-version-map.json",
+  "case_evidence": "sources/review-p195-p213-case-corpus-check.json"
+}

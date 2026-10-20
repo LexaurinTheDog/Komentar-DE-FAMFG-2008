@@ -1,6 +1,6 @@
 # Prüfprotokoll und ausstehende Bearbeitung
 
-**Kein externes fachliches Freigabeurteil.** Der erste Teil dokumentiert die frühere Eigenkontrolle vom 19. Oktober 2026 und die Quellenvorprüfung. Die anschließend dokumentierten elf getrennten Zweitprüfungen vom 20. Oktober sind jeweils auf genau 20 Einheiten beschränkt.
+**Kein externes fachliches Freigabeurteil.** Der erste Teil dokumentiert die frühere Eigenkontrolle vom 19. Oktober 2026 und die Quellenvorprüfung. Die anschließend dokumentierten zwölf getrennten Zweitprüfungen vom 20. Oktober sind jeweils auf genau 20 Einheiten beschränkt.
 
 ## Vorhandener Bestand
 
@@ -20,7 +20,7 @@ Die Ausgangs- und Aktualitätsquellen sowie drei relevante Verkündungsakte sind
 
 Der vollständige Kommentar ab § 214, darunter die weiteren Gewaltschutz- und Familiensachen, Betreuung und Unterbringung, Nachlass und Teilung, Register, Freiheitsentziehung, Aufgebot und Schlussrecht, fehlt noch. Die Wortlautdatei ist hierfür vorhanden; sie ist kein Ersatz für originäre Erläuterungen.
 
-Die Rechtsprechungsrecherche bleibt selektiv und muss für die noch fehlenden Sachgebiete fortgesetzt werden. Ein vorhandener, nicht ausgewerteter Download darf nicht ohne tatsächliche Lektüre als geprüft gelten. Für die ersten 220 Kommentare liegen inzwischen die nachstehenden begrenzten Zweitprüfungsberichte vor; für die 20 neu geschriebenen Kommentare zu §§ 195–213 steht die frische Zweitprüfung aus. Die noch fehlenden Kommentare benötigen nach ihrer Ausarbeitung ebenfalls eine frische Zweitprüfung; eine Gesamtprüfung wird hier nicht behauptet.
+Die Rechtsprechungsrecherche bleibt selektiv und muss für die noch fehlenden Sachgebiete fortgesetzt werden. Ein vorhandener, nicht ausgewerteter Download darf nicht ohne tatsächliche Lektüre als geprüft gelten. Für alle 240 vorhandenen Kommentare liegen inzwischen die nachstehenden begrenzten Zweitprüfungsberichte vor; die zwölfte Charge prüfte genau die 20 Kommentare zu §§ 195–213 einschließlich § 196a. Die noch fehlenden Kommentare benötigen nach ihrer Ausarbeitung ebenfalls eine frische Zweitprüfung; eine Gesamtprüfung wird hier nicht behauptet.
 
 ## Buildzustand
 
@@ -244,3 +244,16 @@ Technischer Abschluss der elften Charge: 20/20 zugewiesene Einheiten geprüft; z
 Genau 20 Einheiten neu geschrieben; die 220 vorhandenen Kommentare unverändert. Gelesen wurden die amtlichen Vorschriften und die für die erläuterten Verweisungen erforderlichen Teile von BGB, ZPO, AdVermiG, AdWirkG und GewSchG. Geprüft wurden besonders Beratungsausnahmen, gesetzliche Wirkungsformen, Zustellung/Bekanntgabe/Rechtskraft, Rangfolge und Wahlgerichtsstände, Abgabevoraussetzungen, Mitwirkung und Präklusion sowie Anhörung und Beteiligung des Jugendamts. Der BGH-Volltext XII ZB 237/23 wurde vollständig einschließlich amtlicher Berichtigung gelesen; eine vom BGH offengelassene Frage wird ausdrücklich nicht als entschieden behauptet.
 
 Der reguläre Vollbuild und die strenge Gesamtvalidierung bleiben wegen 289 fehlender Kommentare negativ. Der separat bezeichnete Teil-Export enthält alle tatsächlich geschriebenen 240 Kommentare. 100 % Wortlautübereinstimmung, vollständige amtliche Kennungen, Links und Wiederholungen werden technisch kontrolliert. [Chargenbericht](author-p195-p213-result.json), [Eigenkontroll-Audit](author-p195-p213-audit.json), [Parserlauf](author-p195-p213-parser-replay.json). Diese Autorenkontrolle ist keine unabhängige Zweitprüfung. Der nächste frische Prozess muss alle 20 neuen Kommentare inhaltlich prüfen.
+
+
+## Zwölfte begrenzte Zweitprüfung: §§ 195–213 einschließlich § 196a
+
+Am 20. Oktober 2026 wurden genau die 20 im [Einzelbericht](review-p195-p213-result.json) bezeichneten Einheiten vollständig auf Aussage, Voraussetzungen, Rechtsfolgen, Verweise, Beispiele und Übernahmen aus historischen Fassungen geprüft. Sieben erhielten gezielte Änderungen; 13 blieben nach Quellenvergleich unverändert. Keine Kommentierung außerhalb dieser Kennungen wurde geändert. Die Prüfung ist eine frische Zweitprüfung gegenüber der Autorencharge, keine externe anwaltliche Freigabe und keine Prüfung des gesamten Buchs durch diesen Prozess.
+
+§ 195 bezeichnet nun zutreffend das ersatzweise anzuhörende Landesjugendamt. § 196a erläutert die einzelnen personellen Beratungsausnahmen und die Ausland-Rückausnahme. § 197 ergänzt die gesetzliche Fiktion bei vertraulicher Geburt samt ihrem Ende. § 199 unterscheidet die Verweisung auf § 197 in § 6 Absatz 5 AdWirkG, die übrigen Beschwerden und das besondere BfJ-Rechtsmittel. § 203 vermeidet im Beispiel die Unterstellung einer Wohnungssache bei einem bloßen Möbelantrag. § 206 macht den Ausschluss bei Fehlen beider Zulassungsalternativen deutlich. § 212 grenzt das bloße Kontaktverbot sprachlich klar von der Wohnungsüberlassung ab.
+
+FamFG, BGB, ZPO, AdWirkG, AdVermiG und GewSchG wurden frisch mit HTTP 200 abgerufen; ihre XML-Körper sind zur vorherigen Autorenprüfung bytegleich. Die maßgeblichen Änderungs- und Inkrafttretensregeln der amtlichen Verkündungsakte wurden erneut gelesen. Der Stichtag bleibt 19. Oktober 2026; künftige Gewaltschutzänderungen werden nicht vorgezogen. Alle 599 Normelemente und 529 Paragraphenkennungen sind zugeordnet. Es gibt keine fehlende eigenständige Eingangsformel oder operative Anlage. [Vorprüfung](preflight-result.json), [Abrufe](sources/review-p195-p213-fetch.json), [Versionskarte](sources/review-p195-p213-version-map.json).
+
+Der bereits zitierte BGH-Beschluss XII ZB 237/23 wurde frisch amtlich abgerufen und vollständig einschließlich Rn. 1–22 und Berichtigung vom 10. Juli 2024 gelesen. Tenor und sämtliche nummerierten Gründe stimmen mit dem gesicherten nationalen Korpus überein. Die in Rn. 10 offengelassene Berichtigungsfrage wird nicht als entschieden ausgegeben. [Fallkarte](cases/BGH-XII-ZB-237-23.md), [Korpusvergleich](sources/review-p195-p213-case-corpus-check.json), [Suchprotokoll](sources/review-p195-p213-search-log.json). Für die übrigen 19 Vorschriften wurde keine neue hinreichend relevante vollständig verifizierte Entscheidung ausgewählt. Die Recherche ist selektiv.
+
+Im zugewiesenen Prüfungsumfang bestehen keine festgestellten ungelösten materiellen Blocker. Der reguläre Gesamtbuild und die strenge Gesamtvalidierung bleiben wegen 289 unkommentierter Einheiten außerhalb dieses Auftrags negativ; die tatsächliche Ausgabe wird in build-result.json und validation.json gesichert. Die Teil-Ausgabe wird neu erstellt. Ein Wortlaut-, Längen- oder Wiederholungstest ersetzt die gesonderte materielle Lektüre nicht.
