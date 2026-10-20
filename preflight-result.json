@@ -8281,5 +8281,42 @@
     "historical_duplicates": [],
     "annexes": "No annex or opening formula in fresh official XML; all 599 norm elements classified, 529 numbered units. Existing law-head notes retained.",
     "unresolved_blockers": []
+  },
+  "bounded_review_recheck_p350_p364": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T22:04:06.807021+00:00",
+    "version_evidence": "sources/review-p350-p364-version-map.json",
+    "historical_versions_checked": {
+      "duplicate_official_ids": [],
+      "duplicate_doknr": [],
+      "historical_elements": [],
+      "future_2027_changes": "Excluded; retained commencement evidence for BGBl 2026 I Nr.198, Art.10 Abs.2"
+    },
+    "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "reviewed_ids": [
+      "p350",
+      "p351",
+      "p352",
+      "p352a",
+      "p352b",
+      "p352c",
+      "p352d",
+      "p352e",
+      "p353",
+      "p354",
+      "p355",
+      "p356",
+      "p357",
+      "p358",
+      "p359",
+      "p360",
+      "p361",
+      "p362",
+      "p363",
+      "p364"
+    ],
+    "unresolved_blockers": []
   }
 }

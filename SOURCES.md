@@ -211,3 +211,6 @@ Zweitprüfung §§ 330–349: [frische amtliche Abrufe](sources/review-p330-p349
 
 
 Autorencharge §§ 350–364 einschließlich §§ 352a–352e: 20 zugewiesene Einheiten verfasst, noch keine unabhängige Zweitprüfung. [Technischer Bericht](author-p350-p364-result.json), [Fassungsabgleich](sources/author-p350-p364-version-map.json), [selektives Rechercheprotokoll](sources/author-p350-p364-search-log.json), [BGH IV ZB 11/22](cases/BGH-IV-ZB-11-22.md), [OLG Nürnberg 15 Wx 988/23](cases/OLG-Nuernberg-15-Wx-988-23.md). Gesamtmanuskript bleibt unvollständig.
+
+
+Begrenzte unabhängige Zweitprüfung §§ 350–364 einschließlich §§ 352a–352e: genau 20 Einheiten am amtlichen Text geprüft. Fünf Erläuterungen präzisiert; insbesondere § 362 unterscheidet jetzt den allgemeinen Abänderungsausschluss vom besonderen Änderungsweg bei wesentlich veränderten Verhältnissen. Beide zu § 352e zitierten Entscheidungen vollständig erneut gelesen. [Einzelbefunde](review-p350-p364-result.json), [Quellenprüfung](sources/review-p350-p364-version-map.json), [technische Prüfung](review-p350-p364-audit.json). Gesamtstand 400/529 kommentiert; 129 unzugewiesene Einheiten ab § 365 offen. Keine Gesamtfreigabe und keine externe fachliche Billigung.

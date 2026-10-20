@@ -106,3 +106,6 @@ Die begrenzte Zweitprüfung vom 20. Oktober 2026 erfasst genau §§ 330–349 (2
 
 
 Autorencheckpoint §§ 350–364 einschließlich §§ 352a–352e: 20 neue Einheiten, davon § 364 ausdrücklich weggefallen; 19 fiktive Fälle und drei praktische Prüflisten. Zwei amtliche Volltexte selektiv ausgewertet. Gesamtstand 400/529, noch 129 Kommentare ab § 365 offen. Unabhängige Zweitprüfung dieser Charge steht aus. [Chargenergebnis](author-p350-p364-result.json), [Fassungsprüfung](sources/author-p350-p364-version-map.json). Frühere Fortschrittsabsätze geben historische Teilstände wieder.
+
+
+Begrenzte unabhängige Zweitprüfung §§ 350–364 einschließlich §§ 352a–352e: genau 20 Einheiten am amtlichen Text geprüft. Fünf Erläuterungen präzisiert; insbesondere § 362 unterscheidet jetzt den allgemeinen Abänderungsausschluss vom besonderen Änderungsweg bei wesentlich veränderten Verhältnissen. Beide zu § 352e zitierten Entscheidungen vollständig erneut gelesen. [Einzelbefunde](review-p350-p364-result.json), [Quellenprüfung](sources/review-p350-p364-version-map.json), [technische Prüfung](review-p350-p364-audit.json). Gesamtstand 400/529 kommentiert; 129 unzugewiesene Einheiten ab § 365 offen. Keine Gesamtfreigabe und keine externe fachliche Billigung.

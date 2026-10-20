@@ -1,6 +1,6 @@
 {
-  "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T22:00:55.099615+00:00",
+  "stage": "bounded_review_complete_manuscript_incomplete",
+  "updated_at": "2026-10-20T22:04:06.807021+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -62,33 +62,33 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 896366,
+      "commentary_chars": 897738,
       "errors": [
-        "krátký/chybějící komentář u 129 jednotek: ['p365(0<400)', 'p366(0<400)', 'p367(0<400)', 'p368(0<400)', 'p369(0<400)', 'p370(0<400)', 'p371(0<400)', 'p372(0<400)']"
+        "krátký/chybějící komentář u 129 jednotek: ['p365(0<400)', 'p366(0<400)', 'p367(0<400)', 'p368(0<400)', 'p369(0<400)', 'p370(0<400)', 'p371(0<400)', 'p372(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
-    "exit_code": 1,
-    "bounded_author_batch_ok": true,
-    "whole_book_complete": false
+    "bounded_batch_ok": true,
+    "expected_intermediate_failure": "129 unassigned missing commentaries from p365"
   },
   "remaining_limitations": [
-    "Review limited exactly to assigned 20 provisions; no whole-book completion.",
-    "One cited official BGH decision reread in full, no exhaustive case-law survey.",
-    "149 unassigned statutory units remain unannotated.",
-    "Technical validation does not establish substantive legal quality or external professional approval."
+    "Review limited exactly to assigned 20 units; no whole-book completion.",
+    "Two existing citations reread in full; no exhaustive new case-law or subsequent-treatment survey.",
+    "129 unassigned provisions from p365 remain uncommented.",
+    "Technical validation is not substantive legal quality assurance or external professional approval."
   ],
-  "commented_scope": "§§ 1–349 einschließlich der Buchstabenparagraphen",
+  "commented_scope": "§§ 1–364 einschließlich der Buchstabenparagraphen",
   "resume": {
-    "last_commented_id": "p349",
-    "next_uncommented_id": "p350",
+    "last_commented_id": "p364",
+    "next_uncommented_id": "p365",
     "missing_identifiers": "completeness-report.json#missing_commentary",
     "full_parser": "_parse.py",
     "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
-    "instructions": "Preserve all 380 existing commentaries and earlier reviews. Bounded second pass p330–p349 complete; continue only on a new assignment."
+    "instructions": "Preserve 400 existing commentaries and previous reviews. Bounded review p350–p364 complete; continue only on new assignment."
   },
   "source_preflight": {
     "complete": true,
@@ -104,28 +104,28 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p330",
-      "p331",
-      "p332",
-      "p333",
-      "p334",
-      "p335",
-      "p336",
-      "p337",
-      "p338",
-      "p339",
-      "p340",
-      "p341",
-      "p342",
-      "p343",
-      "p344",
-      "p345",
-      "p346",
-      "p347",
-      "p348",
-      "p349"
+      "p350",
+      "p351",
+      "p352",
+      "p352a",
+      "p352b",
+      "p352c",
+      "p352d",
+      "p352e",
+      "p353",
+      "p354",
+      "p355",
+      "p356",
+      "p357",
+      "p358",
+      "p359",
+      "p360",
+      "p361",
+      "p362",
+      "p363",
+      "p364"
     ],
-    "result": "review-p330-p349-result.json",
+    "result": "review-p350-p364-result.json",
     "unresolved_blockers": [],
     "whole_book_complete": false
   },
@@ -670,9 +670,9 @@
       "commentary_characters": 56603
     }
   ],
-  "cumulative_independently_reviewed_units": 380,
+  "cumulative_independently_reviewed_units": 400,
   "remaining_existing_commentaries_for_review": 0,
-  "commentary_characters": 896366,
+  "commentary_characters": 897738,
   "bounded_authoring": {
     "complete": true,
     "units_written": 20,
@@ -964,7 +964,9 @@
       ],
       "warnings": [],
       "ok": false
-    }
+    },
+    "independent_second_pass_complete": true,
+    "independent_second_pass_result": "review-p350-p364-result.json"
   },
   "bounded_author_history": [
     {

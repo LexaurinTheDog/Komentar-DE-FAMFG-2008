@@ -6,4 +6,7 @@ Gelesen: Tenor und sämtliche Gründe Rn. 1–31; redaktioneller Leitsatz und zi
 
 Grenzen: einzelfallbezogene Entscheidung. Die materiellen Ausführungen zur Betreuerbegünstigung werden hier nicht als allgemeine Aussage übernommen; Rn. 21–22 unterscheiden selbst zeitliche Anwendbarkeit und ergänzende Erwägungen. Die Fallkarte belegt ausschließlich die verfahrensrechtliche Trennung. Die seit 2023 relevante FamFG-Regel ist im aktuellen amtlichen XML überprüft.
 
-Selektive Quellenprüfung, keine vollständige Rechtsprechungsübersicht. Entwurf; unabhängiger zweiter Durchgang steht aus.
+Selektive Quellenprüfung, keine vollständige Rechtsprechungsübersicht. Entwurf; Fallkarte in der begrenzten Zweitprüfung §§ 350–364 am amtlichen Volltext nachgeprüft.
+
+
+Zweitprüfung: Tenor und vollständige Gründe erneut gelesen; [frischer amtlicher Abruf](../sources/review-p350-p364-OLG-Nuernberg-15-Wx-988-23.html). Begrenzte Tragweite bestätigt, keine erschöpfende Rechtsprechungs- oder Folgejudikaturprüfung.

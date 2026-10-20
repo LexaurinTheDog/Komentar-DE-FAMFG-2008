@@ -2,194 +2,200 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p330",
-    "p331",
-    "p332",
-    "p333",
-    "p334",
-    "p335",
-    "p336",
-    "p337",
-    "p338",
-    "p339",
-    "p340",
-    "p341",
-    "p342",
-    "p343",
-    "p344",
-    "p345",
-    "p346",
-    "p347",
-    "p348",
-    "p349"
+    "p350",
+    "p351",
+    "p352",
+    "p352a",
+    "p352b",
+    "p352c",
+    "p352d",
+    "p352e",
+    "p353",
+    "p354",
+    "p355",
+    "p356",
+    "p357",
+    "p358",
+    "p359",
+    "p360",
+    "p361",
+    "p362",
+    "p363",
+    "p364"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p330",
+      "id": "p350",
       "disposition": "confirmed",
-      "finding": "Zwingende Aufhebung bei Wegfall, konkrete Maßnahme statt pauschalem Ende aller Eingriffe, Behördenanhörung nur bei Nr4 und Verzögerungsausnahme sowie §338 geprüft.",
+      "finding": "Urschrift und beglaubigte Abschriften, Verwahr-/Nachlasszuständigkeit sowie Abgrenzung der Übermittlung von §349-Bekanntgabe geprüft.",
       "resolved": true
     },
     {
-      "id": "p331",
+      "id": "p351",
       "disposition": "confirmed",
-      "finding": "Vier kumulative Voraussetzungen, psychiatrische Soll-/Mussqualifikation und begrenzte Ausnahme, Rechtshilfeanhörung, Abgrenzung zum Gutachten und zu §332/333 geprüft.",
+      "finding": "Mehr als 30 Jahre amtliche Verwahrung, vorgeschaltete Lebensermittlung, Eröffnung bei fehlendem Lebensnachweis und entsprechende §§348–350 zutreffend; keine Todeserklärung.",
       "resolved": true
     },
     {
-      "id": "p332",
-      "disposition": "confirmed",
-      "finding": "Gesteigerte Dringlichkeit verschiebt nur Anhörung und Pflegerbestellung/-anhörung; Zeugnis und materielle Voraussetzungen bleiben. Unverzügliche Nachholung konkret erläutert.",
-      "resolved": true
-    },
-    {
-      "id": "p333",
-      "disposition": "confirmed",
-      "finding": "Sechs Wochen je allgemeiner Anordnung, drei Monate insgesamt, Sachverständigenanhörung zur Verlängerung und Einrechnung §322; Zwangsmaßnahme zwei/sechs Wochen getrennt geprüft.",
-      "resolved": true
-    },
-    {
-      "id": "p334",
-      "disposition": "confirmed",
-      "finding": "Entsprechende Anwendung aller §§331–333 auf Maßregel nach BGB1867 und fehlende eigenständige materielle Eingriffsermächtigung zutreffend.",
-      "resolved": true
-    },
-    {
-      "id": "p335",
+      "id": "p352",
       "disposition": "corrected",
-      "finding": "Pflegeeltern als ausgelassene eigenständige Beschwerdegruppe ergänzt und Wohnkriterium von Eltern/Kindern unterschieden. Vier Absätze und BGH XII ZB63/25 Rn1–14 vollständig geprüft; Rn5 ist LG-Referat, Rn12 enthält offene Fragen.",
+      "finding": "Alle acht Angaben und Absätze2/3 geprüft; ausdrückliche Pflicht zur Angabe anhängigen Erbrechtsstreits nach Abs1 Nr6 ergänzt. Urkunden und eidesstattliche Versicherung klar getrennt.",
       "resolved": true
     },
     {
-      "id": "p336",
+      "id": "p352a",
       "disposition": "confirmed",
-      "finding": "Zusätzliche Einlegungsstelle für Betroffenen, tatsächlicher Unterbringungsbezirk, keine Entscheidungszuständigkeit und keine Erweiterung auf alle Angehörigen zutreffend.",
+      "finding": "Antrag eines Miterben, alle Antragsteller als Quotenverzichtende, Annahmeangabe für übrige Erben und grundsätzliche Versicherung aller Erben mit gerichtlicher Ausnahme geprüft.",
       "resolved": true
     },
     {
-      "id": "p337",
+      "id": "p352b",
       "disposition": "confirmed",
-      "finding": "Ermessen/Staatskasse bei Nr1–3 gegenüber zwingender Körperschaftshaftung bei Nr4; Ablehnung/Rücknahme plus fehlender begründeter Anlass kumulativ. Spätere Genesung nicht mit ursprünglicher Ungerechtfertigtheit verwechselt.",
+      "finding": "Nacherbe, Eintrittsvoraussetzungen und Befreiungsanordnungen sowie Testamentsvollstreckerhinweis in beiden Absätzen vollständig; Eintrag schafft keine materielle Befugnis.",
       "resolved": true
     },
     {
-      "id": "p338",
+      "id": "p352c",
       "disposition": "confirmed",
-      "finding": "Verweisungen auf §§308/311 einschließlich Unterrichtung und Dokumentation, ausdrückliche Leitungsmeldungen bei §330/328 und Unterschied Aufhebung/Aussetzung geprüft.",
+      "finding": "Auslandsgegenstand als Voraussetzung, Beschränkung auf Inland statt Einzelobjekte, Register- und Anspruchsfiktion sowie Trennung von Erbstatut und Zuständigkeit geprüft.",
       "resolved": true
     },
     {
-      "id": "p339",
+      "id": "p352d",
       "disposition": "confirmed",
-      "finding": "Unverzügliche Benachrichtigung eines Angehörigen oder einer Vertrauensperson bei Anordnung/Genehmigung und jeder Verlängerung; kein automatischer Beteiligtenstatus; Prüfliste spezifisch.",
+      "finding": "Ermessensentscheidung, nur Bekanntmachungsart und Frist nach Aufgebotsrecht; keine materielle Ausschließung schweigender Erben behauptet.",
       "resolved": true
     },
     {
-      "id": "p340",
+      "id": "p352e",
       "disposition": "confirmed",
-      "finding": "Drei Zuweisungsgruppen, Ausnahme für Minderjährige/gezeugte Kinder und Nachrang gegenüber Betreuungs-/Unterbringungssachen vollständig geprüft.",
+      "finding": "Erlasswirksamkeit, kumulative Sicherungen bei entgegenstehendem Beteiligtenwillen und Einziehungsziel nach Erteilung geprüft. Beide zitierten amtlichen Entscheidungen vollständig erneut gelesen; Aussage und Grenzen bestätigt.",
       "resolved": true
     },
     {
-      "id": "p341",
+      "id": "p353",
+      "disposition": "confirmed",
+      "finding": "Einziehung/Kraftlosigkeit, Monatsfrist nach Bundesanzeiger und frühere Anfechtungssperre getrennt; Kostenentscheidung und neues gleichlautendes Zeugnis zutreffend.",
+      "resolved": true
+    },
+    {
+      "id": "p354",
+      "disposition": "confirmed",
+      "finding": "Abschließender Zeugnisverweis, entsprechende Anwendung samt angepasster Beteiligung und beide Angaben des Abs2 geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p355",
       "disposition": "corrected",
-      "finding": "Subsidiäre Rangstufen Fürsorgebedürfnis und AG Schöneberg mit Staatsangehörigkeitsvoraussetzung ausdrücklich ergänzt; §272Abs2 einschließlich Mitteilung abgeglichen.",
+      "finding": "Drei Rechtsmittelkonstellationen geprüft; zur sofortigen Beschwerde Abs1 die Zweiwochen-Notfrist nach frischem amtlichem §569 ZPO ergänzt. Abs2 und selbständige Befugnis Abs3 zutreffend.",
       "resolved": true
     },
     {
-      "id": "p342",
+      "id": "p356",
       "disposition": "confirmed",
-      "finding": "Neun Nachlassgruppen und zwei Teilungsgruppen, gesetzlicher Auffangtatbestand und Unterscheidung Eröffnung/Zeugnis/streitiger Zahlungsanspruch geprüft.",
+      "finding": "Mitteilung Kindeserwerb mit Inventarpflicht, Sollunterrichtung des allgemeinen Nachlassgerichts und begrenzte Stiftungsmitteilung samt bereits gestelltem Anerkennungsantrag geprüft.",
       "resolved": true
     },
     {
-      "id": "p343",
+      "id": "p357",
       "disposition": "confirmed",
-      "finding": "Gewöhnlicher Aufenthalt im Todeszeitpunkt, letzter Inlandsaufenthalt, Schöneberg mit alternativen Anknüpfungen und Verweisung aus wichtigem Grund; internationale Zuständigkeit als getrennte Frage, keine ungeprüfte konkrete EU-Regel behauptet.",
+      "finding": "Eröffnete Verfügung und rechtliches Interesse, Ausfertigung vorhandener Zeugnisse und Beschlüsse, Abgrenzung zu Akteneinsicht und bloßer Neugier zutreffend.",
       "resolved": true
     },
     {
-      "id": "p344",
+      "id": "p358",
       "disposition": "corrected",
-      "finding": "Alle Absätze einschließlich 4a und elektronischer Übermittlung in Abs7 geprüft. Abs5 um Rangfolge §122Nr1–5, subsidiäre Gegenstandslage und entsprechende Prioritäts-/Vereinbarungsregeln präzisiert.",
+      "finding": "Beschlussform und fehlende materielle Erbrechtsentscheidung bestätigt; Todeskenntnis, unverzügliche Pflicht und fehlende besondere amtliche Verwahrung nach §2259 Abs1 BGB konkret ergänzt.",
       "resolved": true
     },
     {
-      "id": "p345",
+      "id": "p359",
+      "disposition": "confirmed",
+      "finding": "Nur stattgebender Erbenantrag unanfechtbar; bei Gläubigerantrag geschlossener Kreis einschließlich einzelner Miterben und verwaltungsbefugtem Vollstrecker geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p360",
+      "disposition": "confirmed",
+      "finding": "Einheitlicher Gläubiger-Fristbeginn mit Bekanntgabe an Antragsteller, keine eigene Fristlänge, entsprechende neue Frist/Verlängerung samt Ablehnung geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p361",
       "disposition": "corrected",
-      "finding": "Abs4 um vollständige fünf Pflichtbeteiligungsgruppen erweitert. Abs1–3, Antrag auf Hinzuziehung und unmittelbare Rechtsbetroffenheit sowie Ehegattenbeteiligung im BGB2008-Fall abgeglichen.",
+      "finding": "Beiderseitiges Antragsrecht, Ladung trotz entbehrlicher Gläubigeranwesenheit bestätigt. Verweisungen auf persönliche Erklärung, Belehrung und Verständigung ausgeführt, Inhalt und Ergänzung nach §2006 BGB ergänzt.",
       "resolved": true
     },
     {
-      "id": "p346",
-      "disposition": "confirmed",
-      "finding": "Annahme/Herausgabe, gemeinschaftlicher Verschluss und Hinterlegungsscheine für jeden Erblasser/Vertragsschließenden geprüft; Sollcharakter des Scheins nicht als ausnahmslose Pflicht dargestellt.",
+      "id": "p362",
+      "disposition": "corrected",
+      "finding": "Materieller Änderungsweg §2331a Abs2 iVm §1382 Abs6 BGB trotz Ausschluss allgemeiner Abänderung/Wiederaufnahme ergänzt; Zuständigkeit nur bei unbestrittenem Anspruch und §1382 Abs5 klargestellt. Rechtskraft und gesonderter Zahlungsantrag bestätigt.",
       "resolved": true
     },
     {
-      "id": "p347",
+      "id": "p363",
       "disposition": "confirmed",
-      "finding": "Alle drei Absätze mit elektronischer Erstmeldung, nicht amtlich verwahrten Dokumenten nach erstem Erbfall, erneuter Registrierung und Rückgabemitteilung geprüft; keine Veröffentlichung des Inhalts behauptet.",
+      "finding": "Notarielle Vermittlung, Ausschluss bei auseinandersetzungsbefugtem Vollstrecker, alle vier Berechtigtenkreise und Sollantragsinhalt gegen Wortlaut geprüft; keine einseitige Teilungsbefugnis suggeriert.",
       "resolved": true
     },
     {
-      "id": "p348",
+      "id": "p364",
       "disposition": "confirmed",
-      "finding": "Unverzügliche Eröffnung nach Todeskenntnis, Niederschrift/Verschlusszustand, optionaler Termin, Vorlegung auf Verlangen, schriftliche Bekanntgabe und Ausnahme für Anwesende sowie Grenze §349 geprüft.",
-      "resolved": true
-    },
-    {
-      "id": "p349",
-      "disposition": "confirmed",
-      "finding": "Trennbare Verfügungen Überlebender, beglaubigte Abschrift, Wiederverwahrung und Ausnahme bei nur erstem Erbfall sowie Erbverträge vollständig geprüft; Beispiel enthält echte weitere Anordnungen.",
+      "finding": "Ausdrücklich weggefallene Nummer erhalten, keine historische Regel als geltend dargestellt; angemessen kurzer technischer Kommentar.",
       "resolved": true
     }
   ],
+  "changed_ids": [
+    "p352",
+    "p355",
+    "p358",
+    "p361",
+    "p362"
+  ],
+  "verified_at": "2026-10-20T22:04:06.807021+00:00",
+  "source_evidence": "sources/review-p350-p364-version-map.json",
+  "case_law_sources": [
+    "cases/BGH-IV-ZB-11-22.md",
+    "cases/OLG-Nuernberg-15-Wx-988-23.md"
+  ],
   "limitations": [
-    "Review limited exactly to assigned 20 provisions; no whole-book completion.",
-    "One cited official BGH decision reread in full, no exhaustive case-law survey.",
-    "149 unassigned statutory units remain unannotated.",
-    "Technical validation does not establish substantive legal quality or external professional approval."
+    "Review limited exactly to assigned 20 units; no whole-book completion.",
+    "Two existing citations reread in full; no exhaustive new case-law or subsequent-treatment survey.",
+    "129 unassigned provisions from p365 remain uncommented.",
+    "Technical validation is not substantive legal quality assurance or external professional approval."
   ],
   "whole_book_complete": false,
-  "changed_ids": [
-    "p335",
-    "p341",
-    "p344",
-    "p345"
-  ],
-  "verified_at": "2026-10-20T21:53:32.104356+00:00",
-  "source_evidence": "sources/review-p330-p349-version-map.json",
   "validation": {
     "ok": true,
     "reviewed_ids": [
-      "p330",
-      "p331",
-      "p332",
-      "p333",
-      "p334",
-      "p335",
-      "p336",
-      "p337",
-      "p338",
-      "p339",
-      "p340",
-      "p341",
-      "p342",
-      "p343",
-      "p344",
-      "p345",
-      "p346",
-      "p347",
-      "p348",
-      "p349"
+      "p350",
+      "p351",
+      "p352",
+      "p352a",
+      "p352b",
+      "p352c",
+      "p352d",
+      "p352e",
+      "p353",
+      "p354",
+      "p355",
+      "p356",
+      "p357",
+      "p358",
+      "p359",
+      "p360",
+      "p361",
+      "p362",
+      "p363",
+      "p364"
     ],
     "changed_ids": [
-      "p335",
-      "p341",
-      "p344",
-      "p345"
+      "p352",
+      "p355",
+      "p358",
+      "p361",
+      "p362"
     ],
     "unassigned_comments_unchanged": true,
     "assigned_output_matches": true,
@@ -198,21 +204,21 @@
     "statutory_agreement": 1.0,
     "missing_ids": [],
     "duplicate_ids": [],
-    "local_links_checked": 1116,
+    "local_links_checked": 1150,
     "broken_links": [],
     "repetition_screen_findings": [],
     "strict_validation": {
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 856110,
+      "commentary_chars": 897738,
       "errors": [
-        "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']"
+        "krátký/chybějící komentář u 129 jednotek: ['p365(0<400)', 'p366(0<400)', 'p367(0<400)', 'p368(0<400)', 'p369(0<400)', 'p370(0<400)', 'p371(0<400)', 'p372(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
-    "whole_book_complete": false,
-    "post_commit_validation": true
+    "whole_book_complete": false
   }
 }

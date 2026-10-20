@@ -8,4 +8,7 @@ Rn. 7–16: Die rechtskräftig ausgesprochene Erbunwürdigkeit ist auch bei eine
 
 Grenzen: Kein allgemeiner Rechtssatz, dass jedes Versäumnisurteil über jedes Erbrecht gegenüber allen Personen bindet. Eine generelle Rechtskraftdurchbrechung nach § 826 BGB lässt der BGH in Rn. 18 offen; die Voraussetzungen fehlten im Fall. Die behauptete Verwendung eines unterschriebenen Blankoblatts war Parteivortrag, keine eigenständige neue Tatsachenfeststellung des BGH. Frühere Vorschriften und Literatur werden in der Entscheidung diskutiert; übernommen wird die auf §§ 26 und 352e FamFG bezogene Aussage, deren amtliche aktuelle Fassung abgeglichen ist.
 
-Selektive Quellenprüfung; keine erschöpfende Rechtsprechungsauswertung und keine unabhängige Zweitprüfung dieses Kommentars.
+Selektive Quellenprüfung; keine erschöpfende Rechtsprechungsauswertung ; die begrenzte Zweitprüfung §§ 350–364 umfasst diese Fallkarte.
+
+
+Zweitprüfung: Tenor und vollständige Gründe erneut gelesen; [frischer amtlicher Abruf](../sources/review-p350-p364-BGH-IV-ZB-11-22.xml). Begrenzte Tragweite bestätigt, keine erschöpfende Rechtsprechungs- oder Folgejudikaturprüfung.

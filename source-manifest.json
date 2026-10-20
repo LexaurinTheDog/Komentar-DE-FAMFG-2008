@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:00:17.885796+00:00",
+  "generated_at": "2026-10-20T22:04:07.366523+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -3180,6 +3180,81 @@
       "bytes": 19289
     },
     {
+      "path": "sources/review-p350-p364-BGH-IV-ZB-11-22.txt",
+      "sha256": "b7e7685119d83777481e2760ce0a33a372c861427174d73a6cf6ebbda8049c4a",
+      "bytes": 20197
+    },
+    {
+      "path": "sources/review-p350-p364-BGH-IV-ZB-11-22.xml",
+      "sha256": "c56b90da87885e3d7e7af0291382f5542c52690d1ff6091476023d599e07b537",
+      "bytes": 30661
+    },
+    {
+      "path": "sources/review-p350-p364-BGH-IV-ZB-11-22.zip",
+      "sha256": "a0a7dbb8fc6ee8f5cac49f13297e93d95ab65bcdb398484a05c1de4aab9f3814",
+      "bytes": 8405
+    },
+    {
+      "path": "sources/review-p350-p364-OLG-Nuernberg-15-Wx-988-23.html",
+      "sha256": "50b6923bdda3f74368ef497abd5973af65a8c12c8e39365ac8360650c618ff9b",
+      "bytes": 32488
+    },
+    {
+      "path": "sources/review-p350-p364-OLG-Nuernberg-15-Wx-988-23.txt",
+      "sha256": "32dd925c68adabce769651684d38a19201529bc95d79f757ee002961e78da716",
+      "bytes": 17132
+    },
+    {
+      "path": "sources/review-p350-p364-bgb.xml",
+      "sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "bytes": 2519002
+    },
+    {
+      "path": "sources/review-p350-p364-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "bytes": 467286
+    },
+    {
+      "path": "sources/review-p350-p364-current-service.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p350-p364-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/review-p350-p364-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/review-p350-p364-fetch.json",
+      "sha256": "9be82ba8df6d008c4a9dbf2396677092197503cf6cce3f636ce595e8de69b51b",
+      "bytes": 3413
+    },
+    {
+      "path": "sources/review-p350-p364-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/review-p350-p364-version-map.json",
+      "sha256": "57602c55583cacaeb55fd1c351adc75e6bbb18b7d9389fdeacdf2cc17157c64c",
+      "bytes": 18114
+    },
+    {
+      "path": "sources/review-p350-p364-zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/review-p350-p364-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
       "path": "sources/review-p37-p55-famfg.xml",
       "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
       "bytes": 698175
@@ -3536,8 +3611,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "a61f2e1fc2ac4de0d070ed0da9f0bc71ab2dc0745dcc321fdaa194acace92386",
-      "bytes": 258336
+      "sha256": "d45ccd278f5e3dc912452002bc9edd24652a83cfefbc813fad43812646aa3917",
+      "bytes": 261888
     }
   ]
 }

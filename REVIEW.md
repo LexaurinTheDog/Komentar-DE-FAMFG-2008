@@ -499,3 +499,27 @@ Die begrenzte Zweitprüfung vom 20. Oktober 2026 erfasst genau §§ 330–349 (2
 
 
 Autorencharge §§ 350–364 einschließlich §§ 352a–352e: 20 zugewiesene Einheiten verfasst, noch keine unabhängige Zweitprüfung. [Technischer Bericht](author-p350-p364-result.json), [Fassungsabgleich](sources/author-p350-p364-version-map.json), [selektives Rechercheprotokoll](sources/author-p350-p364-search-log.json), [BGH IV ZB 11/22](cases/BGH-IV-ZB-11-22.md), [OLG Nürnberg 15 Wx 988/23](cases/OLG-Nuernberg-15-Wx-988-23.md). Gesamtmanuskript bleibt unvollständig.
+
+
+Begrenzte unabhängige Zweitprüfung §§ 350–364 einschließlich §§ 352a–352e: genau 20 Einheiten am amtlichen Text geprüft. Fünf Erläuterungen präzisiert; insbesondere § 362 unterscheidet jetzt den allgemeinen Abänderungsausschluss vom besonderen Änderungsweg bei wesentlich veränderten Verhältnissen. Beide zu § 352e zitierten Entscheidungen vollständig erneut gelesen. [Einzelbefunde](review-p350-p364-result.json), [Quellenprüfung](sources/review-p350-p364-version-map.json), [technische Prüfung](review-p350-p364-audit.json). Gesamtstand 400/529 kommentiert; 129 unzugewiesene Einheiten ab § 365 offen. Keine Gesamtfreigabe und keine externe fachliche Billigung.
+
+- **p350 (confirmed):** Urschrift und beglaubigte Abschriften, Verwahr-/Nachlasszuständigkeit sowie Abgrenzung der Übermittlung von §349-Bekanntgabe geprüft.
+- **p351 (confirmed):** Mehr als 30 Jahre amtliche Verwahrung, vorgeschaltete Lebensermittlung, Eröffnung bei fehlendem Lebensnachweis und entsprechende §§348–350 zutreffend; keine Todeserklärung.
+- **p352 (corrected):** Alle acht Angaben und Absätze2/3 geprüft; ausdrückliche Pflicht zur Angabe anhängigen Erbrechtsstreits nach Abs1 Nr6 ergänzt. Urkunden und eidesstattliche Versicherung klar getrennt.
+- **p352a (confirmed):** Antrag eines Miterben, alle Antragsteller als Quotenverzichtende, Annahmeangabe für übrige Erben und grundsätzliche Versicherung aller Erben mit gerichtlicher Ausnahme geprüft.
+- **p352b (confirmed):** Nacherbe, Eintrittsvoraussetzungen und Befreiungsanordnungen sowie Testamentsvollstreckerhinweis in beiden Absätzen vollständig; Eintrag schafft keine materielle Befugnis.
+- **p352c (confirmed):** Auslandsgegenstand als Voraussetzung, Beschränkung auf Inland statt Einzelobjekte, Register- und Anspruchsfiktion sowie Trennung von Erbstatut und Zuständigkeit geprüft.
+- **p352d (confirmed):** Ermessensentscheidung, nur Bekanntmachungsart und Frist nach Aufgebotsrecht; keine materielle Ausschließung schweigender Erben behauptet.
+- **p352e (confirmed):** Erlasswirksamkeit, kumulative Sicherungen bei entgegenstehendem Beteiligtenwillen und Einziehungsziel nach Erteilung geprüft. Beide zitierten amtlichen Entscheidungen vollständig erneut gelesen; Aussage und Grenzen bestätigt.
+- **p353 (confirmed):** Einziehung/Kraftlosigkeit, Monatsfrist nach Bundesanzeiger und frühere Anfechtungssperre getrennt; Kostenentscheidung und neues gleichlautendes Zeugnis zutreffend.
+- **p354 (confirmed):** Abschließender Zeugnisverweis, entsprechende Anwendung samt angepasster Beteiligung und beide Angaben des Abs2 geprüft.
+- **p355 (corrected):** Drei Rechtsmittelkonstellationen geprüft; zur sofortigen Beschwerde Abs1 die Zweiwochen-Notfrist nach frischem amtlichem §569 ZPO ergänzt. Abs2 und selbständige Befugnis Abs3 zutreffend.
+- **p356 (confirmed):** Mitteilung Kindeserwerb mit Inventarpflicht, Sollunterrichtung des allgemeinen Nachlassgerichts und begrenzte Stiftungsmitteilung samt bereits gestelltem Anerkennungsantrag geprüft.
+- **p357 (confirmed):** Eröffnete Verfügung und rechtliches Interesse, Ausfertigung vorhandener Zeugnisse und Beschlüsse, Abgrenzung zu Akteneinsicht und bloßer Neugier zutreffend.
+- **p358 (corrected):** Beschlussform und fehlende materielle Erbrechtsentscheidung bestätigt; Todeskenntnis, unverzügliche Pflicht und fehlende besondere amtliche Verwahrung nach §2259 Abs1 BGB konkret ergänzt.
+- **p359 (confirmed):** Nur stattgebender Erbenantrag unanfechtbar; bei Gläubigerantrag geschlossener Kreis einschließlich einzelner Miterben und verwaltungsbefugtem Vollstrecker geprüft.
+- **p360 (confirmed):** Einheitlicher Gläubiger-Fristbeginn mit Bekanntgabe an Antragsteller, keine eigene Fristlänge, entsprechende neue Frist/Verlängerung samt Ablehnung geprüft.
+- **p361 (corrected):** Beiderseitiges Antragsrecht, Ladung trotz entbehrlicher Gläubigeranwesenheit bestätigt. Verweisungen auf persönliche Erklärung, Belehrung und Verständigung ausgeführt, Inhalt und Ergänzung nach §2006 BGB ergänzt.
+- **p362 (corrected):** Materieller Änderungsweg §2331a Abs2 iVm §1382 Abs6 BGB trotz Ausschluss allgemeiner Abänderung/Wiederaufnahme ergänzt; Zuständigkeit nur bei unbestrittenem Anspruch und §1382 Abs5 klargestellt. Rechtskraft und gesonderter Zahlungsantrag bestätigt.
+- **p363 (confirmed):** Notarielle Vermittlung, Ausschluss bei auseinandersetzungsbefugtem Vollstrecker, alle vier Berechtigtenkreise und Sollantragsinhalt gegen Wortlaut geprüft; keine einseitige Teilungsbefugnis suggeriert.
+- **p364 (confirmed):** Ausdrücklich weggefallene Nummer erhalten, keine historische Regel als geltend dargestellt; angemessen kurzer technischer Kommentar.
