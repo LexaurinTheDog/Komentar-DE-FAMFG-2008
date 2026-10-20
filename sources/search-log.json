@@ -111,5 +111,25 @@
     ],
     "limits": "Selective issue research; no exhaustive corpus or subsequent appellate-history search. Rn.27 of OLG case expressly records divergent senate authority and admitted appeal. No additional sufficiently verified case added for other batch units.",
     "additional_query": "site.rechtsprechung-im-internet.de \"§ 31\" \"überwiegende Wahrscheinlichkeit\"; site.bundesgerichtshof.de \"Glaubhaftmachung\" \"überwiegende Wahrscheinlichkeit\" \"FamFG\""
+  },
+  "bounded_review_p37_p55": {
+    "review_date": "2026-10-20",
+    "firecrawl": "Authenticated, zero available credits; direct official XML/ZIP fallback",
+    "web_queries": [
+      "site.rechtsprechung-im-internet.de FamFG §47 Vertrauen",
+      "site.rechtsprechung-im-internet.de §54 mündlichen Verhandlung FamFG",
+      "BGH Juli2015 §47 FamFG Widerruf"
+    ],
+    "local_corpus_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+    "local_selected": "sources/review-p47-local-KORE301152015.md",
+    "official_full_text_read": "KORE301152015 / XII ZB674/14; full tenor and reasons1–37",
+    "supported_units": [
+      "p47"
+    ],
+    "not_relied_on": [
+      "KORE313792015 / XII ZB89/15: preliminary candidate identified as different issue by tenor; no reasons read, no authority claimed",
+      "BGH PDF nr72073: web403; Voris10UF269/12: web402, no full text read"
+    ],
+    "limits": "Selective research; no additional sufficiently verified new case for the other19 units. No conclusion that case law does not exist. BGH2015 substantive guardianship prerequisites not adopted as current law."
   }
 }

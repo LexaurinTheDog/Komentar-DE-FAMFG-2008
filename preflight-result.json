@@ -810,5 +810,34 @@
     },
     "coverage": "completeness-report.json: all 529 identifiers, 599 XML norms accounted for, no text mismatch or omitted operative annex",
     "unresolved_blockers": []
+  },
+  "bounded_review_p37_p55": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "verified_at": "2026-10-20T15:33:53.623031+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "fresh_xml": "sources/review-p37-p55-famfg.xml",
+    "fresh_xml_identical_to_canonical": true,
+    "version_evidence": "Fresh identical official XML; reviewed BGBl.2026 I Nr.192 Art.4/20, effective 1.10.2026 (§41a,§46 and §113 reference). Earlier detailed version/commencement evidence and current-service screening retained above.",
+    "historical_versions_checked": {
+      "historical_elements": [],
+      "duplicate_official_ids": [],
+      "intake_change_map": "sources/change-map.json",
+      "future_2027_changes": "excluded as documented in version_evidence; no second operative copy"
+    },
+    "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "parser_coverage": {
+      "expected": 529,
+      "parsed": 529,
+      "missing": [],
+      "extra": [],
+      "unclassified": []
+    },
+    "unresolved_blockers": []
   }
 }

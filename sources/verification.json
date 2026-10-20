@@ -478,6 +478,56 @@
       "bytes": 29629,
       "format_validation": "HTML parsed; docket and full reasons verified",
       "text_path": "sources/review-p31-OLG-Bamberg-3-Wx-15-24.txt"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T15:28:48.391366+00:00",
+      "path": "sources/review-p37-p55-famfg.zip",
+      "purpose": "bounded second pass p37–p55",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783,
+      "xml_path": "sources/review-p37-p55-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP signature, CRC, one XML member, parsed FamFG identity and canonical equality"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T15:28:48.633819+00:00",
+      "path": "sources/review-p37-p55-index.html",
+      "purpose": "bounded second pass p37–p55",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117,
+      "format_validation": "HTML with expected FamFG title and final provision"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313792015.zip",
+      "accessed_at": "2026-10-20T15:29:18.862092+00:00",
+      "purpose": "bounded review p47; actual full BGH decision",
+      "path": "sources/review-p47-XII-ZB-89-15.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "3ebd7e187e600038350b5f0f0f81cbf948c9824bf2270f6b6a748c89a25d0e4c",
+      "xml_path": "sources/review-p47-XII-ZB-89-15.xml",
+      "xml_sha256": "afb9673a8f483ef4ff485f5392fd7925f64f09014c6f2bfd7f8cf32b5bdf93de",
+      "format_validation": "ZIP signature, CRC, single parsed XML, doknr verified"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301152015.zip",
+      "accessed_at": "2026-10-20T15:29:46.114947+00:00",
+      "purpose": "bounded review p47; selected BGH decision",
+      "path": "sources/review-p47-XII-ZB-674-14.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "57839a79edd4509d39cc39ab8fd187517572df35816aeea5a37cdcfe98ed1dce",
+      "xml_path": "sources/review-p47-XII-ZB-674-14.xml",
+      "xml_sha256": "bc13b7eba41ce034732e10d293941777fa3d15fb2bc43037e68e05d1ec7124e3",
+      "format_validation": "ZIP signature, CRC, single parsed XML, doknr verified"
     }
   ],
   "version_assessment": {

@@ -18,6 +18,8 @@ Freie Überzeugungsbildung bedeutet eigenverantwortliche Würdigung des gesamten
 
 Absatz 2 setzt eine eigenständige Grenze: Belastende Entscheidungen dürfen nur auf Tatsachen und Beweisergebnisse gestützt werden, zu denen der betroffene Beteiligte Stellung nehmen konnte. Aktenkundigkeit allein genügt hierfür nicht immer. Beispiel: Nach dem Anhörungstermin trifft eine entscheidende fachliche Stellungnahme ein. Das Gericht darf sie nicht allein wegen vermeintlicher Eindeutigkeit sofort verwerten. Es muss den betroffenen Beteiligten eine sachgerechte Äußerungsmöglichkeit eröffnen und etwaigen weiteren Aufklärungsbedarf prüfen.
 
+Die Äußerungsmöglichkeit nach Absatz 2 muss vor der belastenden Entscheidung bestehen; eine tatsächliche Stellungnahme ist dagegen nicht Voraussetzung. Freie Würdigung erlaubt auch nicht, entscheidungserhebliches Vorbringen ohne Prüfung zu übergehen. In Ehe- und Familienstreitsachen ist § 37 nach § 113 Absatz 1 ausgeschlossen; dort gilt das verwiesene ZPO-Regime.
+
 **Prüfliste zur Tatsachengrundlage:** Erhebliche Tatsachen bestimmen; fehlende Angaben erfragen; förmliche Beweisaufnahme prüfen; Ergebnisse dokumentieren; Stellungnahme ermöglichen; verbleibende Widersprüche im Beschluss nachvollziehbar würdigen.
 
 #### Abschnitt 3 — Beschluss
@@ -51,9 +53,11 @@ Absatz 2 setzt eine eigenständige Grenze: Belastende Entscheidungen dürfen nur
 >
 > (6) Soll ein ohne Begründung hergestellter Beschluss im Ausland geltend gemacht werden, gelten die Vorschriften über die Vervollständigung von Versäumnis- und Anerkenntnisentscheidungen entsprechend.
 
-Die Endentscheidung erfolgt grundsätzlich durch Beschluss; maßgeblich ist die vollständige oder teilweise Erledigung des Verfahrensgegenstands. Absatz 2 sichert durch Beteiligten-, Gerichts- und Richterangaben sowie Beschlussformel die Zuordnung der Entscheidung. Absatz 3 verlangt Begründung, Unterschrift und Vermerk des Erlassdatums. Erlass, Bekanntgabe, Wirksamkeit und Rechtskraft sind verschiedene Vorgänge und dürfen nicht gleichgesetzt werden.
+Die Endentscheidung erfolgt grundsätzlich durch Beschluss; maßgeblich ist die vollständige oder teilweise Erledigung des Verfahrensgegenstands. Absatz 2 sichert durch Angaben zu Beteiligten, Vertretern, Gericht und mitwirkenden Gerichtspersonen sowie Beschlussformel die Zuordnung der Entscheidung. Absatz 3 verlangt Begründung, Unterschrift und Vermerk des Erlassdatums. Erlass, Bekanntgabe, Wirksamkeit und Rechtskraft sind verschiedene Vorgänge und dürfen nicht gleichgesetzt werden.
 
 Die Begründungsausnahmen des Absatzes 4 gelten nur innerhalb der Rückausnahmen des Absatzes 5. Gerade Betreuungs- und Abstammungssachen bleiben auch bei Einverständnis begründungsbedürftig; erwartete Auslandsverwendung schließt die Erleichterung ebenfalls aus. Absatz 6 ermöglicht später notwendige Vervollständigung. Beispiel: Alle Beteiligten stimmen einer Betreuungsentscheidung zu. Das Gericht darf die Begründung trotzdem nicht allein wegen fehlenden Widerspruchs weglassen. Die Schutzfunktion der Entscheidung verlangt die gesetzlich vorgesehene Nachvollziehbarkeit.
+
+Absatz 1 lässt gesetzliche Abweichungen in Registersachen zu. Absatz 4 unterscheidet drei Begründungserleichterungen: entsprechend bezeichnete Anerkenntnis-, Verzichts- oder Versäumnisentscheidungen, übereinstimmende Anträge beziehungsweise fehlenden Widerspruch zum erklärten Willen sowie mündliche Bekanntgabe vor allen Beteiligten bei allseitigem Rechtsmittelverzicht. Diese Aufzählung schafft keine selbständige Befugnis zu einer sonst unzulässigen Entscheidungsart; insbesondere bleibt die Versäumnisentscheidung im Eilverfahren nach § 51 Absatz 2 ausgeschlossen. Absatz 5 erfasst auch Ehesachen, ausgenommen die eine Scheidung aussprechende Entscheidung. Auch diese Ausnahme befreit nicht ohne einen Tatbestand des Absatzes 4 von der Begründung. Absatz 6 betrifft den erst später hervortretenden Bedarf der Auslandsverwendung.
 
 ### § 39 — Rechtsbehelfsbelehrung
 
@@ -61,9 +65,11 @@ Die Begründungsausnahmen des Absatzes 4 gelten nur innerhalb der Rückausnahmen
 
 > Jeder Beschluss hat eine Belehrung über das statthafte Rechtsmittel, den Einspruch, den Widerspruch oder die Erinnerung sowie das Gericht, bei dem diese Rechtsbehelfe einzulegen sind, dessen Sitz und die einzuhaltende Form und Frist zu enthalten. Über die Sprungrechtsbeschwerde muss nicht belehrt werden.
 
-Die Rechtsbehelfsbelehrung muss den konkreten statthaften Rechtsbehelf, Einlegungsgericht und Sitz sowie Form und Frist nennen. Eine pauschale Aussage, „Rechtsmittel seien möglich“, erfüllt diese Informationsfunktion nicht. Die Belehrung richtet sich nach der tatsächlich anwendbaren Verfahrensordnung; Sonderregeln einzelner Familiensachen können von den allgemeinen Beschwerdevorschriften abweichen. Über die Sprungrechtsbeschwerde ist ausdrücklich nicht zu belehren.
+Die Rechtsbehelfsbelehrung muss den konkreten statthaften Rechtsbehelf, Einlegungsgericht und Sitz sowie Form und Frist nennen. Eine pauschale Aussage, „Rechtsmittel seien möglich“, erfüllt diese Informationsfunktion nicht. Die Belehrung richtet sich nach der tatsächlich anwendbaren Verfahrensordnung; Sonderregeln einzelner Familiensachen können von den allgemeinen Beschwerdevorschriften abweichen. Über die Sprungrechtsbeschwerde muss nicht belehrt werden; das Gesetz enthält eine Befreiung von der Belehrungspflicht, kein Belehrungsverbot.
 
 Eine unrichtige Belehrung schafft keinen gesetzlich nicht vorgesehenen Rechtsbehelf. Sie kann aber über § 17 Absatz 2 für die Wiedereinsetzung bedeutsam sein. Beispiel: Ein Beschluss verweist für eine Beschwerde auf das falsche Einlegungsgericht. Nach Entdeckung des Fehlers sind richtiger Rechtsbehelf und Wiedereinsetzungsvoraussetzungen zu prüfen; die fehlerhafte Belehrung ersetzt nicht die fristgerechte Nachholung nach § 18. Für die Geschäftsstelle empfiehlt sich deshalb die Prüfung der konkreten Entscheidungsart vor Verwendung eines Textbausteins.
+
+§ 39 bleibt auch in Ehe- und Familienstreitsachen anwendbar, obwohl § 113 Absatz 1 zahlreiche benachbarte Vorschriften ausschließt. Die dortige Wiedereinsetzungsfrage richtet sich entsprechend der Verweisung nach dem ZPO-Regime; §§ 17 und 18 dürfen insoweit nicht unmittelbar angewendet werden.
 
 ### § 40 — Wirksamwerden
 
@@ -79,6 +85,8 @@ Nach Absatz 1 wird ein Beschluss grundsätzlich mit Bekanntgabe an denjenigen wi
 
 Absatz 2 verschiebt die Wirksamkeit gerichtlicher Genehmigungen eines Rechtsgeschäfts auf die Rechtskraft und verlangt einen entsprechenden Ausspruch. Absatz 3 enthält für die dort bestimmten Ersetzungs- und Aufhebungsentscheidungen ebenfalls grundsätzlich Rechtskraft als Schwelle, lässt bei Gefahr im Verzug aber sofortige Wirksamkeit mit Bekanntgabe an den Antragsteller zu. Beispiel: Eine Genehmigung liegt als elektronisches Dokument vor, ist aber noch anfechtbar. Die technische Verfügbarkeit macht sie nicht bereits wirksam; für den Vollzug des Geschäfts ist der gesetzliche Rechtskraftvorbehalt zu berücksichtigen.
 
+Die Eilbefugnis des Absatzes 3 darf nicht auf die Genehmigung nach Absatz 2 übertragen werden. Ein schneller Vollzugswunsch allein beseitigt deren Rechtskraftvorbehalt nicht. Vor Anwendung des allgemeinen § 40 sind außerdem besondere Wirksamkeitsregeln und der Ausschluss nach § 113 Absatz 1 für Ehe- und Familienstreitsachen zu beachten.
+
 ### § 41 — Bekanntgabe des Beschlusses
 
 **Wortlaut der Vorschrift:**
@@ -92,6 +100,8 @@ Absatz 2 verschiebt die Wirksamkeit gerichtlicher Genehmigungen eines Rechtsgesc
 Die Bekanntgabe erfolgt grundsätzlich durch beglaubigte Abschrift. Ausfertigungen gibt es nur auf Antrag und in Papierform; besondere elektronische Übermittlungsvorschriften sind daneben zu beachten. Bei einem anfechtbaren Beschluss ist Zustellung an denjenigen erforderlich, dessen erklärtem Willen die Entscheidung widerspricht. Das Gericht muss deshalb die dokumentierten Anträge und Erklärungen mit dem Ergebnis vergleichen.
 
 Absatz 2 erlaubt gegenüber Anwesenden Verlesen der Formel, verlangt Aktenvermerk, unverzügliche Nachholung der Begründung und zusätzliche schriftliche Bekanntgabe. Absatz 3 schützt bei Genehmigungen auch denjenigen, für den das Geschäft genehmigt wird. Beispiel: Ein gesetzlicher Vertreter erhält die Genehmigung, während die gesetzlich ebenfalls gebotene Bekanntgabe an die betroffene Person unterbleibt. Aus dem Zugang beim Vertreter darf nicht unbesehen auf einen vollständig abgeschlossenen Bekanntgabe- und Rechtskraftvorgang geschlossen werden. Die Fristprüfung nach § 63 bleibt gesondert erforderlich.
+
+Gerade nach mündlicher Bekanntgabe sind Wirksamkeit und Fristbeginn getrennt festzuhalten: § 40 Absatz 1 kann bereits eingreifen, während § 63 Absatz 3 für den Beschwerdefristbeginn an schriftliche Bekanntgabe anknüpft. Bei Rechtsgeschäftsgenehmigungen gelten zusätzlich der Rechtskraftvorbehalt des § 40 Absatz 2 und die zweiwöchige Beschwerdefrist des § 63 Absatz 2 Nummer 2. § 41 gilt wegen § 113 Absatz 1 nicht unmittelbar für Ehe- und Familienstreitsachen.
 
 ### § 41a — Elektronische Bekanntgabe; Übermittlung; Verordnungsermächtigungen
 
@@ -107,7 +117,9 @@ Absatz 2 erlaubt gegenüber Anwesenden Verlesen der Formel, verlangt Aktenvermer
 
 Die seit 1. Oktober 2026 wirksame Vorschrift ordnet für die Bekanntgabe eines Genehmigungsbeschlusses an einen Notar das gerichtliche elektronische Dokument an. Es handelt sich um eine besondere Übermittlungsregel für einen bestimmten Empfänger und Gegenstand. Die übrigen Bekanntgabepflichten, insbesondere gegenüber demjenigen, für den das Geschäft genehmigt wird, werden dadurch nicht beseitigt.
 
-Absatz 1 verlangt außerdem ein qualifiziertes Zertifikat oder zugehöriges Attributzertifikat, das das Gericht erkennen lässt. Absatz 2 ermöglicht nähere Verordnungsregeln zu Daten, Barrierefreiheit, strukturierten Zusatzangaben und technischen Störungen. Eine bloße E-Mail mit ungesicherter Datei erfüllt nicht schon wegen ihres elektronischen Formats alle Anforderungen. Beispiel: Eine Notarin erhält eine Genehmigung für den Vollzug eines Geschäfts. Sie muss elektronische Bekanntgabe und erforderlichen Rechtskraftnachweis auseinanderhalten; das elektronische Dokument allein beseitigt den Vorbehalt des § 40 Absatz 2 nicht. Quellenbeleg: BGBl. 2026 I Nr. 192, Artikel 4 und 20.
+Absatz 1 verlangt außerdem ein qualifiziertes Zertifikat oder zugehöriges qualifiziertes Attributzertifikat, das das Gericht erkennen lässt. Absatz 2 ermöglicht nähere Verordnungsregeln zu Daten, Barrierefreiheit, strukturierten Zusatzangaben und technischen Störungen. Eine bloße E-Mail mit ungesicherter Datei erfüllt nicht schon wegen ihres elektronischen Formats alle Anforderungen. Beispiel: Eine Notarin erhält eine Genehmigung für den Vollzug eines Geschäfts. Sie muss elektronische Bekanntgabe und erforderlichen Rechtskraftnachweis auseinanderhalten; das elektronische Dokument allein beseitigt den Vorbehalt des § 40 Absatz 2 nicht. Quellenbeleg: BGBl. 2026 I Nr. 192, Artikel 4 und 20.
+
+Adressiert ist der Notar, dem ein solcher Beschluss bekanntzugeben ist; die Vorschrift ordnet keine allgemeine Beteiligung eines Notars an jedem Genehmigungsverfahren an. Die Verordnungsermächtigung setzt eine Verordnung der Bundesregierung mit Zustimmung des Bundesrates voraus. Sie ist von einer tatsächlich erlassenen technischen Detailregel zu unterscheiden. Für Ehe- und Familienstreitsachen schließt § 113 Absatz 1 auch § 41a aus.
 
 ### § 42 — Berichtigung des Beschlusses
 
@@ -123,6 +135,8 @@ Die Berichtigung beseitigt Schreib-, Rechen- und ähnliche offenbare Unrichtigke
 
 Absatz 2 sichert die Verbindung zwischen ursprünglichem und berichtigendem Beschluss auch im elektronischen Verfahren. Absatz 3 behandelt Rechtsbehelfe asymmetrisch: Die Zurückweisung des Berichtigungsantrags ist unanfechtbar; die ausgesprochene Berichtigung unterliegt sofortiger Beschwerde. Beispiel: Die Formel nennt aufgrund eines sichtbaren Zahlendrehers einen anderen Betrag als die eindeutig zugrunde gelegte Rechnung. Eine Berichtigung kann in Betracht kommen. Soll dagegen eine bewusst gewählte Bewertungsmethode geändert werden, ist der passende Rechtsbehelf oder Abänderungsweg zu prüfen.
 
+Der Berichtigungsvermerk gehört auf den berichtigten Beschluss und seine Ausfertigungen. In der Form des § 14 Absatz 3 wird die Berichtigung in einem gesonderten, untrennbar verbundenen elektronischen Dokument festgehalten; ein stilles Überschreiben der ursprünglichen Datei genügt nicht. Für die sofortige Beschwerde verweist Absatz 3 auf §§ 567–572 ZPO, nicht auf die allgemeine FamFG-Endentscheidungsbeschwerde. Der Anwendungsausschluss des § 113 Absatz 1 bleibt zu beachten.
+
 ### § 43 — Ergänzung des Beschlusses
 
 **Wortlaut der Vorschrift:**
@@ -134,6 +148,8 @@ Absatz 2 sichert die Verbindung zwischen ursprünglichem und berichtigendem Besc
 Die Ergänzung betrifft eine ausgelassene Entscheidung über einen nach Aktenlage gestellten Antrag oder über die Kosten. Sie unterscheidet sich sowohl von der Berichtigung einer offenbaren Unrichtigkeit nach § 42 als auch vom Rechtsmittel gegen eine tatsächlich getroffene, aber inhaltlich beanstandete Entscheidung. Maßgeblich ist, ob ein Entscheidungsgegenstand übergangen oder bereits ausdrücklich beziehungsweise nach dem Beschlussinhalt behandelt wurde.
 
 Der Antrag muss binnen zwei Wochen ab schriftlicher Bekanntgabe gestellt werden. Die Frist knüpft damit nicht schon an jede mündliche Mitteilung des Ergebnisses an. Beispiel: Ein Beschluss entscheidet über die beantragte Hauptmaßnahme, enthält jedoch trotz entsprechenden Verfahrensstoffs keinerlei Kostenentscheidung. Der Beteiligte kann Ergänzung beantragen. Hat das Gericht die Kosten dagegen bewusst anders verteilt als gewünscht, ist § 43 kein Instrument, um die getroffene Wertung unter Umgehung der Rechtsmittelregeln neu verhandeln zu lassen.
+
+Die Ergänzung verlangt auch bei einer unterbliebenen Kostenentscheidung einen Antrag; Absatz 1 ordnet keine Ergänzung von Amts wegen an. Ein nachträglich erstmals erhobenes Sachbegehren ist kein aktenkundig übergangener Antrag. In Ehe- und Familienstreitsachen ist statt § 43 das durch § 113 Absatz 1 eröffnete Verfahrensrecht heranzuziehen.
 
 ### § 44 — Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
@@ -157,6 +173,8 @@ Die Gehörsrüge ist ein subsidiärer Weg zur Fortsetzung des Verfahrens. Sie se
 
 Absatz 2 verlangt binnen zwei Wochen ab Kenntnis eine ausreichend bestimmte Rüge und Glaubhaftmachung des Kenntniszeitpunkts; zusätzlich gilt die Jahresgrenze ab Bekanntgabe. Die übrigen Beteiligten werden erforderlichenfalls gehört. Absatz 4 trennt Unzulässigkeit und Unbegründetheit und sieht einen unanfechtbaren Beschluss vor. Bei Erfolg wird nach Absatz 5 nur im gebotenen Umfang fortgeführt. Beispiel: Das Gericht verwertet eine entscheidende, dem Beteiligten unbekannte Auskunft. Dieser muss erläutern, welche Äußerungsmöglichkeit fehlte und warum das Ergebnis dadurch beeinflusst sein kann. Bloße Unzufriedenheit mit der Beweiswürdigung genügt nicht.
 
+Die Rüge gehört schriftlich oder zur Niederschrift an das Gericht, dessen Entscheidung angegriffen wird; eine Einreichung bei der vermeintlich nächsten Instanz ersetzt dies nicht. Sie muss die konkrete Entscheidung und die entscheidungserhebliche Gehörsverletzung bezeichnen. Die Jahresgrenze läuft ab Bekanntgabe an gerade den rügenden Beteiligten. Der über die Rüge entscheidende Beschluss soll kurz begründet werden. § 48 Absatz 3 enthält eine zusätzliche Bestandsgrenze bei gegenüber Dritten wirksam gewordenen Genehmigungen oder Verweigerungen. Ehe- und Familienstreitsachen unterfallen wegen § 113 Absatz 1 dem ZPO-Regime, nicht § 44.
+
 ### § 45 — Formelle Rechtskraft
 
 **Wortlaut der Vorschrift:**
@@ -166,6 +184,8 @@ Absatz 2 verlangt binnen zwei Wochen ab Kenntnis eine ausreichend bestimmte Rüg
 Formelle Rechtskraft bezeichnet die Unangreifbarkeit innerhalb der vorgesehenen ordentlichen Rechtsbehelfswege. Sie tritt nach § 45 nicht vor Ablauf der Frist für den zulässigen Rechtsbehelf ein. Dessen rechtzeitige Einlegung hemmt den Eintritt. Es kommt deshalb auf Statthaftigkeit und Rechtzeitigkeit an; eine beliebige Eingabe mit der Überschrift „Beschwerde“ hält die Rechtskraft nicht notwendig auf.
 
 Die Vorschrift ist mit Wirksamkeit nach § 40 und Vollstreckbarkeit nach §§ 86 ff. abzugleichen. Ein Beschluss kann bereits wirksam sein, obwohl er noch nicht rechtskräftig ist; bei Genehmigungen macht § 40 Absatz 2 gerade eine Ausnahme. Beispiel: Nach schriftlicher Bekanntgabe einer Genehmigung läuft noch die Beschwerdefrist. Ein vorzeitig erteiltes Rechtskraftzeugnis würde den wirklichen Fristablauf nicht ersetzen. Für die Praxis müssen Zustellungsnachweise, Rechtsbehelfsfristen und eingegangene Rechtsbehelfe vollständig geprüft werden.
+
+§ 45 nennt neben Rechtsmitteln ausdrücklich Einspruch, Widerspruch und Erinnerung; maßgeblich ist der im konkreten Verfahren zulässige Angriff. Daraus entsteht kein Wahlrecht zwischen diesen Wegen. Die Norm definiert weder eine allgemeine materielle Bindungswirkung noch schließt formelle Rechtskraft eine gesetzlich eröffnete spätere Abänderung, etwa nach § 48, aus. In Ehe- und Familienstreitsachen ist § 45 durch § 113 Absatz 1 ausgeschlossen.
 
 ### § 46 — Rechtskraftzeugnis
 
@@ -179,15 +199,19 @@ Das Rechtskraftzeugnis dokumentiert den aus den Verfahrensakten erkennbaren Rech
 
 Absatz 2 enthält für notarielle Empfänger eines Genehmigungsbeschlusses die elektronische Erteilung mit den Identifizierbarkeits- und Verordnungsvorgaben des § 41a. Das Zeugnis ersetzt weder die Genehmigung selbst noch eine fehlende Bekanntgabe. Beispiel: Eine Notarin benötigt für den Vollzug eines genehmigten Vertrags den Rechtskraftnachweis. Sie erhält diesen nach dem besonderen elektronischen Verfahren. Die Geschäftsstelle muss zuvor aus der Akte prüfen, ob sämtliche maßgeblichen Rechtsbehelfsfristen tatsächlich abgelaufen sind; der bloße Wunsch nach raschem Vollzug genügt nicht.
 
+Die Erinnerung nach Absatz 1 Satz 4 richtet sich entsprechend § 573 ZPO binnen einer Notfrist von zwei Wochen an das Gericht; die Form ist schriftlich oder zu Protokoll der Geschäftsstelle. In Ehe- und Familienstreitsachen ist § 46 nicht insgesamt ausgeschlossen: § 113 Absatz 1 nimmt nur Absatz 1 Sätze 1 und 2 sowie Absatz 2 aus. Die amtswegige Erteilung in Ehesachen und die Erinnerungsregel bleiben von dieser Ausschlussliste unberührt. Die seit 1. Oktober 2026 geltende Neufassung des § 46 und die angepasste Verweisung in § 113 beruhen auf Artikel 4 und 20 des Gesetzes BGBl. 2026 I Nr. 192.
+
 ### § 47 — Wirksam bleibende Rechtsgeschäfte
 
 **Wortlaut der Vorschrift:**
 
 > Ist ein Beschluss ungerechtfertigt, durch den jemand die Fähigkeit oder die Befugnis erlangt, ein Rechtsgeschäft vorzunehmen oder eine Willenserklärung entgegenzunehmen, hat die Aufhebung des Beschlusses auf die Wirksamkeit der inzwischen von ihm oder ihm gegenüber vorgenommenen Rechtsgeschäfte keinen Einfluss, soweit der Beschluss nicht von Anfang an unwirksam ist.
 
-§ 47 schützt die Beständigkeit des Rechtsverkehrs, wenn ein wirksam gewordener, später als ungerechtfertigt aufgehobener Beschluss jemandem die Fähigkeit oder Befugnis zur Vornahme eines Rechtsgeschäfts oder Entgegennahme einer Erklärung verschafft hat. Bereits zwischenzeitlich vorgenommene Geschäfte bleiben von der Aufhebung grundsätzlich unberührt. Die Norm setzt gerade ein rechtliches Vertrauen auf eine tatsächlich bestehende Wirksamkeit voraus.
+§ 47 schützt die Beständigkeit des Rechtsverkehrs, wenn ein wirksam gewordener, später als ungerechtfertigt aufgehobener Beschluss jemandem die Fähigkeit oder Befugnis zur Vornahme eines Rechtsgeschäfts oder Entgegennahme einer Erklärung verschafft hat. Bereits zwischenzeitlich vorgenommene Geschäfte bleiben von der Aufhebung grundsätzlich unberührt. Entscheidend ist die wirksam begründete Fähigkeit oder Befugnis. Ein gesondertes subjektives Vertrauen oder die Gutgläubigkeit eines Geschäftspartners verlangt der Wortlaut nicht.
 
 Die ausdrückliche Grenze bilden von Anfang an unwirksame Beschlüsse. Zudem heilt die Vorschrift nicht jeden anderen Mangel des Rechtsgeschäfts. Beispiel: Eine Person nimmt aufgrund einer wirksamen gerichtlichen Ermächtigung eine Erklärung entgegen; später wird die Ermächtigung aufgehoben. Die Aufhebung allein beseitigt die Wirksamkeit des zwischenzeitlichen Empfangs nicht. Ob die Erklärung aus anderen Gründen fehlerhaft war, bleibt gesondert zu prüfen. Der Schutz des § 47 ist daher zeitlich und sachlich auf die Folgen der Beschlussaufhebung beschränkt.
+
+Eine historische Anwendung liefert BGH, Beschluss vom 28. Juli 2015 – XII ZB 674/14, Rn. 14–15: Die spätere Aufhebung der Betreuerbestellung sollte einen bereits wirksamen Vollmachtwiderruf nicht rückwirkend beseitigen. Die damaligen betreuungsrechtlichen Widerrufsvoraussetzungen sind damit nicht als heutiges Recht übernommen; siehe [Fallkarte](cases/BGH-XII-ZB-674-14.md). Auch § 47 unterliegt dem Anwendungsausschluss des § 113 Absatz 1.
 
 ### § 48 — Abänderung und Wiederaufnahme
 
@@ -202,6 +226,8 @@ Die ausdrückliche Grenze bilden von Anfang an unwirksame Beschlüsse. Zudem hei
 Absatz 1 ermöglicht die Anpassung rechtskräftiger Endentscheidungen mit Dauerwirkung an nachträgliche wesentliche Veränderungen der Sach- oder Rechtslage. Er eröffnet keine verspätete Kontrolle schon ursprünglich behaupteter Fehler. Antragsabhängige Verfahren bleiben auch bei der Abänderung an einen Antrag gebunden. Zuständig ist grundsätzlich das Gericht des ersten Rechtszugs; besondere Abänderungsregeln einzelner Sachgebiete sind gesondert zu beachten.
 
 Absatz 2 verweist für die Wiederaufnahme auf das entsprechende ZPO-Verfahren. Absatz 3 schützt dagegen die Beständigkeit von Genehmigungsentscheidungen, wenn Genehmigung oder Verweigerung einem Dritten gegenüber wirksam geworden sind; die bezeichneten Korrekturwege werden dann ausgeschlossen. Beispiel: Eine dauernde Maßnahme beruht auf einer inzwischen erheblich veränderten Lebenssituation. Das kann Abänderung tragen. Eine lediglich nachträglich anders bewertete unveränderte Tatsache reicht für Absatz 1 nicht ohne Weiteres aus.
+
+Die wesentliche Veränderung muss die Grundlage der Dauerentscheidung betreffen; eine beliebige neue Rechtsansicht eines Beteiligten genügt nicht. Absatz 2 eröffnet mit dem Verweis auf Buch 4 ZPO ebenfalls keine voraussetzungslose Neuentscheidung, sondern übernimmt dessen besonderen Wiederaufnahmerahmen. Bei Absatz 3 ist die Wirksamkeit gegenüber einem Dritten der zusätzliche Anknüpfungspunkt; bloße Bekanntgabe irgendeiner Genehmigungsentscheidung ist damit nicht gleichzusetzen. Die dort genannte Wiedereinsetzung und Gehörsrüge dürfen nicht zur Umgehung des Bestandsschutzes eingesetzt werden. §§ 47 und 48 ergänzen sich: Ersterer betrifft zwischenzeitliche Geschäfte, letzterer bestimmte Korrekturwege gegen den Beschluss. Für Ehe- und Familienstreitsachen ist § 48 nach § 113 Absatz 1 ausgeschlossen.
 
 **Prüfliste zur Entscheidung:** Formel und Gründe abstimmen; Erlass festhalten; Empfänger und Zustellungsgebote prüfen; Wirksamkeit und Rechtskraft trennen; Berichtigung, Ergänzung, Gehörsrüge und Abänderung nach ihrem jeweiligen Fehlerbild auswählen.
 
@@ -219,6 +245,8 @@ Einstweiliger Rechtsschutz verlangt sowohl eine nach dem maßgeblichen Rechtsver
 
 Absatz 2 erlaubt Sicherung und vorläufige Regelung einschließlich Geboten, Verboten und notwendigen Durchführungsanordnungen. Die Maßnahme bleibt auf ihren vorläufigen Zweck zu beziehen. Besondere Eilvorschriften der jeweiligen Verfahrensart können ergänzen oder abweichen. Beispiel: Bis zur Entscheidung über eine drohende Vermögensdisposition soll der bestehende Zustand gesichert werden. Das Gericht muss bestimmen, welche konkrete Verfügung zu untersagen ist und warum eine spätere Entscheidung den Schutz nicht mehr gewährleisten könnte. Eine pauschale Sperre sämtlicher Lebensbereiche wäre damit nicht automatisch gerechtfertigt.
 
+Ein angeordnetes Verfügungsverbot nach Absatz 2 benötigt einen Bezug zum geregelten Rechtsverhältnis und eine hinreichend bestimmte Reichweite. Die Formulierung, das Gericht könne einstweilen anordnen, ersetzt weder die sachliche Prüfung noch die Feststellung, warum Abwarten unzureichend wäre. Für das Verfahren ist § 51 maßgeblich; die Antrags- und Glaubhaftmachungsfrage ist deshalb getrennt von Inhalt und Dringlichkeit der Maßnahme zu behandeln.
+
 ### § 50 — Zuständigkeit
 
 **Wortlaut der Vorschrift:**
@@ -227,9 +255,11 @@ Absatz 2 erlaubt Sicherung und vorläufige Regelung einschließlich Geboten, Ver
 >
 > (2) In besonders dringenden Fällen kann auch das Amtsgericht entscheiden, in dessen Bezirk das Bedürfnis für ein gerichtliches Tätigwerden bekannt wird oder sich die Person oder die Sache befindet, auf die sich die einstweilige Anordnung bezieht. Es hat das Verfahren unverzüglich von Amts wegen an das nach Absatz 1 zuständige Gericht abzugeben.
 
-Die Zuständigkeit im Eilverfahren folgt grundsätzlich dem für die Hauptsache erstinstanzlich zuständigen Gericht. Bei bereits anhängiger Hauptsache knüpft Absatz 1 an deren aktuelle Instanz an; während der Anhängigkeit beim Beschwerdegericht entscheidet dieses. Damit soll die mit dem Streitstoff befasste Instanz auch über den vorläufigen Schutz befinden.
+Die Zuständigkeit im Eilverfahren folgt grundsätzlich dem für die Hauptsache erstinstanzlich zuständigen Gericht. Bei anhängiger Hauptsache bleibt grundsätzlich das Gericht des ersten Rechtszugs zuständig; während der Anhängigkeit beim Beschwerdegericht entscheidet dieses. Daraus folgt keine allgemeine Verlagerung in jede weitere Instanz, insbesondere nicht allein wegen einer anhängigen Rechtsbeschwerde. Damit soll die mit dem Streitstoff befasste Instanz auch über den vorläufigen Schutz befinden.
 
 Absatz 2 eröffnet in besonders dringenden Fällen zusätzliche örtliche Zugänge beim Amtsgericht am Ort des bekannt werdenden Bedürfnisses oder der betroffenen Person beziehungsweise Sache. Dieses Gericht muss anschließend unverzüglich an das regulär zuständige Gericht abgeben. Die Notzuständigkeit ist keine dauerhafte freie Gerichtsstandswahl. Beispiel: Eine sofortige Schutzmaßnahme wird fern vom gewöhnlich zuständigen Gericht notwendig. Das örtliche Amtsgericht kann bei besonderer Dringlichkeit eingreifen; es darf die Sache aber nicht allein wegen seiner ersten Befassung dauerhaft behalten. Erstentscheidung und weitere Verfahrensführung sind getrennt zu organisieren.
+
+Das besonders dringliche örtliche Eingreifen nach Absatz 2 verlangt mehr als die für § 49 ohnehin notwendige Dringlichkeit. Der zusätzliche Gerichtsstand soll gerade einen sofort erforderlichen Schutz ermöglichen, der über das regulär zuständige Gericht nicht rechtzeitig erreichbar wäre. Die anschließende Abgabe erfolgt von Amts wegen; es bedarf keines Übernahmeantrags des Begünstigten.
 
 ### § 51 — Verfahren
 
@@ -247,6 +277,8 @@ Die Antragsabhängigkeit der einstweiligen Anordnung folgt nach Absatz 1 der ent
 
 Absatz 3 stellt die Selbständigkeit des Eilverfahrens klar. Bereits durchgeführte Verfahrenshandlungen können eine Wiederholung in der Hauptsache ersparen, aber nur, wenn keine zusätzlichen Erkenntnisse zu erwarten sind. Absatz 4 verweist für Kosten auf die allgemeinen Regeln. Beispiel: Im Eilverfahren wurde eine Person zu einer akuten Lage gehört. Monate später ist die Lage wesentlich verändert. Die Hauptsache darf dann nicht allein wegen der früheren Anhörung auf aktuelle Aufklärung verzichten. Beschleunigung und Wiederverwendung von Erkenntnissen setzen deren fortbestehende Aussagekraft voraus.
 
+Die Befugnis, ohne mündliche Verhandlung zu entscheiden, hebt gesetzlich notwendige persönliche Anhörungen nicht pauschal auf; ob eine Eilausnahme eingreift, ist anhand der jeweiligen Sonderregel zu prüfen. § 54 Absatz 1 Satz 3 und Absatz 2 schaffen unterschiedliche Korrekturwege für unterbliebene notwendige Anhörung und Entscheidung ohne mündliche Verhandlung. Die verfahrensrechtliche Selbständigkeit bedeutet außerdem, dass ein anhängiges Hauptsacheverfahren das Eilverfahren nicht ohne Weiteres ersetzt und seine Kosten nicht automatisch mit erledigt.
+
 ### § 52 — Einleitung des Hauptsacheverfahrens
 
 **Wortlaut der Vorschrift:**
@@ -259,6 +291,8 @@ Absatz 3 stellt die Selbständigkeit des Eilverfahrens klar. Bereits durchgefüh
 
 Für nur auf Antrag einzuleitende Hauptsachen regelt Absatz 2 einen anderen Mechanismus: Auf Antrag wird dem Begünstigten die Einleitung der Hauptsache oder ein entsprechender Verfahrenskostenhilfeantrag innerhalb einer höchstens dreimonatigen Frist aufgegeben. Bei Nichtbefolgung ist die einstweilige Anordnung aufzuheben. Beispiel: Eine Beteiligte hat vorläufigen Schutz erlangt, möchte die Hauptsache aber nicht betreiben. Der andere Beteiligte kann die gesetzliche Fristsetzung verlangen. Das Gericht darf aus dem einstweiligen Erfolg keinen Ersatz für ein dauerhaft ungeprüftes Hauptsachenergebnis machen.
 
+Absatz 1 betrifft den Zugang zu einer von Amts wegen einzuleitenden Hauptsache; Absatz 2 wahrt dagegen die notwendige Antragstellung in antragsgebundenen Verfahren. Das Gericht darf in diesem zweiten Fall nicht aus eigenem Entschluss den Sachantrag des Begünstigten ersetzen. Der rechtzeitig gestellte Verfahrenskostenhilfeantrag für die Hauptsache ist eine ausdrücklich zugelassene Alternative; bloße Ankündigungen einer späteren Antragstellung genügen nicht. Die beiden Dreimonatsgrenzen haben unterschiedliche Funktionen: Sperrfrist für das Verlangen nach Hauptsacheeinleitung einerseits, Erfüllungsfrist für den Begünstigten andererseits.
+
 ### § 53 — Vollstreckung
 
 **Wortlaut der Vorschrift:**
@@ -270,6 +304,8 @@ Für nur auf Antrag einzuleitende Hauptsachen regelt Absatz 2 einen anderen Mech
 Absatz 1 erleichtert den Vollzug einstweiliger Anordnungen durch grundsätzlichen Verzicht auf eine Vollstreckungsklausel. Eine Klausel bleibt erforderlich, wenn für oder gegen eine andere als die im Beschluss bezeichnete Person vollstreckt werden soll. Die Erleichterung setzt also klare Identität der Vollstreckungsbeteiligten voraus und beseitigt nicht sämtliche übrigen Vollstreckungsvoraussetzungen.
 
 Absatz 2 ermöglicht in Gewaltschutzsachen und bei sonstigem besonderem Bedürfnis die Vollstreckung vor Zustellung. Hierfür bedarf es einer gerichtlichen Anordnung; mit ihr wird der Beschluss bereits bei Erlass wirksam. Beispiel: Würde die vorherige Zustellung eine unmittelbar drohende Vereitelung des Schutzes ermöglichen, kann das Gericht die gesetzliche Vorverlagerung anordnen. Ohne diesen Ausspruch darf die Vollstreckungsstelle nicht allein aus allgemeiner Dringlichkeit auf entbehrliche Zustellung schließen. Wirksamkeit, Zustellungsablauf und Vollstreckungsauftrag müssen aufeinander abgestimmt werden.
+
+Die Befugnis nach Absatz 2 betrifft die Zustellung an den Verpflichteten. Sie ist weder ein allgemeiner Verzicht auf spätere Bekanntgabe noch eine Befreiung von sonstigen Vollzugsregeln. Die vorgezogene Wirksamkeit folgt nur im Fall der angeordneten Vollstreckung vor Zustellung bereits aus dem Erlass; der gewöhnliche Wirksamkeitsmaßstab darf nicht allein wegen der Bezeichnung als Eilsache beiseitegeschoben werden.
 
 ### § 54 — Aufhebung oder Änderung der Entscheidung
 
@@ -287,6 +323,8 @@ Die einstweilige Entscheidung ist einem eigenen Aufhebungs- und Änderungsverfah
 
 Absatz 3 weist die Entscheidung grundsätzlich dem Erlassgericht beziehungsweise nach Abgabe oder Verweisung dem neuen Gericht zu. Absatz 4 verhindert parallele Korrekturen durch die erste Instanz, solange die Eilsache beim Beschwerdegericht anhängig ist. Beispiel: Nach einer ohne mündliche Verhandlung erlassenen familiengerichtlichen Anordnung beantragt der Betroffene mündliche Verhandlung. Das Gericht muss den besonderen Überprüfungsweg beachten; ob daneben eine Beschwerde statthaft ist, entscheidet sich eigenständig nach § 57.
 
+Die in Absatz 1 Satz 3 geregelte Ausnahme betrifft die Antragsbindung: Eine ohne gesetzlich notwendige Anhörung ergangene Entscheidung kann auch ohne Änderungsantrag überprüft werden. Absatz 2 knüpft dagegen in Familiensachen an das Fehlen mündlicher Verhandlung an; eine neue Sachlage verlangt sein Wortlaut hierfür nicht. Aus dem Anspruch auf erneute Entscheidung folgt noch kein Anspruch auf die begehrte inhaltliche Abänderung. Die Zuständigkeit für diese Überprüfung richtet sich nach Absatz 3, die Sperre bei beim Beschwerdegericht anhängiger Eilsache nach Absatz 4; eine nur beim Beschwerdegericht anhängige Hauptsache ist damit nicht gleichzusetzen.
+
 ### § 55 — Aussetzung der Vollstreckung
 
 **Wortlaut der Vorschrift:**
@@ -298,3 +336,7 @@ Absatz 3 weist die Entscheidung grundsätzlich dem Erlassgericht beziehungsweise
 Die Aussetzung oder Beschränkung der Vollstreckung ist eine vorläufige Reaktion auf die Überprüfung der einstweiligen Anordnung. Zuständig ist im Rahmen des § 54 das dort zuständige Gericht, bei § 57 das Rechtsmittelgericht. Die Suspendierung des Vollzugs ist von der Aufhebung der zugrunde liegenden Anordnung zu unterscheiden: Sie beseitigt nicht notwendig deren rechtlichen Bestand.
 
 Absatz 2 verpflichtet bei entsprechendem Antrag zur Vorabentscheidung. Gerade weil die Vollstreckung sonst während der Prüfung Tatsachen schaffen kann, darf der Antrag nicht erst mit der abschließenden Sachentscheidung beiläufig erledigt werden. Der Beschluss ist nach Absatz 1 unanfechtbar. Beispiel: Ein Beteiligter beantragt Änderung einer sofort vollstreckbaren Eilanordnung und legt konkrete Gründe gegen den weiteren Vollzug dar. Das Gericht muss zunächst über die beantragte Vollstreckungsbegrenzung entscheiden; die bloße Ankündigung eines späteren Erörterungstermins ersetzt diese Entscheidung nicht.
+
+Der Änderungsantrag nach § 54 stoppt die Vollstreckung nicht schon von selbst. Absatz 1 eröffnet eine eigenständige gerichtliche Entscheidung über Aussetzung oder Beschränkung; für die Auswahl sind der konkrete Vollstreckungsnachteil und die überprüften Einwände zu würdigen. Die Pflicht zur Vorabentscheidung nach Absatz 2 bedeutet keine Pflicht zur Bewilligung. Beispiel: Eine sofortige vollständige Aussetzung ist nicht gerechtfertigt, aber ein besonders belastender Teil des Vollzugs kann bis zur erneuten Anhörung beschränkt werden.
+
+**Prüfliste zum Eilverfahren:** Rechtsverhältnis und dringenden Schutzbedarf getrennt prüfen; reguläres oder besonders dringlich angerufenes Gericht bestimmen; Antrag und Glaubhaftmachung klären; notwendige Anhörung und mündliche Verhandlung unterscheiden; genaue vorläufige Regelung und Vollzugsmodus festlegen; Hauptsachezugang nach § 52 sichern; Änderungsbegehren und Vollstreckungsstopp gesondert behandeln.

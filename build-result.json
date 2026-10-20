@@ -1,12 +1,8 @@
 {
-  "executed_at": "2026-10-20T15:26:42.522510+00:00",
-  "command": [
-    "python3",
-    "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
-    "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-FAMFG-2008"
-  ],
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-FAMFG-2008",
+  "ran_at": "2026-10-20T15:35:07.200857+00:00",
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 336 jednotkám, např.: ['p169', 'p170', 'p171', 'p172', 'p173', 'p174', 'p175', 'p176', 'p177', 'p178']\n",
-  "scope": "Full shared builder invoked unchanged; intermediate batch does not require completion of 336 unassigned missing commentaries."
+  "scope_note": "Full build attempted without changing builder or reducing529 units. Expected failure:336 units outside assigned review lack commentary."
 }

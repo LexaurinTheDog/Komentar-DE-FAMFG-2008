@@ -1,0 +1,192 @@
+{
+  "task_kind": "review",
+  "complete": true,
+  "scope": "Bounded independent second pass of exactly the twenty assigned commentaries; no whole-book completion",
+  "review_date": "2026-10-20",
+  "decisive_date": "2026-10-19",
+  "baseline_commit": "9f3e97badb8cf9028e0d06ef2b90f12c4f07e634",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p19",
+    "p20",
+    "p21",
+    "p22",
+    "p22a",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p34",
+    "p35",
+    "p36",
+    "p36a"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p19",
+      "disposition": "corrected",
+      "finding_and_resolution": "Zuständigkeit nach versäumter Handlung, getrennte Anfechtbarkeit von Bewilligung/Versagung geprüft; Ausschluss durch § 113 Absatz 1 ergänzt.",
+      "checked_sources": "FamFG §§ 17–19, 58, 113"
+    },
+    {
+      "id": "p20",
+      "disposition": "retained",
+      "finding_and_resolution": "Sachdienliches Ermessen, Verbindung ohne Vermischung von Beteiligung und Anträgen, Trennung bei Verzögerungsrisiko geprüft. Besondere Verbundregeln gehen vor; Beispiel wahrt eigenständige Nachlassverfahren.",
+      "checked_sources": "FamFG §§ 20, 113, 137, 140"
+    },
+    {
+      "id": "p21",
+      "disposition": "corrected",
+      "finding_and_resolution": "Wichtiger Grund und Vorgreiflichkeit von bloß nützlicher Parallelermittlung getrennt. Wirkungen aus § 249 ZPO ergänzt; sofortige Beschwerde von Endentscheidungsbeschwerde unterschieden.",
+      "checked_sources": "FamFG § 21; ZPO §§ 249, 567–572"
+    },
+    {
+      "id": "p22",
+      "disposition": "corrected",
+      "finding_and_resolution": "Rücknahme bis Rechtskraft, Zustimmung erst nach Erlass, automatische Wirkungslosigkeit/Feststellungsbeschluss und Ausnahme der Amtsverfahren geprüft. Teilbeendigung und eigenständige Kostenfrage ergänzt.",
+      "checked_sources": "FamFG §§ 22, 81, 83"
+    },
+    {
+      "id": "p22a",
+      "disposition": "corrected",
+      "finding_and_resolution": "Pflichtmitteilung und Übermittlungsbefugnis getrennt; Erkennbarkeit überwiegender Ausschlussinteressen und Vorrang besonderer Verwendungsverbote präzisiert. Datenminimierendes Beispiel bleibt konkret.",
+      "checked_sources": "FamFG § 22a"
+    },
+    {
+      "id": "p23",
+      "disposition": "corrected",
+      "finding_and_resolution": "Sämtliche Soll-Anforderungen geprüft; Unterschrift und Urkundenform sowie Schnittstelle zu §§ 14/14b ergänzt. Keine allgemeine Mediationspflicht aus geeigneten Fällen abgeleitet.",
+      "checked_sources": "FamFG §§ 7, 14, 14b, 23, 28"
+    },
+    {
+      "id": "p24",
+      "disposition": "retained",
+      "finding_and_resolution": "Anregung nur bei amtswegig einleitbaren Verfahren; weder alleinige Antragstellerstellung noch pauschales Beschwerderecht daraus. Unterrichtung bei ersichtlichem berechtigtem Interesse und begrenzte Datenoffenlegung geprüft.",
+      "checked_sources": "FamFG §§ 7, 24, 26, 59"
+    },
+    {
+      "id": "p25",
+      "disposition": "corrected",
+      "finding_and_resolution": "Vier Absätze gelesen: kein Anwaltszwang, Aufnahme bei jedem Amtsgericht, auch anderer Aufenthaltsort des Urkundsbeamten, keine Aufzeichnung der Übertragung und Wirkung erst bei Eingang am Zielgericht. Niederschrift von Videoaufnahme getrennt.",
+      "checked_sources": "FamFG §§ 25, 64"
+    },
+    {
+      "id": "p26",
+      "disposition": "corrected",
+      "finding_and_resolution": "Erforderliche Ermittlungen von uferloser Informationssammlung unterschieden; § 113-Schranke und Verhältnis zu Mitwirkung/Beweisform geprüft. BGH-Volltext Rn. 10–13 zur Grenze eigener Sachkunde ergänzt und systematische Zuordnung ausdrücklich markiert.",
+      "checked_sources": "FamFG §§ 26–30, 37, 113; BGH XII ZB 114/21, Tenor/Rn. 1–15"
+    },
+    {
+      "id": "p27",
+      "disposition": "retained",
+      "finding_and_resolution": "Soll-Mitwirkung von verbindlicher Vollständigkeits-/Wahrheitspflicht getrennt. Keine automatische Zwangsbefugnis aus § 27 abgeleitet; Amtsermittlung bleibt bestehen. Beispiel unterscheidet Wertung und konkrete Tatsachen.",
+      "checked_sources": "FamFG §§ 26–27, 35"
+    },
+    {
+      "id": "p28",
+      "disposition": "corrected",
+      "finding_and_resolution": "Hinweise, Formmängel und frühe Aktenkundigkeit vollständig geprüft. Vermerkinhalt, Urkundsbeamter, elektronische Form und Einverständnis beim Güterichter ergänzt; keine Übertragung dieser Ausnahme auf allgemeine Anhörungen.",
+      "checked_sources": "FamFG §§ 14 Absatz 3, 28, 36 Absatz 5"
+    },
+    {
+      "id": "p29",
+      "disposition": "retained",
+      "finding_and_resolution": "Freie geeignete Beweisform und Unabhängigkeit vom Beteiligtenvorbringen gegen § 30 abgegrenzt. Amtsverschwiegenheit, Zeugnisverweigerung, Dokumentation und Gehör im telefonischen Auskunftsbeispiel geprüft.",
+      "checked_sources": "FamFG §§ 29–30, 37; ZPO §§ 376, 383–390"
+    },
+    {
+      "id": "p30",
+      "disposition": "corrected",
+      "finding_and_resolution": "Ermessen, gesetzlich zwingender förmlicher Beweis, Soll-Regel bei ausdrücklich bestrittenen tragenden Tatsachen und Stellungnahme geprüft. Videoantragsrechte, begrenzter ZPO-Verweis, Leitung/Aufzeichnung und Unanfechtbarkeit präzisiert.",
+      "checked_sources": "FamFG § 30; ZPO § 128a Absätze 1, 5, 6"
+    },
+    {
+      "id": "p31",
+      "disposition": "corrected",
+      "finding_and_resolution": "Sofort verfügbare Beweismittel und eidesstattliche Versicherung ohne Automatismus geprüft. Überwiegende Wahrscheinlichkeit mit amtlichem OLG-Volltext ergänzt; Einzelfallgrenzen und zugelassene Rechtsbeschwerde offengelegt.",
+      "checked_sources": "FamFG §§ 18, 31, 51, 468; OLG Bamberg 3 Wx 15/24, Tenor/Rn. 1–27"
+    },
+    {
+      "id": "p32",
+      "disposition": "corrected",
+      "finding_and_resolution": "Kann-Erörterung von besonderen Anhörungspflichten getrennt. Tatsächlich verwiesene ZPO-Absätze, fehlende Sommerterminregel, erhebliche Gründe, Glaubhaftmachung und Videoangabe ergänzt. Soll-Gestattung, Begründungspflicht, Leitung/Aufzeichnung und begrenzter Verweis geprüft.",
+      "checked_sources": "FamFG §§ 32, 34; ZPO §§ 128a, 219, 227"
+    },
+    {
+      "id": "p33",
+      "disposition": "corrected",
+      "finding_and_resolution": "Sachdienlichkeit, getrennte Anhörung bei Schutzbedarf, Videoäquivalenz und eigene Ladung geprüft. Soll-Zustellung bei ungewissem Erscheinen ergänzt; Ordnungsgeld, Wiederholung, Vorführung erst nach wiederholtem Ausbleiben, Nachentschuldigung und Belehrung kontrolliert.",
+      "checked_sources": "FamFG §§ 32–33; ZPO §§ 567–572"
+    },
+    {
+      "id": "p34",
+      "disposition": "corrected",
+      "finding_and_resolution": "Beide Anhörungsgründe, enge Gesundheits-/Kommunikationsausnahmen, Ausbleibensbelehrung und Video nur nach Absatz 1 Nummer 1 geprüft. BGH-Fall Rn. 6–9 konkretisiert besondere Betreuungsanhörung, ohne allgemeine Vorführungspflicht oder historischen Videoausspruch zu behaupten.",
+      "checked_sources": "FamFG §§ 34, 68, 278, 280, 295; BGH XII ZB 114/21, Tenor/Rn. 1–15"
+    },
+    {
+      "id": "p35",
+      "disposition": "corrected",
+      "finding_and_resolution": "Durchsetzbare Anordnung, vorheriger Folgenhinweis, Sonderregime § 89, Soll-Zwangshaft bei Erfolglosigkeit des Geldes und 25.000-Euro-Grenze geprüft. Vollzugsgrenzen und konkrete Maßnahmen bei Sachen/vertretbaren Handlungen ergänzt; Beschwerde bleibt gesondert.",
+      "checked_sources": "FamFG §§ 35, 86, 89; ZPO §§ 802g–802j, 883, 886–887, 891–892, 567–572"
+    },
+    {
+      "id": "p36",
+      "disposition": "corrected",
+      "finding_and_resolution": "Dispositionsbefugnis und Gewaltschutz-Ausnahme vom Einigungshinwirken geprüft. Niederschrift und schriftlicher Feststellungsvergleich konkretisiert; Berichtigung von neuer Sachvereinbarung getrennt. Güterichter ohne Entscheidungskompetenz geprüft.",
+      "checked_sources": "FamFG §§ 28 Absatz 4, 36, 156 Absatz 2; ZPO §§ 160–164, 278 Absatz 6"
+    },
+    {
+      "id": "p36a",
+      "disposition": "corrected",
+      "finding_and_resolution": "Freiwilliges außergerichtliches Verfahren, Schutzbelange, zwingende Aussetzung bei gewählter Durchführung und fortbestehende Anordnungs-/Genehmigungsvorbehalte geprüft. Güterichter abgegrenzt und Umgangsbeispiel mit § 156 Absatz 2 konkretisiert; praktische Prüfliste ergänzt.",
+      "checked_sources": "FamFG §§ 21, 36–36a, 156"
+    }
+  ],
+  "limitations": [
+    "Whole book remains incomplete: 193 commentaries, 336 units not yet annotated.",
+    "Only these twenty commentaries reviewed in this process; source readings for cross-references do not constitute review of other commentaries.",
+    "Previous p1–p18 review retained in review-p1-p18-result.json; current result is not a replacement certification for that batch.",
+    "Case-law research is selective; OLG Bamberg expressly records divergent senate authority and admitted appeal, with no complete subsequent appellate-history search.",
+    "BGH 2021 case predates the 2023 reform and later video provisions; no current substantive supervision period or video ruling inferred.",
+    "No external professional approval or whole-book independent review claimed."
+  ],
+  "evidence": {
+    "official_xml": "sources/review-p19-p36a-famfg.xml",
+    "official_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "statutory_preflight": "preflight-result.json",
+    "technical_batch_audit": "review-p19-p36a-audit.json",
+    "case_cards": [
+      "cases/BGH-XII-ZB-114-21.md",
+      "cases/OLG-Bamberg-3-Wx-15-24.md"
+    ],
+    "previous_review": "review-p1-p18-result.json"
+  },
+  "technical_checks": {
+    "batch_audit": "review-batch-audit.json",
+    "assigned_statutory_wording_agreement": 1.0,
+    "unassigned_commentary_changes": [],
+    "full_statutory_completeness": "529/529 identifiers; 599 XML norms accounted for; no missing, extra, duplicate or text mismatch",
+    "links_and_repetition": "technical-audit.json: 122 checked local links, zero broken; no repeated substantive paragraphs or near-repeat pairs over configured threshold",
+    "full_builder": "build-result.json: invoked unchanged, rejects only 336 unannotated units outside scope",
+    "strict_validation": {
+      "file": "validation.json",
+      "exit_code": 1,
+      "verbatim_ratio": 1.0,
+      "errors_only_outside_assigned_scope": true,
+      "unannotated_outside_scope": 336
+    }
+  },
+  "checkpoint_commits": {
+    "work": "900afb5",
+    "output": "d71ea1e"
+  }
+}
