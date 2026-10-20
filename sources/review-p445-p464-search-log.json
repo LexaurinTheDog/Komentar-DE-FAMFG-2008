@@ -1,0 +1,33 @@
+{
+  "scope": [
+    "p445",
+    "p446",
+    "p447",
+    "p448",
+    "p449",
+    "p450",
+    "p451",
+    "p452",
+    "p453",
+    "p454",
+    "p455",
+    "p456",
+    "p457",
+    "p458",
+    "p459",
+    "p460",
+    "p461",
+    "p462",
+    "p463",
+    "p464"
+  ],
+  "method": "Existing selective authority rechecked against fresh primary full text and retained local judicial corpus; no exhaustive discovery claimed",
+  "official_full_text": "sources/review-p445-p464-case.xml",
+  "local_corpus": "sources/author-p445-p464-local-JURE140012073.md",
+  "read": "Tenor and all reasons Rn.1–14",
+  "supported_units": [
+    "p449",
+    "p451"
+  ],
+  "other_units": "No further sufficiently relevant verified decision added."
+}

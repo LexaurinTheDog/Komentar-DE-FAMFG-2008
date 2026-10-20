@@ -572,3 +572,8 @@ Diese begrenzte Zweitprüfung ist abgeschlossen. Gesamtentwurf weiterhin 480/529
 
 
 Autorenkontrolle §§ 445–464: Alle zwanzig neuen Einheiten gegen den gesetzlichen Wortlaut gelesen. Antragsberechtigung und Titelerfordernis, Gläubigerunbekanntheit und Briefverlust, Ausschluss ohne/mit Hinterlegung sowie Überschussnachrang und quotale Haftung unterschieden. Begrenzte Verweisungen der §§ 453 und 460–464 einzeln behandelt; Abweichung der Fristanfänge in § 451 Absatz 2 FamFG und § 1171 Absatz 3 BGB offengelegt. BGH V ZB 147/13 vollständig gelesen, Rückverweisung und historisches Rechtsmittelrecht getrennt eingeordnet. Eigenkontrolle, keine unabhängige Zweitprüfung; 29 unkommentierte Einheiten außerhalb der Charge. [Chargenergebnis](author-p445-p464-result.json).
+
+
+## Begrenzte Zweitprüfung §§ 445–464
+
+Alle zwanzig Einheiten p445–p464 am amtlichen Text geprüft. Präzisiert wurden § 446 (schiffsrechtliche Zehnjahresfrist, Registererwerb und Drittenschutz), § 450 (Eigentümerhypothek), § 452 (Erlöschen der Schiffshypothek und Hinterlegungsfrist) sowie § 458 (Grenze des Vorrangs bei bereits berichtigten Verbindlichkeiten). BGH V ZB 147/13 vollständig mit historischem Verfahrenskontext gelesen. [Einzelbefunde](review-p445-p464-result.json), [Quellen](sources/review-p445-p464-fetch.json), [Fassungsprüfung](sources/review-p445-p464-version-map.json). Diese begrenzte Zweitprüfung ist abgeschlossen; der Gesamtentwurf bleibt unvollständig. Keine externe anwaltliche Freigabe.

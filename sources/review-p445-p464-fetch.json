@@ -1,0 +1,55 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "accessed_at": "2026-10-20T22:46:05.292380+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p445-p464-famfg.zip",
+    "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "xml_path": "sources/review-p445-p464-famfg.xml",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "format_validation": "ZIP CRC checked; expected XML root parsed"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/",
+    "accessed_at": "2026-10-20T22:46:05.466767+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p445-p464-index.html",
+    "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+    "format_validation": "Expected FamFG official HTML content present"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "accessed_at": "2026-10-20T22:46:05.719005+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p445-p464-bgb.zip",
+    "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+    "xml_path": "sources/review-p445-p464-bgb.xml",
+    "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+    "format_validation": "ZIP CRC checked; expected XML root parsed"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/schrg/xml.zip",
+    "accessed_at": "2026-10-20T22:46:05.894621+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p445-p464-schrg.zip",
+    "sha256": "b08c8262a85c0962d4f7abd06f1c18258fc5c01460bab3b80d65a62c7c0f1078",
+    "xml_path": "sources/review-p445-p464-schrg.xml",
+    "xml_sha256": "8af4a5d556715edc559ccceff7a2a5d6fd968138b0fe3106172e2fe2d1c6f70f",
+    "format_validation": "ZIP CRC checked; expected XML root parsed"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE140012073.zip",
+    "accessed_at": "2026-10-20T22:46:06.104425+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p445-p464-case.zip",
+    "sha256": "a10a7d25bd46568b2e518e96427f6a354c12774cce453e9fa52a0efbb006c3ae",
+    "xml_path": "sources/review-p445-p464-case.xml",
+    "xml_sha256": "d80dd566b57d787ca8d0c1e01aa7e173c5422fc50f39d1a0f4de0167143be72f",
+    "format_validation": "ZIP CRC checked; expected XML root parsed"
+  }
+]

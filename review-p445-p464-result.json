@@ -1,0 +1,157 @@
+{
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p445",
+    "p446",
+    "p447",
+    "p448",
+    "p449",
+    "p450",
+    "p451",
+    "p452",
+    "p453",
+    "p454",
+    "p455",
+    "p456",
+    "p457",
+    "p458",
+    "p459",
+    "p460",
+    "p461",
+    "p462",
+    "p463",
+    "p464"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p445",
+      "review": "Aufforderung, konkrete Eigentumsandrohung, allgemeiner §434 und Nachmeldung nach §438 gegen Wortlaut geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p446",
+      "review": "Beide Absätze mit SchRG§6 geprüft; Zehnjahresfrist statt Übertragung der Grundstücksfrist, Zusatzbedingungen eingetragener Eigentümer, Erwerb erst durch Registereintragung und Drittenschutz ergänzt.",
+      "corrected": true
+    },
+    {
+      "id": "p447",
+      "review": "Beide Ausschlusswege §§1170/1171 BGB und örtliche Belegenheit, Abgrenzung Briefverlust/Unbekanntheit geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p448",
+      "review": "Alle Sätze des Absatzes2: §1170-Beschränkung, Vormerkung/Anspruch, Gesamtrechtsalternative und vollstreckbarer Titel getrennt geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p449",
+      "review": "Vorgeschaltete Glaubhaftmachung und zumutbare Nachforschung gegen BGH V ZB147/13 Rn1–14 voll gelesen; kein Erbnachweiszwang und keine generelle Nachlasspflegschaft behauptet.",
+      "corrected": false
+    },
+    {
+      "id": "p450",
+      "review": "Alle fünf Absätze und §801/§1170 BGB geprüft; materielle Eigentümerhypothek und Kraftlosigkeit des Briefs ergänzt.",
+      "corrected": true
+    },
+    {
+      "id": "p451",
+      "review": "Angebot versus tatsächliche Hinterlegung, Kündigungsfrist, Zinserfordernisse und Rücknahmeverzicht geprüft; reale Erlass/Rechtskraft-Abweichung in §1171Abs3 BGB bestätigt.",
+      "corrected": false
+    },
+    {
+      "id": "p452",
+      "review": "Beide Absätze mit SchRG§§58,66,67 geprüft; Erlöschen statt Eigentümerhypothek und abweichender Beginn der Dreißigjahresfrist ausdrücklich ergänzt.",
+      "corrected": true
+    },
+    {
+      "id": "p453",
+      "review": "Auswahlverweisung und eigene Berechtigung/Mitteilung, BGB§§887,1104,1112 und SchRG§13 geprüft; Ausnahme subjektiv-dinglicher Rechte korrekt.",
+      "corrected": false
+    },
+    {
+      "id": "p454",
+      "review": "Nachlassgerichtszuständigkeit einschließlich Behördenalternative und Verfahrenszweck mit §1970 BGB abgeglichen.",
+      "corrected": false
+    },
+    {
+      "id": "p455",
+      "review": "Drei Absätze: Erbe ohne unbeschränkte Haftung, Verwaltungsbefugnis der Amtsträger und Erbschaftsannahme geprüft; Ausnahme §460Abs2 korrekt begrenzt.",
+      "corrected": false
+    },
+    {
+      "id": "p456",
+      "review": "Bekannte Gläubiger und Wohnorte, bestrittene Forderung versus Anerkenntnis und Ergänzung fehlender Liste geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p457",
+      "review": "Soll-Hindernis bei Insolvenzantrag versus Beendigung bei Eröffnung getrennt; Beispiel zeitlich zutreffend.",
+      "corrected": false
+    },
+    {
+      "id": "p458",
+      "review": "Beide Absätze mit BGB§§1971–1973 geprüft; Ausnahme bei Geltendmachung erst nach Berichtigung der Pflichtteile/Vermächtnisse/Auflagen ergänzt.",
+      "corrected": true
+    },
+    {
+      "id": "p459",
+      "review": "Gegenstand/Grund, Original oder Abschrift sowie Einsicht nur bei glaubhaftem rechtlichem Interesse vollständig geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p460",
+      "review": "Begünstigung anderer Erben mit Haftungsvorbehalt, zusätzliche Quotenandrohung nach Teilung und begrenzte Ausnahme für unbeschränkt haftende Erben geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p461",
+      "review": "Beschränkung auf §460Abs1Satz1; keine Quotenübertragung oder automatische voraussetzungslose Nacherbenbefugnis geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p462",
+      "review": "Erbender oder verwaltungsbefugter Ehegatte, keine Zustimmung, Fortbestand nach Ende und Lebenspartnerschaften geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p463",
+      "review": "Käufer und Erbe mit Haftungsvorbehalt, Veräußerungsketten und sonstige Verpflichtung zur Erbschaftsveräußerung gegen beide Absätze geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p464",
+      "review": "Ausgewählte Verweisung ohne §§460/461, Vermögensmasse und nur neu begründete persönliche Haftung mit §1489Abs2/3 BGB abgeglichen.",
+      "corrected": false
+    }
+  ],
+  "limitations": [
+    "Exactly p445–p464 reviewed; no whole-book completion or independent external professional approval.",
+    "Existing selective primary case re-read in full; no exhaustive new case-law survey.",
+    "Commencement analysis uses retained official enactment evidence plus fresh identical statutory XML; not a reconstruction of every amendment since 2008."
+  ],
+  "reviewed_at": "2026-10-20T22:46:53.463396+00:00",
+  "source_evidence": "sources/review-p445-p464-version-map.json",
+  "technical_checks": {
+    "assigned_comments": 20,
+    "parser_replay_byte_identical": true,
+    "statutory_agreement": 1.0,
+    "broken_local_links": [],
+    "repeated_paragraphs": [],
+    "previous_24_output_chapters_unchanged": true,
+    "unassigned_work_commentary_unchanged": true
+  },
+  "strict_validation": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1078461,
+    "errors": [
+      "krátký/chybějící komentář u 29 jednotek: ['p465(0<400)', 'p466(0<400)', 'p467(0<400)', 'p468(0<400)', 'p469(0<400)', 'p470(0<400)', 'p471(0<400)', 'p472(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "validation_scope": "Whole book fails only on 29 unassigned missing comments; exactly twenty assigned units reviewed."
+}
