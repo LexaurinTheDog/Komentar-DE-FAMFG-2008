@@ -1,7 +1,7 @@
 {
   "task_kind": "review",
   "scope": "Independent second pass exactly p292–p309a; no substantive review of unassigned units",
-  "complete": false,
+  "complete": true,
   "legal_reading_complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
@@ -198,6 +198,66 @@
     "case_comparison": "sources/review-p292-p309a-case-corpus-check.json",
     "search_log": "sources/review-p292-p309a-search-log.json"
   },
-  "stage": "bounded_second_pass_legal_reading_complete_pending_technical_checks",
-  "whole_book_complete": false
+  "stage": "bounded_second_pass_complete",
+  "whole_book_complete": false,
+  "completed_at": "2026-10-20T19:19:07.928383+00:00",
+  "validation": {
+    "assigned_batch_ok": true,
+    "reviewed_ids_exact": true,
+    "changed_ids": [
+      "p292",
+      "p297",
+      "p299",
+      "p300",
+      "p305"
+    ],
+    "unchanged_after_full_review": [
+      "p292a",
+      "p293",
+      "p294",
+      "p295",
+      "p296",
+      "p298",
+      "p301",
+      "p302",
+      "p303",
+      "p304",
+      "p306",
+      "p307",
+      "p308",
+      "p309",
+      "p309a"
+    ],
+    "unassigned_commentary_changes": [],
+    "all_320_unassigned_comments_preserved": true,
+    "previous_16_exported_chapters_preserved": true,
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "exported_assigned_count": 20,
+    "exported_commentary_agrees": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 769451,
+      "errors": [
+        "krátký/chybějící komentář u 189 jednotek: ['p310(0<400)', 'p311(0<400)', 'p312(0<400)', 'p313(0<400)', 'p314(0<400)', 'p315(0<400)', 'p316(0<120)', 'p317(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "reason_for_global_failure": "189 missing commentaries from p310, all outside this exact bounded review",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 1001,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T19:19:07.928383+00:00",
+    "whole_book_complete": false
+  }
 }
