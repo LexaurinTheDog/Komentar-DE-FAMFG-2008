@@ -171,5 +171,32 @@
       "cases/BGH-XII-ZB-188-11.md"
     ],
     "previous_review": "review-p56-p74a-result.json"
+  },
+  "validation": {
+    "assigned_batch_ok": true,
+    "reviewed_ids_exact": true,
+    "unassigned_commentary_changes": [],
+    "total_expected_official_units": 529,
+    "total_parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 260522,
+      "errors": [
+        "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "whole_book_complete": false,
+    "reason_for_global_failure": "336 unannotated units outside assigned review",
+    "local_links_checked": 234,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "source_body_hash_mismatches": []
   }
 }
