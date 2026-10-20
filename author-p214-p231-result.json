@@ -25,7 +25,7 @@
   ],
   "units_written": 20,
   "commentary_characters": 48146,
-  "completed_at": "2026-10-20T17:47:08.437926+00:00",
+  "completed_at": "2026-10-20T17:48:30.317581+00:00",
   "baseline_commit": "de70d61525406c2d2ca7c214a78a988ebfed3b45",
   "decisive_date": "2026-10-19",
   "authored_on": "2026-10-20",
@@ -46,8 +46,24 @@
   "validation": {
     "full_build_exit_code": 1,
     "statutory_coverage_complete": true,
-    "strict_validator": "Run after committing the export",
-    "technical_audit": "author-p214-p231-audit.json"
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 538584,
+      "errors": [
+        "krátký/chybějící komentář u 269 jednotek: ['p232(0<400)', 'p233(0<400)', 'p234(0<120)', 'p235(0<400)', 'p236(0<400)', 'p237(0<400)', 'p238(0<400)', 'p239(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "technical_audit": "author-p214-p231-audit.json",
+    "strict_exit_code": 1,
+    "technical_audit_ok": true,
+    "exported_assigned_count": 20,
+    "exported_assigned_statutory_text_agrees": true,
+    "local_links_checked": 634,
+    "preserved_existing_commentaries": 240
   },
   "unresolved_blockers": [],
   "limitations": [

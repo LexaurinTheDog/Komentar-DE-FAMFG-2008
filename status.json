@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T17:47:08.437926+00:00",
+  "updated_at": "2026-10-20T17:48:30.317581+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -41,9 +41,9 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 490438,
+      "commentary_chars": 538584,
       "errors": [
-        "krátký/chybějící komentář u 289 jednotek: ['p214(0<400)', 'p214a(0<400)', 'p215(0<120)', 'p216(0<400)', 'p216a(0<400)', 'p217(0<120)', 'p218(0<400)', 'p219(0<400)']"
+        "krátký/chybějící komentář u 269 jednotek: ['p232(0<400)', 'p233(0<400)', 'p234(0<120)', 'p235(0<400)', 'p236(0<400)', 'p237(0<400)', 'p238(0<400)', 'p239(0<400)']"
       ],
       "warnings": [],
       "ok": false
@@ -54,7 +54,7 @@
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
     "bounded_batch_ok": true,
-    "validated_at": "2026-10-20T17:36:45.301361+00:00",
+    "validated_at": "2026-10-20T17:48:30.317581+00:00",
     "expected_intermediate_failure": "269 units outside assigned authoring batch remain unannotated; no whole-book completion claimed."
   },
   "remaining_limitations": [
