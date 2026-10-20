@@ -1,0 +1,41 @@
+{
+  "scope": "p365–p384, selective research",
+  "queries": [
+    "site.bundesgerichtshof.de \"§ 382\" \"behebbares\" FamFG",
+    "site.bundesgerichtshof.de \"§ 378\" \"Prüfung\" Registergericht",
+    "site.rechtsprechung-im-internet.de \"II ZB 15/22\"",
+    "local corpus rg -l \"II ZB 15/22\" /Volumes/LaCie/law-intake/eu/de/rii --glob *.md"
+  ],
+  "selected_full_texts": [
+    "BGH 2023-09-19 II ZB 15/22, official XML and local corpus, tenor and reasons 1–35"
+  ],
+  "discovery_only": [
+    "Other search hits and other local corpus cases; no holdings imported"
+  ],
+  "no_sufficiently_relevant_new_verified_case_found_for": [
+    "p365",
+    "p366",
+    "p367",
+    "p368",
+    "p369",
+    "p370",
+    "p371",
+    "p372",
+    "p373",
+    "p374",
+    "p375",
+    "p376",
+    "p377",
+    "p378",
+    "p379",
+    "p380",
+    "p381",
+    "p383",
+    "p384"
+  ],
+  "limits": [
+    "One verified case; no exhaustive search for every technical provision.",
+    "Rejected HTML from legacy BGH PDF endpoint retained as rejected response, not treated as a PDF.",
+    "No commercial redaction used as authority."
+  ]
+}

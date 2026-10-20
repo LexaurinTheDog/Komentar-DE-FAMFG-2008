@@ -214,3 +214,6 @@ Autorencharge §§ 350–364 einschließlich §§ 352a–352e: 20 zugewiesene Ei
 
 
 Begrenzte unabhängige Zweitprüfung §§ 350–364 einschließlich §§ 352a–352e: genau 20 Einheiten am amtlichen Text geprüft. Fünf Erläuterungen präzisiert; insbesondere § 362 unterscheidet jetzt den allgemeinen Abänderungsausschluss vom besonderen Änderungsweg bei wesentlich veränderten Verhältnissen. Beide zu § 352e zitierten Entscheidungen vollständig erneut gelesen. [Einzelbefunde](review-p350-p364-result.json), [Quellenprüfung](sources/review-p350-p364-version-map.json), [technische Prüfung](review-p350-p364-audit.json). Gesamtstand 400/529 kommentiert; 129 unzugewiesene Einheiten ab § 365 offen. Keine Gesamtfreigabe und keine externe fachliche Billigung.
+
+
+Autorencharge §§ 365–384: [frische amtliche Abrufe mit UTC-Zeiten, HTTP-Ergebnis und SHA-256](sources/author-p365-p384-fetch.json); [Fassung, historische Abgrenzung und unabhängige XML-Abdeckung](sources/author-p365-p384-version-map.json); [selektive Recherche](sources/author-p365-p384-search-log.json); [BGH II ZB 15/22](cases/BGH-2023-09-19-II-ZB-15-22.md). Maßgeblich bleibt der Beginn des Titels am 19. Oktober 2026. Die frische amtliche XML-Lieferung ist bytegleich; die dokumentierten Inkrafttretensklauseln grenzen Zukunftsrecht ab. Keine vollständige Rechtsprechungsabdeckung.

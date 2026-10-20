@@ -1,0 +1,17 @@
+{
+  "run_at": "2026-10-20T22:10:34.414578+00:00",
+  "exit_code": 1,
+  "result": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 940402,
+    "errors": [
+      "krátký/chybějící komentář u 109 jednotek: ['p385(0<400)', 'p386(0<400)', 'p387(0<400)', 'p388(0<400)', 'p389(0<400)', 'p390(0<400)', 'p391(0<400)', 'p392(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "scope": "Strict whole-book validation; sole failure is 109 unassigned missing comments. All 20 assigned units authored and exported.",
+  "whole_book_complete": false
+}

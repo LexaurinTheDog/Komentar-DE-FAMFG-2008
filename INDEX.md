@@ -1,6 +1,6 @@
 # INDEX — FamFG: unvollständige Arbeitsausgabe
 
-Kommentiert: § 1–§ 364 (400 von 529 Einheiten). Ab § 365 fehlen 129 Kommentare. Kein vollständiger Gesetzeskommentar.
+Kommentiert: § 1–§ 384 (420 von 529 Einheiten). Ab § 385 fehlen 109 Kommentare. Kein vollständiger Gesetzeskommentar.
 
 - [Einleitung](00-einleitung.md)
 
@@ -49,6 +49,8 @@ Kommentiert: § 1–§ 364 (400 von 529 Einheiten). Ab § 365 fehlen 129 Komment
 - [§ 330–§ 349](19-paragraphen-330.md) — 20 kommentierte Einheiten
 
 - [§ 350–§ 364](20-paragraphen-350.md) — 20 kommentierte Einheiten
+
+- [§ 365–§ 384](21-paragraphen-365.md) — 20 kommentierte Einheiten
 
 
 

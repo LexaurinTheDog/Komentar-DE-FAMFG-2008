@@ -8318,5 +8318,35 @@
       "p364"
     ],
     "unresolved_blockers": []
+  },
+  "bounded_author_recheck_p365_p384": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "verified_at": "2026-10-20T22:08:21.476808+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "evidence": "sources/author-p365-p384-version-map.json",
+    "assigned_ids": [
+      "p365",
+      "p366",
+      "p367",
+      "p368",
+      "p369",
+      "p370",
+      "p371",
+      "p372",
+      "p373",
+      "p374",
+      "p375",
+      "p376",
+      "p377",
+      "p378",
+      "p379",
+      "p380",
+      "p381",
+      "p382",
+      "p383",
+      "p384"
+    ],
+    "unresolved_blockers": []
   }
 }

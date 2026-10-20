@@ -1,0 +1,11 @@
+{
+  "docket": "II ZB 15/22",
+  "date": "2023-09-19",
+  "full_text_read": "Tenor and reasons 1–35; paragraphs 5–6 are lower-court account, 8–12 procedural holding, 13–35 further guidance",
+  "substantial_paragraphs_compared": 35,
+  "all_present_in_local_corpus": true,
+  "official_sha256": "dac8cf980f128360c889980174fcbd6a8c362caba8e52bfa346d398aff071db2",
+  "local_sha256": "f9a88467a808bc00ec74d829f742be7d6c8ac1a837b7b55292656918af308cd5",
+  "normalization": "Whitespace normalized, including spaces before punctuation; the sole initial difference was an XML space before a semicolon in reason 19.",
+  "initial_whitespace_only_difference_count": 1
+}

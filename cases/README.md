@@ -74,3 +74,5 @@ Autorencharge §§ 310–329: [XII ZB 183/25](BGH-XII-ZB-183-25.md), [207/25](BG
 
 - [BGH IV ZB 11/22](BGH-IV-ZB-11-22.md): § 352e, Bindung an rechtskräftige Erbunwürdigkeitserklärung.
 - [OLG Nürnberg 15 Wx 988/23](OLG-Nuernberg-15-Wx-988-23.md): § 352e, Feststellung und Urkundenerteilung.
+
+- [BGH, 19. September 2023 – II ZB 15/22](BGH-2023-09-19-II-ZB-15-22.md): § 382, behebbares Hindernis und unzulässige Aufforderung zur Antragsrücknahme durch Zwischenverfügung.

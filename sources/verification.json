@@ -4733,6 +4733,52 @@
       "xml_path": "sources/review-p350-p364-zpo.xml",
       "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
       "format_validation": "ZIP CRC and parseable identified statutory XML"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T22:08:17.245444+00:00",
+      "path": "sources/author-p365-p384-famfg.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783,
+      "format_validation": "ZIP opened; XML parsed",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "xml_path": "sources/author-p365-p384-famfg.xml"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305142023.zip",
+      "accessed_at": "2026-10-20T22:08:19.983867+00:00",
+      "path": "sources/author-p365-p384-II-ZB-15-22.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305142023.zip",
+      "sha256": "34bdad238e87a751bc74647b5102a140aee1d21b71dd9e4a22c4327d5f70afb0",
+      "bytes": 9417,
+      "format_validation": "ZIP opened; XML parsed",
+      "xml_sha256": "dac8cf980f128360c889980174fcbd6a8c362caba8e52bfa346d398aff071db2",
+      "xml_path": "sources/author-p365-p384-II-ZB-15-22.xml"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T22:08:21.013910+00:00",
+      "path": "sources/author-p365-p384-index.html",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117,
+      "format_validation": "HTML validated"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=135205&Blank=1.pdf",
+      "accessed_at": null,
+      "access_timestamp_precision": "Initial rejected response did not persist access time; not used as authority. Timestamped replacement ZIP capture is in author-p365-p384-fetch.json.",
+      "http_status": 200,
+      "path": "sources/author-p365-p384-II-ZB-15-22.rejected.html",
+      "sha256": "b999e8fb348b17de48a5df11c687449cbfd55784e4f6386f419f57535255d5ed",
+      "format_validation": "Rejected as PDF: HTML response; not used as authority. Replaced with verified official RII ZIP/XML."
     }
   ],
   "version_assessment": {
