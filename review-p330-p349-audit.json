@@ -44,11 +44,11 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 856110,
     "errors": [
-      "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "post_commit_validation": true
 }

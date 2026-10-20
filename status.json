@@ -62,8 +62,7 @@
       "verbatim_ratio": 1.0,
       "commentary_chars": 856110,
       "errors": [
-        "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']",
-        "necommitnuté změny v repu"
+        "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']"
       ],
       "warnings": [],
       "ok": false
@@ -77,16 +76,16 @@
     "149 unassigned statutory units remain unannotated.",
     "Technical validation does not establish substantive legal quality or external professional approval."
   ],
-  "commented_scope": "§§ 1–329 einschließlich der Buchstabenparagraphen",
+  "commented_scope": "§§ 1–349 einschließlich der Buchstabenparagraphen",
   "resume": {
-    "last_commented_id": "p329",
-    "next_uncommented_id": "p330",
+    "last_commented_id": "p349",
+    "next_uncommented_id": "p350",
     "missing_identifiers": "completeness-report.json#missing_commentary",
     "full_parser": "_parse.py",
     "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
-    "instructions": "Preserve all 360 commentaries and previous independent reviews. New author batch p310–p329 awaits fresh second pass. Continue other units only on assignment."
+    "instructions": "Preserve all 380 existing commentaries and earlier reviews. Bounded second pass p330–p349 complete; continue only on a new assignment."
   },
   "source_preflight": {
     "complete": true,
@@ -95,7 +94,7 @@
     "date": "2026-10-20",
     "commentaries_changed": false,
     "latest_bounded_author_recheck": "sources/author-p292-p309a-version-map.json",
-    "latest_bounded_review_recheck": "sources/review-p292-p309a-version-map.json",
+    "latest_bounded_review_recheck": "sources/review-p330-p349-version-map.json",
     "latest_bounded_author": "sources/author-p310-p329-version-map.json"
   },
   "bounded_review": {
@@ -670,7 +669,7 @@
   ],
   "cumulative_independently_reviewed_units": 380,
   "remaining_existing_commentaries_for_review": 0,
-  "commentary_characters": 855180,
+  "commentary_characters": 856110,
   "bounded_authoring": {
     "complete": true,
     "units_written": 20,
@@ -977,7 +976,9 @@
       "149 unassigned units lack commentary; full builder and strict whole-book validation correctly fail.",
       "Technical checks do not establish legal quality."
     ],
-    "completed_at": "2026-10-20T21:48:20.901909+00:00"
+    "completed_at": "2026-10-20T21:48:20.901909+00:00",
+    "independent_second_pass_complete": true,
+    "independent_second_pass_result": "review-p330-p349-result.json"
   },
   "bounded_author_history": [
     {
