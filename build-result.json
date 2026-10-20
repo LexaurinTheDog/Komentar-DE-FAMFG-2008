@@ -1,6 +1,8 @@
 {
-  "exit_code": 0,
-  "stdout": "OK: /Volumes/LaCie/open-commentary/de/Komentar-DE-FAMFG-2008 — 529 jednotek, 27 kapitol\n",
-  "stderr": "",
-  "scope": "Bounded review p485–p493; rebuild only, no whole-book review claim."
+  "ok": true,
+  "units": 529,
+  "chapters": 27,
+  "builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+  "built_at": "2026-10-20T23:03:17.347428+00:00",
+  "scope": "Full draft assembly"
 }
