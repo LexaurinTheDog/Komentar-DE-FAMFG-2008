@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T17:28:39.447750+00:00",
+  "updated_at": "2026-10-20T17:30:02.642119+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -34,11 +34,21 @@
     "cases/OLG-Bamberg-3-Wx-15-24.md"
   ],
   "validation": {
-    "strict_validator": "validation.json; recording after checkpoint commit",
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 489028,
+      "errors": [
+        "krátký/chybějící komentář u 289 jednotek: ['p214(0<400)', 'p214a(0<400)', 'p215(0<120)', 'p216(0<400)', 'p216a(0<400)', 'p217(0<120)', 'p218(0<400)', 'p219(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
     "exit_code": 1,
     "full_build_exit_code": 1,
     "statutory_coverage_complete": true,
-    "validated_at": "2026-10-20T17:28:39.447750+00:00",
+    "validated_at": "2026-10-20T17:30:02.642119+00:00",
     "bounded_batch_ok": true,
     "expected_intermediate_failure": "289 unannotated units outside assigned authoring batch; statutory agreement 100%.",
     "completeness_report": "completeness-report.json",

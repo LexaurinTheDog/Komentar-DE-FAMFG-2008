@@ -54,7 +54,20 @@
     "statutory_agreement": 1.0,
     "strict_validation_result": "validation.json",
     "full_build_result": "build-result.json",
-    "partial_output_rebuilt": true
+    "partial_output_rebuilt": true,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 489028,
+      "errors": [
+        "krátký/chybějící komentář u 289 jednotek: ['p214(0<400)', 'p214a(0<400)', 'p215(0<120)', 'p216(0<400)', 'p216a(0<400)', 'p217(0<120)', 'p218(0<400)', 'p219(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "technical_audit_ok": true
   },
   "unresolved_blockers": [],
   "limitations": [
@@ -63,5 +76,6 @@
     "Case-law coverage is selective: one additional fully read official BGH decision for §197; no additional authority selected for the remaining 19 units.",
     "No comprehensive historical reconstruction or exhaustive subsequent case-law reception review.",
     "Technical length and repetition checks do not certify legal quality."
-  ]
+  ],
+  "completed_at": "2026-10-20T17:30:02.642119+00:00"
 }
