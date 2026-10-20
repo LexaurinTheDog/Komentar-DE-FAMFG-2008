@@ -1,11 +1,11 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T17:20:12.648859+00:00",
+  "updated_at": "2026-10-20T17:28:39.447750+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
-  "completed_units": 220,
-  "remaining_units": 309,
+  "completed_units": 240,
+  "remaining_units": 289,
   "case_law_sources": [
     "cases/BGH-IV-ZB-35-15.md",
     "cases/BGH-XII-ZB-102-20-2020.md",
@@ -19,6 +19,7 @@
     "cases/BGH-XII-ZB-21-21.md",
     "cases/BGH-XII-ZB-224-17.md",
     "cases/BGH-XII-ZB-232-09.md",
+    "cases/BGH-XII-ZB-237-23.md",
     "cases/BGH-XII-ZB-264-22.md",
     "cases/BGH-XII-ZB-280-15.md",
     "cases/BGH-XII-ZB-442-18.md",
@@ -33,42 +34,33 @@
     "cases/OLG-Bamberg-3-Wx-15-24.md"
   ],
   "validation": {
-    "strict_validator": {
-      "repo": "Komentar-DE-FAMFG-2008",
-      "units": 529,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 441697,
-      "errors": [
-        "krátký/chybějící komentář u 309 jednotek: ['p195(0<400)', 'p196(0<120)', 'p196a(0<400)', 'p197(0<400)', 'p198(0<400)', 'p199(0<120)', 'p200(0<400)', 'p201(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
+    "strict_validator": "validation.json; recording after checkpoint commit",
     "exit_code": 1,
     "full_build_exit_code": 1,
-    "completeness_report": "completeness-report.json",
-    "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "validated_at": "2026-10-20T17:20:12.648859+00:00",
+    "validated_at": "2026-10-20T17:28:39.447750+00:00",
     "bounded_batch_ok": true,
-    "expected_intermediate_failure": "309 unannotated units outside assigned review; all20assigned units substantively reviewed;100%statutory agreement."
+    "expected_intermediate_failure": "289 unannotated units outside assigned authoring batch; statutory agreement 100%.",
+    "completeness_report": "completeness-report.json",
+    "technical_audit": "technical-audit.json"
   },
   "remaining_limitations": [
-    "309statutory units from195onwards lack commentary.",
-    "Whole-book build and strict validation remain negative for missing commentary outside this assigned review.",
-    "All220existing comments have bounded second-pass reports; this process reviewed only20assigned units.",
-    "Selective case-law coverage, no verified on-point185acase, auxiliary-statute and state-venue limits as documented."
+    "The 20 newly authored units need a fresh independent second pass.",
+    "Whole title remains incomplete: 289 units from §214 lack commentary.",
+    "Case-law coverage is selective: one additional fully read official BGH decision for §197; no additional authority selected for the remaining 19 units.",
+    "No comprehensive historical reconstruction or exhaustive subsequent case-law reception review.",
+    "Technical length and repetition checks do not certify legal quality."
   ],
-  "commented_scope": "§§ 1–194 einschließlich § 185a",
+  "commented_scope": "§§ 1–213 einschließlich der Buchstabenparagraphen",
   "resume": {
-    "last_commented_id": "p194",
-    "next_uncommented_id": "p195",
+    "last_commented_id": "p213",
+    "next_uncommented_id": "p214",
     "missing_identifiers": "completeness-report.json#missing_commentary",
     "full_parser": "_parse.py",
     "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
-    "instructions": "Continue original commentary from § 195 in assigned batches; preserve existing 220 comments. Full title remains incomplete."
+    "instructions": "Assigned batch p195-p213 authored; send it to a fresh independent review. Continue original authoring from §214 only on assignment. Preserve all 240 existing comments; whole title remains incomplete."
   },
   "source_preflight": {
     "complete": true,
@@ -427,35 +419,35 @@
     }
   ],
   "cumulative_independently_reviewed_units": 220,
-  "remaining_existing_commentaries_for_review": 0,
-  "commentary_characters": 441697,
+  "remaining_existing_commentaries_for_review": 20,
+  "commentary_characters": 489028,
   "bounded_authoring": {
     "complete": true,
     "units_written": 20,
     "assigned_ids": [
-      "p176",
-      "p177",
-      "p178",
-      "p179",
-      "p180",
-      "p181",
-      "p182",
-      "p183",
-      "p184",
-      "p185",
-      "p185a",
-      "p186",
-      "p187",
-      "p188",
-      "p189",
-      "p190",
-      "p191",
-      "p192",
-      "p193",
-      "p194"
+      "p195",
+      "p196",
+      "p196a",
+      "p197",
+      "p198",
+      "p199",
+      "p200",
+      "p201",
+      "p202",
+      "p203",
+      "p204",
+      "p205",
+      "p206",
+      "p207",
+      "p208",
+      "p209",
+      "p210",
+      "p211",
+      "p212",
+      "p213"
     ],
-    "result": "author-p176-p194-result.json",
-    "technical_audit": "author-p176-p194-audit.json",
+    "result": "author-p195-p213-result.json",
+    "technical_audit": "author-p195-p213-audit.json",
     "whole_book_complete": false,
     "independent_review": false
   },
@@ -475,6 +467,36 @@
       "result": "author-p169-p175-result.json",
       "technical_audit": "author-p169-p175-audit.json",
       "whole_book_complete": false
+    },
+    {
+      "complete": true,
+      "units_written": 20,
+      "assigned_ids": [
+        "p176",
+        "p177",
+        "p178",
+        "p179",
+        "p180",
+        "p181",
+        "p182",
+        "p183",
+        "p184",
+        "p185",
+        "p185a",
+        "p186",
+        "p187",
+        "p188",
+        "p189",
+        "p190",
+        "p191",
+        "p192",
+        "p193",
+        "p194"
+      ],
+      "result": "author-p176-p194-result.json",
+      "technical_audit": "author-p176-p194-audit.json",
+      "whole_book_complete": false,
+      "independent_review": false
     }
   ]
 }

@@ -1,6 +1,6 @@
 # INDEX — FamFG: unvollständige Arbeitsausgabe
 
-Kommentiert: § 1–§ 194 (220 von 529 Einheiten). Ab § 195 fehlen 309 Kommentare. Kein vollständiger Gesetzeskommentar.
+Kommentiert: § 1–§ 213 (240 von 529 Einheiten). Ab § 214 fehlen 289 Kommentare. Kein vollständiger Gesetzeskommentar.
 
 - [Einleitung](00-einleitung.md)
 
@@ -31,6 +31,8 @@ Kommentiert: § 1–§ 194 (220 von 529 Einheiten). Ab § 195 fehlen 309 Komment
 - [§ 165–§ 175](10-paragraphen-165.md) — 20 kommentierte Einheiten
 
 - [§ 176–§ 194](11-paragraphen-176.md) — 20 kommentierte Einheiten
+
+- [§ 195–§ 213](12-paragraphen-195.md) — 20 kommentierte Einheiten
 
 
 

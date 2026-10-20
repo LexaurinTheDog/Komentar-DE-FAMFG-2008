@@ -1,0 +1,294 @@
+{
+  "scope": "authoring and technical self-check of exactly 20 assigned units; not independent review",
+  "baseline_commit": "6910097b89fe2fc7d8e71fb05a289f0ec8089857",
+  "verified_at": "2026-10-20T17:29:19.636221+00:00",
+  "assigned_ids": [
+    "p195",
+    "p196",
+    "p196a",
+    "p197",
+    "p198",
+    "p199",
+    "p200",
+    "p201",
+    "p202",
+    "p203",
+    "p204",
+    "p205",
+    "p206",
+    "p207",
+    "p208",
+    "p209",
+    "p210",
+    "p211",
+    "p212",
+    "p213"
+  ],
+  "changed_ids": [
+    "p195",
+    "p196",
+    "p196a",
+    "p197",
+    "p198",
+    "p199",
+    "p200",
+    "p201",
+    "p202",
+    "p203",
+    "p204",
+    "p205",
+    "p206",
+    "p207",
+    "p208",
+    "p209",
+    "p210",
+    "p211",
+    "p212",
+    "p213"
+  ],
+  "unassigned_commentary_changes": [],
+  "source_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "checks": [
+    {
+      "id": "p195",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2447,
+      "commentary_sha256": "979ebf662e6fba63cf7667f4d01a5696617a0d34baf050746b99cbe0c5d25732",
+      "official_doknr": "BJNR258700008BJNE020001125"
+    },
+    {
+      "id": "p196",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 1754,
+      "commentary_sha256": "4150783c411218411316d3a21bba588123275d6f5864e552396d7cea8bb6a3c6",
+      "official_doknr": "BJNR258700008BJNE020100000"
+    },
+    {
+      "id": "p196a",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2547,
+      "commentary_sha256": "49ce8c27744a740630f2114bd26cd88ed7c673a64acb53f05c0f9a5e09a7d050",
+      "official_doknr": "BJNR258700008BJNE051600125"
+    },
+    {
+      "id": "p197",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2895,
+      "commentary_sha256": "7ceea17716fd0d07e060ca30fad0392c43326231f1e6e2ad54e50b0c9390a841",
+      "official_doknr": "BJNR258700008BJNE020200000"
+    },
+    {
+      "id": "p198",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2486,
+      "commentary_sha256": "b15d11383687b042981abe64d684aa04c6dc8ffdf1d3d0c6b3a7213ecbcb1862",
+      "official_doknr": "BJNR258700008BJNE020300000"
+    },
+    {
+      "id": "p199",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2679,
+      "commentary_sha256": "2ca122b2ed40d49d722f5c713a64acce3e050f1d2ed2fb794fcc68ece41aa00f",
+      "official_doknr": "BJNR258700008BJNE020400000"
+    },
+    {
+      "id": "p200",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2326,
+      "commentary_sha256": "9a65fc9c0e3515148f8373cd1248d6126455355c0a0e7b70d249709665a2990e",
+      "official_doknr": "BJNR258700008BJNE020501160"
+    },
+    {
+      "id": "p201",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 1993,
+      "commentary_sha256": "cb2b7f87a27aa8f3b2bb397759ffbe7e6beb46de91a6098869ef26292a5da0a2",
+      "official_doknr": "BJNR258700008BJNE020600000"
+    },
+    {
+      "id": "p202",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2169,
+      "commentary_sha256": "1828614ec429991114048f49c2e5adfc203f7517a4ea16d55c47cf8d4e8e2871",
+      "official_doknr": "BJNR258700008BJNE020701160"
+    },
+    {
+      "id": "p203",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2471,
+      "commentary_sha256": "517231b7452975c567ef98393d21d5d72e3fa113474b736618099426de8d713f",
+      "official_doknr": "BJNR258700008BJNE020801160"
+    },
+    {
+      "id": "p204",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2436,
+      "commentary_sha256": "db632149985f67b3cad3cd08d08ed54bf47337d60b4335ed55eb30da13260c08",
+      "official_doknr": "BJNR258700008BJNE020901160"
+    },
+    {
+      "id": "p205",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2222,
+      "commentary_sha256": "95da84e8d5c020b1496ea95bf89622b93c7dfa94d671479e521a6391e0e2732e",
+      "official_doknr": "BJNR258700008BJNE021001160"
+    },
+    {
+      "id": "p206",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2556,
+      "commentary_sha256": "867622d3b4771e6359a70cf05a9d1702a6e8b9574d2fb0a4fbd631b56fd54710",
+      "official_doknr": "BJNR258700008BJNE021101160"
+    },
+    {
+      "id": "p207",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2195,
+      "commentary_sha256": "ae988bf7676962a441fd1c3770a5e0b1a9b920cefc8c3fe4288d2c45b5cc9816",
+      "official_doknr": "BJNR258700008BJNE021200000"
+    },
+    {
+      "id": "p208",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2086,
+      "commentary_sha256": "51c9959d3fb9c5e35e89972bb6b35667ad90ae4edf0b2bd05b90ae289748de66",
+      "official_doknr": "BJNR258700008BJNE021300000"
+    },
+    {
+      "id": "p209",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2967,
+      "commentary_sha256": "bb65dcd81a75314de9ebaa813a6e01f104f2c5d4d0adcdac98b96a2789929f7c",
+      "official_doknr": "BJNR258700008BJNE021401160"
+    },
+    {
+      "id": "p210",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2385,
+      "commentary_sha256": "4dbe2e7211c81a4c426d4d23ba8fbe44f2aadf060a110b737c25b46c38e4d4d4",
+      "official_doknr": "BJNR258700008BJNE021500000"
+    },
+    {
+      "id": "p211",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2130,
+      "commentary_sha256": "c0552b9a0de37f869f8928ff7d01ab3f64516e27ae7ca327ceaf135f6feb1362",
+      "official_doknr": "BJNR258700008BJNE021600000"
+    },
+    {
+      "id": "p212",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2130,
+      "commentary_sha256": "cb814e9f3e871a0e23ce4bb976aace154839d991e76998086b293cf70cef1241",
+      "official_doknr": "BJNR258700008BJNE021700000"
+    },
+    {
+      "id": "p213",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2457,
+      "commentary_sha256": "0b238e0e7e50d96b894b410a88706820f4bd57b98f80a896cd8d660ab565a911",
+      "official_doknr": "BJNR258700008BJNE021800000"
+    }
+  ],
+  "case_corpus_checks": [
+    {
+      "doknr": "KORE700952024",
+      "local_path": "sources/author-p195-p213-local-KORE700952024.md",
+      "local_sha256": "9ae029578c671acc9315908c544ebc641fcb6b7a309fcfdd06742f0f7b0bc896",
+      "numbered_reasons": [
+        {
+          "rn": 1,
+          "found": true
+        },
+        {
+          "rn": 2,
+          "found": true
+        },
+        {
+          "rn": 3,
+          "found": true
+        },
+        {
+          "rn": 4,
+          "found": true
+        },
+        {
+          "rn": 5,
+          "found": true
+        },
+        {
+          "rn": 6,
+          "found": true
+        },
+        {
+          "rn": 7,
+          "found": true
+        },
+        {
+          "rn": 8,
+          "found": true
+        },
+        {
+          "rn": 9,
+          "found": true
+        },
+        {
+          "rn": 10,
+          "found": true
+        },
+        {
+          "rn": 11,
+          "found": true
+        },
+        {
+          "rn": 12,
+          "found": true
+        },
+        {
+          "rn": 13,
+          "found": true
+        },
+        {
+          "rn": 14,
+          "found": true
+        },
+        {
+          "rn": 15,
+          "found": true
+        },
+        {
+          "rn": 16,
+          "found": true
+        },
+        {
+          "rn": 17,
+          "found": true
+        },
+        {
+          "rn": 18,
+          "found": true
+        },
+        {
+          "rn": 19,
+          "found": true
+        },
+        {
+          "rn": 20,
+          "found": true
+        },
+        {
+          "rn": 21,
+          "found": true
+        },
+        {
+          "rn": 22,
+          "found": true
+        }
+      ],
+      "tenor_matches": true
+    }
+  ],
+  "exported_assigned_statutory_text_agrees": true,
+  "errors": [],
+  "ok": true
+}

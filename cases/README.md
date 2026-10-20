@@ -42,3 +42,6 @@ Die Autorencharge §§ 176–194 ergänzt [BGH, 29. Oktober 2014 — XII ZB 20/1
 
 
 Die elfte begrenzte Zweitprüfung ergänzt [BGH, 25. August 2021 — XII ZB 442/18](BGH-XII-ZB-442-18.md): Ausnahme von § 193 bei bereits wegen fehlender sittlicher Rechtfertigung abgelehnter Volljährigenadoption, Rn. 46–48; getrennte Amtsermittlung Rn. 49–51. Alle 53 Gründe wurden gelesen. Die beiden vorhandenen Karten zu XII ZB 20/14 und XII ZB 54/18 wurden nach erneutem Volltextabruf bestätigt beziehungsweise beim heutigen Anwendungsbereich des AdWirkG präzisiert. Die Gesamtzahl 24 bezeichnet den bisherigen Fallkartenbestand; dieser Durchgang prüfte genau diese drei Entscheidungen.
+
+
+Die Autorencharge §§ 195–213 ergänzt [BGH, 27. März 2024 — XII ZB 237/23](BGH-XII-ZB-237-23.md) zur Beschwerdebefugnis gegen einen Berichtigungsbeschluss. Der vollständige Text einschließlich amtlicher Berichtigung vom 10. Juli 2024 wurde gelesen. Die ausdrücklich offengelassene Zulässigkeit der konkreten Berichtigung wird nicht als entschieden behandelt. Der Fallkartenbestand umfasst nun 25 selektiv ausgewertete Entscheidungen; für die übrigen technischen Vorschriften dieser Charge wird keine ungesicherte Einzelfallautorität ergänzt.

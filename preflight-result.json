@@ -1204,5 +1204,16 @@
     },
     "parser_replay": "review-p176-p194-parser-replay.json",
     "unresolved_blockers": []
-  }
+  },
+  "bounded_authoring_rechecks": [
+    {
+      "scope": "p195-p213",
+      "decisive_date": "2026-10-19",
+      "verified_at": "2026-10-20T17:27:56.925313+00:00",
+      "complete": true,
+      "source_version_report": "sources/author-p195-p213-version-map.json",
+      "new_xml_identical": true,
+      "unresolved_blockers": []
+    }
+  ]
 }

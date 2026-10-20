@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-20T17:27:56.925313+00:00",
+  "scope": "author p195-p213",
+  "firecrawl": "firecrawl --status: authenticated, zero credits; no paid search/scrape attempted",
+  "web_queries": [
+    "site.rechtsprechung-im-internet.de \"§ 197\" \"FamFG\"",
+    "site.rechtsprechung-im-internet.de \"§ 206\" \"FamFG\"",
+    "site.rechtsprechung-im-internet.de \"§ 209\" \"FamFG\""
+  ],
+  "web_search_method": "Supplemental web discovery, authoritative holdings taken only from captured official full XML, not snippets or private commentary.",
+  "local_search": "rg exact references to §§197,206,209,211 FamFG in national rii corpus; manifest filtered for XII ZB 237/23, 100/22 and 18/16.",
+  "selected_full_text": {
+    "docket": "XII ZB 237/23",
+    "doknr": "KORE700952024",
+    "official_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE700952024.zip",
+    "reason": "Relevant boundary of correction and §197 finality; full text and appended correction read, no ruling invented on issue left open in Rn10."
+  },
+  "excluded_candidates": [
+    {
+      "docket": "XII ZB 100/22",
+      "reason": "Title/metadata screened; predominantly partition-sale dispute; no complete reading, not used as authority."
+    },
+    {
+      "docket": "XII ZB 18/16",
+      "reason": "Historical name-law issue; not selected as authority for the current §197 comment."
+    }
+  ],
+  "unit_disposition": "One verified relevant authority added for §197. No additional sufficiently relevant fully verified case selected for remaining 19 assigned units; their explanation is based on captured statutes. No exhaustive case-law coverage claimed."
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "purpose": "bounded authoring p195-p213 case law",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE700952024.zip",
+    "accessed_at": "2026-10-20T17:22:31.685724+00:00",
+    "http_status": 200,
+    "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE700952024.zip",
+    "content_type": "application/zip",
+    "path": "sources/author-p195-p213-XII-ZB-237-23.zip",
+    "sha256": "4b47043a83675d6c17a825328618cc29da169f8b850622ee18c53173f5e5d7c1",
+    "xml_path": "sources/author-p195-p213-XII-ZB-237-23.xml",
+    "xml_sha256": "3033cf1166c4e728fa07d28d3a7bd38f2f4e62bcdd1e1aad4e429208c7861075",
+    "format_validation": "ZIP magic, CRC, single XML, expected official document identifier",
+    "case_metadata": {
+      "doknr": "KORE700952024",
+      "gertyp": "BGH",
+      "entsch-datum": "20240327",
+      "aktenzeichen": "XII ZB 237/23",
+      "ecli": "ECLI:DE:BGH:2024:270324BXIIZB237.23.0"
+    },
+    "local_corpus_path": "sources/author-p195-p213-local-KORE700952024.md",
+    "local_corpus_sha256": "9ae029578c671acc9315908c544ebc641fcb6b7a309fcfdd06742f0f7b0bc896"
+  }
+]

@@ -1,6 +1,6 @@
 {
   "complete": false,
-  "commented": 220,
+  "commented": 240,
   "total": 529,
   "chapters": [
     "01-paragraphen-1.md",
@@ -13,7 +13,8 @@
     "08-paragraphen-132.md",
     "09-paragraphen-152.md",
     "10-paragraphen-165.md",
-    "11-paragraphen-176.md"
+    "11-paragraphen-176.md",
+    "12-paragraphen-195.md"
   ],
   "exporter": "_export_draft.py; regular full builder correctly rejects missing commentary"
 }
