@@ -8374,5 +8374,21 @@
     "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
     "unresolved_blockers": [],
     "version_evidence": "sources/author-p405-p424-version-map.json"
+  },
+  "bounded_review_recheck_p405_p424": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T22:30:31.215547+00:00",
+    "historical_versions_checked": {
+      "unique_paragraphs": 529,
+      "duplicates": [],
+      "duplicate_doknr": [],
+      "toc_agrees": true,
+      "excluded_future_changes": "BGBl.2026 I Nr.198 Art.4 except Nr.8 effective 2027-07-01; see Art.10(2) retained official PDF/text. No assigned provision affected by these future changes."
+    },
+    "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "unresolved_blockers": [],
+    "version_evidence": "sources/review-p405-p424-version-map.json"
   }
 }

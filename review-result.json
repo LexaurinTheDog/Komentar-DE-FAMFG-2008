@@ -2,153 +2,156 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p385",
-    "p386",
-    "p387",
-    "p388",
-    "p389",
-    "p390",
-    "p391",
-    "p392",
-    "p393",
-    "p394",
-    "p395",
-    "p396",
-    "p397",
-    "p398",
-    "p399",
-    "p400",
-    "p401",
-    "p402",
-    "p403",
-    "p404"
+    "p405",
+    "p406",
+    "p407",
+    "p408",
+    "p409",
+    "p410",
+    "p411",
+    "p412",
+    "p413",
+    "p414",
+    "p415",
+    "p416",
+    "p417",
+    "p418",
+    "p419",
+    "p420",
+    "p421",
+    "p422",
+    "p423",
+    "p424"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p385",
-      "review": "Öffentliche Register- und Dokumenteneinsicht nach Spezialrecht von §13 und interner Akte getrennt.",
+      "id": "p405",
+      "review": "Alle fünf Absätze geprüft: Beteiligtenantrag, Benennung, Eingangskontrolle, beide Belehrungen, Zweiwochenfrist und §404 Abs.1.",
       "corrected": false
     },
     {
-      "id": "p386",
-      "review": "Beide negativen Bescheinigungsalternativen, gebundene Erteilung und begrenzte Beweisaussage geprüft.",
+      "id": "p406",
+      "review": "Unwidersprochene Bestätigung, Anerkenntnis/Einigung, unberührter Teil und Nichtanerkennungsfiktion des Abwesenden unterschieden.",
       "corrected": false
     },
     {
-      "id": "p387",
-      "review": "Alle sechs Absätze, Länderbefugnisse, Bundesratszustimmung, Datenkatalog und Zweckbindung sowie Auftragsverarbeitung und europäischer Austausch geprüft.",
-      "corrected": false
-    },
-    {
-      "id": "p388",
-      "review": "Glaubhafte Kenntnis, materielle Verweisungskette, Frist und Einspruch sowie Muss nach Absatz1/Kann nach Absatz2 geprüft.",
-      "corrected": false
-    },
-    {
-      "id": "p389",
-      "review": "Kumulative Nichterfüllung und fehlender Einspruch, erneute Androhung, Kosten und Fortsetzung geprüft.",
-      "corrected": false
-    },
-    {
-      "id": "p390",
-      "review": "Alle sechs Absätze: Solltermin, Abwesenheit, Aufhebung, Festsetzungsermessen, Rechtskraftbeginn und frühere Festsetzungen geprüft.",
-      "corrected": false
-    },
-    {
-      "id": "p391",
-      "review": "Beschwerdegegenstände und begrenzte Präklusion der ursprünglichen Androhungsgründe geprüft.",
-      "corrected": false
-    },
-    {
-      "id": "p392",
-      "review": "Ordnungsgeld statt Zwangsgeld, nachfolgender Verstoß und Einspruchsstand kumulativ; Partnerschaft und eGbR geprüft.",
-      "corrected": false
-    },
-    {
-      "id": "p393",
-      "review": "Alle sechs Absätze einschließlich elektronischer Ersatzbenachrichtigung, Kostenunbilligkeit und Vollzugssperre geprüft.",
-      "corrected": false
-    },
-    {
-      "id": "p394",
-      "review": "Rechtsformkatalog, Ermessen/Muss, Anhörung und Widerspruch sowie mehrstufige Vollhafterausnahme geprüft; Personengesellschaften ausdrücklich benannt; BGH volltextgeprüft.",
+      "id": "p407",
+      "review": "Kläger/Beklagte, Monatsfrist zum Nachweis und Verlängerung, weitere materielle Klage und Berichtigung geprüft. Zuständigkeitskonzentration aus §879 Abs.2 ZPO ergänzt.",
       "corrected": true
     },
     {
-      "id": "p395",
-      "review": "Wesentlicher Zulässigkeitsmangel, Vermerklöschung, besondere Bekanntmachung und §393 Absätze3–5 geprüft.",
+      "id": "p408",
+      "review": "Drei Beschwerdegegenstände und Ausschluss materieller Widerspruchsgründe geprüft; Verfahrensrüge davon getrennt.",
       "corrected": false
     },
     {
-      "id": "p396",
-      "review": "Entfallene Nummer unverändert dokumentiert, keine aktuelle Ermächtigung behauptet.",
+      "id": "p409",
+      "review": "Relative Wirkung, Rechtskraft, Vollstreckung und alle drei nachfolgenden Klagearten mit sachlicher Zuständigkeit geprüft.",
       "corrected": false
     },
     {
-      "id": "p397",
-      "review": "Alle drei gesellschaftsrechtlichen Nichtigkeitsverweisungen und §395-Verfahren geprüft; keine pauschale Gründungsfehlerfolge.",
+      "id": "p410",
+      "review": "Alle vier Fallgruppen einschließlich BGB-Verweisungskatalog, Vollstreckungsgerichtsausnahme und begrenzter Pfandverkaufsgegenstand geprüft.",
       "corrected": false
     },
     {
-      "id": "p398",
-      "review": "Inhaltlicher zwingender Rechtsverstoß und öffentliches Interesse kumulativ; Beschluss statt Gesellschaft als Löschungsgegenstand.",
+      "id": "p411",
+      "review": "Vier Anknüpfungen, zusätzliche Abgabemöglichkeit und nur bei Sachverständigen ausdrückliche Gerichtsvereinbarung geprüft.",
       "corrected": false
     },
     {
-      "id": "p399",
-      "review": "Absätze1–4 geprüft; Muss-Einschreiten und genaue unterschiedliche Nummernkataloge ergänzt; Aufforderung von Feststellung und Auflösung getrennt.",
+      "id": "p412",
+      "review": "Alle vier Gruppen, vorhandener Gegner, differenzierte Verwahrerbestellung und Vergütungsbeteiligung geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p413",
+      "review": "Beidseitiger Antrag, persönliches Erscheinen und §§478–480/483 ZPO am frischen amtlichen Text geprüft; entsprechende Anwendung gewahrt.",
+      "corrected": false
+    },
+    {
+      "id": "p414",
+      "review": "Nur stattgebende Sachverständigenentscheidung unanfechtbar; keine Bindung sämtlicher materieller Ansprüche behauptet.",
+      "corrected": false
+    },
+    {
+      "id": "p415",
+      "review": "Bundesrechtlicher Anwendungsbereich, abweichendes Verfahrensrecht und Eingriff gegen Willen/bei Willenlosigkeit geprüft; keine eigene Haftgrundlage.",
+      "corrected": false
+    },
+    {
+      "id": "p416",
+      "review": "Gewöhnlicher Aufenthalt, subsidiärer Bedürfnisort und bestehende Verwahrung als besondere Anknüpfung geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p417",
+      "review": "Alle fünf Tatsachengruppen, Soll-Aktenvorlage nur Abschiebungshaft, Ergänzung und Grenze heutiger BGH-Aussage geprüft; zuständige antragstellende Behörde ausdrücklich ergänzt.",
       "corrected": true
     },
     {
-      "id": "p400",
-      "review": "Anhaltspunktschwelle, zwei VereinsG-Kategorien, zuständige Verwaltungsbehörde und begrenzte Mitteilungswirkung geprüft.",
+      "id": "p418",
+      "review": "Pflichtbeteiligte, Pfleger durch Bestellung, familiäre Voraussetzungen und benannte Vertrauensperson geprüft; BGH-Rn.7 auf Aufhebungsverfahren begrenzt.",
       "corrected": false
     },
     {
-      "id": "p401",
-      "review": "§73 BGB als Grundlage, Rechtskraft als Wirksamkeitserfordernis und keine allgemeine Beendigungsregel geprüft.",
+      "id": "p419",
+      "review": "Alle sechs Absätze geprüft: Erforderlichkeit, Wille/Information, keine gesetzliche Vertretung, Bevollmächtigung, Ende, Rechtsmittel und Vergütung/Kosten.",
       "corrected": false
     },
     {
-      "id": "p402",
-      "review": "Antragsbeschwerde, nur stattgebende Ausnahmen, Spezialrechtvorbehalt geprüft; §11 und §78 BinSchG ausdrücklich ergänzt.",
+      "id": "p420",
+      "review": "Persönliche Vorabanhörung, Vorführung, getrennte Ausnahmen, sonstige Beteiligte und ärztlicher Sachverständiger geprüft; Aushändigung/Übersetzung/Dokumentation nach BGH-Rn.9 ergänzt.",
       "corrected": true
     },
     {
-      "id": "p403",
-      "review": "Spezifischer Ablehnungsgrund große Haverei, Beteiligtenantrag, Verpflichtungsentscheidung und Beschwerde geprüft.",
+      "id": "p421",
+      "review": "Beide besonderen Tenorbestandteile, Dauerbegründung/Endzeitpunkt und früherer Wegfall der Voraussetzungen getrennt geprüft.",
       "corrected": false
     },
     {
-      "id": "p404",
-      "review": "Dispacheurantrag, Besitz und gesetzliche Mitteilungspflicht, Kannentscheidung sowie separates Einsichts-/Abschriftenrecht geprüft.",
+      "id": "p422",
+      "review": "Rechtskraft, Anordnung sofortiger Wirksamkeit, alternative Handlungen und Empfänger, Zeitvermerk und Behördenvollzug geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p423",
+      "review": "Nur Gründe an Betroffenen, ärztliches Zeugnis und erhebliche Gesundheitsnachteile; kein pauschaler Ausschluss von Tenor oder Anhörung.",
+      "corrected": false
+    },
+    {
+      "id": "p424",
+      "review": "Aussetzung/Aufhebung, vorherige Anhörungen, Wochen-Ausnahme, Auflagen und beide Widerrufsgründe geprüft; keine automatische Dauerverlängerung.",
       "corrected": false
     }
   ],
   "limitations": [
-    "Bounded second pass of exactly p385–p404; whole manuscript incomplete (89 other comments missing).",
-    "Selective existing case authority re-read; no exhaustive case-law search or external lawyer approval."
+    "Exactly p405–p424 reviewed; no whole-book completion (69 other comments absent).",
+    "Selective existing primary case fully re-read; no exhaustive case-law search, no external lawyer approval.",
+    "Current service text compared to retained commencement evidence; not a reconstruction of every amendment since 2008."
   ],
-  "reviewed_at": "2026-10-20T22:21:10.456127+00:00",
-  "source_evidence": "sources/review-p385-p404-version-map.json",
+  "reviewed_at": "2026-10-20T22:30:31.215547+00:00",
+  "source_evidence": "sources/review-p405-p424-version-map.json",
   "technical_checks": {
     "assigned_comments": 20,
     "parser_replay_byte_identical": true,
     "statutory_agreement": 1.0,
     "broken_local_links": [],
-    "repeated_paragraphs": []
+    "repeated_paragraphs": [],
+    "previous_22_output_chapters_unchanged": true,
+    "unassigned_work_commentary_unchanged": true
   },
   "strict_validation": {
     "repo": "Komentar-DE-FAMFG-2008",
     "units": 529,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 972821,
+    "commentary_chars": 1006676,
     "errors": [
-      "krátký/chybějící komentář u 89 jednotek: ['p405(0<400)', 'p406(0<400)', 'p407(0<400)', 'p408(0<400)', 'p409(0<400)', 'p410(0<400)', 'p411(0<400)', 'p412(0<400)']"
+      "krátký/chybějící komentář u 69 jednotek: ['p425(0<400)', 'p426(0<400)', 'p427(0<400)', 'p428(0<400)', 'p429(0<400)', 'p430(0<400)', 'p431(0<400)', 'p432(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
-  "validation_scope": "Whole book fails only on 89 unassigned comments; assigned review of twenty units complete."
+  "validation_scope": "Whole book fails on 69 unassigned missing comments; review of exactly twenty assigned units complete."
 }

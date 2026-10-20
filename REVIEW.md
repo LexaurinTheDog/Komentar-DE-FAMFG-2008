@@ -552,3 +552,10 @@ Der Gesamtkommentar bleibt mit 440/529 kommentierten Einheiten unvollständig. K
 
 
 Autorenkontrolle §§ 405–424: Alle 20 neuen Einheiten gegen ihren amtlichen Wortlaut gelesen. Dispachewiderspruch und Beschwerde, Monatsfrist zum Klagenachweis und Verlängerung, die vier Fallgruppen des § 410, Beteiligungs- und Anhörungsvoraussetzungen sowie Wirksamkeit und Vollzug getrennt erläutert. BGH XIII ZB 49/21 nur für tatsächlich entschiedene Gehörs- und Vertrauenspersonenfragen herangezogen; die offengelassene ausreichende Begründung der Haftdauer wird nicht als entschieden dargestellt. Eigenkontrolle, keine unabhängige Zweitprüfung. 460/529 Einheiten kommentiert, 69 außerhalb der Charge noch offen. [Chargenergebnis](author-p405-p424-result.json).
+
+
+## Begrenzte Zweitprüfung §§ 405–424
+
+Genau zwanzig Einheiten p405–p424 anhand des amtlichen XML einzeln geprüft. Präzisiert wurden § 407 (Zuständigkeitskonzentration nach § 879 Absatz 2 ZPO), § 417 (Antrag gerade der zuständigen Behörde) und § 420 (Aushändigung, erforderliche Übersetzung und Dokumentation des Haftantrags). Tenor und Rn. 1–11 des BGH-Beschlusses XIII ZB 49/21 vollständig erneut gelesen und mit nationalem Korpus abgeglichen; heutige Heilungsfragen bleiben ausdrücklich offen. [Einzelbefunde](review-p405-p424-result.json), [amtlicher Abruf](sources/review-p405-p424-fetch.json), [Fassungsnachweis](sources/review-p405-p424-version-map.json).
+
+Die Charge ist geprüft; der Gesamtentwurf bleibt bei 460/529 kommentierten Einheiten unvollständig. 69 fehlende Kommentare liegen außerhalb des Prüfauftrags. Keine externe anwaltliche Freigabe.

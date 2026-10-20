@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:28:11.989709+00:00",
+  "generated_at": "2026-10-20T22:30:31.566670+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -3505,6 +3505,56 @@
       "bytes": 13777
     },
     {
+      "path": "sources/review-p405-p424-case-check.json",
+      "sha256": "ba16501f46214fb45550600e4b68c4ee212de098bdff43a933ba2a4f12c14880",
+      "bytes": 735
+    },
+    {
+      "path": "sources/review-p405-p424-case.xml",
+      "sha256": "383d1729180339e4341a75449781484cf0e6df1410e3655923c1134cf51d1946",
+      "bytes": 14998
+    },
+    {
+      "path": "sources/review-p405-p424-case.zip",
+      "sha256": "90f6ee078ef073f21301e3a37207cae3186a82f87d4e5761a62c418521244bdc",
+      "bytes": 4095
+    },
+    {
+      "path": "sources/review-p405-p424-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/review-p405-p424-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/review-p405-p424-fetch.json",
+      "sha256": "b329f4025e4fa00907397f3dd41d8b78080bd884b4be51b463c8dc3d1f4a8b3f",
+      "bytes": 1800
+    },
+    {
+      "path": "sources/review-p405-p424-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/review-p405-p424-version-map.json",
+      "sha256": "50605ce3bb7c02ce39adec2cbfd9991d38ea96746593a9e9cbcaf1842a38349b",
+      "bytes": 6973
+    },
+    {
+      "path": "sources/review-p405-p424-zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/review-p405-p424-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
       "path": "sources/review-p47-674-14-gruende.txt",
       "sha256": "f2176cb1bfaf844119e6fb4d749d34984e078177e383c75fc6050277fe7af8a1",
       "bytes": 22246
@@ -3846,8 +3896,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "835d0f3633f5678669bde30310e48196af781093e6b84d6e116e06ab95dec2b6",
-      "bytes": 273658
+      "sha256": "948f6f95f18d65ddd475df4a7aeadbcfdc5b83c6420c3cfe62b8fde80ba63ba8",
+      "bytes": 275559
     }
   ]
 }

@@ -123,3 +123,5 @@ Begrenzte Zweitprüfung §§ 385–404: zwanzig Einheiten geprüft, drei Komment
 
 
 Aktueller Autorencheckpoint §§ 405–424: 20 neue spezifische Kommentare, 20 fiktive Beispiele und drei praktische Prüflisten; Gesamtstand 460/529, noch 69 Kommentare ab § 425 offen. Amtlicher BGH-Volltext XIII ZB 49/21 vollständig gelesen; ZPO-Verweisungen zu §§ 407 und 413 anhand frischer amtlicher XML geprüft. Die unabhängige Zweitprüfung dieser Charge steht aus. [Chargenergebnis](author-p405-p424-result.json), [Fallkarte](cases/BGH-XIII-ZB-49-21.md), [Fassungsprüfung](sources/author-p405-p424-version-map.json). Frühere Verlaufsabsätze beschreiben historische Teilstände.
+
+Begrenzte Zweitprüfung §§ 405–424 abgeschlossen: zwanzig Einheiten geprüft, drei Kommentare präzisiert. Der frühere Hinweis auf die ausstehende Zweitprüfung dieser Charge ist damit überholt. [Prüfbericht](REVIEW.md), [Einzelbefunde](review-p405-p424-result.json). Gesamtmanuskript weiterhin unvollständig.
