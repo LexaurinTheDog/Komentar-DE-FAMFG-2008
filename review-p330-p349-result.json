@@ -1,0 +1,218 @@
+{
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p330",
+    "p331",
+    "p332",
+    "p333",
+    "p334",
+    "p335",
+    "p336",
+    "p337",
+    "p338",
+    "p339",
+    "p340",
+    "p341",
+    "p342",
+    "p343",
+    "p344",
+    "p345",
+    "p346",
+    "p347",
+    "p348",
+    "p349"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p330",
+      "disposition": "confirmed",
+      "finding": "Zwingende Aufhebung bei Wegfall, konkrete Maßnahme statt pauschalem Ende aller Eingriffe, Behördenanhörung nur bei Nr4 und Verzögerungsausnahme sowie §338 geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p331",
+      "disposition": "confirmed",
+      "finding": "Vier kumulative Voraussetzungen, psychiatrische Soll-/Mussqualifikation und begrenzte Ausnahme, Rechtshilfeanhörung, Abgrenzung zum Gutachten und zu §332/333 geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p332",
+      "disposition": "confirmed",
+      "finding": "Gesteigerte Dringlichkeit verschiebt nur Anhörung und Pflegerbestellung/-anhörung; Zeugnis und materielle Voraussetzungen bleiben. Unverzügliche Nachholung konkret erläutert.",
+      "resolved": true
+    },
+    {
+      "id": "p333",
+      "disposition": "confirmed",
+      "finding": "Sechs Wochen je allgemeiner Anordnung, drei Monate insgesamt, Sachverständigenanhörung zur Verlängerung und Einrechnung §322; Zwangsmaßnahme zwei/sechs Wochen getrennt geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p334",
+      "disposition": "confirmed",
+      "finding": "Entsprechende Anwendung aller §§331–333 auf Maßregel nach BGB1867 und fehlende eigenständige materielle Eingriffsermächtigung zutreffend.",
+      "resolved": true
+    },
+    {
+      "id": "p335",
+      "disposition": "corrected",
+      "finding": "Pflegeeltern als ausgelassene eigenständige Beschwerdegruppe ergänzt und Wohnkriterium von Eltern/Kindern unterschieden. Vier Absätze und BGH XII ZB63/25 Rn1–14 vollständig geprüft; Rn5 ist LG-Referat, Rn12 enthält offene Fragen.",
+      "resolved": true
+    },
+    {
+      "id": "p336",
+      "disposition": "confirmed",
+      "finding": "Zusätzliche Einlegungsstelle für Betroffenen, tatsächlicher Unterbringungsbezirk, keine Entscheidungszuständigkeit und keine Erweiterung auf alle Angehörigen zutreffend.",
+      "resolved": true
+    },
+    {
+      "id": "p337",
+      "disposition": "confirmed",
+      "finding": "Ermessen/Staatskasse bei Nr1–3 gegenüber zwingender Körperschaftshaftung bei Nr4; Ablehnung/Rücknahme plus fehlender begründeter Anlass kumulativ. Spätere Genesung nicht mit ursprünglicher Ungerechtfertigtheit verwechselt.",
+      "resolved": true
+    },
+    {
+      "id": "p338",
+      "disposition": "confirmed",
+      "finding": "Verweisungen auf §§308/311 einschließlich Unterrichtung und Dokumentation, ausdrückliche Leitungsmeldungen bei §330/328 und Unterschied Aufhebung/Aussetzung geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p339",
+      "disposition": "confirmed",
+      "finding": "Unverzügliche Benachrichtigung eines Angehörigen oder einer Vertrauensperson bei Anordnung/Genehmigung und jeder Verlängerung; kein automatischer Beteiligtenstatus; Prüfliste spezifisch.",
+      "resolved": true
+    },
+    {
+      "id": "p340",
+      "disposition": "confirmed",
+      "finding": "Drei Zuweisungsgruppen, Ausnahme für Minderjährige/gezeugte Kinder und Nachrang gegenüber Betreuungs-/Unterbringungssachen vollständig geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p341",
+      "disposition": "corrected",
+      "finding": "Subsidiäre Rangstufen Fürsorgebedürfnis und AG Schöneberg mit Staatsangehörigkeitsvoraussetzung ausdrücklich ergänzt; §272Abs2 einschließlich Mitteilung abgeglichen.",
+      "resolved": true
+    },
+    {
+      "id": "p342",
+      "disposition": "confirmed",
+      "finding": "Neun Nachlassgruppen und zwei Teilungsgruppen, gesetzlicher Auffangtatbestand und Unterscheidung Eröffnung/Zeugnis/streitiger Zahlungsanspruch geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p343",
+      "disposition": "confirmed",
+      "finding": "Gewöhnlicher Aufenthalt im Todeszeitpunkt, letzter Inlandsaufenthalt, Schöneberg mit alternativen Anknüpfungen und Verweisung aus wichtigem Grund; internationale Zuständigkeit als getrennte Frage, keine ungeprüfte konkrete EU-Regel behauptet.",
+      "resolved": true
+    },
+    {
+      "id": "p344",
+      "disposition": "corrected",
+      "finding": "Alle Absätze einschließlich 4a und elektronischer Übermittlung in Abs7 geprüft. Abs5 um Rangfolge §122Nr1–5, subsidiäre Gegenstandslage und entsprechende Prioritäts-/Vereinbarungsregeln präzisiert.",
+      "resolved": true
+    },
+    {
+      "id": "p345",
+      "disposition": "corrected",
+      "finding": "Abs4 um vollständige fünf Pflichtbeteiligungsgruppen erweitert. Abs1–3, Antrag auf Hinzuziehung und unmittelbare Rechtsbetroffenheit sowie Ehegattenbeteiligung im BGB2008-Fall abgeglichen.",
+      "resolved": true
+    },
+    {
+      "id": "p346",
+      "disposition": "confirmed",
+      "finding": "Annahme/Herausgabe, gemeinschaftlicher Verschluss und Hinterlegungsscheine für jeden Erblasser/Vertragsschließenden geprüft; Sollcharakter des Scheins nicht als ausnahmslose Pflicht dargestellt.",
+      "resolved": true
+    },
+    {
+      "id": "p347",
+      "disposition": "confirmed",
+      "finding": "Alle drei Absätze mit elektronischer Erstmeldung, nicht amtlich verwahrten Dokumenten nach erstem Erbfall, erneuter Registrierung und Rückgabemitteilung geprüft; keine Veröffentlichung des Inhalts behauptet.",
+      "resolved": true
+    },
+    {
+      "id": "p348",
+      "disposition": "confirmed",
+      "finding": "Unverzügliche Eröffnung nach Todeskenntnis, Niederschrift/Verschlusszustand, optionaler Termin, Vorlegung auf Verlangen, schriftliche Bekanntgabe und Ausnahme für Anwesende sowie Grenze §349 geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p349",
+      "disposition": "confirmed",
+      "finding": "Trennbare Verfügungen Überlebender, beglaubigte Abschrift, Wiederverwahrung und Ausnahme bei nur erstem Erbfall sowie Erbverträge vollständig geprüft; Beispiel enthält echte weitere Anordnungen.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Review limited exactly to assigned 20 provisions; no whole-book completion.",
+    "One cited official BGH decision reread in full, no exhaustive case-law survey.",
+    "149 unassigned statutory units remain unannotated.",
+    "Technical validation does not establish substantive legal quality or external professional approval."
+  ],
+  "whole_book_complete": false,
+  "changed_ids": [
+    "p335",
+    "p341",
+    "p344",
+    "p345"
+  ],
+  "verified_at": "2026-10-20T21:53:32.104356+00:00",
+  "source_evidence": "sources/review-p330-p349-version-map.json",
+  "validation": {
+    "ok": true,
+    "reviewed_ids": [
+      "p330",
+      "p331",
+      "p332",
+      "p333",
+      "p334",
+      "p335",
+      "p336",
+      "p337",
+      "p338",
+      "p339",
+      "p340",
+      "p341",
+      "p342",
+      "p343",
+      "p344",
+      "p345",
+      "p346",
+      "p347",
+      "p348",
+      "p349"
+    ],
+    "changed_ids": [
+      "p335",
+      "p341",
+      "p344",
+      "p345"
+    ],
+    "unassigned_comments_unchanged": true,
+    "assigned_output_matches": true,
+    "official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "local_links_checked": 1116,
+    "broken_links": [],
+    "repetition_screen_findings": [],
+    "strict_validation": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 856110,
+      "errors": [
+        "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']",
+        "necommitnuté změny v repu"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "whole_book_complete": false
+  }
+}

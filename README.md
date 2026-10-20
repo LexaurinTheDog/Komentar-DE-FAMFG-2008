@@ -100,3 +100,6 @@ Die begrenzte unabhängige Zweitprüfung vom 20. Oktober 2026 erfasst genau §§
 
 
 Autorencheckpoint §§ 330–349: Genau zwanzig neue Erläuterungen, zwanzig fiktive Beispiele und drei thematische Prüflisten. Ein amtlicher BGH-Volltext wurde selektiv vollständig ausgewertet. Gesamtstand 380/529; 149 Kommentare ab § 350 fehlen. Die neue Charge wartet auf unabhängige Zweitprüfung. [Chargenergebnis](author-p330-p349-result.json), [Quellenvergleich](sources/author-p330-p349-version-map.json). Frühere Fortschrittsabsätze dokumentieren ihre historischen Teilstände.
+
+
+Die begrenzte Zweitprüfung vom 20. Oktober 2026 erfasst genau §§ 330–349 (20 Einheiten). Jede Erläuterung wurde mit dem amtlichen Text verglichen; §§ 335, 341, 344 und 345 wurden ergänzt. Der zitierte BGH-Volltext XII ZB 63/25 wurde erneut vollständig geprüft. [Einzelbefunde](review-p330-p349-result.json), [Quellenprüfung](sources/review-p330-p349-version-map.json), [technische Prüfung](review-p330-p349-audit.json). Gesamtstand: 380/529 kommentiert; 149 unzugewiesene Einheiten ab § 350 bleiben offen. Kein Gesamtabschluss, keine externe fachliche Freigabe.

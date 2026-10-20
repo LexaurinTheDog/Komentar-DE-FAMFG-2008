@@ -2,225 +2,217 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p310",
-    "p311",
-    "p312",
-    "p313",
-    "p314",
-    "p315",
-    "p316",
-    "p317",
-    "p318",
-    "p319",
-    "p320",
-    "p321",
-    "p322",
-    "p323",
-    "p324",
-    "p325",
-    "p326",
-    "p327",
-    "p328",
-    "p329"
+    "p330",
+    "p331",
+    "p332",
+    "p333",
+    "p334",
+    "p335",
+    "p336",
+    "p337",
+    "p338",
+    "p339",
+    "p340",
+    "p341",
+    "p342",
+    "p343",
+    "p344",
+    "p345",
+    "p346",
+    "p347",
+    "p348",
+    "p349"
   ],
-  "decisive_date": "2026-10-19",
-  "verified_at": "2026-10-20T21:42:17.597437+00:00",
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p310",
+      "id": "p330",
       "disposition": "confirmed",
-      "finding": "Einrichtungsleitung, Dauer, zwei einschlägige Aufgabenbereiche sowie Bestellung, Aufhebung und Personenwechsel vollständig geprüft; keine Vollmachterweiterung durch Mitteilung.",
+      "finding": "Zwingende Aufhebung bei Wegfall, konkrete Maßnahme statt pauschalem Ende aller Eingriffe, Behördenanhörung nur bei Nr4 und Verzögerungsausnahme sowie §338 geprüft.",
       "resolved": true
     },
     {
-      "id": "p311",
+      "id": "p331",
       "disposition": "confirmed",
-      "finding": "Vorbehalte, identifizierbare Erkenntnisse, Amtswegigkeit, öffentlicher Empfängerkreis, Verfolgungszweck und Interessenabwägung sowie entsprechende Unterrichtung/Dokumentation nach §308Abs3/4 getrennt geprüft.",
+      "finding": "Vier kumulative Voraussetzungen, psychiatrische Soll-/Mussqualifikation und begrenzte Ausnahme, Rechtshilfeanhörung, Abgrenzung zum Gutachten und zu §332/333 geprüft.",
       "resolved": true
     },
     {
-      "id": "p312",
+      "id": "p332",
       "disposition": "confirmed",
-      "finding": "Alle vier Nummern mit aktuellen BGB-Verweisungen und Abgrenzung der Landesrechtstatbestände geprüft. Fortgeltungshinweis zu BGB1832 als Quellenhinweis, keine vorgetäuschte BVerfG-Volltextprüfung.",
+      "finding": "Gesteigerte Dringlichkeit verschiebt nur Anhörung und Pflegerbestellung/-anhörung; Zeugnis und materielle Voraussetzungen bleiben. Unverzügliche Nachholung konkret erläutert.",
       "resolved": true
     },
     {
-      "id": "p313",
+      "id": "p333",
       "disposition": "confirmed",
-      "finding": "Vier Rangstufen, besondere Eilzuständigkeit, eigenständige Landesrechtszuständigkeit und beide Mitteilungsrichtungen geprüft; Reiseaufwand ersetzt nach XII ZB183/25 Rn7–11 nicht die eigene Anhörung.",
+      "finding": "Sechs Wochen je allgemeiner Anordnung, drei Monate insgesamt, Sachverständigenanhörung zur Verlängerung und Einrechnung §322; Zwangsmaßnahme zwei/sechs Wochen getrennt geprüft.",
       "resolved": true
     },
     {
-      "id": "p314",
+      "id": "p334",
       "disposition": "confirmed",
-      "finding": "Gegenwärtiger Aufenthalt, Vollzugsabsicht, Übernahmebereitschaft kumulativ und Ermessen zutreffend. XII ZB183/25 Rn11 erlaubt keinen Schluss von abgelehnter Abgabe auf Rechtshilfe.",
+      "finding": "Entsprechende Anwendung aller §§331–333 auf Maßregel nach BGB1867 und fehlende eigenständige materielle Eingriffsermächtigung zutreffend.",
       "resolved": true
     },
     {
-      "id": "p315",
-      "disposition": "confirmed",
-      "finding": "Zwingende und optionale Beteiligte, automatische Pflegerbeteiligung, Behördenantrag, Wohnvoraussetzung bei Eltern/Kindern und Trennungsmerkmal bei Ehegatten/Lebenspartnern geprüft; bloße Anhörung von Beteiligung unterschieden.",
-      "resolved": true
-    },
-    {
-      "id": "p316",
-      "disposition": "confirmed",
-      "finding": "Unabhängigkeit von Geschäftsfähigkeit, eigene Rechtsmittelausübung und Abgrenzung zur materiellen Einwilligungsfähigkeit zutreffend; Gutachtenüberlassung gestützt durch XII ZB271/24 Rn4–9.",
-      "resolved": true
-    },
-    {
-      "id": "p317",
+      "id": "p335",
       "disposition": "corrected",
-      "finding": "Alle acht Absätze geprüft, insbesondere obligatorischer Schutz bei Zwangsmaßnahmen, geeignete Verfahrensvertretung nach Abs5 und fehlende gesetzliche Vertretungsmacht. Satzgrenze im Abschnitt zu Abs5 korrigiert.",
+      "finding": "Pflegeeltern als ausgelassene eigenständige Beschwerdegruppe ergänzt und Wohnkriterium von Eltern/Kindern unterschieden. Vier Absätze und BGH XII ZB63/25 Rn1–14 vollständig geprüft; Rn5 ist LG-Referat, Rn12 enthält offene Fragen.",
       "resolved": true
     },
     {
-      "id": "p318",
+      "id": "p336",
       "disposition": "confirmed",
-      "finding": "Verweisung auf §277Abs1–4 einschließlich Berufsmäßigkeitsfeststellung, Pauschalvoraussetzungen, Ausschluss weitergehender Ansprüche und Staatskasse geprüft. Vergütung nicht mit Kostenauferlegung verwechselt.",
+      "finding": "Zusätzliche Einlegungsstelle für Betroffenen, tatsächlicher Unterbringungsbezirk, keine Entscheidungszuständigkeit und keine Erweiterung auf alle Angehörigen zutreffend.",
       "resolved": true
     },
     {
-      "id": "p319",
+      "id": "p337",
       "disposition": "confirmed",
-      "finding": "Alle sieben Absätze geprüft: persönliche aktuelle Anhörung, Umgebung, Gutachtenerörterung, Pflegeranwesenheit, Gutachten für Gesundheitsausnahme, eng begrenzte Rechtshilfe sowie getrennte Gewalt-/Wohnungsanordnung. XII ZB183/25 vollständig bestätigt.",
+      "finding": "Ermessen/Staatskasse bei Nr1–3 gegenüber zwingender Körperschaftshaftung bei Nr4; Ablehnung/Rücknahme plus fehlender begründeter Anlass kumulativ. Spätere Genesung nicht mit ursprünglicher Ungerechtfertigtheit verwechselt.",
       "resolved": true
     },
     {
-      "id": "p320",
+      "id": "p338",
       "disposition": "confirmed",
-      "finding": "Mussanhörung der Beteiligten von Sollanhörung der Behörde ohne Antrag unterschieden. Keine unzutreffende Pflicht zur persönlichen Anhörung aller Beteiligten behauptet.",
+      "finding": "Verweisungen auf §§308/311 einschließlich Unterrichtung und Dokumentation, ausdrückliche Leitungsmeldungen bei §330/328 und Unterschied Aufhebung/Aussetzung geprüft.",
       "resolved": true
     },
     {
-      "id": "p321",
+      "id": "p339",
+      "disposition": "confirmed",
+      "finding": "Unverzügliche Benachrichtigung eines Angehörigen oder einer Vertrauensperson bei Anordnung/Genehmigung und jeder Verlängerung; kein automatischer Beteiligtenstatus; Prüfliste spezifisch.",
+      "resolved": true
+    },
+    {
+      "id": "p340",
+      "disposition": "confirmed",
+      "finding": "Drei Zuweisungsgruppen, Ausnahme für Minderjährige/gezeugte Kinder und Nachrang gegenüber Betreuungs-/Unterbringungssachen vollständig geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p341",
       "disposition": "corrected",
-      "finding": "Gutachten, persönliche Exploration, Prognose, ärztliche Qualifikation und Sollabstand zum zwangsbehandelnden Arzt geprüft. Bei Zeugnis ausdrücklich Zweckmitteilung und erkennbare Gutachterrolle ergänzt: XII ZB552/25 Rn9/13. Konkludente Gutachteneinführung aus XII ZB207/25 bleibt eng fallbezogen.",
+      "finding": "Subsidiäre Rangstufen Fürsorgebedürfnis und AG Schöneberg mit Staatsangehörigkeitsvoraussetzung ausdrücklich ergänzt; §272Abs2 einschließlich Mitteilung abgeglichen.",
       "resolved": true
     },
     {
-      "id": "p322",
+      "id": "p342",
       "disposition": "confirmed",
-      "finding": "Entsprechende Anwendung §§283/284 einschließlich Anhörung, Gewalt, Wohnung, sechs Wochen/drei Monate und ZPO-Sofortbeschwerde geprüft; Beobachtungsunterbringung kein Behandlungstitel. Anrechnung gemäß §333Abs1 bestätigt.",
+      "finding": "Neun Nachlassgruppen und zwei Teilungsgruppen, gesetzlicher Auffangtatbestand und Unterscheidung Eröffnung/Zeugnis/streitiger Zahlungsanspruch geprüft.",
       "resolved": true
     },
     {
-      "id": "p323",
+      "id": "p343",
       "disposition": "confirmed",
-      "finding": "Nähere Maßnahmenbezeichnung und Endzeit im Tenor, zusätzliche ärztliche Durchführung/Dokumentation bei Zwangsmaßnahmen und Trennung von Bestimmtheit, Zulässigkeit und Beweis bestätigt.",
+      "finding": "Gewöhnlicher Aufenthalt im Todeszeitpunkt, letzter Inlandsaufenthalt, Schöneberg mit alternativen Anknüpfungen und Verweisung aus wichtigem Grund; internationale Zuständigkeit als getrennte Frage, keine ungeprüfte konkrete EU-Regel behauptet.",
       "resolved": true
     },
     {
-      "id": "p324",
+      "id": "p344",
       "disposition": "corrected",
-      "finding": "Rechtskraftregel und drei alternative Wirksamkeitsereignisse geprüft. Vier mögliche Empfänger der ersten Alternative ausdrücklich benannt; Übergabezweck und Zeitvermerk bleiben getrennt von Vollzugsbefugnissen.",
+      "finding": "Alle Absätze einschließlich 4a und elektronischer Übermittlung in Abs7 geprüft. Abs5 um Rangfolge §122Nr1–5, subsidiäre Gegenstandslage und entsprechende Prioritäts-/Vereinbarungsregeln präzisiert.",
       "resolved": true
     },
     {
-      "id": "p325",
-      "disposition": "confirmed",
-      "finding": "Nur Gründe können bei ärztlich belegter erheblicher Gesundheitsgefahr zurückgehalten werden. Bekanntgabe an Einrichtung und Behörde sowie entsprechende Gutachtenausnahme nach XII ZB271/24 zutreffend.",
+      "id": "p345",
+      "disposition": "corrected",
+      "finding": "Abs4 um vollständige fünf Pflichtbeteiligungsgruppen erweitert. Abs1–3, Antrag auf Hinzuziehung und unmittelbare Rechtsbetroffenheit sowie Ehegattenbeteiligung im BGB2008-Fall abgeglichen.",
       "resolved": true
     },
     {
-      "id": "p326",
+      "id": "p346",
       "disposition": "confirmed",
-      "finding": "Unterstützung nur auf Wunsch und für §312Nr1/3, ausdrückliche Gewaltanordnung, Polizeihilfe, Wohnungsschutz und persönliche Voranhörung mit begrenzter Eilausnahme vollständig geprüft.",
+      "finding": "Annahme/Herausgabe, gemeinschaftlicher Verschluss und Hinterlegungsscheine für jeden Erblasser/Vertragsschließenden geprüft; Sollcharakter des Scheins nicht als ausnahmslose Pflicht dargestellt.",
       "resolved": true
     },
     {
-      "id": "p327",
+      "id": "p347",
       "disposition": "confirmed",
-      "finding": "Begrenzung auf §312Nr4, Verpflichtungsantrag, Geltendmachung eigener Rechte, fehlende automatische Hemmung, gerichtliche Aussetzungsmöglichkeit und Unanfechtbarkeit geprüft; keine eigenen materiellen Vollzugsansprüche erfunden.",
+      "finding": "Alle drei Absätze mit elektronischer Erstmeldung, nicht amtlich verwahrten Dokumenten nach erstem Erbfall, erneuter Registrierung und Rückgabemitteilung geprüft; keine Veröffentlichung des Inhalts behauptet.",
       "resolved": true
     },
     {
-      "id": "p328",
+      "id": "p348",
       "disposition": "confirmed",
-      "finding": "Nur landesrechtliche Unterbringung; Aussetzung/Aufhebung, Auflagen, sechs Monate/ein Jahr und alternative Widerrufsgründe geprüft. XII ZB412/24 Rn10/11 belegt nur kurze Unterbrechungen ohne Fristneubeginn.",
+      "finding": "Unverzügliche Eröffnung nach Todeskenntnis, Niederschrift/Verschlusszustand, optionaler Termin, Vorlegung auf Verlangen, schriftliche Bekanntgabe und Ausnahme für Anwesende sowie Grenze §349 geprüft.",
       "resolved": true
     },
     {
-      "id": "p329",
+      "id": "p349",
       "disposition": "confirmed",
-      "finding": "Einzelhöchstfristen ein/zwei Jahre und sechs Wochen, wiederholte Erstverfahrensgarantien und vierjährige/zwölfwöchige Unabhängigkeitsschwellen geprüft. XII ZB207/25 Rn19 trägt Gutachtendatum, XII ZB412/24 Rn8–14 zeitliche Kontinuität und offene Umgehungsfrage; keine pauschale Lebenszeitaddition.",
+      "finding": "Trennbare Verfügungen Überlebender, beglaubigte Abschrift, Wiederverwahrung und Ausnahme bei nur erstem Erbfall sowie Erbverträge vollständig geprüft; Beispiel enthält echte weitere Anordnungen.",
       "resolved": true
     }
   ],
   "limitations": [
-    "Exactly twenty assigned units reviewed; no whole-book completion.",
-    "Five selected official judgments reread; no exhaustive case-law survey.",
-    "Land statutes and the constitutional judgment behind BGB1832 source note not independently reviewed.",
-    "169 unassigned units remain unannotated; technical tests do not certify legal quality."
+    "Review limited exactly to assigned 20 provisions; no whole-book completion.",
+    "One cited official BGH decision reread in full, no exhaustive case-law survey.",
+    "149 unassigned statutory units remain unannotated.",
+    "Technical validation does not establish substantive legal quality or external professional approval."
   ],
   "whole_book_complete": false,
   "changed_ids": [
-    "p317",
-    "p321",
-    "p324"
+    "p335",
+    "p341",
+    "p344",
+    "p345"
   ],
-  "evidence": {
-    "sources": "sources/review-p310-p329-fetch.json",
-    "preflight": "sources/review-p310-p329-version-map.json",
-    "parser": "review-p310-p329-parser-replay.json"
-  },
-  "stage": "bounded_second_pass_complete",
+  "verified_at": "2026-10-20T21:53:32.104356+00:00",
+  "source_evidence": "sources/review-p330-p349-version-map.json",
   "validation": {
     "ok": true,
     "reviewed_ids": [
-      "p310",
-      "p311",
-      "p312",
-      "p313",
-      "p314",
-      "p315",
-      "p316",
-      "p317",
-      "p318",
-      "p319",
-      "p320",
-      "p321",
-      "p322",
-      "p323",
-      "p324",
-      "p325",
-      "p326",
-      "p327",
-      "p328",
-      "p329"
+      "p330",
+      "p331",
+      "p332",
+      "p333",
+      "p334",
+      "p335",
+      "p336",
+      "p337",
+      "p338",
+      "p339",
+      "p340",
+      "p341",
+      "p342",
+      "p343",
+      "p344",
+      "p345",
+      "p346",
+      "p347",
+      "p348",
+      "p349"
     ],
     "changed_ids": [
-      "p317",
-      "p321",
-      "p324"
+      "p335",
+      "p341",
+      "p344",
+      "p345"
     ],
-    "unassigned_340_comments_byte_identical": true,
-    "assigned_export_matches": true,
-    "statutory_agreement": 1.0,
-    "expected_official_units": 529,
+    "unassigned_comments_unchanged": true,
+    "assigned_output_matches": true,
+    "official_units": 529,
     "parsed_units": 529,
-    "missing": [],
-    "extra": [],
-    "duplicates": [],
-    "links_checked": 1090,
+    "statutory_agreement": 1.0,
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "local_links_checked": 1116,
     "broken_links": [],
     "repetition_screen_findings": [],
-    "full_validation": {
+    "strict_validation": {
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 816950,
+      "commentary_chars": 856110,
       "errors": [
-        "krátký/chybějící komentář u 169 jednotek: ['p330(0<400)', 'p331(0<400)', 'p332(0<400)', 'p333(0<400)', 'p334(0<120)', 'p335(0<400)', 'p336(0<120)', 'p337(0<400)']"
+        "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
-    "whole_book_complete": false,
-    "baseline_work_commit": "3fe29a7773e8fc17b797fc6f17dcbb04d0814e96",
-    "baseline_output_commit": "601d07d49e723290e1187893d4ff720725a11654",
-    "post_checkpoint_validation": true
-  },
-  "completed_at": "2026-10-20T21:42:17.597437+00:00"
+    "whole_book_complete": false
+  }
 }

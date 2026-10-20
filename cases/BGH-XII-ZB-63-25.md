@@ -11,3 +11,5 @@ Rn. 7–11 unterscheiden die eigene Beschwerde des Angehörigen nach § 335 Absa
 Rn. 5 gibt die Begründung des Landgerichts einschließlich dessen zusätzlicher Sachprüfung wieder. Die Fallkarte macht daraus keine eigenständige Bestätigung der materiellen Unterbringungsvoraussetzungen durch den BGH. Dessen tragende Prüfung betrifft die Zulässigkeit des Rechtsmittels. Die in Rn. 12 angeführte Literatur und ältere Entscheidungen wurden nicht als selbständig geprüfte Autoritäten übernommen.
 
 Die einschlägige aktuelle Verfahrensnorm wurde mit dem amtlichen FamFG-XML abgeglichen. Die Beschränkung auf die konkrete Aufteilung zwischen zwei Betreuern bleibt gewahrt. Selektive Recherche, keine vollständige Prüfung späterer Rechtsprechung und keine externe fachliche Freigabe.
+
+Unabhängige begrenzte Zweitprüfung am 20. Oktober 2026: Amtlichen Volltext einschließlich Rn. 1–14 erneut gelesen und mit dem frischen [XML-Abruf](../sources/review-p330-p349-XII-ZB-63-25.xml) abgeglichen. Dargestellte Tragweite und ausdrücklich offene Fragen bestätigt. Keine externe professionelle Freigabe.

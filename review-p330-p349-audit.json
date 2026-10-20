@@ -1,0 +1,54 @@
+{
+  "ok": true,
+  "reviewed_ids": [
+    "p330",
+    "p331",
+    "p332",
+    "p333",
+    "p334",
+    "p335",
+    "p336",
+    "p337",
+    "p338",
+    "p339",
+    "p340",
+    "p341",
+    "p342",
+    "p343",
+    "p344",
+    "p345",
+    "p346",
+    "p347",
+    "p348",
+    "p349"
+  ],
+  "changed_ids": [
+    "p335",
+    "p341",
+    "p344",
+    "p345"
+  ],
+  "unassigned_comments_unchanged": true,
+  "assigned_output_matches": true,
+  "official_units": 529,
+  "parsed_units": 529,
+  "statutory_agreement": 1.0,
+  "missing_ids": [],
+  "duplicate_ids": [],
+  "local_links_checked": 1116,
+  "broken_links": [],
+  "repetition_screen_findings": [],
+  "strict_validation": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 856110,
+    "errors": [
+      "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "whole_book_complete": false
+}

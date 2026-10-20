@@ -472,3 +472,27 @@ Die begrenzte unabhängige Zweitprüfung vom 20. Oktober 2026 erfasst genau §§
 
 
 Autorencharge §§ 330–349 vom 20. Oktober 2026: 20 neue Einheiten; [Quellenabgleich](sources/author-p330-p349-version-map.json), [selektive Recherche](sources/author-p330-p349-search-log.json), [BGH-Fallkarte zu § 335](cases/BGH-XII-ZB-63-25.md), [technisches Chargenergebnis](author-p330-p349-result.json). Kein unabhängiger Zweitprüfungsabschluss dieser Charge und kein Gesamtabschluss.
+
+
+Die begrenzte Zweitprüfung vom 20. Oktober 2026 erfasst genau §§ 330–349 (20 Einheiten). Jede Erläuterung wurde mit dem amtlichen Text verglichen; §§ 335, 341, 344 und 345 wurden ergänzt. Der zitierte BGH-Volltext XII ZB 63/25 wurde erneut vollständig geprüft. [Einzelbefunde](review-p330-p349-result.json), [Quellenprüfung](sources/review-p330-p349-version-map.json), [technische Prüfung](review-p330-p349-audit.json). Gesamtstand: 380/529 kommentiert; 149 unzugewiesene Einheiten ab § 350 bleiben offen. Kein Gesamtabschluss, keine externe fachliche Freigabe.
+
+- **p330 (confirmed):** Zwingende Aufhebung bei Wegfall, konkrete Maßnahme statt pauschalem Ende aller Eingriffe, Behördenanhörung nur bei Nr4 und Verzögerungsausnahme sowie §338 geprüft.
+- **p331 (confirmed):** Vier kumulative Voraussetzungen, psychiatrische Soll-/Mussqualifikation und begrenzte Ausnahme, Rechtshilfeanhörung, Abgrenzung zum Gutachten und zu §332/333 geprüft.
+- **p332 (confirmed):** Gesteigerte Dringlichkeit verschiebt nur Anhörung und Pflegerbestellung/-anhörung; Zeugnis und materielle Voraussetzungen bleiben. Unverzügliche Nachholung konkret erläutert.
+- **p333 (confirmed):** Sechs Wochen je allgemeiner Anordnung, drei Monate insgesamt, Sachverständigenanhörung zur Verlängerung und Einrechnung §322; Zwangsmaßnahme zwei/sechs Wochen getrennt geprüft.
+- **p334 (confirmed):** Entsprechende Anwendung aller §§331–333 auf Maßregel nach BGB1867 und fehlende eigenständige materielle Eingriffsermächtigung zutreffend.
+- **p335 (corrected):** Pflegeeltern als ausgelassene eigenständige Beschwerdegruppe ergänzt und Wohnkriterium von Eltern/Kindern unterschieden. Vier Absätze und BGH XII ZB63/25 Rn1–14 vollständig geprüft; Rn5 ist LG-Referat, Rn12 enthält offene Fragen.
+- **p336 (confirmed):** Zusätzliche Einlegungsstelle für Betroffenen, tatsächlicher Unterbringungsbezirk, keine Entscheidungszuständigkeit und keine Erweiterung auf alle Angehörigen zutreffend.
+- **p337 (confirmed):** Ermessen/Staatskasse bei Nr1–3 gegenüber zwingender Körperschaftshaftung bei Nr4; Ablehnung/Rücknahme plus fehlender begründeter Anlass kumulativ. Spätere Genesung nicht mit ursprünglicher Ungerechtfertigtheit verwechselt.
+- **p338 (confirmed):** Verweisungen auf §§308/311 einschließlich Unterrichtung und Dokumentation, ausdrückliche Leitungsmeldungen bei §330/328 und Unterschied Aufhebung/Aussetzung geprüft.
+- **p339 (confirmed):** Unverzügliche Benachrichtigung eines Angehörigen oder einer Vertrauensperson bei Anordnung/Genehmigung und jeder Verlängerung; kein automatischer Beteiligtenstatus; Prüfliste spezifisch.
+- **p340 (confirmed):** Drei Zuweisungsgruppen, Ausnahme für Minderjährige/gezeugte Kinder und Nachrang gegenüber Betreuungs-/Unterbringungssachen vollständig geprüft.
+- **p341 (corrected):** Subsidiäre Rangstufen Fürsorgebedürfnis und AG Schöneberg mit Staatsangehörigkeitsvoraussetzung ausdrücklich ergänzt; §272Abs2 einschließlich Mitteilung abgeglichen.
+- **p342 (confirmed):** Neun Nachlassgruppen und zwei Teilungsgruppen, gesetzlicher Auffangtatbestand und Unterscheidung Eröffnung/Zeugnis/streitiger Zahlungsanspruch geprüft.
+- **p343 (confirmed):** Gewöhnlicher Aufenthalt im Todeszeitpunkt, letzter Inlandsaufenthalt, Schöneberg mit alternativen Anknüpfungen und Verweisung aus wichtigem Grund; internationale Zuständigkeit als getrennte Frage, keine ungeprüfte konkrete EU-Regel behauptet.
+- **p344 (corrected):** Alle Absätze einschließlich 4a und elektronischer Übermittlung in Abs7 geprüft. Abs5 um Rangfolge §122Nr1–5, subsidiäre Gegenstandslage und entsprechende Prioritäts-/Vereinbarungsregeln präzisiert.
+- **p345 (corrected):** Abs4 um vollständige fünf Pflichtbeteiligungsgruppen erweitert. Abs1–3, Antrag auf Hinzuziehung und unmittelbare Rechtsbetroffenheit sowie Ehegattenbeteiligung im BGB2008-Fall abgeglichen.
+- **p346 (confirmed):** Annahme/Herausgabe, gemeinschaftlicher Verschluss und Hinterlegungsscheine für jeden Erblasser/Vertragsschließenden geprüft; Sollcharakter des Scheins nicht als ausnahmslose Pflicht dargestellt.
+- **p347 (confirmed):** Alle drei Absätze mit elektronischer Erstmeldung, nicht amtlich verwahrten Dokumenten nach erstem Erbfall, erneuter Registrierung und Rückgabemitteilung geprüft; keine Veröffentlichung des Inhalts behauptet.
+- **p348 (confirmed):** Unverzügliche Eröffnung nach Todeskenntnis, Niederschrift/Verschlusszustand, optionaler Termin, Vorlegung auf Verlangen, schriftliche Bekanntgabe und Ausnahme für Anwesende sowie Grenze §349 geprüft.
+- **p349 (confirmed):** Trennbare Verfügungen Überlebender, beglaubigte Abschrift, Wiederverwahrung und Ausnahme bei nur erstem Erbfall sowie Erbverträge vollständig geprüft; Beispiel enthält echte weitere Anordnungen.

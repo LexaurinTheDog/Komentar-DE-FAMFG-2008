@@ -1,6 +1,6 @@
 {
-  "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T21:48:20.901909+00:00",
+  "stage": "bounded_review_complete_manuscript_incomplete",
+  "updated_at": "2026-10-20T21:53:32.104356+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -60,22 +60,22 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 855180,
+      "commentary_chars": 856110,
       "errors": [
-        "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']"
+        "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
-    "exit_code": 1,
-    "bounded_author_batch_ok": true,
-    "whole_book_complete": false
+    "bounded_batch_ok": true,
+    "expected_intermediate_failure": "149 unassigned missing commentaries from p350"
   },
   "remaining_limitations": [
-    "Exactly twenty assigned units reviewed; no whole-book completion.",
-    "Five selected official judgments reread; no exhaustive case-law survey.",
-    "Land statutes and the constitutional judgment behind BGB1832 source note not independently reviewed.",
-    "169 unassigned units remain unannotated; technical tests do not certify legal quality."
+    "Review limited exactly to assigned 20 provisions; no whole-book completion.",
+    "One cited official BGH decision reread in full, no exhaustive case-law survey.",
+    "149 unassigned statutory units remain unannotated.",
+    "Technical validation does not establish substantive legal quality or external professional approval."
   ],
   "commented_scope": "§§ 1–329 einschließlich der Buchstabenparagraphen",
   "resume": {
@@ -102,28 +102,28 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p310",
-      "p311",
-      "p312",
-      "p313",
-      "p314",
-      "p315",
-      "p316",
-      "p317",
-      "p318",
-      "p319",
-      "p320",
-      "p321",
-      "p322",
-      "p323",
-      "p324",
-      "p325",
-      "p326",
-      "p327",
-      "p328",
-      "p329"
+      "p330",
+      "p331",
+      "p332",
+      "p333",
+      "p334",
+      "p335",
+      "p336",
+      "p337",
+      "p338",
+      "p339",
+      "p340",
+      "p341",
+      "p342",
+      "p343",
+      "p344",
+      "p345",
+      "p346",
+      "p347",
+      "p348",
+      "p349"
     ],
-    "result": "review-p310-p329-result.json",
+    "result": "review-p330-p349-result.json",
     "unresolved_blockers": [],
     "whole_book_complete": false
   },
@@ -668,7 +668,7 @@
       "commentary_characters": 56603
     }
   ],
-  "cumulative_independently_reviewed_units": 360,
+  "cumulative_independently_reviewed_units": 380,
   "remaining_existing_commentaries_for_review": 0,
   "commentary_characters": 855180,
   "bounded_authoring": {

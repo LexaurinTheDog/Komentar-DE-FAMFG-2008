@@ -1,7 +1,7 @@
 {
-  "run_at": "2026-10-20T21:48:20.901909+00:00",
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 149 jednotkám, např.: ['p350', 'p351', 'p352', 'p352a', 'p352b', 'p352c', 'p352d', 'p352e', 'p353', 'p354']\n",
-  "scope": "Unmodified full builder rejects only unassigned missing comments; existing partial exporter used."
+  "run_at": "2026-10-20T21:53:32.104356+00:00",
+  "scope": "Full builder rejects 149 unassigned missing comments; existing partial exporter used for bounded output."
 }

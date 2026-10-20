@@ -205,3 +205,6 @@ Zweitprüfung genau §§ 310–329: [frische amtliche Abrufe mit Hashes](sources
 
 
 Autorencharge §§ 330–349 vom 20. Oktober 2026: 20 neue Einheiten; [Quellenabgleich](sources/author-p330-p349-version-map.json), [selektive Recherche](sources/author-p330-p349-search-log.json), [BGH-Fallkarte zu § 335](cases/BGH-XII-ZB-63-25.md), [technisches Chargenergebnis](author-p330-p349-result.json). Kein unabhängiger Zweitprüfungsabschluss dieser Charge und kein Gesamtabschluss.
+
+
+Zweitprüfung §§ 330–349: [frische amtliche Abrufe](sources/review-p330-p349-fetch.json), [Fassungs- und Abdeckungsprüfung](sources/review-p330-p349-version-map.json). Nur die vorhandene ausgewählte BGH-Entscheidung erneut geprüft, keine erschöpfende Rechtsprechungsrecherche.

@@ -5,7 +5,7 @@
   "decisive_date": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/famfg/",
-  "verified_at": "2026-10-20T21:42:17.597437+00:00",
+  "verified_at": "2026-10-20T21:53:32.104356+00:00",
   "version_evidence": {
     "decisive_date": "2026-10-19",
     "rechecked_at": "2026-10-20T16:26:21.879451+00:00",
@@ -8251,6 +8251,35 @@
       "p328",
       "p329"
     ],
+    "unresolved_blockers": []
+  },
+  "bounded_review_recheck_p330_p349": {
+    "complete": true,
+    "reviewed_ids": [
+      "p330",
+      "p331",
+      "p332",
+      "p333",
+      "p334",
+      "p335",
+      "p336",
+      "p337",
+      "p338",
+      "p339",
+      "p340",
+      "p341",
+      "p342",
+      "p343",
+      "p344",
+      "p345",
+      "p346",
+      "p347",
+      "p348",
+      "p349"
+    ],
+    "evidence": "sources/review-p330-p349-version-map.json",
+    "historical_duplicates": [],
+    "annexes": "No annex or opening formula in fresh official XML; all 599 norm elements classified, 529 numbered units. Existing law-head notes retained.",
     "unresolved_blockers": []
   }
 }

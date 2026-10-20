@@ -4573,6 +4573,58 @@
       "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
       "local_corpus_path": "sources/review-p310-p329-local-KORE729272025.md",
       "local_corpus_sha256": "217dd4feaea88035b1a8b3fdcab65e9fd36a48a1066d97815faffb1bd9edd287"
+    },
+    {
+      "purpose": "bounded independent review p330-p349",
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T21:52:20.255024+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p330-p349-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "xml_path": "sources/review-p330-p349-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
+      "stand_notices": [
+        "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+        "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ],
+      "same_as_authoring_start_xml": true
+    },
+    {
+      "purpose": "bounded independent review p330-p349",
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T21:52:20.539315+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p330-p349-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "format_validation": "HTML signature and expected official content"
+    },
+    {
+      "purpose": "bounded independent review p330-p349",
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T21:52:20.710961+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p330-p349-current-service.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "format_validation": "HTML signature and expected official content"
+    },
+    {
+      "purpose": "bounded independent review p330-p349",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE723732025.zip",
+      "accessed_at": "2026-10-20T21:52:20.886240+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p330-p349-XII-ZB-63-25.zip",
+      "sha256": "86e41721e423d10227e55d1eaf6d328e7299e2d08e44fb52c3f689c51bade00c",
+      "xml_path": "sources/review-p330-p349-XII-ZB-63-25.xml",
+      "xml_sha256": "214e7200eb1d2ce127c50896958db47a69cc9fa51cb3e38f8dfde46ade32bad7",
+      "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
+      "local_corpus_path": "sources/review-p330-p349-local-KORE723732025.md",
+      "local_corpus_sha256": "414c84dfa6e483b12e6b4147669261f738f56fd8cb9691727ccc53373bd3b600"
     }
   ],
   "version_assessment": {

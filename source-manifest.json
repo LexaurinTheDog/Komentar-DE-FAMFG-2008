@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:48:59.924080+00:00",
+  "generated_at": "2026-10-20T21:53:32.455232+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -3085,6 +3085,56 @@
       "bytes": 37192
     },
     {
+      "path": "sources/review-p330-p349-XII-ZB-63-25.txt",
+      "sha256": "e7d14031565d1206c5652e875c8c8415824ce521fc8da86dcf6bda655b23d1f8",
+      "bytes": 7989
+    },
+    {
+      "path": "sources/review-p330-p349-XII-ZB-63-25.xml",
+      "sha256": "214e7200eb1d2ce127c50896958db47a69cc9fa51cb3e38f8dfde46ade32bad7",
+      "bytes": 13355
+    },
+    {
+      "path": "sources/review-p330-p349-XII-ZB-63-25.zip",
+      "sha256": "86e41721e423d10227e55d1eaf6d328e7299e2d08e44fb52c3f689c51bade00c",
+      "bytes": 3882
+    },
+    {
+      "path": "sources/review-p330-p349-current-service.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p330-p349-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/review-p330-p349-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/review-p330-p349-fetch.json",
+      "sha256": "41bf67e313cf9354b7521ff437f379697c7adb51e0d88171b318a813e1b97c7d",
+      "bytes": 2901
+    },
+    {
+      "path": "sources/review-p330-p349-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/review-p330-p349-local-KORE723732025.md",
+      "sha256": "414c84dfa6e483b12e6b4147669261f738f56fd8cb9691727ccc53373bd3b600",
+      "bytes": 9172
+    },
+    {
+      "path": "sources/review-p330-p349-version-map.json",
+      "sha256": "aed6f3593d652e7a12ca11af6ab70ac8fd9f8d4cf8b412d779e5f72070475b09",
+      "bytes": 19289
+    },
+    {
       "path": "sources/review-p37-p55-famfg.xml",
       "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
       "bytes": 698175
@@ -3441,8 +3491,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "b771aab48295a647f6f2869c262faec8922f27a54fb2f45ab4c3a7d6425cde53",
-      "bytes": 253208
+      "sha256": "7a29608bd4b3cef409e7036dba273c1fe17617c93638d1b79a38b28f2395efd4",
+      "bytes": 256210
     }
   ]
 }
