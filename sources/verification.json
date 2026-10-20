@@ -528,6 +528,158 @@
       "xml_path": "sources/review-p47-XII-ZB-674-14.xml",
       "xml_sha256": "bc13b7eba41ce034732e10d293941777fa3d15fb2bc43037e68e05d1ec7124e3",
       "format_validation": "ZIP signature, CRC, single parsed XML, doknr verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T15:37:31.287825+00:00",
+      "path": "sources/review-p56-p74a-famfg.zip",
+      "purpose": "bounded second pass p56–p74a",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783,
+      "xml_path": "sources/review-p56-p74a-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP signature, CRC, one XML member, parsed FamFG identity and canonical equality",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "xml_builddate": "20261008215512",
+        "stand_notices": [
+          {
+            "type": "Stand",
+            "text": "Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Sonst",
+            "text": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+          }
+        ],
+        "commencement_assessment": "preflight-result.json#bounded_review_p56_p74a",
+        "delivery_unchanged": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T15:37:31.551443+00:00",
+      "path": "sources/review-p56-p74a-index.html",
+      "purpose": "bounded second pass p56–p74a",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117,
+      "format_validation": "HTML with expected FamFG title and final provision"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T15:38:21.551347+00:00",
+      "path": "sources/review-p56-p74a-famfg.zip",
+      "purpose": "bounded second pass p56–p74a",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783,
+      "xml_path": "sources/review-p56-p74a-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP signature, CRC, one XML member, parsed statutory/decision identity; FamFG equals canonical",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "xml_builddate": "20261008215512",
+        "stand_notices": [
+          {
+            "type": "Stand",
+            "text": "Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Sonst",
+            "text": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+          }
+        ],
+        "commencement_assessment": "preflight-result.json#bounded_review_p56_p74a",
+        "delivery_unchanged": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T15:38:21.820629+00:00",
+      "path": "sources/review-p56-p74a-index.html",
+      "purpose": "bounded second pass p56–p74a",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117,
+      "format_validation": "HTML with expected FamFG title and final provision"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "accessed_at": "2026-10-20T15:38:22.044845+00:00",
+      "path": "sources/review-p56-p74a-zpo.zip",
+      "purpose": "bounded second pass p56–p74a",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324,
+      "xml_path": "sources/review-p56-p74a-zpo.xml",
+      "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "format_validation": "ZIP signature, CRC, one XML member, parsed statutory/decision identity; FamFG equals canonical",
+      "version_evidence": {
+        "builddate": "20260930215513",
+        "same_as_prior_snapshot": true,
+        "selected_references": "§§222,520,524,526,538,547,551,556,559,560,564 read; see preflight supplement"
+      }
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301412012.zip",
+      "accessed_at": "2026-10-20T15:38:22.714314+00:00",
+      "path": "sources/review-p56-p74a-XII-ZR-80-11.zip",
+      "purpose": "bounded second pass p56–p74a",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301412012.zip",
+      "sha256": "bec9f1ab9834711f1ee4d3d56c567cca3ce167b32934929a4371c0298f1a2a85",
+      "bytes": 10432,
+      "xml_path": "sources/review-p56-p74a-XII-ZR-80-11.xml",
+      "xml_sha256": "8a402bbacedf7934bb0119a410c1028962b313312cb546d63ba03adede27b9be",
+      "format_validation": "ZIP signature, CRC, one XML member, parsed statutory/decision identity; FamFG equals canonical"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313842017.zip",
+      "accessed_at": "2026-10-20T15:38:22.937920+00:00",
+      "path": "sources/review-p56-p74a-XII-ZB-195-17.zip",
+      "purpose": "bounded second pass p56–p74a",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313842017.zip",
+      "sha256": "b5eceed8ba429d14ab5eef35ba3148804f189fa1a23c3c3861ca753a285eb9df",
+      "bytes": 8694,
+      "xml_path": "sources/review-p56-p74a-XII-ZB-195-17.xml",
+      "xml_sha256": "f55da9cf31b0f271ff72fb4e9d43f0e046686521a7078a0ddcafb246b5d8fda9",
+      "format_validation": "ZIP signature, CRC, one XML member, parsed statutory/decision identity; FamFG equals canonical"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T15:38:23.061558+00:00",
+      "path": "sources/review-p56-p74a-bgbl-2025-318.pdf",
+      "purpose": "bounded second pass p56–p74a",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=2",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "bytes": 363624,
+      "format_validation": "PDF signature, pdftotext success,10 pages, expected act title/Art.7/Art.21; no anti-bot body",
+      "version_evidence": "Art.7 Nr.2/4 effective1.1.2026 byArt.21 Abs.2; former600Euro threshold and precise§493 Abs.6 triggers read"
     }
   ],
   "version_assessment": {

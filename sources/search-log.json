@@ -131,5 +131,61 @@
       "BGH PDF nr72073: web403; Voris10UF269/12: web402, no full text read"
     ],
     "limits": "Selective research; no additional sufficiently verified new case for the other19 units. No conclusion that case law does not exist. BGH2015 substantive guardianship prerequisites not adopted as current law."
+  },
+  "bounded_review_p56_p74a": {
+    "date": "2026-10-20",
+    "scope": [
+      "p56",
+      "p57",
+      "p58",
+      "p59",
+      "p60",
+      "p61",
+      "p62",
+      "p63",
+      "p64",
+      "p65",
+      "p66",
+      "p67",
+      "p68",
+      "p69",
+      "p70",
+      "p71",
+      "p72",
+      "p73",
+      "p74",
+      "p74a"
+    ],
+    "firecrawl": "--status authenticated,0 available cycle credits; direct official downloads used",
+    "web_queries": [
+      "site.rechtsprechung-im-internet.de FamFG §61 1000",
+      "site.rechtsprechung-im-internet.de §65 Abs.4 internationale",
+      "site.rechtsprechung-im-internet.de §62 Verfahrenspfleger",
+      "site.recht.bund.de §493 FamFG 1000",
+      "BGH FamRZ2012,1785 / XII ZR80/11",
+      "Gesetz zur Änderung des Zuständigkeitsstreitwerts BGBl2025",
+      "XII ZB195/17 official source"
+    ],
+    "local_corpus_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+    "local_selected": [
+      "KORE301412012",
+      "KORE313842017"
+    ],
+    "local_candidate_rejected": "KORE314172012 / XII ZB170/11 read for identification; different international-recognition admission issue, not used as authority",
+    "official_full_texts_read": {
+      "KORE301412012": "Tenor and all reasons1–51",
+      "KORE313842017": "Tenor and all reasons1–31",
+      "KORE312662021": "Existing official20.10 snapshot, tenor and all reasons1–15 reread; no additional fetch claimed"
+    },
+    "new_supported_units": [
+      "p62",
+      "p65",
+      "p72"
+    ],
+    "existing_authority_rechecked": [
+      "p68",
+      "p74"
+    ],
+    "limits": "Selective research; no additional sufficiently relevant verified new authority added for other15 units. §65 uses labeled systematic inference from BGH on§72. No exhaustive later-case or treatment check. Search snippets not treated as full-text evidence."
   }
 }

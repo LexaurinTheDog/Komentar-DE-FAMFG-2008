@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T15:35:52.100195+00:00",
+  "updated_at": "2026-10-20T15:46:00.469387+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -12,14 +12,16 @@
     "cases/BGH-XII-ZB-264-22.md",
     "cases/BGH-XII-ZB-592-11.md",
     "cases/OLG-Bamberg-3-Wx-15-24.md",
-    "cases/BGH-XII-ZB-674-14.md"
+    "cases/BGH-XII-ZB-674-14.md",
+    "cases/BGH-XII-ZR-80-11.md",
+    "cases/BGH-XII-ZB-195-17.md"
   ],
   "validation": {
     "strict_validator": {
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 225810,
+      "commentary_chars": 240004,
       "errors": [
         "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
       ],
@@ -31,15 +33,15 @@
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "validated_at": "2026-10-20T15:35:52.100195+00:00",
-    "expected_intermediate_failure": "Only336 unannotated units outside the p37–p55 review; all20 assigned units present, statutory coverage and text agreement pass."
+    "validated_at": "2026-10-20T15:46:00.469387+00:00",
+    "expected_intermediate_failure": "Only336 unannotated units outside p56–p74a review; all20 assigned units present, statutory coverage and100% text agreement pass."
   },
   "remaining_limitations": [
     "336 statutory units from § 169 onward still lack original commentary.",
     "Full build and strict validation correctly fail because commentary is incomplete.",
     "Case-law research is selective; no exhaustive coverage claimed.",
     "Source preflight rechecked current delivery, relevant commencement clauses and seven recent statutory enactments; no complete historical amendment reconstruction since 2008.",
-    "Three bounded second-pass batches:60 commentaries §§1–55;133 other existing commentaries remain unreviewed. This task reviewed exactly p37–p55."
+    "Four bounded second-pass batches:80 commentaries §§1–74a;113 other existing commentaries remain unreviewed. This task reviewed exactly p56–p74a."
   ],
   "commented_scope": "§§ 1–168g",
   "resume": {
@@ -63,32 +65,33 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p37",
-      "p38",
-      "p39",
-      "p40",
-      "p41",
-      "p41a",
-      "p42",
-      "p43",
-      "p44",
-      "p45",
-      "p46",
-      "p47",
-      "p48",
-      "p49",
-      "p50",
-      "p51",
-      "p52",
-      "p53",
-      "p54",
-      "p55"
+      "p56",
+      "p57",
+      "p58",
+      "p59",
+      "p60",
+      "p61",
+      "p62",
+      "p63",
+      "p64",
+      "p65",
+      "p66",
+      "p67",
+      "p68",
+      "p69",
+      "p70",
+      "p71",
+      "p72",
+      "p73",
+      "p74",
+      "p74a"
     ],
     "result": "review-result.json",
+    "archived_result": "review-p56-p74a-result.json",
     "technical_audit": "review-batch-audit.json",
     "unresolved_blockers": [],
     "whole_book_complete": false,
-    "commentary_characters": 31770
+    "commentary_characters": 35489
   },
   "bounded_review_history": [
     {
@@ -150,9 +153,40 @@
       "technical_audit": "review-p19-p36a-audit.json",
       "unresolved_blockers": [],
       "whole_book_complete": false
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p37",
+        "p38",
+        "p39",
+        "p40",
+        "p41",
+        "p41a",
+        "p42",
+        "p43",
+        "p44",
+        "p45",
+        "p46",
+        "p47",
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p52",
+        "p53",
+        "p54",
+        "p55"
+      ],
+      "result": "review-p37-p55-result.json",
+      "technical_audit": "review-p37-p55-audit.json",
+      "unresolved_blockers": [],
+      "whole_book_complete": false,
+      "commentary_characters": 31770
     }
   ],
-  "cumulative_independently_reviewed_units": 60,
-  "remaining_existing_commentaries_for_review": 133,
-  "commentary_characters": 225810
+  "cumulative_independently_reviewed_units": 80,
+  "remaining_existing_commentaries_for_review": 113,
+  "commentary_characters": 240004
 }

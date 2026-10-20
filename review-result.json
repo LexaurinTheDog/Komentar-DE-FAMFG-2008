@@ -1,188 +1,201 @@
 {
   "task_kind": "review",
   "complete": true,
-  "scope": "Exactly assigned p37–p55 (20 units), no whole-book completion",
+  "scope": "Exactly assigned p56–p74a (20 units); no whole-book completion",
   "review_date": "2026-10-20",
   "decisive_date": "2026-10-19",
-  "verified_at": "2026-10-20T15:33:53.623031+00:00",
-  "baseline_commit": "5f2f44cd2fac51f67cf9b6931a157ac612d9d6ea",
+  "verified_at": "2026-10-20T15:44:06.096236+00:00",
+  "baseline_commit": "1ef57fea33bbcfcd56d6600d9f23baf61077208b",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p37",
-    "p38",
-    "p39",
-    "p40",
-    "p41",
-    "p41a",
-    "p42",
-    "p43",
-    "p44",
-    "p45",
-    "p46",
-    "p47",
-    "p48",
-    "p49",
-    "p50",
-    "p51",
-    "p52",
-    "p53",
-    "p54",
-    "p55"
+    "p56",
+    "p57",
+    "p58",
+    "p59",
+    "p60",
+    "p61",
+    "p62",
+    "p63",
+    "p64",
+    "p65",
+    "p66",
+    "p67",
+    "p68",
+    "p69",
+    "p70",
+    "p71",
+    "p72",
+    "p73",
+    "p74",
+    "p74a"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p37",
-      "disposition": "corrected",
-      "finding_and_resolution": "Freie Überzeugung, vorgelagerte Ermittlung, Gelegenheit statt tatsächlicher Äußerung und belastende Tatsachengrundlage geprüft. §-113-Schranke ergänzt; Beispiel neuer Stellungnahme und Aufklärungscheckliste konkret.",
-      "checked_sources": "FamFG §§ 26,29,30,37,113"
+      "id": "p56",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle drei Absätze geprüft: anderweitige Regelung und Rechtskraft in Familienstreitsachen, alle vier weiteren Endgründe, Antragsbindung und zwingende Feststellung durch das zuletzt erstinstanzlich entscheidende Eilgericht präzisiert. Feststellung deklaratorisch; ausdrückliche Beschwerde von §57 abgegrenzt. §54/§116-Verhältnis ergänzt.",
+      "checked_sources": "FamFG §§38,54,56,57,116"
     },
     {
-      "id": "p38",
-      "disposition": "corrected",
-      "finding_and_resolution": "Alle sechs Absätze einschließlich Registerabweichung, Beschlussbestandteilen, Unterschrift und Erlass gelesen. Drei Begründungsausnahmen, fehlende Ermächtigung zu Versäumnisentscheidungen und Ehe-Ausnahme ergänzt. Auslandsverwendung und Betreuungsschutz geprüft.",
-      "checked_sources": "FamFG §§ 38,51,113"
+      "id": "p57",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Eigenständige Ausnahme §151 Nr.6/7 ohne zusätzliches Erörterungserfordernis klargestellt. Fünf aktuelle Sachgruppen und jeweils nötige mündliche Erörterung aufgezählt. Neue Nr.4/4a anhand BGBl198 Art.4 Nr.2 und Art.10 Abs.2 bis1.7.2027 ausgeschlossen. Umgangsbeispiel und Prüfliste kontrolliert.",
+      "checked_sources": "FamFG §§54,57,58,151; BGBl.2026 I Nr.198 Art.4,10"
     },
     {
-      "id": "p39",
-      "disposition": "corrected",
-      "finding_and_resolution": "Belehrungsinhalt und Wiedereinsetzungsbezug geprüft. Muss-nicht-Regel zur Sprungrechtsbeschwerde von Belehrungsverbot unterschieden. Fortgeltung trotz §113 und dort abweichendes Wiedereinsetzungsregime ergänzt.",
-      "checked_sources": "FamFG §§ 17,18,39,113"
+      "id": "p58",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Beide Absätze und §38-Endentscheidungsbegriff einschließlich Teilentscheidung gelesen. Mitprüfung vorausgehender nicht selbständig anfechtbarer Maßnahmen von eigenständigem Rechtsmittel und früheren abgeschlossenen Verfahren abgegrenzt. Sachaufklärungsbeispiel konkret; Sonderwege vorbehalten.",
+      "checked_sources": "FamFG §§38,57–59,61,63"
     },
     {
-      "id": "p40",
-      "disposition": "corrected",
-      "finding_and_resolution": "Bekanntgabeempfänger, Rechtskraftvorbehalt und Eilbefugnis getrennt. Ergänzt: Gefahr-im-Verzug-Befugnis des Absatzes3 nicht auf Absatz2 übertragbar; Sonderregeln und §113 vorbehalten. Elektronischer Zugang nicht mit Wirksamkeit gleichgesetzt.",
-      "checked_sources": "FamFG §§ 40,41,45,113"
+      "id": "p59",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Eigene Rechtsbeeinträchtigung von Beteiligung/Interesse getrennt; Antragstellerbeschränkung ergänzt Absatz1, ersetzt ihn nicht. Sonderrecht Angehöriger und Vertrauenspersonen anhand §303 mit Erstbeteiligung erläutert. Kein allgemeines Behördenaufsichtsrechtsmittel; Beispiel geprüft.",
+      "checked_sources": "FamFG §§7,24,59,303"
     },
     {
-      "id": "p41",
-      "disposition": "corrected",
-      "finding_and_resolution": "Beglaubigte Abschrift, Papierausfertigung auf Antrag und Zustellung gegen erklärten Willen geprüft. Mündliche Bekanntgabe, schriftliche Nachholung und persönliche Genehmigungsbekanntgabe gelesen. Frist/Wirksamkeit sowie Zweiwochenfrist der Genehmigung präzisiert.",
-      "checked_sources": "FamFG §§ 40,41,63,113"
+      "id": "p60",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Beide Fallgruppen und beide alternativen Ausschlüsse geprüft. Selbständige Ausübung ersetzt keine Beschwerdebefugnis. Alter bei Erlass nach §38 statt Bekanntgabe erläutert; Möglichkeiten gesetzlicher Vertretung nicht beseitigt. Beispiel des15jährigen Kindes und Fristvorbehalt geprüft.",
+      "checked_sources": "FamFG §§9,38,59,60"
     },
     {
-      "id": "p41a",
-      "disposition": "corrected",
-      "finding_and_resolution": "Beide Absätze und tatsächliche Inkraftsetzung zum 1.10.2026 im BGBl geprüft. Qualifiziertes Attributzertifikat präzisiert; keine neue Notarbeteiligungspflicht aus Empfängerregel; Verordnungsermächtigung von Detailverordnung getrennt. §113 ergänzt.",
-      "checked_sources": "FamFG §§ 41a,46,113; BGBl.2026 I Nr.192 Art.4 und20"
+      "id": "p61",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Materielle Lücke behoben: §493 Abs.6 und Altgrenze600Euro ergänzt. Amtlicher BGBl318 Art.7 Nr.2/4 und Art.21 Abs.2 belegt Neugrenze1000Euro ab1.1.2026. Alternative Übergangstrigger Erlass/Verhandlungsschluss/Schriftsatzzeitpunkt erklärt; 800Euro-Beispiel auf neues Recht begrenzt. Zulassungspflicht und Bindung geprüft.",
+      "checked_sources": "FamFG §§61,493 Abs.6; BGBl.2025 I Nr.318 Art.7,21"
     },
     {
-      "id": "p42",
-      "disposition": "corrected",
-      "finding_and_resolution": "Offenbare Unrichtigkeit von neuer Sachwertung abgegrenzt. Elektronische Verbindung und Vermerke präzisiert. Unanfechtbare Ablehnung von sofortiger Beschwerde bei Berichtigung und vom FamFG-Endrechtsmittel getrennt; §113 ergänzt.",
-      "checked_sources": "FamFG §§ 14 Abs.3,42,113; ZPO §§567–572"
+      "id": "p62",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle vier Absätze gelesen; Interesse von tatsächlicher Rechtsverletzung getrennt. Absatz3-Haftgruppen und §70-Zulassungsgründe als zusätzliche Interessenbasis, nicht allgemeine Rechtsmittelzulassung erläutert. Absatz4-Pflegerregel anhand amtlichen Volltexts XII ZB195/17 Rn.5–10,31 mit historischer Absatznummer3 abgeglichen.",
+      "checked_sources": "FamFG §§62,70; BGH XII ZB195/17, Tenor und Rn.1–31"
     },
     {
-      "id": "p43",
-      "disposition": "corrected",
-      "finding_and_resolution": "Übergangener aktenkundiger Antrag oder unterbliebene Kosten von inhaltlich falscher Entscheidung getrennt. Antragserfordernis auch für Kosten, keine Erweiterung um neues Sachbegehren und Frist ab schriftlicher Bekanntgabe geprüft; §113 ergänzt.",
-      "checked_sources": "FamFG §§ 42,43,113"
+      "id": "p63",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Monat, zwei spezielle Zweiwochenfälle, schriftliche Bekanntgabe und personenbezogene Fünfmonatsanlaufgrenze geprüft. Berechnung bis20.10.2026 im fiktiven Genehmigungsfall ergänzt; keine bloße Restfrist innerhalb von fünf Monaten. §16/§113 und getrennte Begründungsfrist§117 verifiziert.",
+      "checked_sources": "FamFG §§16,38,41,57,63,113,117; ZPO §222"
     },
     {
-      "id": "p44",
-      "disposition": "corrected",
-      "finding_and_resolution": "Subsidiarität, Beschwer, Entscheidungserheblichkeit, Vorentscheidungsausschluss und alle fünf Absätze gelesen. Form, Ausgangsgericht, Darlegung, Kenntnisglaubhaftmachung, personenbezogene Jahresgrenze und Begründung ergänzt. §48 Abs.3 und §113 als Schranken geprüft.",
-      "checked_sources": "FamFG §§ 37,44,48,113"
+      "id": "p64",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle drei Absätze gelesen. Einlegung und VKH-Antrag beim Ausgangsgericht, Form/Signatur/§14b, Ausschluss Niederschrift bei Ehe-/Familienstreitsachen geprüft. §25 Abs.2–4 einschließlich Videoaufnahme ohne Aufzeichnung und Eingangswirkung ergänzt. §117-Begründungsort und fehlende automatische Vollzugsaussetzung klargestellt.",
+      "checked_sources": "FamFG §§14b,25,64,117"
     },
     {
-      "id": "p45",
-      "disposition": "corrected",
-      "finding_and_resolution": "Formelle Rechtskraft, rechtzeitiger zulässiger Angriff, Wirksamkeit und Zeugnis getrennt. Einspruch/Widerspruch/Erinnerung ausdrücklich ergänzt; kein Wahlrecht, keine Aussage über allgemeine materielle Bindung oder Ausschluss gesetzlicher Abänderung. §113 geprüft.",
-      "checked_sources": "FamFG §§40,45,46,48,113"
+      "id": "p65",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Vier Absätze geprüft. Gerichtliche Sollbegründungsfrist nicht mit zwingender Zulässigkeitsbegründung gleichgesetzt; §117-Zweimonatsregel und §115-Präklusionsgrenzen konkret ergänzt. Internationale Zuständigkeit als systematische Grenze unter Bezug auf BGH zur Parallelregel§72 ausdrücklich als Folgerung gekennzeichnet.",
+      "checked_sources": "FamFG §§65,72,115,117; BGH XII ZR80/11 Rn.7"
     },
     {
-      "id": "p46",
-      "disposition": "corrected",
-      "finding_and_resolution": "Aktengebundene Zeugnisfunktion, Geschäftsstellenzuständigkeit, Amtszeugnis und elektronischer Notarnachweis geprüft. Erinnerung mit Zweiwochen-Notfrist anhand §573 ZPO präzisiert. Differenzierte §113-Ausnahme statt pauschalem Ausschluss und Art.4/20 BGBl192 kontrolliert.",
-      "checked_sources": "FamFG §§41a,46,113; ZPO §573; BGBl.2026 I Nr.192 Art.4 und20"
+      "id": "p66",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Anschluss beim Beschwerdegericht trotz Verzicht/Fristablauf und Wirkungverlust bei Rücknahme/Unzulässigkeit geprüft. Keine allgemeine eigene Anschlussfrist in§66; Sonderfrist§117 Abs.2/§524 Abs.2 S.2–3 ZPO und Ausnahme künftiger wiederkehrender Leistungen ergänzt. Sachliche Erfolglosigkeit der Hauptbeschwerde nicht mit Unzulässigkeit gleichgesetzt.",
+      "checked_sources": "FamFG §§64,66,67,117; ZPO §524 Abs.2 S.2–3"
     },
     {
-      "id": "p47",
-      "disposition": "corrected",
-      "finding_and_resolution": "Unberechtigtes subjektives Vertrauenselement entfernt; wirksam begründete Fähigkeit/Befugnis und zeitlicher Geschäftsschutz maßgeblich. Anfangsunwirksamkeit und andere Geschäftsmängel bleiben ungeschützt. Amtlicher BGH-Volltext Rn.1–37 gelesen; Rn.14–15 historisch begrenzt aufgenommen.",
-      "checked_sources": "FamFG §§40,47,113; BGH XII ZB674/14, Tenor/Rn.1–37"
+      "id": "p67",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle vier Absätze gelesen. Beispiel vor Bekanntgabe abgegebenen Verzichts klar verneint statt offen gelassen; spätere automatische Heilung ausgeschlossen. Gericht als Erklärungsempfänger bei Rücknahme, Grenze Erlass statt Zustellung und getrennter Anschlussverzicht ergänzt. Privatverzicht und Berufung darauf geprüft.",
+      "checked_sources": "FamFG §§38,66,67"
     },
     {
-      "id": "p48",
-      "disposition": "corrected",
-      "finding_and_resolution": "Dauerwirkung, nachträgliche wesentliche Änderung, Antragsbindung und Erstgericht geprüft. Buch4-ZPO-Verweis nicht als freie Neuprüfung beschrieben; Drittwirksamkeit und abschließende Sperre der genannten Korrekturwege erläutert. §47-Verhältnis und §113 ergänzt.",
-      "checked_sources": "FamFG §§44,47,48,113; ZPO Buch4"
+      "id": "p68",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle fünf Absätze und BGH XII ZB114/21 vollständig gelesen. Abhilfeverbot sämtliche Familiensachen; ordnungsgemäße Ersthandlung und Erkenntnisprognose getrennt. §526-Einzelrichtervoraussetzungen/Proberichterverbot, beauftragte Kindesanhörung und persönliche Eindrucksverschaffung erläutert. Absatz5 erfasst nur Abs.3 S.2 und Abs.4 S.1, nicht pauschal beauftragten Richter. §117 Abs.3-Hinweis ergänzt.",
+      "checked_sources": "FamFG §§68,117; ZPO §526; BGH XII ZB114/21 Rn.8–9"
     },
     {
-      "id": "p49",
-      "disposition": "corrected",
-      "finding_and_resolution": "Rechtsverhältnis und dringendes sofortiges Bedürfnis getrennt; Sicherung/Regelung und Durchführungsanordnung geprüft. Verfügungsverbot braucht bestimmte Reichweite und Sachbezug; Verfahrensfragen nach §51 gesondert erläutert.",
-      "checked_sources": "FamFG §§49,51"
+      "id": "p69",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Fehlerhaftes Soll zur eigenen Sachentscheidung in Muss korrigiert. Zwei Rückverweisungsgründe getrennt; Beteiligtenantrag nur im Mangelfall. Umfang, Aufhebung und Bindung geprüft; Sonderregime§117 Abs.2/§538 Abs.2 ZPO statt behauptetem abschließendem Allgemeinkatalog vorbehalten.",
+      "checked_sources": "FamFG §§69,117; ZPO §538 Abs.2"
     },
     {
-      "id": "p50",
-      "disposition": "corrected",
-      "finding_and_resolution": "Zuständigkeit nicht pauschal jeder aktuellen Hauptsacheinstanz zugeordnet: Erstgericht, ausdrücklich Beschwerdegericht; keine automatische Verlagerung zum Rechtsbeschwerdegericht. Besonders dringliche örtliche Notzuständigkeit und zwingende Amtsabgabe geprüft.",
-      "checked_sources": "FamFG §§49,50,54"
+      "id": "p70",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle vier Absätze, zwei Zulassungswege und Bindung geprüft. Sämtliche zulassungsfreien Bereiche, anordnender Inhalt bei Unterbringung/Freiheitsentziehung und besondere ablehnende Haftentscheidung§417 Abs.2 S.2 Nr.5 erläutert. Betreuung nicht pauschaler Zugang; Vergütung nicht gelisteter Gegenstand. EA/Arrest-Ausschluss und §71/§74a geprüft.",
+      "checked_sources": "FamFG §§70,71,74a,151,417"
     },
     {
-      "id": "p51",
-      "disposition": "corrected",
-      "finding_and_resolution": "Alle vier Absätze, antragsabhängiger Erlass, Begründung und Glaubhaftmachung, Hauptsacheverfahrensrecht, kein Versäumnis, Selbständigkeit und Kosten gelesen. Mündliche Verhandlung von notwendigen Anhörungen getrennt; begrenzte Wiederverwendung von Verfahrenshandlungen erläutert.",
-      "checked_sources": "FamFG §§31,51,54"
+      "id": "p71",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle vier Absätze gelesen. Paralleler Beginn beider Monatsfristen, Anbringung beim Rechtsbeschwerdegericht, Mussangaben/Anträge/Rügetatsachen und Sollabschrift getrennt. BGH-Anwalt und Behördenausnahmen§10 Abs.4 sowie§14b ergänzt. Verlängerung nur Begründungsfrist nach genau verwiesenen §551 Abs.2 S.5/6; Antrag allein bewirkt keine Änderung.",
+      "checked_sources": "FamFG §§10,14b,71; ZPO §551 Abs.2 S.5–6"
     },
     {
-      "id": "p52",
-      "disposition": "corrected",
-      "finding_and_resolution": "Hauptsachezugang in Amts- und Antragsverfahren getrennt. Sperrfrist des Absatzes1 von Erfüllungsfrist des Absatzes2 unterschieden; höchstens drei Monate jeweils. Verfahrenskostenhilfeantrag als echte Alternative und zwingende Aufhebung bei Nichtbefolgung geprüft.",
-      "checked_sources": "FamFG §§51,52"
+      "id": "p72",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Drei Absätze geprüft. Beruhenserfordernis um absolute Gründe§547 ergänzt. Pauschaler Zuständigkeitsausschluss um internationale Kontrolle korrigiert: BGH XII ZR80/11 Rn.7. §556-Rügeverlust und §560-Bindung konkret erläutert; medizinisches Beispiel als Rechtsfehler statt neue Tatsacheninstanz eingeordnet.",
+      "checked_sources": "FamFG §§71,72,74; ZPO §§547,556,560; BGH XII ZR80/11 Rn.7"
     },
     {
-      "id": "p53",
-      "disposition": "corrected",
-      "finding_and_resolution": "Klauselerfordernis nur bei abweichenden Beteiligten geprüft. Zustellung an Verpflichteten, besonderes Bedürfnis und erforderlicher gerichtlicher Ausspruch präzisiert. Wirksamkeit ab Erlass nur im geregelten Fall, kein allgemeiner Zustellungsverzicht.",
-      "checked_sources": "FamFG §§38,40,53"
+      "id": "p73",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle drei Sätze geprüft: Einmonatsfrist ab Bekanntgabe der Begründung, Unterzeichnung und sofortige Anschlussbegründung, Verzicht/Fristablauf/fehlende eigene Zulassung. Wirkungsverlust einschließlich §74a exakt erklärt. §10/§14b und konkrete Rechtsbeschwerdeanträge ergänzt; keine Übertragung leichterer§66-Regeln.",
+      "checked_sources": "FamFG §§10,14b,66,71,73,74a"
     },
     {
-      "id": "p54",
-      "disposition": "corrected",
-      "finding_and_resolution": "Alle vier Absätze gelesen: Antragsbindungsausnahme bei fehlender notwendiger Anhörung von erneuter Entscheidung nach mündlicher Verhandlung getrennt. Kein zusätzliches Änderungsfaktum aus Absatz2 verlangt; kein Anspruch auf Sachänderung. Zuständigkeit und Sperre nur bei anhängiger Eilsache präzisiert.",
-      "checked_sources": "FamFG §§50,51,54,57"
+      "id": "p74",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle sieben Absätze gelesen; bislang fehlender Absatz4 und ZPO§§559,564 ergänzt. Zulässigkeit/Ergebnisrichtigkeit/Antragsbindung/Rügepflicht getrennt. Entscheidungsreife erzwingt Sachentscheidung, sonst differenzierte Rückverweisung einschließlich anderer Spruchkörper und Bindung. Voraussetzungen Absatz7 konkret; BGH XII ZB114/21 Rn.14/15 mit Volltext geprüft.",
+      "checked_sources": "FamFG §§71,73,74; ZPO §§547,559,564; BGH XII ZB114/21 Tenor,Rn.1–15"
     },
     {
-      "id": "p55",
-      "disposition": "corrected",
-      "finding_and_resolution": "Aussetzung/Beschränkung, zuständiges Gericht, Unanfechtbarkeit und Vorabentscheidung gelesen. Änderungsantrag hat nicht automatisch Suspensiveffekt; Entscheidungspflicht nicht Bewilligungspflicht. Konkrete Prüfung und Eilverfahrenscheckliste ergänzt.",
-      "checked_sources": "FamFG §§54,55,57"
+      "id": "p74a",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Drei Absätze gelesen. Anwendungsbereich auf vom Beschwerdegericht zugelassene Rechtsbeschwerde präzisiert; nicht erstinstanzliches OLG/nicht zulassungsfreier Zugang. Fehlender Zulassungsgrund und fehlende Erfolgsaussicht kumulativ, Einstimmigkeit, alle Beteiligten im Hinweis, Stellungnahmefrist des Rechtsbeschwerdeführers und ergänzende Begründungspflicht geprüft. §73-Wirkungsverlust und Checkliste kontrolliert.",
+      "checked_sources": "FamFG §§70,73,74,74a"
     }
   ],
   "limitations": [
-    "Whole manuscript incomplete:193 commentaries,336 unannotated units.",
-    "Only the twenty assigned commentaries reviewed; reading cross-reference provisions is not review of their commentaries.",
-    "Case-law research selective; one additional decision used for historical §47 application, not current substantive guardianship powers. No exhaustive later-case-law or appellate-history search.",
-    "Two earlier review batches retained separately; no claim to external professional approval.",
-    "Current official XML equals authoring-start source; commencement assessment uses preserved gazette evidence, not retrieval date as effectiveness proof."
+    "Only assigned20 commentaries independently reviewed; cross-reference reading is not review of other commentaries.",
+    "Whole book remains193 authored of529;336 units unannotated.",
+    "Selective case-law research, not exhaustive later-treatment research. §65 international-jurisdiction discussion is labeled systematic inference from BGH on §72.",
+    "Historical substantive guardianship, international family and property law in older cases not adopted as current law.",
+    "No external professional approval or whole-book independent review claimed."
   ],
   "evidence": {
-    "official_xml": "sources/review-p37-p55-famfg.xml",
-    "official_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "fresh_official_xml": "sources/review-p56-p74a-famfg.xml",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
     "statutory_preflight": "preflight-result.json",
     "technical_batch_audit": "review-batch-audit.json",
-    "case_card": "cases/BGH-XII-ZB-674-14.md",
-    "previous_reviews": [
-      "review-p1-p18-result.json",
-      "review-p19-p36a-result.json"
-    ]
+    "new_case_cards": [
+      "cases/BGH-XII-ZB-195-17.md",
+      "cases/BGH-XII-ZR-80-11.md"
+    ],
+    "existing_case_reread": "cases/BGH-XII-ZB-114-21.md",
+    "previous_review": "review-p37-p55-result.json"
   },
-  "verification": {
-    "batch_audit_ok": true,
-    "statutory_text_agreement": 1.0,
-    "statutory_expected": 529,
-    "statutory_extracted": 529,
-    "all_commentaries_present": 193,
-    "all_commentaries_missing": 336,
-    "local_links_checked": 145,
+  "validation": {
+    "assigned_batch_ok": true,
+    "reviewed_ids_exact": true,
+    "unassigned_commentary_changes": [],
+    "total_expected_official_units": 529,
+    "total_parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 240004,
+      "errors": [
+        "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "whole_book_complete": false,
+    "reason_for_global_failure": "336 unannotated units outside assigned review",
+    "local_links_checked": 187,
     "broken_local_links": [],
-    "exact_repeated_substantive_paragraphs": [],
+    "repeated_substantive_paragraphs": [],
     "near_repeated_commentary": [],
-    "whole_book_full_build_exit_code": 1,
-    "whole_book_strict_validation_ok": false,
-    "only_whole_book_validation_error": "336 missing commentaries outside assigned batch"
+    "source_body_hash_mismatches": []
   }
 }

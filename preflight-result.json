@@ -839,5 +839,48 @@
       "unclassified": []
     },
     "unresolved_blockers": []
+  },
+  "bounded_review_p56_p74a": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T15:44:06.096236+00:00",
+    "fresh_xml": "sources/review-p56-p74a-famfg.xml",
+    "fresh_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "version_evidence": {
+      "delivery_equals_authoring_start": true,
+      "xml_builddate": "20261008215512",
+      "earlier_commencement_assessment_retained": "Detailed BGBl2026 I Nr.152/192/198 and recent-enactment screening above; not based on retrieval date",
+      "p57_future_amendment": "Read BGBl2026 I Nr.198 Art.4 Nr.2 and Art.10 Abs.2: new Nr.4/4a effective1.7.2027, correctly absent on19.10.2026",
+      "p61_transition": "Read BGBl2025 I Nr.318 Art.7 Nr.2/4 and Art.21 Abs.2:1000Euro effective1.1.2026, former600Euro preserved by§493 Abs.6. PDF signature and10-page text extraction checked.",
+      "new_amending_evidence": "sources/review-p56-p74a-bgbl-2025-318.pdf",
+      "new_amending_sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "zpo_reference_check": "Fresh official XML, cited §§520,524,526,538,547,551,556,559,560,564 and222 read; byte-identical to earlier20.10 snapshot. Reviewed BGBl152 new electronic-enforcement provisions do not replace these cross-reference clauses."
+    },
+    "historical_versions_checked": {
+      "duplicate_official_identifiers": [],
+      "duplicate_official_doknr": [],
+      "historical_or_version_elements": [],
+      "intake_change_map": "sources/change-map.json",
+      "selection": "One operative copy per current provision; historical600Euro limited to transition explanation, not concatenated into statute; future2027 changes excluded"
+    },
+    "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "parser_coverage": {
+      "fresh_xml_metadata_count": 529,
+      "fresh_xml_toc_count": 529,
+      "fresh_html_index_count": 529,
+      "parsed_count": 529,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "all599_norm_nodes_accounted_for": true,
+      "parser_replay": "_parse.py rerun: units/meta/canonical/intake copy/change-map all byte-identical"
+    },
+    "unresolved_blockers": []
   }
 }
