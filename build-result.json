@@ -1,8 +1,8 @@
 {
   "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-  "run_at": "2026-10-20T17:47:08.437926+00:00",
+  "run_at": "2026-10-20T17:55:25.260262+00:00",
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 269 jednotkám, např.: ['p232', 'p233', 'p234', 'p235', 'p236', 'p237', 'p238', 'p239', 'p240', 'p241']\n",
-  "scope": "Actual full builder; expected intermediate failure because269 units outside batch not yet authored; partial exporter used separately."
+  "scope": "Unmodified full builder; expected intermediate failure:269 units outside reviewed assignment remain unannotated. Partial exporter used separately."
 }

@@ -1,0 +1,52 @@
+{
+  "verified_at": "2026-10-20T17:52:21.066970+00:00",
+  "scope": "selective second-pass verification of preciselyp214–p231including214a/216a",
+  "firecrawl": "Authenticated CLI,0credits; no request submitted or setting changed. Direct official HTTP and web fallback used.",
+  "queries": [
+    {
+      "query": "site.rechtsprechung-im-internet.de \"216a\" \"Gewaltschutz\"",
+      "result": "No new fully verified pertinent case selected."
+    },
+    {
+      "query": "site.bundesgerichtshof.de \"222\" \"Frist\" \"Versorgungsausgleich\"",
+      "result": "Official BGH PDF discovered; web open403, not used as body. Docket XII ZB214/16 located in national corpus and official RII ZIP fetched200, all17reasons read."
+    },
+    {
+      "query": "site.gesetze-im-internet.de/famfg/ \"214\"",
+      "result": "Official full-law text confirms new214Abs2sentence; canonical verification uses fresh fullXML."
+    }
+  ],
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "query": "rg -l --glob *.md \"XII ZB 214/16\"",
+    "matches": [
+      "rii-kore309202018.md",
+      "rii-kore312152018.md"
+    ],
+    "disposition": "OnlyKORE312152018is target decision; KORE309202018 merely cites it and is not adopted as an independent authority."
+  },
+  "existing_authority_recheck": [
+    "XII ZB564/12: all21reasons, tenor, leitsatz read",
+    "XII ZB350/15: all25reasons, tenor, leitsatz read"
+  ],
+  "added_authority": "XII ZB214/16: all17reasons, tenor, leitsatz read; Rn13assumed party allegation explicitly separated from established fact in card.",
+  "no_case_selected_for": [
+    "p214",
+    "p214a",
+    "p215",
+    "p216",
+    "p216a",
+    "p217",
+    "p218",
+    "p220",
+    "p221",
+    "p223",
+    "p224",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231"
+  ],
+  "limits": "Selective research only. A no-selection disposition does not establish absence of relevant case law; no subsidiary citations adopted without independent full-text verification."
+}

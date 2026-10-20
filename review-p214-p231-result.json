@@ -1,0 +1,173 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p214",
+    "p214a",
+    "p215",
+    "p216",
+    "p216a",
+    "p217",
+    "p218",
+    "p219",
+    "p220",
+    "p221",
+    "p222",
+    "p223",
+    "p224",
+    "p225",
+    "p226",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231"
+  ],
+  "baseline_commit": "2ddff02860795e70713cba68c6a8ca9850867471",
+  "decisive_date": "2026-10-19",
+  "review_date": "2026-10-20",
+  "verified_at": "2026-10-20T17:54:02.677276+00:00",
+  "scope": "Exactly assigned20units; fresh second pass relative to prior authoring. No whole-title certification or external professional approval.",
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p214",
+      "disposition": "retained",
+      "review": "Beide Absätze vollständig geprüft. Antrag, Regelvermutung der Dringlichkeit und materielle Schutzvoraussetzungen getrennt; neuer Zustellungsweg seit10.07.2026 entspricht Art.4Nr.8/10Abs.1Nr.2BGBl198. Auftragsfiktion nur ohne mündliche Erörterung, Vollstreckung vor Zustellung nur nach gesonderter Zulassung. Fiktiver Angriff mit Nachricht stützt Eilfall; kein2027Instrument vorgezogen.",
+      "sources": "FamFG214,51,53,54,57;GewSchG1/2;BGBl2026I198Art4Nr8/Art10"
+    },
+    {
+      "id": "p214a",
+      "disposition": "clarified",
+      "review": "Beide Sätze geprüft. Gerichtliche Bestätigung bei erfüllten Voraussetzungen ausdrücklich als Pflicht ergänzt. Teilbestätigung/soweit, Grenze zu2GewSchG, Unanfechtbarkeit nur des Bestätigungsakts und strafrechtliche Bestimmtheitsanforderung zutreffend. Fahrradabrede bleibt unbestätigt.",
+      "sources": "FamFG214a,216a;GewSchG1,2,4"
+    },
+    {
+      "id": "p215",
+      "disposition": "retained",
+      "review": "Vollständigen Satz und2GewSchG gelesen. Sollanordnung zur Durchführung nur Endentscheidung nach2GewSchG; konkret notwendige Schlüssel/Räumung/Abholung, kein Eigentums- oder Mietvertragswechsel kraft dieser Norm. Befristung nur nach materiellen Voraussetzungen. Beispiel mit begrenzter Abholung trägt Schutzkonzept.",
+      "sources": "FamFG215,214,216,216a;GewSchG2"
+    },
+    {
+      "id": "p216",
+      "disposition": "retained",
+      "review": "Beide Absätze einschließlich Zeitvermerk geprüft. Rechtskraftgrundsatz, Sollsofortwirkung und gesondertes Kann der Vollstreckung vor Zustellung auseinandergehalten. Nur kombinierter Fall verlagert auf Übergabe an Geschäftsstelle. Endentscheidung und einstweilige Anordnung getrennt; Beispiel bezeichnet alle Anordnungen ausdrücklich.",
+      "sources": "FamFG216,53Abs2,214Abs2"
+    },
+    {
+      "id": "p216a",
+      "disposition": "retained",
+      "review": "Alle drei Sätze gelesen. Unverzügliche Mitteilung einschließlich Änderung/Aufhebung, tatsächlicher Durchführungsbezug, gegenläufige Schutzinteressen, Sollunterrichtung und bestätigter Vergleich zutreffend. Geschützte Anschrift als Abwägungsbeispiel und Prüfliste mit korrekter2027Abgrenzung.",
+      "sources": "FamFG216a,214a;GewSchG1/2;BGBl2026I198Art10"
+    },
+    {
+      "id": "p217",
+      "disposition": "retained",
+      "review": "Vollständige Definition geprüft. Weiter sachlicher Begriff umfasst selbständige und Verbundverfahren ohne materiellen Anspruch zu fingieren.112/113ausgespart; Anträge nach223und225/226bleiben erforderlich. Streit mit Arbeitgeber nicht automatisch Familienverfahren. Beispiel schuldrechtlicher Rente korrekt.",
+      "sources": "FamFG217,112,113,137,218–226;VersAusglG20–26"
+    },
+    {
+      "id": "p218",
+      "disposition": "retained",
+      "review": "Alle fünf ausschließlichen Rangstufen geprüft. Anhängigkeit samt Rechtsmittel und erstinstanzlichem Gericht/war, gemeinsamer oder letzter Aufenthalt mit Fortbestand, Gegner/Antragsteller/Sitz, Schöneberg und internationale Zuständigkeit getrennt. Beispiel nach rechtskräftiger Scheidung nutztNr2statt unbegrenzterNr1.",
+      "sources": "FamFG218"
+    },
+    {
+      "id": "p219",
+      "disposition": "clarified",
+      "review": "Alle vier Beteiligungsgruppen und Bedeutung des Todes geprüft. Ausgangs-/Zielträger und Erben/Hinterbliebene als Verfahrensstellung nicht materielles Eigenrecht. Mit BGH214/16Rn16–17ergänzt: bloße Benennung und Zustellung der Endentscheidung genügen der vorherigen Beteiligung nicht. Beispiel tatsächlicher Trägerzustimmung passend.",
+      "sources": "FamFG219,220,222,226Abs5;VersAusglG31;BGHXIIZB214/16Rn16–17"
+    },
+    {
+      "id": "p220",
+      "disposition": "clarified",
+      "review": "Alle fünf Absätze gelesen. Ersuchen auch an sonstige auskunftsfähige Stellen, keine automatische Beteiligung; Formularpflicht sprachlich präzisiert, Ausnahme nur automatisierte Trägerauskunft. Erforderliche Mitwirkung, Werte/Berechnung/Teilungsordnung und Erläuterung sowie Befolgungspflicht erfasst. Beispiel unzureichender automatisierter Zahl zutreffend.",
+      "sources": "FamFG220,219,229;VersAusglG5"
+    },
+    {
+      "id": "p221",
+      "disposition": "retained",
+      "review": "Alle drei Absätze geprüft. Solltermin, zwingende Aussetzung bei anhängigem vorgreiflichem Rechtsstreit und Kann-Aussetzung/Klagefrist vorher getrennt. Nichtberücksichtigung bei versäumter Klage nur möglich und gegenständlich begrenzt. Beispiel arbeitsgerichtlicher Versorgungszusage betrifftBestand, bloßeTeilungsmethode nicht.",
+      "sources": "FamFG221"
+    },
+    {
+      "id": "p222",
+      "disposition": "clarified",
+      "review": "Alle vier Absätze samt VersAusglG-Verweisen geprüft. Vereinbarung/einseitiges Trägerverlangen nach14Abs2und auf betriebliche/private Anrechte begrenztes Verlangen nach19Abs2Nr5präzisiert. Gesetzliche Zielauffangsysteme ausdrücklich benannt. BGH214/16Rn10–14vollständig geprüft und Fristverkürzung durch voreilige Entscheidung erläutert, ohne nachträgliches unbefristetes Wahlrecht zu behaupten. Zustimmung, bezifferter Kapitalbetrag und16Ausnahme erhalten.",
+      "sources": "FamFG222,219;VersAusglG14–16,19Abs2Nr5;BGHXIIZB214/16Rn10–17"
+    },
+    {
+      "id": "p223",
+      "disposition": "retained",
+      "review": "Gesamte Antragssperre für20–26geprüft. Rente, Abtretung, Kapitalzahlung, Abfindung/Hinterbliebene erfasst; bloße frühere Benennung kein Antrag. Verbund ohne Antrag im gesetzlichen Umfang und spätere Fälligkeit auseinandergehalten. Beispiel später begonnener Betriebsrente enthält keine automatische Zahlungspflicht.",
+      "sources": "FamFG223,224Abs4,137;VersAusglG20–26,31"
+    },
+    {
+      "id": "p224",
+      "disposition": "retained",
+      "review": "Alle vier Absätze und jede materielle Verweisung geprüft. Rechtskraftwirkung, eigene Begründung, Tenorfeststellung nur für bezeichnete Nichtausgleichsfälle und verbleibende Anrechte nur Gründe getrennt. Kurze Ehe/Vereinbarung/Geringfügigkeit/Unbilligkeit vollständig. Beispiel vermeidet pauschalen Ausschlusstenor für nichtausgleichsreifes Anrecht.",
+      "sources": "FamFG224,220,223;VersAusglG3Abs3,6,18,27,19"
+    },
+    {
+      "id": "p225",
+      "disposition": "retained",
+      "review": "Alle fünf Absätze sowie32/51/52VersAusglG geprüft. Anrechtsbezogene Änderung versus altrechtliche Revision, echter Änderungsgrund versus Ausgangsfehler, beide kumulativen Schwellen, Wartezeitalternative und Begünstigung richtig. Beide zitierten BGH-Beschlüsse komplett erneut gelesen. Rechenbeispiel30/31Euro prüft zutreffend Überschreiten statt Erreichen der absoluten Grenze; fiktive Werte keine aktuelle Bezugsgrößentabelle.",
+      "sources": "FamFG225,226;VersAusglG32,51,52;BGHXIIZB564/12Rn10–21;350/15Rn15–18"
+    },
+    {
+      "id": "p226",
+      "disposition": "retained",
+      "review": "Alle fünf Absätze gelesen. Antragsberechtigte einschließlich betroffener Träger, keine automatische Erbenbefugnis; geltende zwölf Monate vom historischen Sechsmonatstext getrennt.27VersAusglGund ersterTagFolgemonat, spätere materielleÄnderung nicht vorgezogen. Todesfall Antragsteller/Hinweis/Monatsfrist/Erledigung versus andererEhegatte/Erben vollständig. BeispielFebruar/März/November plausibel.",
+      "sources": "FamFG226,219,224,225;VersAusglG27,31;BGHXIIZB350/15Rn14nurhistorisch"
+    },
+    {
+      "id": "p227",
+      "disposition": "retained",
+      "review": "Beide Absätze und48Abs1gelesen. Dauerwirkungsentscheidung über spätere Ansprüche und Vereinbarung ohne Änderungsausschluss getrennt. Keine automatische225Wertgrenzenübertragung aufschuldrechtlicheRente; keinfreierWiderrufVertrag. Fiktiver laufenderRententitel trägt48Prüfung.",
+      "sources": "FamFG227,48Abs1,223,225,226;VersAusglG20–26"
+    },
+    {
+      "id": "p228",
+      "disposition": "retained",
+      "review": "Vollständigen Satz samt59/61/63/64und493Abs6geprüft. Wertgrenze entfällt nurSachangriff, Kostenanfechtung bleibt61unterworfen. Form/Frist/eigeneRechte/Rechtsbeschwerde nichtbeseitigt. Übergangsverweisung zutreffend; BeispielwirtschaftlichkleineTrägerbeschwerde behauptet keineallgemeineBeschwerdebefugnis.",
+      "sources": "FamFG228,59,61,63,64,493Abs6"
+    },
+    {
+      "id": "p229",
+      "disposition": "clarified",
+      "review": "Alle fünf Absätze und alle drei technischen Anforderungen geprüft. Beiderseitige Teilnahme und Dritte, Authentizität/Integrität/Verschlüsselung, Ersuchen/Auskünfte/Erklärungen, Zustellung und automatischeEingangsbestätigung mit Zeitpunkterfasst. UnklarenSatz zuErklärungen ersetzt: Träger übermitteltseine eigenen, persönlicheWahlrechte werdennicht aufihn verlagert. BeispielMontag/Mittwoch zutreffend.",
+      "sources": "FamFG229,219Nr2/3,220,222Abs1"
+    },
+    {
+      "id": "p230",
+      "disposition": "retained",
+      "review": "Amtlich weggefalleneEinheit alsvollständigerSlot geprüft. Keinoperativer Inhalt, keineerfundene Rechtsfolge; alteVerweise bedürfenhistorischerZuordnung. FiktiveCheckliste undversorgungsausgleichsbezogenePrüfliste sachlichpassend; keinehistorische Regelungalsgeltendbehandelt.",
+      "sources": "FamFG230;amtlichesXML/TitelundTOC"
+    },
+    {
+      "id": "p231",
+      "disposition": "clarified",
+      "review": "Beide Absätze, dreiNummern unda/bUntergliederung gelesen. Verwandtschaft/Ehe und1305/1615l/mrichtigklassifiziert.1305Abs1/4zuLebenslage,beideunter16undsonstigerUnwirksamkeitpräzisiert. BKGG3/EStG64BestimmungvomöffentlichenLeistungsanspruchgetrennt;235–245ausgeschlossen.112ordnetnurAbs1alsFamilienstreitsacheein. BeispieleBetreuungsunterhalt/Kindergeldzutreffend.",
+      "sources": "FamFG231,112,113;BGB1305,1615l/m;BKGG3;EStG64"
+    }
+  ],
+  "limitations": [
+    "Whole title remains incomplete:269units from232not commented; no global completion.",
+    "This process reviewed exactly20assignedcommentaries; all other substantive commentary preserved.",
+    "Case-law research selective:two existing full decisions re-read and one additional full decision added; no sufficiently relevant additional verified case selected for16otherunits.",
+    "No exhaustive later-case-law or complete historical-amendment reconstruction.",
+    "Auxiliary provisions checked within documented scope; no state-specific implementation research.",
+    "Technical equality,length and repetition screening do not establish legal quality."
+  ],
+  "whole_book_complete": false,
+  "source_preflight": "preflight-result.json",
+  "version_evidence": "sources/review-p214-p231-version-map.json",
+  "case_evidence": "sources/review-p214-p231-case-corpus-check.json",
+  "search_log": "sources/review-p214-p231-search-log.json",
+  "case_cards": [
+    "cases/BGH-XII-ZB-564-12.md",
+    "cases/BGH-XII-ZB-350-15.md",
+    "cases/BGH-XII-ZB-214-16.md"
+  ]
+}

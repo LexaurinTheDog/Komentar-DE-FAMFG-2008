@@ -1,0 +1,246 @@
+{
+  "scope": "bounded technical verification, not a legal quality certification",
+  "reviewed_ids": [
+    "p214",
+    "p214a",
+    "p215",
+    "p216",
+    "p216a",
+    "p217",
+    "p218",
+    "p219",
+    "p220",
+    "p221",
+    "p222",
+    "p223",
+    "p224",
+    "p225",
+    "p226",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231"
+  ],
+  "units_reviewed": 20,
+  "source_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "changed_commentary_files": [
+    "commentary/part-14-gewaltschutz-versorgung-unterhalt-214-231.md"
+  ],
+  "changed_ids": [
+    "p214a",
+    "p219",
+    "p220",
+    "p222",
+    "p229",
+    "p231"
+  ],
+  "unassigned_commentary_changes": [],
+  "commentary_identifier_set_preserved": true,
+  "checks": [
+    {
+      "id": "p214",
+      "official_doknr": "BJNR258700008BJNE021902126",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "dafd6eae895e8da0a65bc29136c96f9a1184b266e8975191d058ea08b1260c01",
+      "commentary_before_sha256": "21ca66340b3310ad863613ace98747d31c8b8d3be19645e8d3c0944f7760a591",
+      "commentary_after_sha256": "21ca66340b3310ad863613ace98747d31c8b8d3be19645e8d3c0944f7760a591",
+      "commentary_chars": 2683,
+      "changed": false
+    },
+    {
+      "id": "p214a",
+      "official_doknr": "BJNR258700008BJNE051400311",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "04206076a147eb6fb933eae356f6e0d3485ed0e63a69c4431476fed54a68b04b",
+      "commentary_before_sha256": "f23e5713365817450e542790f9a16c1efe34d688e9c7611117ea8499db0eed50",
+      "commentary_after_sha256": "29803b7bf76e6377916398d9736ce5eb6ad5ded6661fcb93a34bdfd24d46f8eb",
+      "commentary_chars": 2481,
+      "changed": true
+    },
+    {
+      "id": "p215",
+      "official_doknr": "BJNR258700008BJNE022000000",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "b4bf5f10d6a1fd1ebb0ecc9d8013ff1e54c1058f241578112ce994912e37ee69",
+      "commentary_before_sha256": "ae6b1cf97fe3c6cb6b5c5d6b1c97eee0f14f44c70e3ad189172a81468b503884",
+      "commentary_after_sha256": "ae6b1cf97fe3c6cb6b5c5d6b1c97eee0f14f44c70e3ad189172a81468b503884",
+      "commentary_chars": 2006,
+      "changed": false
+    },
+    {
+      "id": "p216",
+      "official_doknr": "BJNR258700008BJNE022100000",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "327e9bdab4ce4e43ba285d0cb38c7386eb7c3f072d29d35751e2b387c241c695",
+      "commentary_before_sha256": "2c84d4aeec8e4bf3ce8dc33aa5ff8a86f0ed47f510b2df10a2d8e3b64f96e532",
+      "commentary_after_sha256": "2c84d4aeec8e4bf3ce8dc33aa5ff8a86f0ed47f510b2df10a2d8e3b64f96e532",
+      "commentary_chars": 2214,
+      "changed": false
+    },
+    {
+      "id": "p216a",
+      "official_doknr": "BJNR258700008BJNE022201311",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "6a381d0d51221faea6b37db064843907f386d18f56f552174e93790d87745b18",
+      "commentary_before_sha256": "eb4531cdb465c31de26cbd962a584543d76620f45e3b4a2259acb3dd3c71c929",
+      "commentary_after_sha256": "eb4531cdb465c31de26cbd962a584543d76620f45e3b4a2259acb3dd3c71c929",
+      "commentary_chars": 2876,
+      "changed": false
+    },
+    {
+      "id": "p217",
+      "official_doknr": "BJNR258700008BJNE022300000",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "15bd2d5f613f150f59415e3843911d1afcbc12ac02823739fb19a8cef81940a5",
+      "commentary_before_sha256": "9de7231f2d93d45c8e55624f1f54f1c72d8bd87889b855e559f59a0aa58cc3e7",
+      "commentary_after_sha256": "9de7231f2d93d45c8e55624f1f54f1c72d8bd87889b855e559f59a0aa58cc3e7",
+      "commentary_chars": 2345,
+      "changed": false
+    },
+    {
+      "id": "p218",
+      "official_doknr": "BJNR258700008BJNE022400000",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "58d7e6d9bbc8dac7a3d741121c16b5ddc6dc280cd3c152f5c59e78d1db55162f",
+      "commentary_before_sha256": "41830a6d992869627f526ce38afb60ed11074122eb34ff36fdf26a3f390bbb96",
+      "commentary_after_sha256": "41830a6d992869627f526ce38afb60ed11074122eb34ff36fdf26a3f390bbb96",
+      "commentary_chars": 2249,
+      "changed": false
+    },
+    {
+      "id": "p219",
+      "official_doknr": "BJNR258700008BJNE022501160",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "c7c684d43cf95b82766f85b93701381f0af859e1aa4dc4d43cd0f41d84d1bd1e",
+      "commentary_before_sha256": "e89590912646438421973174dcc211bf2e4d9c6941ba9368fcec7a01105d3ce2",
+      "commentary_after_sha256": "619509cab2814ca51c407c53307456444150c4214d39fcf78f930054e406ee1b",
+      "commentary_chars": 2529,
+      "changed": true
+    },
+    {
+      "id": "p220",
+      "official_doknr": "BJNR258700008BJNE022601160",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "63896ea8cf75f9917115045602b12db381e4707e2cc95075559ab390516e4d0b",
+      "commentary_before_sha256": "cfdb2c4c66735482d70df12d5c2caf052228634d71f4a9c6556d4a55b54dd16c",
+      "commentary_after_sha256": "f148bd21a02a6e16a88194e805397f6591e8108900437511411ccee2b0dfff76",
+      "commentary_chars": 2516,
+      "changed": true
+    },
+    {
+      "id": "p221",
+      "official_doknr": "BJNR258700008BJNE022701160",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "3f745eee629079570e363d191aa62e70603a4ce5ac7c1a8142b1842f16789572",
+      "commentary_before_sha256": "0da7b1fdb870d43bb051d66286e1e3958089a896b110748f11f06375e9c01529",
+      "commentary_after_sha256": "0da7b1fdb870d43bb051d66286e1e3958089a896b110748f11f06375e9c01529",
+      "commentary_chars": 2328,
+      "changed": false
+    },
+    {
+      "id": "p222",
+      "official_doknr": "BJNR258700008BJNE022802125",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "4e726fb0655bf105eb3c880fc3d46a44a969a49a59474cf34c58ef60b36ca58e",
+      "commentary_before_sha256": "76270452cb28c8cdc6bf697de241d5108bf811e5f29a27442afb8154718e0d89",
+      "commentary_after_sha256": "6c16d22dfc3d899f44a7469d2747853bfb8d347f4ec56f8043ebc19f16f6e0c9",
+      "commentary_chars": 3740,
+      "changed": true
+    },
+    {
+      "id": "p223",
+      "official_doknr": "BJNR258700008BJNE022901160",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "cbe060df4cd72e8a8995537a97a73b1ab59c3d6b752f33118a555a4a79eb8f94",
+      "commentary_before_sha256": "d77e3a69b007a7162ecd098031ba33add2af919fb2985a6a3b8c91981450289a",
+      "commentary_after_sha256": "d77e3a69b007a7162ecd098031ba33add2af919fb2985a6a3b8c91981450289a",
+      "commentary_chars": 2203,
+      "changed": false
+    },
+    {
+      "id": "p224",
+      "official_doknr": "BJNR258700008BJNE023001160",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "2eafff63d4afc65fcb561eddd69ab811987178ff79413030cd15bce9e1eb2355",
+      "commentary_before_sha256": "1815153d59c4b9cf054c870f8bf51a6efe7bac155a954f3d09089d4648ec456a",
+      "commentary_after_sha256": "1815153d59c4b9cf054c870f8bf51a6efe7bac155a954f3d09089d4648ec456a",
+      "commentary_chars": 2465,
+      "changed": false
+    },
+    {
+      "id": "p225",
+      "official_doknr": "BJNR258700008BJNE023101160",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "75caef28a61c6a4c8caf1fb48af0eab4a19127919f89d257bedab386a2993e08",
+      "commentary_before_sha256": "494659bbfd8c9b39a186c214733afd66604f42724eb48f02c8d5365cedb75f0b",
+      "commentary_after_sha256": "494659bbfd8c9b39a186c214733afd66604f42724eb48f02c8d5365cedb75f0b",
+      "commentary_chars": 2980,
+      "changed": false
+    },
+    {
+      "id": "p226",
+      "official_doknr": "BJNR258700008BJNE023202125",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "0c8f8ba22c2da25b441976c5af297b2a2a7fcd4e7eed8d37bb90d9fbf8f05350",
+      "commentary_before_sha256": "39e1b090ab95acfaf91e22d4c4184b91b52dd97f2e2a91db069696ee847413c2",
+      "commentary_after_sha256": "39e1b090ab95acfaf91e22d4c4184b91b52dd97f2e2a91db069696ee847413c2",
+      "commentary_chars": 2626,
+      "changed": false
+    },
+    {
+      "id": "p227",
+      "official_doknr": "BJNR258700008BJNE023301160",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "9977b5d84c3c8bea5a8e946892f8cea96aff0a7664f46deed8d8d7edeaf65388",
+      "commentary_before_sha256": "7aaf7cf40576cbe707fa674abcc2158e4a8b58eb5517efd91f8fbf1c5dc280b2",
+      "commentary_after_sha256": "7aaf7cf40576cbe707fa674abcc2158e4a8b58eb5517efd91f8fbf1c5dc280b2",
+      "commentary_chars": 2358,
+      "changed": false
+    },
+    {
+      "id": "p228",
+      "official_doknr": "BJNR258700008BJNE023401160",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "e350fa1f89bb35490d6693c953b7cdc4cbe896dc41c522a393e97b31f25749a3",
+      "commentary_before_sha256": "82ced7fce6f6ec7cf5cd6353df84ccf296a93c050d8da4fa20c941e3a67ac22e",
+      "commentary_after_sha256": "82ced7fce6f6ec7cf5cd6353df84ccf296a93c050d8da4fa20c941e3a67ac22e",
+      "commentary_chars": 2047,
+      "changed": false
+    },
+    {
+      "id": "p229",
+      "official_doknr": "BJNR258700008BJNE023502311",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "a2850390025d12748fb1a575f7bc4b69775ec0844eabe48ffa86703b090ead76",
+      "commentary_before_sha256": "6391988514e7f1a58ab29cbe68d11e82fd63d6d3674148cf4220b61f3aea9f2d",
+      "commentary_after_sha256": "af4d5263e78ff7aa055b02ea373aeed5888086c292a4628a528bff3aee21f23a",
+      "commentary_chars": 2752,
+      "changed": true
+    },
+    {
+      "id": "p230",
+      "official_doknr": "BJNR258700008BJNE023601160",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "commentary_before_sha256": "0eb65e6af2bfacb00b4de691b9b69eb75ed99faae1bea81a041e239eb78cacf8",
+      "commentary_after_sha256": "0eb65e6af2bfacb00b4de691b9b69eb75ed99faae1bea81a041e239eb78cacf8",
+      "commentary_chars": 1784,
+      "changed": false
+    },
+    {
+      "id": "p231",
+      "official_doknr": "BJNR258700008BJNE023701125",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "statutory_text_sha256": "aebd5b254967452cc1f37ce43b4a3e0d7dcec0758a07c1c5b5e46afdccf54bf6",
+      "commentary_before_sha256": "e7847c2ce3f8a3cc1a54c92b455427f66eb291837651be22aa5ab1f8f5fde342",
+      "commentary_after_sha256": "13b533aea245bf35b99e8d51790d02b0f90593c689e101c4cdac4fe30c5a64a0",
+      "commentary_chars": 3036,
+      "changed": true
+    }
+  ],
+  "errors": [],
+  "ok": true,
+  "exported_assigned_statutory_text_agrees": true,
+  "exported_assigned_count": 20
+}

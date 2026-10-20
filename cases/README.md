@@ -48,3 +48,6 @@ Die Autorencharge §§ 195–213 ergänzt [BGH, 27. März 2024 — XII ZB 237/23
 
 
 Die Autorencharge §§ 214–231 ergänzt [BGH, 27. Mai 2015 — XII ZB 564/12](BGH-XII-ZB-564-12.md) zur fehlenden selbständigen Fehlerkorrektur nach § 225 und [BGH, 22. Juni 2016 — XII ZB 350/15](BGH-XII-ZB-350-15.md) zu beiden Wesentlichkeitsgrenzen und Kapitalwertmaßstab. Sämtliche 21 beziehungsweise 25 Gründe und Tenor wurden gelesen. Historische Sechsmonatsfrist, Beträge und unzutreffende Gesetzesabkürzungen werden nicht als heutiger Gesetzestext übernommen.27 Fallkarten, weiterhin selektive Abdeckung.
+
+
+Die begrenzte Zweitprüfung §§ 214–231 liest die beiden dort verwendeten Entscheidungen vollständig erneut und ergänzt [BGH, 13. Dezember 2017 — XII ZB 214/16](BGH-XII-ZB-214-16.md). Dessen Rn. 10–14 schützen die fristgerechte Zielwahl; Rn. 16–17 erläutern die vorherige Beteiligung des Zielträgers. Parteivorbringen, Zurückverweisung und zeitliche Reichweite sind in der Fallkarte getrennt. 28 Fallkarten, weiterhin selektive Abdeckung. [Abgleich aller drei Quellen](../sources/review-p214-p231-case-corpus-check.json).
