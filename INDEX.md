@@ -6,7 +6,7 @@ Kommentiert: §§ 1–168g (193 von 529 Einheiten). Ab § 169 fehlen 336 Komment
 
 - [Quellen](SOURCES.md)
 
-- [Eigenkontrolle und offene Arbeiten](REVIEW.md)
+- [Prüfprotokoll und offene Arbeiten](REVIEW.md)
 
 - [Vollständigkeitsbericht](completeness-report.json)
 

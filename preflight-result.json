@@ -726,5 +726,25 @@
     "Selective case cards retained; this source preflight does not re-review case law or the commentary.",
     "193 existing commentaries preserved; 336 units remain unannotated. No whole-book completion or independent review claimed."
   ],
-  "no_commentary_authored": true
+  "no_commentary_authored": true,
+  "bounded_review_recheck": {
+    "verified_at": "2026-10-20T15:17:44.628814+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "verification_entry": "sources/verification.json: sources/review-p1-p18-famfg.zip",
+    "fresh_xml_identical": true,
+    "reviewed_commencement_evidence": [
+      "BGBl. 2026 I Nr.152 Art.6,18",
+      "BGBl. 2026 I Nr.192 Art.4,20",
+      "BGBl. 2026 I Nr.198 Art.4,10"
+    ],
+    "effective_version": "Authoring-start date 2026-10-19 retained; no future 2027 provisions concatenated.",
+    "coverage_report": "completeness-report.json",
+    "unresolved_blockers": [],
+    "supporting_zpo_effectivity": {
+      "evidence": "sources/review-p1-p18-zpo.xml and sources/bgbl-152.txt",
+      "official_notices": "Stand Art.2 G 22.12.2025 I Nr.349; Hinweise to Art.1–3 G 20.5.2026 I Nr.152",
+      "commencement": "Art.18 Abs.1: 2026-10-01 for Art.1; Abs.3: 2027-01-01 for Art.2; Abs.4: 2027-06-01 for Art.3.",
+      "scope_check": "Art.1 changes enforcement provisions from § 750 onward; future Art.2 concerns § 829 Abs.5, future Art.3 concerns TOC, § 173 Abs.2, new § 752b, § 753 Abs.4. None changes the ZPO rules substantively used in this review: §§ 41–58, 81–89, 130a–130b, 222–225, 233, 298–299, 567–572."
+    }
+  }
 }

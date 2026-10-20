@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-20T15:09:28.799254+00:00",
+  "at": "2026-10-20T15:17:59.215325+00:00",
   "command": [
     "python3",
     "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
@@ -9,5 +9,5 @@
   "stdout": "",
   "stderr": "CHYBÍ komentář k 336 jednotkám, např.: ['p169', 'p170', 'p171', 'p172', 'p173', 'p174', 'p175', 'p176', 'p177', 'p178']\n",
   "complete": false,
-  "reason": "Expected intermediate-manuscript failure: 336 original commentaries are absent; full build not bypassed. Source preflight complete separately."
+  "reason": "Bounded independent review of 20 units complete; full build still correctly rejects the 336 unannotated units outside this assignment."
 }

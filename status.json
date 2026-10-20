@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T15:10:10.379255+00:00",
+  "updated_at": "2026-10-20T15:18:46.986622+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -8,7 +8,9 @@
   "remaining_units": 336,
   "case_law_sources": [
     "cases/BGH-XII-ZB-114-21.md",
-    "cases/BGH-XII-ZB-109-16.md"
+    "cases/BGH-XII-ZB-109-16.md",
+    "cases/BGH-XII-ZB-264-22.md",
+    "cases/BGH-XII-ZB-592-11.md"
   ],
   "validation": {
     "strict_validator": {
@@ -33,11 +35,11 @@
   "remaining_limitations": [
     "336 statutory units from § 169 onward still lack original commentary.",
     "Full build and strict validation correctly fail because commentary is incomplete.",
-    "Independent second-pass review not performed.",
     "Case-law research is selective; no exhaustive coverage claimed.",
-    "Source preflight rechecked current delivery, relevant commencement clauses and seven recent statutory enactments; no complete historical amendment reconstruction since 2008."
+    "Source preflight rechecked current delivery, relevant commencement clauses and seven recent statutory enactments; no complete historical amendment reconstruction since 2008.",
+    "Independent second-pass review complete only for assigned 20 units p1–p18 including p14a/p14b; remaining commentary not independently reviewed in this task."
   ],
-  "commentary_characters": 202505,
+  "commentary_characters": 207397,
   "commented_scope": "§§ 1–168g",
   "resume": {
     "last_commented_id": "p168g",
@@ -55,5 +57,35 @@
     "verified_at": "2026-10-20T15:07:59.390039+00:00",
     "date": "2026-10-20",
     "commentaries_changed": false
+  },
+  "bounded_review": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13",
+      "p14",
+      "p14a",
+      "p14b",
+      "p15",
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "result": "review-result.json",
+    "technical_audit": "review-batch-audit.json",
+    "unresolved_blockers": [],
+    "whole_book_complete": false
   }
 }

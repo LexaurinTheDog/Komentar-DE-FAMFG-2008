@@ -1,6 +1,6 @@
-# Eigenkontrolle und ausstehende Bearbeitung
+# Prüfprotokoll und ausstehende Bearbeitung
 
-**Keine unabhängige Zweitprüfung. Kein externes fachliches Freigabeurteil.** Dieses Protokoll dokumentiert die Eigenkontrolle des noch unvollständigen Arbeitsentwurfs vom 19. Oktober 2026.
+**Kein externes fachliches Freigabeurteil.** Der erste Teil dokumentiert die frühere Eigenkontrolle vom 19. Oktober 2026 und die Quellenvorprüfung. Die anschließend dokumentierte unabhängige Zweitprüfung vom 20. Oktober ist auf genau 20 Einheiten beschränkt.
 
 ## Vorhandener Bestand
 
@@ -25,3 +25,17 @@ Die Rechtsprechungsrecherche bleibt selektiv und muss für die noch fehlenden Sa
 ## Buildzustand
 
 Der unveränderte gemeinsame `build_repo.py` weist den Vollbuild wegen fehlender Kommentare zutreffend zurück. Die vorhandenen Kapitel wurden durch den ausdrücklich für unvollständige Lesefassungen geschriebenen `_export_draft.py` ausgegeben. Dabei wurden weder die 529 Einheiten in `units.jsonl` noch die Metadaten auf den bearbeiteten Teil verkürzt. Die strenge Gesamtvalidierung bleibt negativ; maßgeblich ist die [gesicherte Ausgabe](validation.json). Ein lokaler Commit und ein sauberer Git-Baum ersetzen diese fehlende Gesamtfertigstellung nicht.
+
+## Unabhängige begrenzte Zweitprüfung vom 20. Oktober 2026
+
+Eine frische Prüfungsinstanz hat jede der folgenden 20 Einheiten vollständig gelesen und mit der amtlichen Grundlage verglichen: §§ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 14a, 14b, 15, 16, 17 und 18. Keine weitere Kommentierung wird als zweitgeprüft erfasst. Die vorherigen Aussagen über fehlende Zweitprüfung beschreiben den Stand vor dieser begrenzten Prüfung; außerhalb der genannten Kennungen gilt dieser Vorbehalt weiterhin. Maschinell lesbarer Umfang und Einzelprotokoll: [review-result.json](review-result.json).
+
+Der erneute amtliche FamFG-ZIP-Abruf vom 20. Oktober, 15:12:16 UTC, ist mit dem Quellenbestand vom 19. Oktober bytegleich. Zusätzlich wurden amtliche ZPO-XML und zwei einschlägige RII-Entscheidungsvolltexte gesichert. Die bereits vorhandenen Inkrafttretensbelege für BGBl. 2026 I Nr. 152, 192 und 198 wurden erneut inhaltlich kontrolliert. Insbesondere werden zukünftige Gewaltschutzänderungen nicht als gegenwärtige Vorschriften behandelt. Der vollständige Strukturabgleich weist weiterhin 529 Paragraphen und 599 zugeordnete XML-Normen ohne Dubletten aus. Eine separate Eingangsformel oder Anlage fehlt im FamFG-Datensatz nicht. Siehe [Vorprüfung](preflight-result.json) und [Quellenprotokoll](sources/verification.json).
+
+Die materielle Prüfung betraf Anwendungsbereich und § 113, Zuständigkeitskonflikte, Beteiligung und bloße Auskunft, Fähigkeit und Vertretung, Aktenzugang, elektronischen Rechtsverkehr sowie Bekanntgabe, Fristlauf und Wiedereinsetzung. Die übrigen bereits geschriebenen Kommentare wurden in diesem Durchgang nicht inhaltlich verändert.
+
+Korrigiert beziehungsweise konkretisiert wurden die Reichweite des § 113 im Einstieg, die Formulierung zur Beteiligtenprüfung, § 9 Absatz 5 und die getrennte Zurechnung gesetzlichen und bevollmächtigten Vertreterverschuldens, die Gruppen zulässiger Vertreter, die Außenwirkung der Verfahrensvollmacht, Aktenüberlassung und Beweisstücke sowie elektronischer Aktenzugang. Bei § 14 wurden die Bedeutung der Jahresgrenze 2026 und die unterschiedliche Behandlung der Geheimhaltungsstufen präzisiert. Bei § 14b wurden die Nachreichungspflicht auf Anforderung und die Anforderungen an die Störungsglaubhaftmachung erläutert; § 16 benennt die tatsächlich übernommenen ZPO-Regeln. § 17 erklärt Ursächlichkeit und die Anwendungsschranke für Ehe- und Familienstreitsachen. Eine praktische Prüfliste schließt die behandelten Themen ab.
+
+Die beiden neuen Fallkarten beruhen auf vollständiger Lektüre der amtlichen Tenöre und Gründe: XII ZB 264/22, Rn. 1–20, und XII ZB 592/11, Rn. 1–19. Die erste Entscheidung trägt die Aussagen zur Ersatzeinreichung. Bei der zweiten werden die hypothetische Wiedereinsetzungserörterung und der tatsächliche Aufhebungsgrund getrennt. Ihre historische Aussage über eine fehlende Vermutung in § 233 ZPO wurde am heutigen amtlichen Text als überholt erkannt und ausdrücklich von der aktuellen Darstellung ausgeschlossen. Eine vollständige Erfassung späterer Rechtsprechung wurde nicht vorgenommen. Für die übrigen Einheiten dieser Charge wurde keine zusätzliche hinreichend verifizierte Entscheidung aufgenommen; daraus folgt keine Aussage über das Fehlen einschlägiger Rechtsprechung.
+
+Ergebnis: Die begrenzte Zweitprüfung aller 20 zugewiesenen Einheiten ist nach Korrektur abgeschlossen; innerhalb dieser Charge verbleibt kein festgestellter materieller Blocker. Die 336 unkommentierten Einheiten und die übrige noch ausstehende Zweitprüfung bleiben außerhalb des Auftrags offen. Der reguläre Gesamtbuild und die strenge Gesamtvalidierung können deshalb weiterhin scheitern. Dies ist weder eine Gesamtfertigstellung noch eine externe anwaltliche Freigabe.

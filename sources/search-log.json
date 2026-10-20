@@ -33,5 +33,54 @@
     "KORE312772017"
   ],
   "rejected_response": "BGH URL for XII ZB 114/21 returned homepage; replaced with official RII ZIP/XML",
-  "limits": "No exhaustive law-wide case-law search; no claim that absence of a case citation establishes absence of case law."
+  "limits": "No exhaustive law-wide case-law search; no claim that absence of a case citation establishes absence of case law.",
+  "bounded_review_2026_10_20": {
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13",
+      "p14",
+      "p14a",
+      "p14b",
+      "p15",
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "availability": {
+      "tool": "firecrawl --status",
+      "authenticated": true,
+      "available_cycle_credits": 0,
+      "fallback": "Direct official ZIP/XML requests; no service settings changed"
+    },
+    "web_queries": [
+      "site.rechtsprechung-im-internet.de \"14b\" \"Nutzungspflicht\" \"FamFG\"",
+      "site.rechtsprechung-im-internet.de \"17\" \"Rechtsbehelfsbelehrung\" \"FamFG\" \"Kausalität\""
+    ],
+    "local_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+    "local_verified_candidates": [
+      "KORE305792012 / XII ZB 592/11",
+      "KORE307472022 / XII ZB 264/22"
+    ],
+    "official_full_texts_read": {
+      "KORE305792012": "Tenor and all reasons 1–19",
+      "KORE307472022": "Tenor and all reasons 1–20"
+    },
+    "rejected_fetch": "Exploratory web open for KORE303042022 returned Internal Error; not read, saved as authority or cited.",
+    "new_case_snapshots": [
+      "sources/review-case-XII-ZB-592-11.xml",
+      "sources/review-case-XII-ZB-264-22.xml"
+    ],
+    "limits": "Selective research of actual review issues, not complete unit-by-unit judicial coverage."
+  }
 }

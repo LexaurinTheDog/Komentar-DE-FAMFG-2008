@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:09:29.055687+00:00",
+  "generated_at": "2026-10-20T15:18:47.016342+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -260,9 +260,54 @@
       "bytes": 14462
     },
     {
+      "path": "sources/review-case-XII-ZB-264-22.xml",
+      "sha256": "d812e6413e4335ad816a014413ad8ea9c3c23a9d1674eb06d816594dfa97502b",
+      "bytes": 21462
+    },
+    {
+      "path": "sources/review-case-XII-ZB-264-22.zip",
+      "sha256": "ae6138f1563a1eccec9589e56ea3e6c00d600826c1fee7404fe59cea06f69b5a",
+      "bytes": 5227
+    },
+    {
+      "path": "sources/review-case-XII-ZB-592-11.xml",
+      "sha256": "f6a847ccacf30c490e43c032969671eb59200c7c041c0bcaf91673d87ceca5a5",
+      "bytes": 27006
+    },
+    {
+      "path": "sources/review-case-XII-ZB-592-11.zip",
+      "sha256": "f4632f983cc3a318b54e644363e55f0362c41d50e68fa4d6d37f24d624b1c04e",
+      "bytes": 7194
+    },
+    {
+      "path": "sources/review-p1-p18-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/review-p1-p18-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/review-p1-p18-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/review-p1-p18-zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/review-p1-p18-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
       "path": "sources/search-log.json",
-      "sha256": "761f01a26afc0e8ec8d11c07d3e5d02da8b0c1fe7ed0903e05af1ab83cc08cbb",
-      "bytes": 1127
+      "sha256": "d7dcc15f9608a8c32a6302ed5c018b74f44cf40a20095034cba812893d9424b1",
+      "bytes": 2578
     },
     {
       "path": "sources/urhg-5.html",
@@ -271,8 +316,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "a3aa1f56b9e1a01d588b3cb3235b59d87e3f9eea3685491030104dcee065718b",
-      "bytes": 21842
+      "sha256": "954cf3a55fe0f05ea1d79befd38766ed0c70cb64e77d902ffd08b44b89fd03f5",
+      "bytes": 25442
     }
   ]
 }

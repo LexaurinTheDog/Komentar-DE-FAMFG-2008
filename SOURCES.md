@@ -29,7 +29,7 @@ Die PDF-Abrufe lieferten HTTP 200 und tatsächliche `%PDF-`-Dateien; eine bloße
 
 ## Rechtsprechung und Suche
 
-Die [Fallkartenübersicht](cases/README.md) enthält zwei vollständig gelesene und tatsächlich verwendete amtliche Entscheidungen. Der lokale nationale Rechtsprechungsbestand wurde nach konkreten Aktenzeichen abgefragt. Die offiziellen RII-ZIP-Dateien wurden neu abgerufen und als XML validiert. Die Karten trennen Tatbestand, Vorinstanz, gerichtliche Aussagen und Anwendungsgrenzen.
+Die [Fallkartenübersicht](cases/README.md) enthält vier vollständig gelesene amtliche Entscheidungen; zwei davon wurden in der begrenzten Zweitprüfung ergänzt und mit ihren jeweiligen Verwendungsgrenzen dokumentiert. Der lokale nationale Rechtsprechungsbestand wurde nach konkreten Aktenzeichen abgefragt. Die offiziellen RII-ZIP-Dateien wurden neu abgerufen und als XML validiert. Die Karten trennen Tatbestand, Vorinstanz, gerichtliche Aussagen und Anwendungsgrenzen.
 
 [Suchprotokoll](sources/search-log.json), [Firecrawl-Suchergebnis](sources/firecrawl-current-search.json). Der BGH-HTML-Abruf zu XII ZB 114/21 lieferte eine Startseite statt der Entscheidung und wird ausdrücklich als verworfen geführt. Der amtliche RII-Volltext ersetzt diesen ungeeigneten Abruf. Die gesicherte Entscheidung XII ZB 601/15 wurde nicht vollständig ausgewertet und nicht zur Autorität erhoben. Keine vollständige Rechtsprechungsauswertung für das gesamte FamFG und keine Behauptung, bei nicht zitierten Einheiten existiere keine relevante Entscheidung.
 
@@ -37,4 +37,10 @@ Die [Fallkartenübersicht](cases/README.md) enthält zwei vollständig gelesene 
 
 [Verifikationsprotokoll](sources/verification.json) mit tatsächlichen URLs, Zeitstempeln, HTTP-Ergebnissen, Formatprüfungen und SHA-256; [Quellenmanifest](source-manifest.json) mit lokalen Dateiprüfsummen; [Vollständigkeitsbericht](completeness-report.json); [technischer Audit](technical-audit.json); [strenge Gesamtvalidierung](validation.json); [regulärer Buildversuch](build-result.json).
 
-Die Ausgabe ist unvollständig: 193 kommentierte und 336 noch nicht kommentierte Einheiten. Eine unabhängige zweite Sachprüfung fehlt. Weitere Einzelheiten in [REVIEW](REVIEW.md). Rechte am amtlichen Wortlaut werden nicht durch die Kommentarlizenz beansprucht; [amtlich geprüfter § 5 UrhG](sources/urhg-5.html).
+Die Ausgabe ist unvollständig: 193 kommentierte und 336 noch nicht kommentierte Einheiten. Die unabhängige zweite Sachprüfung ist bislang auf die 20 Einheiten §§ 1–18 einschließlich §§ 14a und 14b beschränkt. Weitere Einzelheiten in [REVIEW](REVIEW.md). Rechte am amtlichen Wortlaut werden nicht durch die Kommentarlizenz beansprucht; [amtlich geprüfter § 5 UrhG](sources/urhg-5.html).
+
+## Ergänzende Quellen der begrenzten Zweitprüfung
+
+Am 20. Oktober 2026 wurden [FamFG-ZIP](https://www.gesetze-im-internet.de/famfg/xml.zip), [Inhaltsübersicht](https://www.gesetze-im-internet.de/famfg/) und [ZPO-ZIP](https://www.gesetze-im-internet.de/zpo/xml.zip) tatsächlich mit HTTP 200 abgerufen. Lokale Belege: [FamFG-XML](sources/review-p1-p18-famfg.xml), [Index](sources/review-p1-p18-index.html), [ZPO-XML](sources/review-p1-p18-zpo.xml). Identität, Format und Prüfsummen stehen im Verifikationsprotokoll. Die FamFG-Datei ist bytegleich mit der Fassung vom Bearbeitungsbeginn; der Bearbeitungsstichtag bleibt der 19. Oktober 2026. Die ZPO wurde gezielt für die in §§ 9, 11, 13, 14, 16 und 17 behandelten Verweisungen geprüft, nicht als eigenständig vollständig kommentiertes Gesetz. § 233 Satz 2 ZPO enthält heute bereits die Vermutung bei Belehrungsmängeln.
+
+Die zwei neuen [Fallkarten](cases/README.md) belegen die selektive Recherche zu §§ 14b und 17. Die lokalen nationalen Fundstellen wurden mit frisch abgerufenen offiziellen ZIP/XML-Volltexten abgeglichen. Firecrawl war authentifiziert, meldete jedoch kein verfügbares Guthaben; deshalb wurden die amtlichen Rohdaten unmittelbar abgerufen. [Suchprotokoll](sources/search-log.json), [Prüfungsergebnis](review-result.json).
