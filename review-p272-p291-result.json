@@ -1,7 +1,7 @@
 {
   "task_kind": "review",
   "scope": "Independent second pass exactly p272–p291, no other units substantively re-reviewed",
-  "complete": false,
+  "complete": true,
   "legal_reading_complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
@@ -197,6 +197,66 @@
     "case_comparison": "sources/review-p272-p291-case-corpus-check.json",
     "search_log": "sources/review-p272-p291-search-log.json"
   },
-  "stage": "bounded_second_pass_legal_reading_complete_pending_technical_checks",
-  "whole_book_complete": false
+  "stage": "bounded_second_pass_complete",
+  "whole_book_complete": false,
+  "completed_at": "2026-10-20T18:59:21.661529+00:00",
+  "validation": {
+    "assigned_batch_ok": true,
+    "reviewed_ids_exact": true,
+    "changed_ids": [
+      "p272",
+      "p274",
+      "p277",
+      "p278",
+      "p284",
+      "p287"
+    ],
+    "unchanged_after_full_review": [
+      "p273",
+      "p275",
+      "p276",
+      "p279",
+      "p280",
+      "p281",
+      "p282",
+      "p283",
+      "p285",
+      "p286",
+      "p288",
+      "p289",
+      "p290",
+      "p291"
+    ],
+    "unassigned_commentary_changes": [],
+    "all_300_unassigned_comments_preserved": true,
+    "previous_15_exported_chapters_preserved": true,
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "exported_assigned_count": 20,
+    "exported_commentary_agrees": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 712848,
+      "errors": [
+        "krátký/chybějící komentář u 209 jednotek: ['p292(0<400)', 'p292a(0<400)', 'p293(0<400)', 'p294(0<400)', 'p295(0<400)', 'p296(0<400)', 'p297(0<400)', 'p298(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "reason_for_global_failure": "209 unannotated units from p292 outside this bounded review",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 908,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T18:59:21.661529+00:00",
+    "whole_book_complete": false
+  }
 }

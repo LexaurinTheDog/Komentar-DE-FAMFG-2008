@@ -1,6 +1,6 @@
 {
-  "stage": "bounded_review_pending_technical_validation_manuscript_incomplete",
-  "updated_at": "2026-10-20T18:57:06.184979+00:00",
+  "stage": "bounded_review_complete_manuscript_incomplete",
+  "updated_at": "2026-10-20T18:59:21.661529+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -49,7 +49,7 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 711073,
+      "commentary_chars": 712848,
       "errors": [
         "krátký/chybějící komentář u 209 jednotek: ['p292(0<400)', 'p292a(0<400)', 'p293(0<400)', 'p294(0<400)', 'p295(0<400)', 'p296(0<400)', 'p297(0<400)', 'p298(0<400)']"
       ],
@@ -61,16 +61,15 @@
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "bounded_author_batch_ok": true,
-    "validated_at": "2026-10-20T18:51:33.853139+00:00",
-    "expected_intermediate_failure": "209 unassigned units remain unannotated from p292. All 20 assigned units are complete, with 100% statutory agreement."
+    "bounded_batch_ok": true,
+    "validated_at": "2026-10-20T18:59:21.661529+00:00",
+    "expected_intermediate_failure": "209 unannotated units outside exact p272–p291 review; all20assignedunits reviewed,100%statutoryagreement."
   },
   "remaining_limitations": [
-    "Exactly 20 assigned units authored; all 300 previous commentaries preserved.",
-    "The 20 new units await a fresh independent second pass. No external professional approval claimed.",
-    "Whole title incomplete: 209 unassigned units remain without commentary.",
+    "Independent second pass covered exactly p272–p291; previous300commentaryblocks preserved.",
+    "Whole title incomplete:209unassignedunits remain unannotated fromp292.",
     "Selective primary judicial research, not exhaustive.",
-    "Technical agreement, length and similarity screening are not proof of legal quality."
+    "Fresh-process review is not external professional approval; technical screening does not establish legal quality."
   ],
   "commented_scope": "§§ 1–291 einschließlich der Buchstabenparagraphen",
   "resume": {
@@ -81,19 +80,19 @@
     "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
-    "instructions": "Preserve all 320 existing commentaries and earlier independent review reports. Fresh independent second pass required for exactly p272–p291. Earlier 300 units are covered by bounded review reports. Continue authoring from p292 only on assignment. Whole book remains incomplete."
+    "instructions": "Preserve all320existingcomments and exact bounded review reports. Latest independent second pass covered exactly p272–p291. Continue authoring fromp292only on assignment; whole book remains incomplete."
   },
   "source_preflight": {
     "complete": true,
     "result": "preflight-result.json",
-    "verified_at": "2026-10-20T18:57:06.184979+00:00",
+    "verified_at": "2026-10-20T18:55:35.619997+00:00",
     "date": "2026-10-20",
     "commentaries_changed": false,
     "latest_bounded_author_recheck": "sources/author-p272-p291-version-map.json",
     "latest_bounded_review_recheck": "sources/review-p272-p291-version-map.json"
   },
   "bounded_review": {
-    "complete": false,
+    "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
       "p272",
@@ -121,7 +120,8 @@
     "archived_result": "review-p272-p291-result.json",
     "technical_audit": "review-p272-p291-audit.json",
     "unresolved_blockers": [],
-    "whole_book_complete": false
+    "whole_book_complete": false,
+    "commentary_characters": 57894
   },
   "bounded_review_history": [
     {
@@ -600,9 +600,9 @@
       "commentary_characters": 61629
     }
   ],
-  "cumulative_independently_reviewed_units": 300,
-  "remaining_existing_commentaries_for_review": 20,
-  "commentary_characters": 711073,
+  "cumulative_independently_reviewed_units": 320,
+  "remaining_existing_commentaries_for_review": 0,
+  "commentary_characters": 712848,
   "bounded_authoring": {
     "complete": true,
     "units_written": 20,
@@ -738,7 +738,7 @@
     "units_authored": 20,
     "result": "author-p272-p291-result.json",
     "audit": "author-p272-p291-audit.json",
-    "independent_second_pass_complete": false,
+    "independent_second_pass_complete": true,
     "unresolved_blockers": [],
     "whole_book_complete": false,
     "commentary_characters": 56119
