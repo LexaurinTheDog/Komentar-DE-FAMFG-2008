@@ -54,3 +54,6 @@ Die begrenzte Zweitprüfung §§ 214–231 liest die beiden dort verwendeten Ent
 
 
 Die Autorencharge §§ 232–251 ergänzt [BGH, 29. Mai 2013 — XII ZB 374/11](BGH-XII-ZB-374-11.md) zu Präklusion und unverändertem Unterhaltsvergleich sowie [BGH, 7. Dezember 2016 — XII ZB 422/15](BGH-XII-ZB-422-15.md) zu einvernehmlicher Titelersetzung, Bindung an eine Unterhaltsvereinbarung und Beweislast nach Volljährigkeit. Sämtliche 23 beziehungsweise 46 nummerierten Absätze wurden gelesen. Historische Übergangsfragen, Parteibehauptungen und bloße Zurückverweisung sind ausdrücklich eingegrenzt. Insgesamt 30 selektiv ausgewertete Fallkarten. [Textvergleich](../sources/author-p232-p251-case-corpus-check.json).
+
+
+Die Zweitprüfung genau der §§ 232–251 hat beide zuletzt ergänzten BGH-Volltexte XII ZB 374/11 und XII ZB 422/15 vollständig erneut gelesen und ihre begrenzte Verwendung bestätigt. [Frischer amtlicher Text- und Korpusvergleich](../sources/review-p232-p251-case-corpus-check.json). Frühere Fallkarten wurden in diesem Auftrag nicht neu geprüft.

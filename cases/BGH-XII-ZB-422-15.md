@@ -25,3 +25,8 @@ Rn. 41–44 erhalten die Bindung an schon bewertete Grundlagen und differenziere
 Die OLG-Begründung in Rn. 17–20 ist gerade Gegenstand der Korrektur, keine vom BGH bestätigte allgemeine Beweislastregel. Die Entscheidung betrifft die konkrete Titelfolge und Vereinbarungsgrundlage. Sie rechtfertigt weder ein automatisches Erlöschen aller Minderjährigentitel mit dem 18. Geburtstag noch eine feste Verringerung des Unterhalts um die Hälfte. § 244 selbst war nicht der alleinige tragende Prüfungsgegenstand; der Kommentar verwendet den Fall dort als belegte Veranschaulichung der nötigen materiellen Abänderung.
 
 Die aktuellen Fassungen der §§ 239 und 244 FamFG sowie §§ 313 und 1606 BGB wurden amtlich nachgeprüft. Historische Tabellenwerte und die damaligen Einkommensbeträge werden nicht in die heutigen Rechenbeispiele übertragen. Keine erschöpfende spätere Rechtsprechungsprüfung; keine Übernahme von kommerziellen Anmerkungen oder redaktionellen Leitsätzen.
+
+
+## Frische Zweitprüfung am 20. Oktober 2026
+
+Der vollständige amtliche Text wurde im unabhängigen Review genau der §§ 232–251 erneut gelesen und die Verwendung in den zugeordneten Kommentaren bestätigt. Die bezeichneten historischen und sachlichen Grenzen bleiben bestehen. [Frischer XML-Abruf](../sources/review-p232-p251-XII-ZB-422-15.xml), [lesbare Extraktion](../sources/review-p232-p251-XII-ZB-422-15.txt), [HTTP-Zeit und Hashes](../sources/review-p232-p251-fetch.json), [vollständiger Korpusvergleich](../sources/review-p232-p251-case-corpus-check.json). Keine neue Unterinstanzentscheidung und keine bloß referierte Parteibehauptung wurde als eigener BGH-Befund übernommen; keine erschöpfende Prüfung späterer Rezeption.

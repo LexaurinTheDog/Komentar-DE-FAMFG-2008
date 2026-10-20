@@ -1,0 +1,36 @@
+{
+  "verified_at": "2026-10-20T18:11:19.788031+00:00",
+  "scope": "Independent review of existing authorities for p232–p251",
+  "firecrawl_status": "Checked firecrawl --status: authenticated but 0 credits; no extraction attempted, no credentials inspected or settings changed. Direct official ZIP/XML fetched successfully.",
+  "web_queries": [
+    "site:rechtsprechung-im-internet.de \"XII ZB 422/15\" \"Volljährigkeit\"",
+    "site:bundesgerichtshof.de \"769 Abs. 1 Satz 2\" \"242\"",
+    "site:rechtsprechung-im-internet.de \"XII ZB 374/11\" \"Vergleich\""
+  ],
+  "search_disposition": "Results mostly third-party discovery hits and an official BGH PDF discovery hit; no snippet or third-party commentary adopted as authority. Existing two decisions freshly fetched from official RII and fully re-read. No additional case adopted.",
+  "national_corpus_check": "rg -l on exact national corpus documents KORE311122013/KORE300192017; complete primary paragraph comparison in review-p232-p251-case-corpus-check.json",
+  "case_cards": [
+    "cases/BGH-XII-ZB-374-11.md",
+    "cases/BGH-XII-ZB-422-15.md"
+  ],
+  "no_additional_case_selected_for": [
+    "p232",
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p240",
+    "p241",
+    "p242",
+    "p243",
+    "p245",
+    "p246",
+    "p247",
+    "p248",
+    "p249",
+    "p250",
+    "p251"
+  ],
+  "limits": "Selective review, no exhaustive later-case search or claim that technical units have no case law."
+}

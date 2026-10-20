@@ -1,6 +1,6 @@
 {
-  "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T18:08:29.520179+00:00",
+  "stage": "bounded_review_complete_manuscript_incomplete",
+  "updated_at": "2026-10-20T18:12:48.759032+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -60,11 +60,10 @@
     "expected_intermediate_failure": "249unitsoutsideassignedauthorbatchremainunannotated;all20assignedunitscomplete;100%statutoryagreement."
   },
   "remaining_limitations": [
-    "Exactly20assignedunits authored, no other commentary changed.",
-    "New batch awaits fresh independent second pass; earlier260reviewed units preserved.",
-    "Whole book remains incomplete; unmodified full build and strict validation expected to fail solely for249missingcomments.",
-    "Case-law research selective; no exhaustive subsequent decision or amendment-history reconstruction.",
-    "Technical length, equality and similarity checks do not establish legal quality."
+    "Exactly p232–p251 independently reviewed in this process; earlier ledger-reviewed units preserved and not re-reviewed.",
+    "Whole book remains incomplete: 280 of 529 units commented; 249 units from p252 outside this assignment remain unannotated.",
+    "Selective primary case research and limited amendment screening, no exhaustive subsequent-case or historical-law reconstruction.",
+    "No external professional approval; technical checks do not establish legal quality."
   ],
   "commented_scope": "§§ 1–251 einschließlich der Buchstabenparagraphen",
   "resume": {
@@ -75,12 +74,12 @@
     "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
-    "instructions": "Preserve280existingcommentaries. Fresh second pass needed for exactlyp232–p251; earlier260units already independently reviewed in bounded batches. Continue authoring fromp252onlyonassignment. Wholebookincomplete."
+    "instructions": "Preserve all 280 existing comments and bounded review reports. Latest independent second pass covered exactly p232–p251. Continue authoring from p252 only on assignment; whole book incomplete."
   },
   "source_preflight": {
     "complete": true,
     "result": "preflight-result.json",
-    "verified_at": "2026-10-20T18:05:02.893022+00:00",
+    "verified_at": "2026-10-20T18:11:19.788031+00:00",
     "date": "2026-10-20",
     "commentaries_changed": false
   },
@@ -88,33 +87,32 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p214",
-      "p214a",
-      "p215",
-      "p216",
-      "p216a",
-      "p217",
-      "p218",
-      "p219",
-      "p220",
-      "p221",
-      "p222",
-      "p223",
-      "p224",
-      "p225",
-      "p226",
-      "p227",
-      "p228",
-      "p229",
-      "p230",
-      "p231"
+      "p232",
+      "p233",
+      "p234",
+      "p235",
+      "p236",
+      "p237",
+      "p238",
+      "p239",
+      "p240",
+      "p241",
+      "p242",
+      "p243",
+      "p244",
+      "p245",
+      "p246",
+      "p247",
+      "p248",
+      "p249",
+      "p250",
+      "p251"
     ],
     "result": "review-result.json",
-    "archived_result": "review-p214-p231-result.json",
-    "technical_audit": "review-p214-p231-audit.json",
+    "archived_result": "review-p232-p251-result.json",
+    "technical_audit": "review-p232-p251-audit.json",
     "unresolved_blockers": [],
-    "whole_book_complete": false,
-    "commentary_characters": 50218
+    "whole_book_complete": false
   },
   "bounded_review_history": [
     {
@@ -495,10 +493,42 @@
       "unresolved_blockers": [],
       "whole_book_complete": false,
       "commentary_characters": 48741
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p214",
+        "p214a",
+        "p215",
+        "p216",
+        "p216a",
+        "p217",
+        "p218",
+        "p219",
+        "p220",
+        "p221",
+        "p222",
+        "p223",
+        "p224",
+        "p225",
+        "p226",
+        "p227",
+        "p228",
+        "p229",
+        "p230",
+        "p231"
+      ],
+      "result": "review-p214-p231-result.json",
+      "archived_result": "review-p214-p231-result.json",
+      "technical_audit": "review-p214-p231-audit.json",
+      "unresolved_blockers": [],
+      "whole_book_complete": false,
+      "commentary_characters": 50218
     }
   ],
   "cumulative_independently_reviewed_units": 260,
-  "remaining_existing_commentaries_for_review": 20,
+  "remaining_existing_commentaries_for_review": 0,
   "commentary_characters": 591289,
   "bounded_authoring": {
     "complete": true,
@@ -635,7 +665,7 @@
     "units_authored": 20,
     "result": "author-p232-p251-result.json",
     "audit": "author-p232-p251-audit.json",
-    "independent_second_pass_complete": false,
+    "independent_second_pass_complete": true,
     "unresolved_blockers": [],
     "whole_book_complete": false,
     "commentary_characters": 50633

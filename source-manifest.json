@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:07:42.932088+00:00",
+  "generated_at": "2026-10-20T18:14:06.521899+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -1660,6 +1660,116 @@
       "bytes": 245324
     },
     {
+      "path": "sources/review-p232-p251-XII-ZB-374-11.txt",
+      "sha256": "c1a98d18419e8087845be82b8f1a130e0803896df49bd658d5839b7081b654e1",
+      "bytes": 16452
+    },
+    {
+      "path": "sources/review-p232-p251-XII-ZB-374-11.xml",
+      "sha256": "fb65a021e61cfa3d99eda8dad7809b4c15d4e4133e3e17602235e0fb8d0a12ea",
+      "bytes": 26534
+    },
+    {
+      "path": "sources/review-p232-p251-XII-ZB-374-11.zip",
+      "sha256": "471ec2821a0073d50d9c397faf483c9c1842c7410ee7ee5bdb56157fc0f48fe8",
+      "bytes": 6767
+    },
+    {
+      "path": "sources/review-p232-p251-XII-ZB-422-15.txt",
+      "sha256": "70ced558ab676cfbff6b8a3ae52283ffb3d276d0172da096e817ab5d3f71a51e",
+      "bytes": 38815
+    },
+    {
+      "path": "sources/review-p232-p251-XII-ZB-422-15.xml",
+      "sha256": "940a0aef13952df95e6b4836d3154f08f9f6828ac9b759527e5aed5ccbf1bd18",
+      "bytes": 57797
+    },
+    {
+      "path": "sources/review-p232-p251-XII-ZB-422-15.zip",
+      "sha256": "2b112cb1908741c46b58edf796a5c67812e4d31971ae3e384bbd54c934bd56eb",
+      "bytes": 13645
+    },
+    {
+      "path": "sources/review-p232-p251-bgb.xml",
+      "sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "bytes": 2519002
+    },
+    {
+      "path": "sources/review-p232-p251-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "bytes": 467286
+    },
+    {
+      "path": "sources/review-p232-p251-bgbl-107.pdf",
+      "sha256": "1d9bc5b1d6074084c868591cfe429f3517417056a281350dc238878d48bcdcdf",
+      "bytes": 514616
+    },
+    {
+      "path": "sources/review-p232-p251-bgbl-107.txt",
+      "sha256": "99d2b1f9ed6bb87cbc5a6f518d20585c70be3053317ccd82836e1fad79048d76",
+      "bytes": 80058
+    },
+    {
+      "path": "sources/review-p232-p251-case-corpus-check.json",
+      "sha256": "f6ed661ea38eb8fc3ac1b5550769d68a79ad116e68e757adb42e974fcf92bfb9",
+      "bytes": 2874
+    },
+    {
+      "path": "sources/review-p232-p251-current-service.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p232-p251-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/review-p232-p251-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/review-p232-p251-fetch.json",
+      "sha256": "fbb7937c9661acd61968fe92d78679162b12016f8d1242d296a27b5d30681383",
+      "bytes": 6276
+    },
+    {
+      "path": "sources/review-p232-p251-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/review-p232-p251-local-KORE300192017.md",
+      "sha256": "1af89a5a1c73a5caa4b1cb7683cfc631ea938286077b7d669ed9f570e2323318",
+      "bytes": 40490
+    },
+    {
+      "path": "sources/review-p232-p251-local-KORE311122013.md",
+      "sha256": "6eb4b2be93ead0887e42e61e58479231deb948ea493e8dec0d75e577cb4dd9f7",
+      "bytes": 17694
+    },
+    {
+      "path": "sources/review-p232-p251-search-log.json",
+      "sha256": "f4a45077f76ebfe877b7576a57abac24c2054a819bf98009f0eb56e985835fbb",
+      "bytes": 1470
+    },
+    {
+      "path": "sources/review-p232-p251-version-map.json",
+      "sha256": "8f106a19132d5b08ad962fc4d476866de369c594d5eea4b109bc376d936cd18a",
+      "bytes": 35974
+    },
+    {
+      "path": "sources/review-p232-p251-zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/review-p232-p251-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
       "path": "sources/review-p31-OLG-Bamberg-3-Wx-15-24.html",
       "sha256": "63ef2c68388e4cea0f6a24e90d7f104128cd216c95b6ba1d57fcc946a862e72e",
       "bytes": 29629
@@ -2026,8 +2136,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "4834dc06865defd71a13c402271409012b0d8aa09d7e7a87e6cc6af53a19c752",
-      "bytes": 167118
+      "sha256": "41ffd0cd9dea6d161fccd6e0ebdf3dff1cfad305925b07b44be68ead8766b2b2",
+      "bytes": 173617
     }
   ]
 }

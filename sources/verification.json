@@ -3092,6 +3092,119 @@
       "local_corpus_path": "sources/author-p232-p251-local-KORE300192017.md",
       "local_corpus_sha256": "1af89a5a1c73a5caa4b1cb7683cfc631ea938286077b7d669ed9f570e2323318",
       "format_validation": "ZIP magic, CRC, one parseable XML, official case identity"
+    },
+    {
+      "purpose": "bounded second pass p232-p251",
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T18:09:20.013428+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p232-p251-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "xml_path": "sources/review-p232-p251-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP magic, CRC, one parseable XML, official statute identity",
+      "stand_notices": [
+        "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+        "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ],
+      "same_as_authoring_start_xml": true
+    },
+    {
+      "purpose": "bounded second pass p232-p251",
+      "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "accessed_at": "2026-10-20T18:09:20.414560+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p232-p251-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "xml_path": "sources/review-p232-p251-bgb.xml",
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "format_validation": "ZIP magic, CRC, one parseable XML, official statute identity",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+        "Standzuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+      ]
+    },
+    {
+      "purpose": "bounded second pass p232-p251",
+      "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "accessed_at": "2026-10-20T18:09:22.106899+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p232-p251-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "xml_path": "sources/review-p232-p251-zpo.xml",
+      "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "format_validation": "ZIP magic, CRC, one parseable XML, official statute identity",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;",
+        "Standzuletzt geändert Art. 2 G v. 22.12.2025 I Nr. 349",
+        "HinweisÄnderung durch Art. 1 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "HinweisÄnderung durch Art. 2 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "HinweisÄnderung durch Art. 3 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ]
+    },
+    {
+      "purpose": "bounded second pass p232-p251",
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T18:09:25.222767+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p232-p251-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "format_validation": "HTML signature and FamFG identity"
+    },
+    {
+      "purpose": "bounded second pass p232-p251",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE311122013.zip",
+      "accessed_at": "2026-10-20T18:10:01.663917+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p232-p251-XII-ZB-374-11.zip",
+      "sha256": "471ec2821a0073d50d9c397faf483c9c1842c7410ee7ee5bdb56157fc0f48fe8",
+      "xml_path": "sources/review-p232-p251-XII-ZB-374-11.xml",
+      "xml_sha256": "fb65a021e61cfa3d99eda8dad7809b4c15d4e4133e3e17602235e0fb8d0a12ea",
+      "format_validation": "ZIP signature,CRC,one parseable XML,official case identity",
+      "same_as_author_snapshot": true
+    },
+    {
+      "purpose": "bounded second pass p232-p251",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300192017.zip",
+      "accessed_at": "2026-10-20T18:10:01.839082+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p232-p251-XII-ZB-422-15.zip",
+      "sha256": "2b112cb1908741c46b58edf796a5c67812e4d31971ae3e384bbd54c934bd56eb",
+      "xml_path": "sources/review-p232-p251-XII-ZB-422-15.xml",
+      "xml_sha256": "940a0aef13952df95e6b4836d3154f08f9f6828ac9b759527e5aed5ccbf1bd18",
+      "format_validation": "ZIP signature,CRC,one parseable XML,official case identity",
+      "same_as_author_snapshot": true
+    },
+    {
+      "purpose": "bounded second pass p232-p251",
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T18:10:01.979300+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p232-p251-current-service.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "format_validation": "HTML structure and BGBl publication markers",
+      "same_as_same_day_preflight": true
+    },
+    {
+      "purpose": "effective-date check of FamFG250Abs1Nr12",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/107/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T18:12:41.338898+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p232-p251-bgbl-107.pdf",
+      "sha256": "1d9bc5b1d6074084c868591cfe429f3517417056a281350dc238878d48bcdcdf",
+      "format_validation": "PDF signature/trailer,pdftotext and expected amendment markers",
+      "text_path": "sources/review-p232-p251-bgbl-107.txt",
+      "text_sha256": "99d2b1f9ed6bb87cbc5a6f518d20585c70be3053317ccd82836e1fad79048d76"
     }
   ],
   "version_assessment": {

@@ -21,3 +21,8 @@ Rn. 20–22 begrenzen die Präklusion auf die Reichweite der Rechtskraft. Der BG
 Die Aussagen über die Gründe des OLG stehen in Rn. 5; sie sind nicht mit der eigenen Begründung des BGH gleichzusetzen. Der BGH erläutert in Rn. 6–11 außerdem einen Übergangsfall aus der Einführung des FamFG: Ein bloßer Kostenhilfeantrag vor September 2009 leitete das Hauptsacheverfahren dort noch nicht ein. Diese historische Übergangsfrage wird hier nicht als allgemeine heutige Rückwirkungsregel verwendet.
 
 Die Entscheidung ist kein Beleg dafür, dass § 238 Absatz 2 bei gerichtlichen Dauerleistungstiteln generell entfällt. Sie betrifft gerade einen nicht abgeänderten Vergleich nach erfolgloser Herabsetzung. Die heute herangezogenen §§ 238 und 239 wurden im aktuellen amtlichen XML erneut gelesen. Keine damaligen Unterhaltsbeträge und keine historischen Sozialleistungsbezeichnungen werden als heutige Werte übernommen. Eine erschöpfende Prüfung späterer Rechtsprechung wurde nicht durchgeführt.
+
+
+## Frische Zweitprüfung am 20. Oktober 2026
+
+Der vollständige amtliche Text wurde im unabhängigen Review genau der §§ 232–251 erneut gelesen und die Verwendung in den zugeordneten Kommentaren bestätigt. Die bezeichneten historischen und sachlichen Grenzen bleiben bestehen. [Frischer XML-Abruf](../sources/review-p232-p251-XII-ZB-374-11.xml), [lesbare Extraktion](../sources/review-p232-p251-XII-ZB-374-11.txt), [HTTP-Zeit und Hashes](../sources/review-p232-p251-fetch.json), [vollständiger Korpusvergleich](../sources/review-p232-p251-case-corpus-check.json). Keine neue Unterinstanzentscheidung und keine bloß referierte Parteibehauptung wurde als eigener BGH-Befund übernommen; keine erschöpfende Prüfung späterer Rezeption.

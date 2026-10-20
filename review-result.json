@@ -1,231 +1,198 @@
 {
   "kind": "review",
   "complete": true,
+  "stage": "bounded_second_pass_complete",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p214",
-    "p214a",
-    "p215",
-    "p216",
-    "p216a",
-    "p217",
-    "p218",
-    "p219",
-    "p220",
-    "p221",
-    "p222",
-    "p223",
-    "p224",
-    "p225",
-    "p226",
-    "p227",
-    "p228",
-    "p229",
-    "p230",
-    "p231"
+    "p232",
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p238",
+    "p239",
+    "p240",
+    "p241",
+    "p242",
+    "p243",
+    "p244",
+    "p245",
+    "p246",
+    "p247",
+    "p248",
+    "p249",
+    "p250",
+    "p251"
   ],
-  "baseline_commit": "2ddff02860795e70713cba68c6a8ca9850867471",
+  "max_units": 20,
+  "baseline_commit": "31ded7d65d16988956d8809e4f7f61fc1c3bff2e",
   "decisive_date": "2026-10-19",
-  "review_date": "2026-10-20",
-  "verified_at": "2026-10-20T17:54:02.677276+00:00",
-  "scope": "Exactly assigned20units; fresh second pass relative to prior authoring. No whole-title certification or external professional approval.",
-  "unresolved_blockers": [],
+  "reviewed_at": "2026-10-20T18:12:48.759032+00:00",
+  "source_verification": "sources/review-p232-p251-fetch.json",
+  "version_evidence": "sources/review-p232-p251-version-map.json",
+  "parser_replay": "review-p232-p251-parser-replay.json",
   "findings": [
     {
-      "id": "p214",
-      "disposition": "retained",
-      "review": "Beide Absätze vollständig geprüft. Antrag, Regelvermutung der Dringlichkeit und materielle Schutzvoraussetzungen getrennt; neuer Zustellungsweg seit10.07.2026 entspricht Art.4Nr.8/10Abs.1Nr.2BGBl198. Auftragsfiktion nur ohne mündliche Erörterung, Vollstreckung vor Zustellung nur nach gesonderter Zulassung. Fiktiver Angriff mit Nachricht stützt Eilfall; kein2027Instrument vorgezogen.",
-      "sources": "FamFG214,51,53,54,57;GewSchG1/2;BGBl2026I198Art4Nr8/Art10"
-    },
-    {
-      "id": "p214a",
+      "id": "p232",
       "disposition": "clarified",
-      "review": "Beide Sätze geprüft. Gerichtliche Bestätigung bei erfüllten Voraussetzungen ausdrücklich als Pflicht ergänzt. Teilbestätigung/soweit, Grenze zu2GewSchG, Unanfechtbarkeit nur des Bestätigungsakts und strafrechtliche Bestimmtheitsanforderung zutreffend. Fahrradabrede bleibt unbestätigt.",
-      "sources": "FamFG214a,216a;GewSchG1,2,4"
+      "finding": "Alle drei Absätze und die fünf Nummern gelesen. Konzentration beim erstinstanzlichen Ehegericht einschließlich ist/war, Ausnahme vereinfachtes Verfahren, privilegiertes Volljährigenkind und Auslandsgrenze stimmen. Missverständlichen Begriff Elternunterhalt durch Anspruch eines Elternteils gegen den anderen ersetzt; erstinstanzliche Anhängigkeit und gewöhnlichen Aufenthalt für die Wahlgerichtsstände ergänzt. Beispiel und Abgrenzung zum Verbund tragen.",
+      "sources_read": "FamFG232,137;BGB1603Abs2S2,1615l",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p215",
-      "disposition": "retained",
-      "review": "Vollständigen Satz und2GewSchG gelesen. Sollanordnung zur Durchführung nur Endentscheidung nach2GewSchG; konkret notwendige Schlüssel/Räumung/Abholung, kein Eigentums- oder Mietvertragswechsel kraft dieser Norm. Befristung nur nach materiellen Voraussetzungen. Beispiel mit begrenzter Abholung trägt Schutzkonzept.",
-      "sources": "FamFG215,214,216,216a;GewSchG2"
-    },
-    {
-      "id": "p216",
-      "disposition": "retained",
-      "review": "Beide Absätze einschließlich Zeitvermerk geprüft. Rechtskraftgrundsatz, Sollsofortwirkung und gesondertes Kann der Vollstreckung vor Zustellung auseinandergehalten. Nur kombinierter Fall verlagert auf Übergabe an Geschäftsstelle. Endentscheidung und einstweilige Anordnung getrennt; Beispiel bezeichnet alle Anordnungen ausdrücklich.",
-      "sources": "FamFG216,53Abs2,214Abs2"
-    },
-    {
-      "id": "p216a",
-      "disposition": "retained",
-      "review": "Alle drei Sätze gelesen. Unverzügliche Mitteilung einschließlich Änderung/Aufhebung, tatsächlicher Durchführungsbezug, gegenläufige Schutzinteressen, Sollunterrichtung und bestätigter Vergleich zutreffend. Geschützte Anschrift als Abwägungsbeispiel und Prüfliste mit korrekter2027Abgrenzung.",
-      "sources": "FamFG216a,214a;GewSchG1/2;BGBl2026I198Art10"
-    },
-    {
-      "id": "p217",
-      "disposition": "retained",
-      "review": "Vollständige Definition geprüft. Weiter sachlicher Begriff umfasst selbständige und Verbundverfahren ohne materiellen Anspruch zu fingieren.112/113ausgespart; Anträge nach223und225/226bleiben erforderlich. Streit mit Arbeitgeber nicht automatisch Familienverfahren. Beispiel schuldrechtlicher Rente korrekt.",
-      "sources": "FamFG217,112,113,137,218–226;VersAusglG20–26"
-    },
-    {
-      "id": "p218",
-      "disposition": "retained",
-      "review": "Alle fünf ausschließlichen Rangstufen geprüft. Anhängigkeit samt Rechtsmittel und erstinstanzlichem Gericht/war, gemeinsamer oder letzter Aufenthalt mit Fortbestand, Gegner/Antragsteller/Sitz, Schöneberg und internationale Zuständigkeit getrennt. Beispiel nach rechtskräftiger Scheidung nutztNr2statt unbegrenzterNr1.",
-      "sources": "FamFG218"
-    },
-    {
-      "id": "p219",
+      "id": "p233",
       "disposition": "clarified",
-      "review": "Alle vier Beteiligungsgruppen und Bedeutung des Todes geprüft. Ausgangs-/Zielträger und Erben/Hinterbliebene als Verfahrensstellung nicht materielles Eigenrecht. Mit BGH214/16Rn16–17ergänzt: bloße Benennung und Zustellung der Endentscheidung genügen der vorherigen Beteiligung nicht. Beispiel tatsächlicher Trägerzustimmung passend.",
-      "sources": "FamFG219,220,222,226Abs5;VersAusglG31;BGHXIIZB214/16Rn16–17"
+      "finding": "Vollständigen Wortlaut und den begrenzten ZPO-Verweis geprüft. Rechtshängigkeit der Ehesache, erstinstanzliche Anhängigkeit und Abgabe von Amts wegen zutreffend. Anspruchsgruppe nach1305Abs1 nun positiv als Schutz bei bestimmten unwirksamen Auslandsehen bezeichnet. Keine Mehrkostenregel aus281Abs3S2 übernommen; kein automatischer Verbund.",
+      "sources_read": "FamFG233,231Abs1Nr3a,232Abs1Nr1;BGB1305Abs1;ZPO281Abs2/3S1",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p220",
+      "id": "p234",
+      "disposition": "retained",
+      "finding": "Einzigen Satz mit Beistandschaftsregeln gelesen. Ausschluss konkurrierender Vertretung bei tatsächlicher Vertretung durch Jugendamt, keine allgemeine Sorgeentziehung; begrenzter Aufgabenkreis und Ausnahme vom Anwaltszwang zutreffend. Beispiel mit Verfügung der Mutter verdeutlicht Vertretungsproblem ohne Anspruchsübergang zu erfinden.",
+      "sources_read": "FamFG234,114Abs4Nr2;BGB1712,1716",
+      "material_blocker_remaining": false
+    },
+    {
+      "id": "p235",
+      "disposition": "retained",
+      "finding": "Alle vier Absätze mit sämtlichen Sätzen geprüft. Relevanzbegrenzung, persönliche schriftliche Versicherung ohne eidesstattlichen Charakter, Sollfrist und Pflichthinweise getrennt. Antragspflicht nur mit vorgerichtlicher bestehender Auskunftspflicht; Aktualisierung nur wesentlicher angeordneter Umstände. Kein Zwangsmittel und keine selbständige Anfechtung; Drittanfrage und Kostenfolge richtig.",
+      "sources_read": "FamFG235,236,243S2Nr3",
+      "material_blocker_remaining": false
+    },
+    {
+      "id": "p236",
+      "disposition": "retained",
+      "finding": "Alle fünf Absätze und fünf Adressatengruppen gelesen. Vorherige gerichtliche Anordnung/Fristablauf und Einkommensgegenstand begrenzen subsidiäre Drittanfrage. Pflicht auf Antrag, Mitteilung, Auskunftspflicht sowie Behördenausnahme bei390ZPO stimmen. Beteiligtenanfechtungsausschluss wird nicht pauschal auf Dritte übertragen. Beispiel betrifft konkrete fehlende Lohnbelege.",
+      "sources_read": "FamFG236,235;ZPO390",
+      "material_blocker_remaining": false
+    },
+    {
+      "id": "p237",
+      "disposition": "retained",
+      "finding": "Alle vier Absätze geprüft. Minderjährigkeit und anhängige Vaterschaftsfeststellung, erstinstanzliche ausschließliche Zuständigkeit, Mindestunterhaltsrahmen mit geringerem Kindesbegehren und Statuswirksamkeit zutreffend. Der Fall verwechselt die Hauptsache nicht mit vorläufiger Zahlung nach248.",
+      "sources_read": "FamFG237,240,248;BGB1592,1593,1600d,1612a–c",
+      "material_blocker_remaining": false
+    },
+    {
+      "id": "p238",
+      "disposition": "retained",
+      "finding": "Alle vier Absätze gelesen; Tatsachenvortrag für Zulässigkeit von Sachprüfung getrennt. Später entstandene Gründe und Einspruchsgrenze, Erhöhung versus Herabsetzung, Folgemonat und Jahresgrenze sowie Wahrung der Grundlagen stimmen. BGH374/11Rn14–22 vollständig im Kontext geprüft: kein allgemeiner Verzicht auf Präklusion. Erkrankungsbeispiel setzt spätere wesentliche Änderung voraus.",
+      "sources_read": "FamFG238,239,240;BGH29.05.2013XII ZB374/11Rn14–22",
+      "material_blocker_remaining": false
+    },
+    {
+      "id": "p239",
       "disposition": "clarified",
-      "review": "Alle fünf Absätze gelesen. Ersuchen auch an sonstige auskunftsfähige Stellen, keine automatische Beteiligung; Formularpflicht sprachlich präzisiert, Ausnahme nur automatisierte Trägerauskunft. Erforderliche Mitwirkung, Werte/Berechnung/Teilungsordnung und Erläuterung sowie Befolgungspflicht erfasst. Beispiel unzureichender automatisierter Zahl zutreffend.",
-      "sources": "FamFG220,219,229;VersAusglG5"
+      "finding": "Beide Absätze mit794Abs1Nr1ZPO und313BGB gelesen. Titelkreis ausdrücklich um dort erfasste Gütestellenvergleiche verdeutlicht; reine private Abrede ohne Titel abgegrenzt. Beiderseitige Vereinbarung, einseitige Urkunde und Bindung des Anerkenntnisses richtig getrennt. Beide BGH-Volltexte tragen die genaue Verwendung; frühere erfolglose Herabsetzung wird nicht als universelle Sperre für Erhöhung behandelt.",
+      "sources_read": "FamFG239,238;ZPO794Abs1Nr1;BGB313;BGH374/11Rn15–22;BGH422/15Rn22–32",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p221",
+      "id": "p240",
       "disposition": "retained",
-      "review": "Alle drei Absätze geprüft. Solltermin, zwingende Aussetzung bei anhängigem vorgreiflichem Rechtsstreit und Kann-Aussetzung/Klagefrist vorher getrennt. Nichtberücksichtigung bei versäumter Klage nur möglich und gegenständlich begrenzt. Beispiel arbeitsgerichtlicher Versorgungszusage betrifftBestand, bloßeTeilungsmethode nicht.",
-      "sources": "FamFG221"
+      "finding": "Beide Absätze einschließlich vier Sätze desAbs2 geprüft. Sondertitel237/253 und Sperre bei bereits beantragtem streitigen Verfahren255 zutreffend. Monatsfrist begrenzt rückwirkende Herabsetzung, nicht jede spätere Anpassung; Erhöhungsantrag, Folgemonat nach Verlangen und Jahresgrenze getrennt. Beispiel nach drei Monaten behauptet keine Gesamtunzulässigkeit.",
+      "sources_read": "FamFG240,237,253,255,238Abs3S4",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p222",
+      "id": "p241",
+      "disposition": "retained",
+      "finding": "Einzigen Satz mit818Abs3/4 und819BGB gelesen. Nur Rechtshängigkeitsgleichstellung für verschärfte bereicherungsrechtliche Haftung; weder Rückzahlungsanspruch noch Titel kraft Norm. Eingang, vorgerichtliches Verlangen und Zustellung getrennt; keine rückwirkende Kenntnisfiktion. Beispiel hängt ausdrücklich von erfolgreicher zeitlich passender Herabsetzung ab.",
+      "sources_read": "FamFG241;BGB818Abs3/4,819",
+      "material_blocker_remaining": false
+    },
+    {
+      "id": "p242",
       "disposition": "clarified",
-      "review": "Alle vier Absätze samt VersAusglG-Verweisen geprüft. Vereinbarung/einseitiges Trägerverlangen nach14Abs2und auf betriebliche/private Anrechte begrenztes Verlangen nach19Abs2Nr5präzisiert. Gesetzliche Zielauffangsysteme ausdrücklich benannt. BGH214/16Rn10–14vollständig geprüft und Fristverkürzung durch voreilige Entscheidung erläutert, ohne nachträgliches unbefristetes Wahlrecht zu behaupten. Zustimmung, bezifferter Kapitalbetrag und16Ausnahme erhalten.",
-      "sources": "FamFG222,219;VersAusglG14–16,19Abs2Nr5;BGHXIIZB214/16Rn10–17"
+      "finding": "Beide Sätze und769ZPO vollständig gelesen. Früher Zugang bei Anhängigkeit oder Kostenhilfe, gesonderter Schutzantrag, Glaubhaftmachung, Dringlichkeitskompetenz und Unanfechtbarkeit zutreffend. Zwingende Ausnahme von der Sicherheitsleistung aus769Abs1S2 ergänzt: Zahlungsunfähigkeit bezüglich Sicherheit und hinreichende Erfolgsaussicht müssen kumulativ vorliegen. Beispiel ersetzt Schutzbeschluss nicht durch Eingangsbestätigung.",
+      "sources_read": "FamFG242,241;ZPO769Abs1–4",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p223",
+      "id": "p243",
       "disposition": "retained",
-      "review": "Gesamte Antragssperre für20–26geprüft. Rente, Abtretung, Kapitalzahlung, Abfindung/Hinterbliebene erfasst; bloße frühere Benennung kein Antrag. Verbund ohne Antrag im gesetzlichen Umfang und spätere Fälligkeit auseinandergehalten. Beispiel später begonnener Betriebsrente enthält keine automatische Zahlungspflicht.",
-      "sources": "FamFG223,224Abs4,137;VersAusglG20–26,31"
+      "finding": "Beide Eingangssätze und alle vier Kostenkriterien geprüft.231Abs2-Ausnahme und Scheidungsverbund berücksichtigt. Dauer/Erfolg, bestehende vorgerichtliche Auskunftspflicht, fristwidrige gerichtliche Auskunft und sofortiges Anerkenntnis werden konkret gewürdigt. Kein automatischer Kostenstrafmechanismus. Fiktiver Teilerfolg mit zuvor verweigerter Auskunft rechtfertigt Gesamtwürdigung.",
+      "sources_read": "FamFG243,231Abs2,235Abs1,150;ZPO93",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p224",
+      "id": "p244",
       "disposition": "retained",
-      "review": "Alle vier Absätze und jede materielle Verweisung geprüft. Rechtskraftwirkung, eigene Begründung, Tenorfeststellung nur für bezeichnete Nichtausgleichsfälle und verbleibende Anrechte nur Gründe getrennt. Kurze Ehe/Vereinbarung/Geringfügigkeit/Unbilligkeit vollständig. Beispiel vermeidet pauschalen Ausschlusstenor für nichtausgleichsreifes Anrecht.",
-      "sources": "FamFG224,220,223;VersAusglG3Abs3,6,18,27,19"
+      "finding": "Vollständigen Satz und BGH422/15 im Zusammenhang gelesen. Bestehender dynamischer Titel entfällt nicht durch Geburtstag; materielle Anspruchshöhe, tatsächliche Befristung und Abänderung bleiben getrennt. Beweislast des volljährigen Kindes für erstmals relevante Quoten und fortwirkende Grundlagen korrekt eingegrenzt; kein pauschaler Halbierungsautomatismus.",
+      "sources_read": "FamFG244,238,239,242;BGB1612a,1606;BGH422/15Rn30–42",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p225",
+      "id": "p245",
       "disposition": "retained",
-      "review": "Alle fünf Absätze sowie32/51/52VersAusglG geprüft. Anrechtsbezogene Änderung versus altrechtliche Revision, echter Änderungsgrund versus Ausgangsfehler, beide kumulativen Schwellen, Wartezeitalternative und Begünstigung richtig. Beide zitierten BGH-Beschlüsse komplett erneut gelesen. Rechenbeispiel30/31Euro prüft zutreffend Überschreiten statt Erreichen der absoluten Grenze; fiktive Werte keine aktuelle Bezugsgrößentabelle.",
-      "sources": "FamFG225,226;VersAusglG32,51,52;BGHXIIZB564/12Rn10–21;350/15Rn15–18"
+      "finding": "Alle drei Absätze geprüft. Bezifferung nur dynamischer1612aTitel für Auslandszwangsvollstreckung auf Antrag, rechnerische Titelbindung, ausfertigungszuständige Stelle und Klauselrechtsbehelf zutreffend. Beispiel mit Altersstufenwechsel hält materielle Änderung und ausländische Anerkennung getrennt. Thematische Prüfliste mit vorherigen Einheiten abgeglichen.",
+      "sources_read": "FamFG245;BGB1612a–c",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p226",
+      "id": "p246",
       "disposition": "retained",
-      "review": "Alle fünf Absätze gelesen. Antragsberechtigte einschließlich betroffener Träger, keine automatische Erbenbefugnis; geltende zwölf Monate vom historischen Sechsmonatstext getrennt.27VersAusglGund ersterTagFolgemonat, spätere materielleÄnderung nicht vorgezogen. Todesfall Antragsteller/Hinweis/Monatsfrist/Erledigung versus andererEhegatte/Erben vollständig. BeispielFebruar/März/November plausibel.",
-      "sources": "FamFG226,219,224,225;VersAusglG27,31;BGHXIIZB350/15Rn14nurhistorisch"
+      "finding": "Beide Absätze mit allgemeinen Eilnormen gelesen. Abweichung vom allgemeinen Dringlichkeitserfordernis zutreffend, materieller Anspruch und Glaubhaftmachung bleiben erforderlich. Vorschussanspruch wird nicht durch Verfahrensnorm erfunden. Verhandlung bei gebotener Aufklärung/gütlicher Beilegung, Vertretungsausnahme und fehlende allgemeine Beschwerdeausnahme für Unterhalt korrekt.",
+      "sources_read": "FamFG246,49,51,54,57,114Abs4Nr1,248",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p227",
-      "disposition": "retained",
-      "review": "Beide Absätze und48Abs1gelesen. Dauerwirkungsentscheidung über spätere Ansprüche und Vereinbarung ohne Änderungsausschluss getrennt. Keine automatische225Wertgrenzenübertragung aufschuldrechtlicheRente; keinfreierWiderrufVertrag. Fiktiver laufenderRententitel trägt48Prüfung.",
-      "sources": "FamFG227,48Abs1,223,225,226;VersAusglG20–26"
-    },
-    {
-      "id": "p228",
-      "disposition": "retained",
-      "review": "Vollständigen Satz samt59/61/63/64und493Abs6geprüft. Wertgrenze entfällt nurSachangriff, Kostenanfechtung bleibt61unterworfen. Form/Frist/eigeneRechte/Rechtsbeschwerde nichtbeseitigt. Übergangsverweisung zutreffend; BeispielwirtschaftlichkleineTrägerbeschwerde behauptet keineallgemeineBeschwerdebefugnis.",
-      "sources": "FamFG228,59,61,63,64,493Abs6"
-    },
-    {
-      "id": "p229",
+      "id": "p247",
       "disposition": "clarified",
-      "review": "Alle fünf Absätze und alle drei technischen Anforderungen geprüft. Beiderseitige Teilnahme und Dritte, Authentizität/Integrität/Verschlüsselung, Ersuchen/Auskünfte/Erklärungen, Zustellung und automatischeEingangsbestätigung mit Zeitpunkterfasst. UnklarenSatz zuErklärungen ersetzt: Träger übermitteltseine eigenen, persönlicheWahlrechte werdennicht aufihn verlagert. BeispielMontag/Mittwoch zutreffend.",
-      "sources": "FamFG229,219Nr2/3,220,222Abs1"
+      "finding": "Beide Absätze und1600dAbs2/3 sowie1615lBGB gelesen. Kindesunterhalt erste drei Monate von eigenem Mutteranspruch getrennt. Den genauen Zeitraum des1615lAbs1 mit sechs Wochen vor/acht Wochen nach Geburt und außerhalb anfallenden Schwangerschafts-/Entbindungskosten ergänzt. Vermutungsgrenzen, Antragsbefugnis und Hinterlegung richtig, kein endgültiger Statusausspruch.",
+      "sources_read": "FamFG247;BGB1600dAbs2/3,1615lAbs1/2",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p230",
+      "id": "p248",
       "disposition": "retained",
-      "review": "Amtlich weggefalleneEinheit alsvollständigerSlot geprüft. Keinoperativer Inhalt, keineerfundene Rechtsfolge; alteVerweise bedürfenhistorischerZuordnung. FiktiveCheckliste undversorgungsausgleichsbezogenePrüfliste sachlichpassend; keinehistorische Regelungalsgeltendbehandelt.",
-      "sources": "FamFG230;amtlichesXML/TitelundTOC"
+      "finding": "Alle fünf Absätze gelesen. Anhängige Vaterschaftsfeststellung bei fehlender rechtlicher Vaterschaft, Wechsel zum Beschwerdegericht, Vermutung/Empfängniszeit, Sicherheit und Außerkrafttreten zutreffend. Keine Minderjährigkeits-/Mindestunterhaltsbegrenzung aus237 übertragen. Vollziehungsbezogene Ersatzpflicht ohne im Text genanntes Verschulden vorsichtig erklärt; Beispiel und Prüfliste passen.",
+      "sources_read": "FamFG248,237,247;BGB1592,1593,1600dAbs2/3,1615l",
+      "material_blocker_remaining": false
     },
     {
-      "id": "p231",
+      "id": "p249",
+      "disposition": "retained",
+      "finding": "Beide Absätze geprüft. Minderjährigkeit, getrennter Haushalt und120Prozent-Grenze vor kindbezogenen Leistungen eigenständig. Zustellungszeitpunkt für Titel-/Entscheidungs-/Verfahrenssperre korrekt; materieller Mehranspruch nicht verneint. Beispiel mit Jugendamtstitel vor Zustellung wahrt Anspruchsgegenstandsprüfung und Änderungsweg.",
+      "sources_read": "FamFG249,238–240;BGB1612a–c",
+      "material_blocker_remaining": false
+    },
+    {
+      "id": "p250",
+      "disposition": "retained",
+      "finding": "Alle13Antragsangaben und beide weiteren Absätze gelesen. Identität, Beginn/Rückstandsgrund, dynamischer Betrag, Leistungen/Einkommen, rechtliche Elternschaft, Haushalt, Anspruchsübergang und Zeitraumserklärungen vollständig thematisch behandelt. Formularpflicht259, Anhörung vor unanfechtbarer Zurückweisung und Pflichtverbindung anderer Kinder bei demselben Gericht stimmen. Unterhaltsvorschussbeispiel verlangt Aufklärung statt materieller Doppelzuerkennung. Grundsicherungsgeld in Nr12 anhand BGBl2026I107Art11Abs7/12Abs1 seit01.07.2026 verifiziert.",
+      "sources_read": "FamFG250,249,259;BGB1591–1593,1613",
+      "material_blocker_remaining": false
+    },
+    {
+      "id": "p251",
       "disposition": "clarified",
-      "review": "Beide Absätze, dreiNummern unda/bUntergliederung gelesen. Verwandtschaft/Ehe und1305/1615l/mrichtigklassifiziert.1305Abs1/4zuLebenslage,beideunter16undsonstigerUnwirksamkeitpräzisiert. BKGG3/EStG64BestimmungvomöffentlichenLeistungsanspruchgetrennt;235–245ausgeschlossen.112ordnetnurAbs1alsFamilienstreitsacheein. BeispieleBetreuungsunterhalt/Kindergeldzutreffend.",
-      "sources": "FamFG231,112,113;BGB1305,1615l/m;BKGG3;EStG64"
+      "finding": "Beide Absätze, vier Hinweisgruppen und Unterbuchstaben geprüft. Vorläufiges Prüfprogramm, Alterszeiträume/Prozentsatz/Leistungen und ungeprüftes Kindeseinkommen korrekt. Anforderungen des252Abs4 um Vermögensauskunft,12Monatsbelege, aktuellen Leistungsbescheid und besondere Selbständigenbelege konkretisiert. Bereitschafts-/Verpflichtungserklärung252Abs2, Monatsfrist, spätere Einwendungen bis Erlass, Auslandsfrist und167ZPO getrennt. Beispiel genügt für Warnung vor formaler Einwendungslücke.",
+      "sources_read": "FamFG251,252Abs1–5;ZPO167",
+      "material_blocker_remaining": false
     }
   ],
+  "unresolved_blockers": [],
+  "changed_ids": [
+    "p232",
+    "p233",
+    "p239",
+    "p242",
+    "p247",
+    "p251"
+  ],
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-374-11.md",
+    "cases/BGH-XII-ZB-422-15.md"
+  ],
+  "case_full_text_recheck": "sources/review-p232-p251-case-corpus-check.json",
   "limitations": [
-    "Whole title remains incomplete:269units from232not commented; no global completion.",
-    "This process reviewed exactly20assignedcommentaries; all other substantive commentary preserved.",
-    "Case-law research selective:two existing full decisions re-read and one additional full decision added; no sufficiently relevant additional verified case selected for16otherunits.",
-    "No exhaustive later-case-law or complete historical-amendment reconstruction.",
-    "Auxiliary provisions checked within documented scope; no state-specific implementation research.",
-    "Technical equality,length and repetition screening do not establish legal quality."
+    "Exactly p232–p251 independently reviewed in this process; earlier ledger-reviewed units preserved and not re-reviewed.",
+    "Whole book remains incomplete: 280 of 529 units commented; 249 units from p252 outside this assignment remain unannotated.",
+    "Selective primary case research and limited amendment screening, no exhaustive subsequent-case or historical-law reconstruction.",
+    "No external professional approval; technical checks do not establish legal quality."
   ],
-  "whole_book_complete": false,
-  "source_preflight": "preflight-result.json",
-  "version_evidence": "sources/review-p214-p231-version-map.json",
-  "case_evidence": "sources/review-p214-p231-case-corpus-check.json",
-  "search_log": "sources/review-p214-p231-search-log.json",
-  "case_cards": [
-    "cases/BGH-XII-ZB-564-12.md",
-    "cases/BGH-XII-ZB-350-15.md",
-    "cases/BGH-XII-ZB-214-16.md"
-  ],
-  "completed_at": "2026-10-20T17:56:15.109594+00:00",
-  "validation": {
-    "assigned_batch_ok": true,
-    "reviewed_ids_exact": true,
-    "changed_ids": [
-      "p214a",
-      "p219",
-      "p220",
-      "p222",
-      "p229",
-      "p231"
-    ],
-    "unchanged_after_full_review": [
-      "p214",
-      "p215",
-      "p216",
-      "p216a",
-      "p217",
-      "p218",
-      "p221",
-      "p223",
-      "p224",
-      "p225",
-      "p226",
-      "p227",
-      "p228",
-      "p230"
-    ],
-    "unassigned_commentary_changes": [],
-    "expected_official_units": 529,
-    "parsed_units": 529,
-    "statutory_agreement": 1.0,
-    "parser_replay_byte_identical": true,
-    "exported_assigned_count": 20,
-    "exported_assigned_statutory_text_agrees": true,
-    "full_builder_exit_code": 1,
-    "strict_validator": {
-      "repo": "Komentar-DE-FAMFG-2008",
-      "units": 529,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 540656,
-      "errors": [
-        "krátký/chybějící komentář u 269 jednotek: ['p232(0<400)', 'p233(0<400)', 'p234(0<120)', 'p235(0<400)', 'p236(0<400)', 'p237(0<400)', 'p238(0<400)', 'p239(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "strict_exit_code": 1,
-    "reason_for_global_failure": "269 unannotated units fromp232outside this bounded review",
-    "partial_output_rebuilt": true,
-    "local_links_checked": 682,
-    "broken_local_links": [],
-    "repeated_substantive_paragraphs": [],
-    "near_repeated_commentary": [],
-    "captured_body_hash_mismatches": [],
-    "validated_at": "2026-10-20T17:56:15.109594+00:00",
-    "whole_book_complete": false
-  }
+  "whole_book_complete": false
 }
