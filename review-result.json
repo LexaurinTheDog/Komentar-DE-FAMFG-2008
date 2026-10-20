@@ -177,6 +177,16 @@
     "full_statutory_completeness": "529/529 identifiers; 599 XML norms accounted for; no missing, extra, duplicate or text mismatch",
     "links_and_repetition": "technical-audit.json: 122 checked local links, zero broken; no repeated substantive paragraphs or near-repeat pairs over configured threshold",
     "full_builder": "build-result.json: invoked unchanged, rejects only 336 unannotated units outside scope",
-    "strict_validation": "Run against the full book; see validation.json. No whole-book pass claimed."
+    "strict_validation": {
+      "file": "validation.json",
+      "exit_code": 1,
+      "verbatim_ratio": 1.0,
+      "errors_only_outside_assigned_scope": true,
+      "unannotated_outside_scope": 336
+    }
+  },
+  "checkpoint_commits": {
+    "work": "900afb5",
+    "output": "d71ea1e"
   }
 }

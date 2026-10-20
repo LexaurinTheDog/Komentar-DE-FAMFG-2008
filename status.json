@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T15:27:11.831408+00:00",
+  "updated_at": "2026-10-20T15:27:45.882745+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -14,14 +14,24 @@
     "cases/OLG-Bamberg-3-Wx-15-24.md"
   ],
   "validation": {
-    "strict_validator": "Full strict validation to be refreshed after commit; previous result retained in output history.",
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 214881,
+      "errors": [
+        "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
     "exit_code": 1,
     "full_build_exit_code": 1,
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "validated_at": null,
-    "expected_intermediate_failure": "Only the 336 unannotated units outside this completed 20-unit independent review; full statutory text agreement and completeness pass."
+    "validated_at": "2026-10-20T15:27:45.882745+00:00",
+    "expected_intermediate_failure": "Only 336 unannotated units outside the completed p19–p36a review; all 20 assigned units present, full statutory text agreement and completeness pass."
   },
   "remaining_limitations": [
     "336 statutory units from § 169 onward still lack original commentary.",
