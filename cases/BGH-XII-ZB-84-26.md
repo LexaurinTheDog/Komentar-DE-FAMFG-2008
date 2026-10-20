@@ -19,3 +19,8 @@ Rn. 15–17: Im konkreten Vortrag war ein solches aktuelles Wechselmodell gerade
 ## Anwendungsgrenzen
 
 Die Angabe von 65 zu 35 Prozent gibt den vom BGH ausgelegten Parteivortrag wieder. Sie ist keine allgemeine mathematische Schwelle für die Einordnung sämtlicher Betreuungsmodelle. Die Entscheidung löst weder den materiellen Unterhaltsanspruch umfassend noch die verfahrensrechtliche Vertretung aller Wechselmodellfälle. Auf die im Volltext genannten weiteren Entscheidungen wird nicht als unabhängig geprüfte Autorität zurückgegriffen. §§ 249–253 und 256 sowie § 117 wurden in der geltenden amtlichen Fassung gelesen. Selektive, keine erschöpfende Rechtsprechungsauswertung.
+
+
+## Begrenzte Zweitprüfung vom 20. Oktober 2026
+
+Der amtliche Volltext wurde in einem frischen Prüfprozess vollständig erneut gelesen. [Frische XML](../sources/review-p252-p271-XII-ZB-84-26.xml), [Abrufbelege](../sources/review-p252-p271-fetch.json) und [Vergleich mit dem nationalen Korpus](../sources/review-p252-p271-case-corpus-check.json). Aussagen, Randnummern und die oben bezeichneten historischen und sachlichen Grenzen sind gegen den Volltext geprüft. Diese Kontrolle gilt der Verwendung in §§ 252–271; keine erschöpfende nachfolgende Rechtsprechungsrecherche.

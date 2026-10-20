@@ -21,3 +21,8 @@ Rn. 14: Die Ausschlussklausel ist grundsätzlich abschließend und eng auszulege
 Rn. 15–16 lassen ausdrücklich offen, ob die aktuelle Verweisung auf § 348 Absatz 1 Satz 2 Nummer 2 ZPO auch die dort einbezogene, seit 2021 erweiterte besondere Kammerzuständigkeit für Insolvenz- und Anfechtungssachen erfasst. Der BGH musste dies wegen des 2019 begonnenen Verfahrens und der einschlägigen Übergangsregel nicht entscheiden. Die Einordnung gerade dieser Anfechtungssache darf deshalb nicht unverändert auf jede 2026 neu eingeleitete Sache übertragen werden. Im Kommentar wird der Beschluss für die allgemeinen Zuordnungsmaßstäbe verwendet und die aktuelle Ausnahmefrage ausdrücklich offengelassen.
 
 Die heutigen Verweisungsnormen wurden in FamFG und ZPO amtlich gelesen. Eine vollständige Untersuchung aller Folgeentscheidungen und der gesamten historischen Fassung des Gerichtsverfassungsrechts wurde nicht durchgeführt. Die im Beschluss angeführten weiteren Entscheidungen und Literaturstellen werden nicht als zusätzlich selbständig verifizierte Quellen übernommen.
+
+
+## Begrenzte Zweitprüfung vom 20. Oktober 2026
+
+Der amtliche Volltext wurde in einem frischen Prüfprozess vollständig erneut gelesen. [Frische XML](../sources/review-p252-p271-XII-ZB-25-24.xml), [Abrufbelege](../sources/review-p252-p271-fetch.json) und [Vergleich mit dem nationalen Korpus](../sources/review-p252-p271-case-corpus-check.json). Aussagen, Randnummern und die oben bezeichneten historischen und sachlichen Grenzen sind gegen den Volltext geprüft. Diese Kontrolle gilt der Verwendung in §§ 252–271; keine erschöpfende nachfolgende Rechtsprechungsrecherche.

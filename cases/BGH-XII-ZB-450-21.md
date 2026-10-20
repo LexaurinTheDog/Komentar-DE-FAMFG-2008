@@ -21,3 +21,8 @@ Rn. 22–42: Eine allein wegen verspäteter Einwendungen unzulässige Beschwerde
 Die Gründe des Beschwerdegerichts stehen in Rn. 10–11; der BGH bestätigt sie erst ab Rn. 12. Die in Rn. 24 referierte Gegenauffassung ist keine Position des Senats. Die ältere Entscheidung von 2008 betraf eine andere Ausgangslage und wird nicht als zusätzlich selbständig verifizierte Autorität übernommen. Rn. 40 hält ausdrücklich fest, dass eine ausreichende Reaktionszeit gewahrt war und unverschuldetes Versäumen nicht geltend gemacht wurde. Keine Aussage über alle denkbaren Zustellungs-, Belehrungs- oder Wiedereinsetzungsfälle wird daraus abgeleitet.
 
 Die verwendeten heutigen §§ 38, 113, 117, 240, 252, 253 und 256 wurden im aktuellen FamFG-XML gelesen; die Erlass- und Einwendungssystematik besteht fort. Keine erschöpfende Untersuchung späterer Rechtsprechung. Selektive zusätzliche Bestätigung der Beschwerdegrenzen durch den vollständig gelesenen Beschluss [XII ZB 84/26](BGH-XII-ZB-84-26.md).
+
+
+## Begrenzte Zweitprüfung vom 20. Oktober 2026
+
+Der amtliche Volltext wurde in einem frischen Prüfprozess vollständig erneut gelesen. [Frische XML](../sources/review-p252-p271-XII-ZB-450-21.xml), [Abrufbelege](../sources/review-p252-p271-fetch.json) und [Vergleich mit dem nationalen Korpus](../sources/review-p252-p271-case-corpus-check.json). Aussagen, Randnummern und die oben bezeichneten historischen und sachlichen Grenzen sind gegen den Volltext geprüft. Diese Kontrolle gilt der Verwendung in §§ 252–271; keine erschöpfende nachfolgende Rechtsprechungsrecherche.

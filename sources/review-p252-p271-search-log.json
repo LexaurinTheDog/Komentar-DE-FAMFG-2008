@@ -1,0 +1,77 @@
+{
+  "verified_at": "2026-10-20T18:33:03.518003+00:00",
+  "scope": "selective primary-authority research for exactly p252–p271",
+  "firecrawl_status": {
+    "credits": 0,
+    "result": "Status checked in this review; exhausted. Direct official retrieval used; no new search command or response claimed."
+  },
+  "prior_author_discovery_queries_not_reexecuted_in_review": [
+    "site.rechtsprechung-im-internet.de BGH \"256\" \"252\" \"vereinfachten\"",
+    "site.rechtsprechung-im-internet.de BGH \"266\" \"Trennung\" \"Zusammenhang\"",
+    "site.rechtsprechung-im-internet.de BGH \"261\" \"Güterrechtssache\"",
+    "site.rechtsprechung-im-internet.de \"XII ZB 84/26\"",
+    "site.rechtsprechung-im-internet.de \"XII ZB 450/21\"",
+    "site.rechtsprechung-im-internet.de \"XII ZB 25/24\"",
+    "site.gesetze-im-internet.de \"Formulare\" \"vereinfachten\" \"Verordnung\" Unterhalt",
+    "\"264\" \"1382\" \"Absatz 6\" Abänderung",
+    "\"264\" \"1382 Abs. 6\" FamFG",
+    "site.rechtsprechung-im-internet.de \"264\" \"Stundung\"",
+    "\"§264\" \"§1382\" \"48\" Abänderung",
+    "\"FamFG\" \"1382 Abs.6\" \"ausgeschlossen\""
+  ],
+  "discovery_and_authority": "Review rechecks the three existing authorities rather than claiming new discovery. No commercial summary or headnote adopted. Exact dockets located in national corpus; full official RII XML freshly captured and read. §264 interpretation rests on verified statutes; no sufficient primary case selected for it.",
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "query": "rg -l with exact docket pattern, followed by full official comparison",
+    "chosen_documents": [
+      "KORE302472022",
+      "KORE307162026",
+      "KORE707672024"
+    ]
+  },
+  "selected_cases": [
+    {
+      "docket": "XII ZB450/21",
+      "all_numbered_paragraphs_read": 42,
+      "supported_units": [
+        "p252",
+        "p253",
+        "p256"
+      ]
+    },
+    {
+      "docket": "XII ZB84/26",
+      "all_numbered_paragraphs_read": 18,
+      "supported_units": [
+        "p252",
+        "p256"
+      ]
+    },
+    {
+      "docket": "XII ZB25/24",
+      "all_numbered_paragraphs_read": 19,
+      "supported_units": [
+        "p266"
+      ]
+    }
+  ],
+  "no_additional_fully_verified_case_selected_for": [
+    "p254",
+    "p255",
+    "p257",
+    "p258",
+    "p259",
+    "p260",
+    "p261",
+    "p262",
+    "p263",
+    "p264",
+    "p265",
+    "p267",
+    "p268",
+    "p269",
+    "p270",
+    "p271"
+  ],
+  "limits": "Selective research only; no-case-selected does not establish absence of relevant case law. Decisions cited within decisions not independently adopted."
+}
