@@ -112,3 +112,6 @@ Begrenzte unabhängige Zweitprüfung §§ 350–364 einschließlich §§ 352a–
 
 
 Aktueller Autorencheckpoint §§ 365–384: 20 neue Kommentare mit 20 fiktiven Beispielen und zwei praktischen Prüflisten; Gesamtstand 420/529, noch 109 Kommentare ab § 385 offen. Eine weitere amtliche BGH-Entscheidung vollständig ausgewertet. Die unabhängige Zweitprüfung dieser Charge steht aus. [Chargenergebnis](author-p365-p384-result.json), [Fallkarte](cases/BGH-2023-09-19-II-ZB-15-22.md), [Fassungsprüfung](sources/author-p365-p384-version-map.json). Frühere Fortschritts- und Fallkartenzahlen in den Verlaufsabsätzen beschreiben historische Teilstände.
+
+
+Begrenzte Zweitprüfung §§ 365–384 abgeschlossen: genau 20 Kommentare geprüft, fünf präzisiert. [Prüfbericht](REVIEW.md), [Einzelbefunde](review-p365-p384-result.json). Der Gesamtstand bleibt 420/529; keine Gesamtfertigstellung oder externe anwaltliche Freigabe.

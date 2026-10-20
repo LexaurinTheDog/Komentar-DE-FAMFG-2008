@@ -1,224 +1,223 @@
 {
   "complete": true,
+  "kind": "bounded_independent_second_pass",
+  "scope": "Exactly p365–p384; no whole-book completion",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p350",
-    "p351",
-    "p352",
-    "p352a",
-    "p352b",
-    "p352c",
-    "p352d",
-    "p352e",
-    "p353",
-    "p354",
-    "p355",
-    "p356",
-    "p357",
-    "p358",
-    "p359",
-    "p360",
-    "p361",
-    "p362",
-    "p363",
-    "p364"
+    "p365",
+    "p366",
+    "p367",
+    "p368",
+    "p369",
+    "p370",
+    "p371",
+    "p372",
+    "p373",
+    "p374",
+    "p375",
+    "p376",
+    "p377",
+    "p378",
+    "p379",
+    "p380",
+    "p381",
+    "p382",
+    "p383",
+    "p384"
   ],
-  "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p350",
-      "disposition": "confirmed",
-      "finding": "Urschrift und beglaubigte Abschriften, Verwahr-/Nachlasszuständigkeit sowie Abgrenzung der Übermittlung von §349-Bekanntgabe geprüft.",
-      "resolved": true
+      "id": "p365",
+      "review": "Ladung sämtlicher Beteiligter; Ausschluss öffentlicher Zustellung; Sollhinweis zur Säumnis von zwingendem Einsichtshinweis unterschieden und korrigiert.",
+      "statutory_agreement": true,
+      "commentary_characters": 2261,
+      "commentary_sha256": "a878685c83e1982b670c40628d7e7a4e0db1030ddf95cb35d1790083429edc47",
+      "corrected": true
     },
     {
-      "id": "p351",
-      "disposition": "confirmed",
-      "finding": "Mehr als 30 Jahre amtliche Verwahrung, vorgeschaltete Lebensermittlung, Eröffnung bei fehlendem Lebensnachweis und entsprechende §§348–350 zutreffend; keine Todeserklärung.",
-      "resolved": true
+      "id": "p366",
+      "review": "Absätze 1–4 geprüft: Vereinbarung und Einzelvorschlag, förmliche Zustimmung, Bekanntgabe und Warnung, kumulativer Terminsantrag und Erscheinen.",
+      "statutory_agreement": true,
+      "commentary_characters": 2260,
+      "commentary_sha256": "d72379273d22fa8bf0c0c8844598b03727427c21ad14a83644cd064ce6fb4118",
+      "corrected": false
     },
     {
-      "id": "p352",
-      "disposition": "corrected",
-      "finding": "Alle acht Angaben und Absätze2/3 geprüft; ausdrückliche Pflicht zur Angabe anhängigen Erbrechtsstreits nach Abs1 Nr6 ergänzt. Urkunden und eidesstattliche Versicherung klar getrennt.",
-      "resolved": true
+      "id": "p367",
+      "review": "Unverschuldete Frist- und Terminsäumnis, zwei Wochen, Jahresgrenze und Nachholung geprüft; entscheidender Notar und Ausschluss von § 19 Absatz 2 präzisiert.",
+      "statutory_agreement": true,
+      "commentary_characters": 2424,
+      "commentary_sha256": "0586c4b4ffdb81ff58ed41277c5616b3b8d5c951f70eb2a418ae0d193deefbef",
+      "corrected": true
     },
     {
-      "id": "p352a",
-      "disposition": "confirmed",
-      "finding": "Antrag eines Miterben, alle Antragsteller als Quotenverzichtende, Annahmeangabe für übrige Erben und grundsätzliche Versicherung aller Erben mit gerichtlicher Ausnahme geprüft.",
-      "resolved": true
+      "id": "p368",
+      "review": "Plan, Beurkundung und Bestätigung getrennt; Zustimmungsformen, Schutz Abwesender und ausdrücklich weggefallener Absatz 3 vollständig berücksichtigt.",
+      "statutory_agreement": true,
+      "commentary_characters": 2188,
+      "commentary_sha256": "52c0d509d5d775aec59f5ca21cb37b3b654db859536fac2985310055d487df2d",
+      "corrected": false
     },
     {
-      "id": "p352b",
-      "disposition": "confirmed",
-      "finding": "Nacherbe, Eintrittsvoraussetzungen und Befreiungsanordnungen sowie Testamentsvollstreckerhinweis in beiden Absätzen vollständig; Eintrag schafft keine materielle Befugnis.",
-      "resolved": true
+      "id": "p369",
+      "review": "Vereinbarte Losverteilung und bestellter Vertreter nur für die Ziehung; abweichende Bestimmung und fehlende allgemeine Vertretungsmacht geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 1742,
+      "commentary_sha256": "bfb5119d2bcf33bd6184f7c4af5d95171a6af595d3f68eae8bec5603e1a923ef",
+      "corrected": false
     },
     {
-      "id": "p352c",
-      "disposition": "confirmed",
-      "finding": "Auslandsgegenstand als Voraussetzung, Beschränkung auf Inland statt Einzelobjekte, Register- und Anspruchsfiktion sowie Trennung von Erbstatut und Zuständigkeit geprüft.",
-      "resolved": true
+      "id": "p370",
+      "review": "Zwingende Aussetzung und Niederschrift bei Streit; trennbare unstreitige Punkte nach §§ 366, 368, keine notarielle Streitentscheidung.",
+      "statutory_agreement": true,
+      "commentary_characters": 1851,
+      "commentary_sha256": "92567891bee1df9e83b784c89e42b850982f3835a32f3461246c4020922698ba",
+      "corrected": false
     },
     {
-      "id": "p352d",
-      "disposition": "confirmed",
-      "finding": "Ermessensentscheidung, nur Bekanntmachungsart und Frist nach Aufgebotsrecht; keine materielle Ausschließung schweigender Erben behauptet.",
-      "resolved": true
+      "id": "p371",
+      "review": "Rechtskraft als Wirksamkeitszeitpunkt, vertragsgleiche Bindung, Vollstreckung aus Vereinbarung/Auseinandersetzung und ZPO-Verweis geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 1857,
+      "commentary_sha256": "b2d1fa6f0f6e01dbc94cd955630e22c3f22dca55ca8f08a25eb7cf75bd104c57",
+      "corrected": false
     },
     {
-      "id": "p352e",
-      "disposition": "confirmed",
-      "finding": "Erlasswirksamkeit, kumulative Sicherungen bei entgegenstehendem Beteiligtenwillen und Einziehungsziel nach Erteilung geprüft. Beide zitierten amtlichen Entscheidungen vollständig erneut gelesen; Aussage und Grenzen bestätigt.",
-      "resolved": true
+      "id": "p372",
+      "review": "Sofortige Beschwerde nach Absatz 1 von auf Verfahrensfehler begrenzter Bestätigungsbeschwerde nach Absatz 2 unterschieden.",
+      "statutory_agreement": true,
+      "commentary_characters": 1966,
+      "commentary_sha256": "37017b61fa4dd377e3a7f828f9366f3342170ffb7a2c71798bc37a2ce2e48b5a",
+      "corrected": false
     },
     {
-      "id": "p353",
-      "disposition": "confirmed",
-      "finding": "Einziehung/Kraftlosigkeit, Monatsfrist nach Bundesanzeiger und frühere Anfechtungssperre getrennt; Kostenentscheidung und neues gleichlautendes Zeugnis zutreffend.",
-      "resolved": true
+      "id": "p373",
+      "review": "Gesamtgut nach drei Gütergemeinschaftsformen und gesondertes Zeugnisverfahren geprüft; § 345 Absatz 1 sowie genaue Zeugnisgrundlagen ergänzt.",
+      "statutory_agreement": true,
+      "commentary_characters": 2620,
+      "commentary_sha256": "2740dbed7a81bccf40c8ec4be0ac09eb761265e9bd2fd5cbc9723f7f7e3cf027",
+      "corrected": true
     },
     {
-      "id": "p354",
-      "disposition": "confirmed",
-      "finding": "Abschließender Zeugnisverweis, entsprechende Anwendung samt angepasster Beteiligung und beide Angaben des Abs2 geprüft.",
-      "resolved": true
+      "id": "p374",
+      "review": "Alle fünf Registerarten einschließlich Gesellschaftsregister; Abgrenzung zu § 375 und jeweils begrenzte Folgeverweisungen geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 1798,
+      "commentary_sha256": "71f07569e12cc1aa2abcdc9ef8ff85f437e7039b2dcaa81b11dc346546fbdeb5",
+      "corrected": false
     },
     {
-      "id": "p355",
-      "disposition": "corrected",
-      "finding": "Drei Rechtsmittelkonstellationen geprüft; zur sofortigen Beschwerde Abs1 die Zweiwochen-Notfrist nach frischem amtlichem §569 ZPO ergänzt. Abs2 und selbständige Befugnis Abs3 zutreffend.",
-      "resolved": true
+      "id": "p375",
+      "review": "Vollständigen Katalog samt 5a, 11a–11c und 17 gelesen; keine automatische Aktualisierung des alten Investmentgesetz-Verweises; nur zugewiesene Gerichtsaufgaben.",
+      "statutory_agreement": true,
+      "commentary_characters": 2436,
+      "commentary_sha256": "a02931688f6d71f13f623de5bf2412f0c19e23d94fbecfb48eb361d194df8d37",
+      "corrected": false
     },
     {
-      "id": "p356",
-      "disposition": "confirmed",
-      "finding": "Mitteilung Kindeserwerb mit Inventarpflicht, Sollunterrichtung des allgemeinen Nachlassgerichts und begrenzte Stiftungsmitteilung samt bereits gestelltem Anerkennungsantrag geprüft.",
-      "resolved": true
+      "id": "p376",
+      "review": "Amtsgericht am Landgerichtssitz, unterschiedliche Reichweite von Absatz 1/2, Delegation und länderübergreifende Vereinbarung geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 2165,
+      "commentary_sha256": "93ee7cc8e7eccee54838b3571251f36c761197f2784956919d093f347a10e7e7",
+      "corrected": false
     },
     {
-      "id": "p357",
-      "disposition": "confirmed",
-      "finding": "Eröffnete Verfügung und rechtliches Interesse, Ausfertigung vorhandener Zeugnisse und Beschlüsse, Abgrenzung zu Akteneinsicht und bloßer Neugier zutreffend.",
-      "resolved": true
+      "id": "p377",
+      "review": "Ausschließliche Sitz-/Niederlassungszuständigkeit unter Fachgesetzvorbehalt; Dispacheort und Ausschluss § 2 Absatz 1 geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 2009,
+      "commentary_sha256": "6ac2f15c00e96bd5bda4e7eb999311fdb27f8de4628e95b081fcf27e3ae2dbd9",
+      "corrected": false
     },
     {
-      "id": "p358",
-      "disposition": "corrected",
-      "finding": "Beschlussform und fehlende materielle Erbrechtsentscheidung bestätigt; Todeskenntnis, unverzügliche Pflicht und fehlende besondere amtliche Verwahrung nach §2259 Abs1 BGB konkret ergänzt.",
-      "resolved": true
+      "id": "p378",
+      "review": "Erweiterte Vertretergruppen, beschränkte Antragsermächtigung des Notars, Vorprüfungsausnahmen, zusätzlicher Einreichungsweg und Landesermächtigung geprüft; Wortwahl zur Ermächtigung präzisiert.",
+      "statutory_agreement": true,
+      "commentary_characters": 2323,
+      "commentary_sha256": "5cb2ae92a1ef01df1f7026804ba4286b43e7bdc38fe956568c49572c9bdb8276",
+      "corrected": true
     },
     {
-      "id": "p359",
-      "disposition": "confirmed",
-      "finding": "Nur stattgebender Erbenantrag unanfechtbar; bei Gläubigerantrag geschlossener Kreis einschließlich einzelner Miterben und verwaltungsbefugtem Vollstrecker geprüft.",
-      "resolved": true
+      "id": "p379",
+      "review": "Amtlicher Erkenntniszusammenhang, fünf Register, erforderliche Steuerauskunft und ausdrücklicher Ausschluss ihrer Akteneinsicht geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 2272,
+      "commentary_sha256": "8f61ba584b6dc7d0bed8e411d4a89c9fe95da7a0c5a3cae9a563b9b5c9f7e53d",
+      "corrected": false
     },
     {
-      "id": "p360",
-      "disposition": "confirmed",
-      "finding": "Einheitlicher Gläubiger-Fristbeginn mit Bekanntgabe an Antragsteller, keine eigene Fristlänge, entsprechende neue Frist/Verlängerung samt Ablehnung geprüft.",
-      "resolved": true
+      "id": "p380",
+      "review": "Vier berufsständische Gruppen, Anhörungsermessen und Beteiligung auf Antrag, Genossenschaftsbeschränkung, Bekanntgabe und Beschwerde geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 2392,
+      "commentary_sha256": "bae791c85e862b502eea1cf59c7b2bd2d85abbfeb6c53046ca339fe8fa193b95",
+      "corrected": false
     },
     {
-      "id": "p361",
-      "disposition": "corrected",
-      "finding": "Beiderseitiges Antragsrecht, Ladung trotz entbehrlicher Gläubigeranwesenheit bestätigt. Verweisungen auf persönliche Erklärung, Belehrung und Verständigung ausgeführt, Inhalt und Ergänzung nach §2006 BGB ergänzt.",
-      "resolved": true
+      "id": "p381",
+      "review": "Aussetzung ohne anhängige Klage unter sonstigen Voraussetzungen § 21 Absatz 1; zwingende Klagefrist ohne automatische Eintragungsfolge geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 2015,
+      "commentary_sha256": "2e56cc4a0390be9370e5df7dbff308448c7c4e126f330bf521727502733eec4c",
+      "corrected": false
     },
     {
-      "id": "p362",
-      "disposition": "corrected",
-      "finding": "Materieller Änderungsweg §2331a Abs2 iVm §1382 Abs6 BGB trotz Ausschluss allgemeiner Abänderung/Wiederaufnahme ergänzt; Zuständigkeit nur bei unbestrittenem Anspruch und §1382 Abs5 klargestellt. Rechtskraft und gesonderter Zahlungsantrag bestätigt.",
-      "resolved": true
+      "id": "p382",
+      "review": "Wirksamkeit durch Vollzug, ablehnender Beschluss und behebbares Hindernis; Sollvorgabe zum Datum von zwingender Signatur getrennt; BGH Tenor und Rn. 1–35 vollständig gelesen.",
+      "statutory_agreement": true,
+      "commentary_characters": 2528,
+      "commentary_sha256": "3a7e561b5f7330e18149f2b367e76013287ff1341b69806e9606478f72213275",
+      "corrected": true
     },
     {
-      "id": "p363",
-      "disposition": "confirmed",
-      "finding": "Notarielle Vermittlung, Ausschluss bei auseinandersetzungsbefugtem Vollstrecker, alle vier Berechtigtenkreise und Sollantragsinhalt gegen Wortlaut geprüft; keine einseitige Teilungsbefugnis suggeriert.",
-      "resolved": true
+      "id": "p383",
+      "review": "Formlose Mitteilung und Verzicht von Veröffentlichung getrennt; Anfechtungsausschluss und eigenständige Korrekturverfahren geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 1958,
+      "commentary_sha256": "699e4495d0a823bd2d047a76efa7a13549ae4d329afd77ad60cea0a5b9d5a9d2",
+      "corrected": false
     },
     {
-      "id": "p364",
-      "disposition": "confirmed",
-      "finding": "Ausdrücklich weggefallene Nummer erhalten, keine historische Regel als geltend dargestellt; angemessen kurzer technischer Kommentar.",
-      "resolved": true
+      "id": "p384",
+      "review": "Exakte Verweisung auf § 382 Absatz 1 Satz 2/Absatz 2 und § 383; Kennzeichnung unrichtiger Folgeangaben desselben Blatts geprüft.",
+      "statutory_agreement": true,
+      "commentary_characters": 2452,
+      "commentary_sha256": "ef009221709d3ef56bb5bf23a8f439d63491cfb4feafc0e78ebdabd049f6adf0",
+      "corrected": false
     }
   ],
-  "changed_ids": [
-    "p352",
-    "p355",
-    "p358",
-    "p361",
-    "p362"
-  ],
-  "verified_at": "2026-10-20T22:04:06.807021+00:00",
-  "source_evidence": "sources/review-p350-p364-version-map.json",
-  "case_law_sources": [
-    "cases/BGH-IV-ZB-11-22.md",
-    "cases/OLG-Nuernberg-15-Wx-988-23.md"
-  ],
+  "unresolved_blockers": [],
   "limitations": [
-    "Review limited exactly to assigned 20 units; no whole-book completion.",
-    "Two existing citations reread in full; no exhaustive new case-law or subsequent-treatment survey.",
-    "129 unassigned provisions from p365 remain uncommented.",
-    "Technical validation is not substantive legal quality assurance or external professional approval."
+    "109 unassigned units ab § 385 remain without commentary; whole-book build/validation remains negative.",
+    "Selective case law: one existing BGH decision fully re-read, no exhaustive update search or external legal approval.",
+    "Technical length/agreement checks do not establish legal quality."
   ],
+  "case_law_sources": [
+    "cases/BGH-2023-09-19-II-ZB-15-22.md"
+  ],
+  "version_evidence": "sources/review-p365-p384-version-map.json",
+  "completed_at": "2026-10-20T22:12:21.977127+00:00",
   "whole_book_complete": false,
-  "validation": {
-    "ok": true,
-    "reviewed_ids": [
-      "p350",
-      "p351",
-      "p352",
-      "p352a",
-      "p352b",
-      "p352c",
-      "p352d",
-      "p352e",
-      "p353",
-      "p354",
-      "p355",
-      "p356",
-      "p357",
-      "p358",
-      "p359",
-      "p360",
-      "p361",
-      "p362",
-      "p363",
-      "p364"
-    ],
-    "changed_ids": [
-      "p352",
-      "p355",
-      "p358",
-      "p361",
-      "p362"
-    ],
-    "unassigned_comments_unchanged": true,
-    "assigned_output_matches": true,
-    "official_units": 529,
-    "parsed_units": 529,
+  "technical_checks": {
     "statutory_agreement": 1.0,
-    "missing_ids": [],
-    "duplicate_ids": [],
-    "local_links_checked": 1150,
-    "broken_links": [],
-    "repetition_screen_findings": [],
-    "strict_validation": {
-      "repo": "Komentar-DE-FAMFG-2008",
-      "units": 529,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 897738,
-      "errors": [
-        "krátký/chybějící komentář u 129 jednotek: ['p365(0<400)', 'p366(0<400)', 'p367(0<400)', 'p368(0<400)', 'p369(0<400)', 'p370(0<400)', 'p371(0<400)', 'p372(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "whole_book_complete": false,
-    "post_commit_validation": true
-  }
+    "parser_replay_byte_identical": true,
+    "assigned_comments": 20,
+    "local_links_checked": 1175,
+    "broken_local_links": [],
+    "exact_repeated_paragraphs": [],
+    "near_repeated_comments_above_threshold": []
+  },
+  "strict_validation": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 941255,
+    "errors": [
+      "krátký/chybějící komentář u 109 jednotek: ['p385(0<400)', 'p386(0<400)', 'p387(0<400)', 'p388(0<400)', 'p389(0<400)', 'p390(0<400)', 'p391(0<400)', 'p392(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "validation_scope": "Whole book: only failure is 109 unassigned comments; bounded review of 20 complete."
 }

@@ -1,0 +1,14 @@
+{
+  "before": {
+    "units.jsonl": "5b3ca3bcedaf3d83855f06ddf240a6366e13613fd891e50d2c09877b0aa3955f",
+    "meta.json": "d75fcd7c989af31be2e27a5036f23e2f5ec491da64bb3c89336cf874c0b40782",
+    "sources/famfg-canonical.md": "c29df3a6e371307fe8bcc3231f928af92379828240c2fdab8b8fb18153eeca34"
+  },
+  "after": {
+    "units.jsonl": "5b3ca3bcedaf3d83855f06ddf240a6366e13613fd891e50d2c09877b0aa3955f",
+    "meta.json": "d75fcd7c989af31be2e27a5036f23e2f5ec491da64bb3c89336cf874c0b40782",
+    "sources/famfg-canonical.md": "c29df3a6e371307fe8bcc3231f928af92379828240c2fdab8b8fb18153eeca34"
+  },
+  "byte_identical": true,
+  "run_at": "2026-10-20T22:12:59.189179+00:00"
+}
