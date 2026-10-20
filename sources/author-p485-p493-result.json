@@ -1,0 +1,53 @@
+{
+  "kind": "bounded_authoring_checkpoint",
+  "assigned_ids": [
+    "p485",
+    "p486",
+    "p487",
+    "p488",
+    "p489",
+    "p490",
+    "p491",
+    "p492",
+    "p493"
+  ],
+  "completed_ids": [
+    "p485",
+    "p486",
+    "p487",
+    "p488",
+    "p489",
+    "p490",
+    "p491",
+    "p492",
+    "p493"
+  ],
+  "commentary_characters": {
+    "p485": 1466,
+    "p486": 1816,
+    "p487": 1771,
+    "p488": 1794,
+    "p489": 1746,
+    "p490": 1505,
+    "p491": 1713,
+    "p492": 2020,
+    "p493": 3411
+  },
+  "statutory_text_agreement": 1.0,
+  "whole_book_completion_claimed": false,
+  "case_law": {
+    "searches": [
+      "site.rechtsprechung-im-internet.de \"493\" \"FamFG\" \"2022\"",
+      "site.bundesgerichtshof.de \"492\" \"FamFG\" Erinnerung"
+    ],
+    "result": "No sufficiently relevant verified decision found in this bounded search; no case holding asserted. Local national corpus was not exhaustively searched.",
+    "limits": "Selective search; no exhaustive case-law coverage or independent review."
+  },
+  "source_evidence": "sources/author-p485-p493-verification.json",
+  "version_basis": "Existing title-wide preflight and commencement evidence, plus fresh identical official ZIP/XML.",
+  "remaining_limitations": [
+    "Independent second pass pending.",
+    "Historical statutory texts and concrete state laws must be obtained before applying their details to a specific case."
+  ],
+  "validation": "Strict validator pending local output checkpoint; first run showed 1.0 agreement and only uncommitted-output error."
+}
