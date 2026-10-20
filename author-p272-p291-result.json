@@ -1,0 +1,156 @@
+{
+  "kind": "author",
+  "complete": false,
+  "stage": "bounded_author_batch_written_validation_pending",
+  "authored_ids": [
+    "p272",
+    "p273",
+    "p274",
+    "p275",
+    "p276",
+    "p277",
+    "p278",
+    "p279",
+    "p280",
+    "p281",
+    "p282",
+    "p283",
+    "p284",
+    "p285",
+    "p286",
+    "p287",
+    "p288",
+    "p289",
+    "p290",
+    "p291"
+  ],
+  "units_authored": 20,
+  "max_units": 20,
+  "baseline_commit": "c4914267530ad2b5d42ea3e96eb2c3272ed7cbd0",
+  "decisive_date": "2026-10-19",
+  "author_batch_date": "2026-10-20",
+  "source_verified_at": "2026-10-20T18:47:20.861144+00:00",
+  "source_checks": "sources/author-p272-p291-fetch.json",
+  "source_version_evidence": "sources/author-p272-p291-version-map.json",
+  "parser_replay": "author-p272-p291-parser-replay.json",
+  "author_self_check": [
+    {
+      "id": "p272",
+      "finding": "Alle vier Rangstufen und zusätzliche Eilzuständigkeit, Fortdauer und internationale Abgrenzung sowie Mitteilung nur an Nummern1,2,4 behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p273",
+      "finding": "Aufenthaltswechsel und wesentliche Aufgabenverlagerung kumulativ; mehr als ein Jahr, Regel-Ausnahme, Übernahmebereitschaft und Anhörung nach§4 getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p274",
+      "finding": "Notwendige, antragsabhängige und fakultative Beteiligte sowie Aufgabenbezug, Getrenntleben, bloße Anhörung und Rechtsmittelstatus unterschieden.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p275",
+      "finding": "Unbedingte besondere Verfahrensfähigkeit und eigene Rechte; alle drei Themen der frühen adressatengerechten Information dargestellt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p276",
+      "finding": "Alle acht Absätze behandelt; erklärter/freier Wille, Ausnahmebegründung, Wünsche/mutmaßlicher Wille, Ehrenamt, Mandatsfortbestand, Amtsende und fehlende selbständige Anfechtung getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p277",
+      "finding": "Alle vier Absätze, exakte BGB-Teilabsätze, Ausschlussfrist, Berufsmäßigkeit, Stunden- statt Fallpauschalen, Zuschlag2026 und Übergang, Pauschalabgeltung und Staatskasse erörtert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p278",
+      "finding": "Alle sieben Absätze: Inhalt, Ort, eigener Eindruck, Pflegerteilnahme, Rechtshilfe, Gesundheitsausnahme und getrennte Zwangs-/Wohnungsermächtigungen gelesen.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p279",
+      "finding": "Alle vier Absätze und vier Kriterien der Behördenanhörung, Soll-Reihenfolge, nahestehende Person und Minderjährigenvertretung erörtert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p280",
+      "finding": "Alle drei Absätze und fünf Gutachtensfelder, ärztliche Qualifikation, persönlicher Kontakt und Trennung von Diagnose und gerichtlicher Subsumtion erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p281",
+      "finding": "Antrag, Verzicht und Unverhältnismäßigkeit kumulativ, persönlich erhobenes Zeugnis, fortbestehende Anhörung und spätere§294Abs2-Sicherung behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p282",
+      "finding": "Alle vier Absätze: Eignungsprüfung, zweckgebundene Anforderung, Einwilligung vor weiterer Verwendung und beide Löschanlässe sowie Teil-/Vollersatz erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p283",
+      "finding": "Drei Absätze: Gutachtenzweck, Soll-Anhörung, ausdrückliche Gewalt- und Wohnungsanordnung mit strengerer Anhörung und Gefahr-im-Verzug-Grenze behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p284",
+      "finding": "Drei Absätze: Sachverständigenanhörung, zwingende Betroffenenanhörung, Erforderlichkeit, bestimmte Dauer,6Wochen/3Monate und sofortige Beschwerde getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p285",
+      "finding": "Registerauskunft, Nachholung und alle bezeichneten Dokumentanordnungen mit aktuellen BGB1820/1816-Verweisungen, keine automatische Unwirksamkeit/Vollmachtseinziehung.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p286",
+      "finding": "Alle Tenorangaben, individuelle Aufgabenbereiche und Status, gesonderter Einwilligungsvorbehalt, Überprüfungszeitpunkt statt automatischem Ende erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p287",
+      "finding": "Alle drei Absätze, Bekanntgabe an Betreuer, Voraussetzungen und Ersatzereignisse sofortiger Wirksamkeit, Vermerk und gesonderte Zweiwochensperre beiBGB1829Abs2 erklärt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p288",
+      "finding": "Gesundheitsschutz nur für Gründe, ärztliches Zeugnis statt Gutachten und differenzierte obligatorische Behördenbekanntgabe getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p289",
+      "finding": "Amtlichen Wegfall als eigenen Slot erhalten; keine historische Vorschrift als aktuell ausgegeben oder aus Gedächtnis rekonstruiert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p290",
+      "finding": "Alle sechs Urkundenangaben, Befreiungsgrenzen, weitere eingeschränkte Urkunde und Rückgabe; Dokumentationswirkung von konstitutiver Entscheidung getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p291",
+      "finding": "Institutionelle Betreuung von persönlich bestelltem Vereinsbetreuer getrennt; beide Neuauswahlgründe, gerichtlicher Auftrag und Ausschluss§35 sowie Fallbeispiel erläutert.",
+      "material_blocker_found": false
+    }
+  ],
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-521-23.md",
+    "cases/BGH-XII-ZB-140-25.md",
+    "cases/BGH-XII-ZB-457-25.md"
+  ],
+  "unresolved_blockers": [],
+  "whole_book_complete": false,
+  "total_statutory_units": 529,
+  "completed_commentary_units": 320,
+  "remaining_commentary_units": 209,
+  "independent_second_pass_complete_for_new_batch": false,
+  "limitations": [
+    "Exactly20assignedunits authored; all300previous commentaries preserved.",
+    "The20newunits await a fresh independent second pass.",
+    "Whole title incomplete:209unassigned units remain without commentary.",
+    "Selective primary judicial research, not exhaustive.",
+    "Technical agreement, length and similarity screening are not legal quality proof."
+  ]
+}

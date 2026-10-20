@@ -1,12 +1,12 @@
 # Prüfprotokoll und ausstehende Bearbeitung
 
-**Kein externes fachliches Freigabeurteil.** Der erste Teil dokumentiert die frühere Eigenkontrolle vom 19. Oktober 2026 und die Quellenvorprüfung. Die anschließend dokumentierten vierzehn getrennten Zweitprüfungen vom 20. Oktober sind jeweils auf genau 20 Einheiten beschränkt.
+**Kein externes fachliches Freigabeurteil.** Der erste Teil dokumentiert die frühere Eigenkontrolle vom 19. Oktober 2026 und die Quellenvorprüfung. Die anschließend dokumentierten fünfzehn getrennten Zweitprüfungen vom 20. Oktober sind jeweils auf genau 20 Einheiten beschränkt.
 
 ## Vorhandener Bestand
 
 **Ergänzung vom 20. Oktober 2026 — begrenzte Quellenvorprüfung:** Die amtlichen Quellen wurden neu abgerufen; XML, HTML und drei einschlägige Verkündungs-PDFs sind mit den gesicherten Fassungen bytegleich. Alle 529 Paragraphenkennungen und sämtliche 599 XML-Normelemente wurden technisch zugeordnet, einschließlich Quellenhinweisen, Gliederung, leeren Einheiten und Schlussbestimmungen. Eine eigene Eingangsformel oder operative Anlage fehlt in diesem Datensatz nicht: Eine solche Einheit ist dort nicht enthalten. Sieben neuere amtliche Gesetzesvolltexte wurden zusätzlich auf FamFG-Bezüge durchsucht. Der Parser wurde gegen das stille Übergehen neuer Normtypen und doppelter Textfassungen abgesichert. Der [Vorprüfungsbericht](preflight-result.json) ist für diesen begrenzten Auftrag vollständig; er ist keine inhaltliche Prüfung der vorhandenen 193 Kommentare und keine unabhängige Zweitprüfung. Die fehlenden 336 Kommentare bleiben unverändert offen.
 
-§§ 1–271 einschließlich der Buchstabenparagraphen sind mit 300 vorschriftenspezifischen Kommentierungen vorhanden. Die jüngste Autorencharge behandelt genau §§ 252–271. Der gesamte amtliche Normbestand enthält 529 Paragrapheneinheiten. Die 229 Einheiten ab § 272 sind noch nicht kommentiert; ihre vollständigen Kennungen stehen in `completeness-report.json`.
+§§ 1–291 einschließlich der Buchstabenparagraphen sind mit 320 vorschriftenspezifischen Kommentierungen vorhanden. Die jüngste Autorencharge behandelt genau §§ 272–291. Der gesamte amtliche Normbestand enthält 529 Paragrapheneinheiten. Die 209 Einheiten ab § 292 sind noch nicht kommentiert; ihre vollständigen Kennungen stehen in `completeness-report.json`.
 
 Geprüft wurden die im bearbeiteten Bereich verwendeten Gesetzespassagen beim Schreiben, die Zuordnung von eigenständiger Beteiligung und bloßer Anhörung, die Sonderweiche des § 113, Unterschiede zwischen Einlegung und Begründung von Rechtsmitteln, die Grenzen der Kindesanhörung und die zum Stichtag erst künftig wirksamen Gewaltschutzänderungen. Zwei verwendete BGH-Volltexte wurden einschließlich ihrer jeweiligen Grenzen gelesen. Dies ist keine Aussage, dass sämtliche denkbaren Auslegungsstreitigkeiten erschöpfend behandelt seien.
 
@@ -18,7 +18,7 @@ Die Ausgangs- und Aktualitätsquellen sowie drei relevante Verkündungsakte sind
 
 ## Offene materielle Arbeit
 
-Der vollständige Kommentar ab § 272, darunter die weiteren Betreuungs- und Unterbringungssachen, Nachlass und Teilung, Register, Freiheitsentziehung, Aufgebot und Schlussrecht, fehlt noch. Die Wortlautdatei ist hierfür vorhanden; sie ist kein Ersatz für originäre Erläuterungen.
+Der vollständige Kommentar ab § 292, darunter die weiteren Betreuungs- und Unterbringungssachen, Nachlass und Teilung, Register, Freiheitsentziehung, Aufgebot und Schlussrecht, fehlt noch. Die Wortlautdatei ist hierfür vorhanden; sie ist kein Ersatz für originäre Erläuterungen.
 
 Die Rechtsprechungsrecherche bleibt selektiv und muss für die noch fehlenden Sachgebiete fortgesetzt werden. Ein vorhandener, nicht ausgewerteter Download darf nicht ohne tatsächliche Lektüre als geprüft gelten. Für die 280 vorhandenen Kommentare liegen inzwischen die nachstehenden begrenzten Zweitprüfungsberichte vor; die vierzehnte Charge prüfte genau die 20 Kommentare zu §§ 232–251. Frühere Chargen wurden dabei nicht neu geprüft. Angaben in historischen Prüf- und Autorenprotokollen bezeichnen jeweils den damaligen Stand. Die noch fehlenden Kommentare benötigen nach ihrer Ausarbeitung ebenfalls eine frische Zweitprüfung; eine Gesamtprüfung wird hier nicht behauptet.
 
@@ -343,3 +343,10 @@ Der frische amtliche Gesetzesabruf und die benötigten zusätzlichen Gesetze sin
 
 
 Technischer Abschluss der fünfzehnten Zweitprüfungscharge: genau 20/20 Einheiten geprüft, sechs präzisiert, 14 nach vollständiger Quellenlektüre unverändert. Alle 280 übrigen vorhandenen Kommentarblöcke und die 14 zuvor ausgegebenen Kapitel sind bytegleich zum Ausgangsstand. Die 20 exportierten Erläuterungen und Gesetzestexte stimmen mit WORK überein. Der Parserlauf ist reproduziert; 529 Paragraphen ohne fehlende, zusätzliche oder doppelte Kennung, 100 Prozent Wortlautübereinstimmung. Alle 838 geprüften lokalen Belegverknüpfungen sind vorhanden; Hash-, Platzhalter- und Wiederholungsscreening ohne Befund. Technische Tests sind kein Ersatz juristischer Prüfung. Regulärer Gesamtbuild und strenge Gesamtvalidierung bleiben ausschließlich wegen 229 unkommentierter Einheiten ab § 272 negativ. Die Teilausgabe ist neu gebaut und lokal versioniert; kein Gesamtabschluss, keine Veröffentlichung und keine externe Freigabe.
+
+
+## Begrenzte Autorencharge §§ 272–291 vom 20. Oktober 2026
+
+Alle zwanzig zugewiesenen Vorschriften sind einzeln am amtlichen Wortlaut gelesen und originär erläutert. Die früheren 300 Kommentare werden nicht verändert oder erneut als inhaltlich geprüft ausgegeben. Die Autoren-Eigenkontrolle betrifft insbesondere Rangfolge und Abgabe, Verfahrenspflegerausnahmen, Teilnahmegelegenheit statt Anwesenheitspflicht, medizinischen und rechtlichen Unterstützungsbedarf, Einwilligung und Löschung bei Pflegegutachten, getrennte Zwangsermächtigungen, Zeitgrenzen diagnostischer Unterbringung, Vorsorgedokumente, gegenstandsbezogene Beschlussformeln sowie den Unterschied zwischen Wirksamkeit und Rechtskraft. Gesetzesstand bleibt 19. Oktober; Abruf und Überprüfung erfolgen am 20. Oktober 2026. Der Normbestand bleibt vollständig mit 529 Einheiten, ohne historische Doppelungen oder nicht zugeordnete operative Anhänge.
+
+Drei vollständige BGH-Texte mit insgesamt 43 Randnummern und einer angefügten Berichtigung sind gelesen und mit dem nationalen Korpus abgeglichen. Eine erschöpfende Rechtsprechungsrecherche wird nicht behauptet. §§ 272–291 benötigen die frische unabhängige Zweitprüfung; dieser Prozess ist ausschließlich Verfasser und führt keine Selbstzertifizierung als Zweitprüfer durch. [Autorenbericht](author-p272-p291-result.json), [technischer Audit](author-p272-p291-audit.json), [Quellenprüfung](sources/author-p272-p291-version-map.json), [Rechercheprotokoll](sources/author-p272-p291-search-log.json). Gesamtstand 320/529, weitere 209 Kommentare außerhalb dieses Auftrags fehlen.

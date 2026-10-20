@@ -2,7 +2,7 @@
 
 Das FamFG verbindet sehr unterschiedliche gerichtliche Aufgaben: familienrechtliche Status- und Leistungsstreitigkeiten, Schutzverfahren, Nachlass- und Registersachen sowie weitere Angelegenheiten der freiwilligen Gerichtsbarkeit. Die gemeinsame Gesetzesüberschrift darf nicht darüber hinwegtäuschen, dass diese Gegenstände unterschiedliche Beteiligungs-, Ermittlungs-, Entscheidungs- und Vollstreckungsmodelle verlangen. Der erste praktische Schritt besteht deshalb in der gesetzlichen Einordnung des konkreten Begehrens.
 
-Diese Ausgabe enthält die Kommentierung der §§ 1–271 einschließlich der Buchstabenparagraphen, insgesamt 300 Paragrapheneinheiten. Der gesamte amtliche Quellenbestand umfasst 529 Einheiten; die Kommentierung ab § 272 fehlt. Der Teilstand ist in README, INDEX und Vollständigkeitsbericht ausdrücklich ausgewiesen. Aus der vollständigen Erfassung des Gesetzeswortlauts wird keine vollständige Kommentierung abgeleitet.
+Diese Ausgabe enthält die Kommentierung der §§ 1–291 einschließlich der Buchstabenparagraphen, insgesamt 320 Paragrapheneinheiten. Der gesamte amtliche Quellenbestand umfasst 529 Einheiten; die Kommentierung ab § 292 fehlt. Der Teilstand ist in README, INDEX und Vollständigkeitsbericht ausdrücklich ausgewiesen. Aus der vollständigen Erfassung des Gesetzeswortlauts wird keine vollständige Kommentierung abgeleitet.
 
 ## Verfahrensart vor Einzelproblem
 
@@ -36,3 +36,6 @@ Originale Kommentierung © 2026 Vojtěch Říha, Apache-2.0. Amtliche Texte und 
 
 
 Die Autorencharge §§ 252–271 ergänzt die Verfahrensfolgen zulässiger und verspäteter Einwendungen im vereinfachten Unterhaltsverfahren, die Abgrenzung güterrechtlicher Anspruchs- und Fürsorgeentscheidungen, die sonstigen Familien- und Lebenspartnerschaftssachen und den Übergang zum Betreuungsverfahren. Besonders ist bei § 264 der allgemeine verfahrensrechtliche Änderungsausschluss von der speziellen Stundungsänderung nach § 1382 Absatz 6 BGB zu unterscheiden. Bei Lebenspartnerschaftssachen führt § 270 jeweils zu den passenden Verfahrensregeln. § 271 grenzt rechtliche Betreuung und Unterbringung voneinander ab, ohne die materiellen Eingriffsvoraussetzungen zu ersetzen. Die ursprüngliche Autorenfortsetzung ist nun um eine frische, auf genau diese 20 Einheiten begrenzte Zweitprüfung ergänzt; die frühere Eigenkontrolle bleibt als solche dokumentiert.
+
+
+Die Autorencharge §§ 272–291 behandelt den eigenständigen Verfahrensschutz in Betreuungssachen: Der Betroffene bleibt unabhängig von der Geschäftsfähigkeit verfahrensfähig; Verfahrenspfleger, Betreuer und Angehörige haben unterschiedliche Funktionen. Medizinische Erkenntnisgewinnung und gerichtliche Rechtsentscheidung sind zu trennen. Die Kommentierung stellt gerichtliche Anhörung, Datenverwendung, Vorführung und diagnostische Unterbringung mit ihren jeweils besonderen Voraussetzungen dar und grenzt Beschlusswirksamkeit, Überprüfungstermin und Bestellungsurkunde voneinander ab. Drei neue amtliche Entscheidungen dienen als selektive Belege. Die neue Charge wartet auf eine frische unabhängige Zweitprüfung.

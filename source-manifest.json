@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:36:49.707216+00:00",
+  "generated_at": "2026-10-20T18:50:21.739421+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -666,6 +666,166 @@
     },
     {
       "path": "sources/author-p252-p271-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
+      "path": "sources/author-p272-p291-XII-ZB-140-25.txt",
+      "sha256": "519d37354421dac5f3fbd20b9cf80a9f5d6fe2b755e32d77d3e2443ca69980ad",
+      "bytes": 11238
+    },
+    {
+      "path": "sources/author-p272-p291-XII-ZB-140-25.xml",
+      "sha256": "4bfd5b646c3256669ba2f5eef62e1ba0b0326a383cf39a3d93fbb797740d296b",
+      "bytes": 17179
+    },
+    {
+      "path": "sources/author-p272-p291-XII-ZB-140-25.zip",
+      "sha256": "c0c1bec3987951608310437cdeb5a031a0bfe6565370fe1cc91c0cfab94ed0a2",
+      "bytes": 5143
+    },
+    {
+      "path": "sources/author-p272-p291-XII-ZB-457-25.txt",
+      "sha256": "07678d4c3588d38baaf137dc4463ddfaacddbb09616e5210884d6e61e639257f",
+      "bytes": 10739
+    },
+    {
+      "path": "sources/author-p272-p291-XII-ZB-457-25.xml",
+      "sha256": "fadb72a98e72dd182986ef78e9585735798f0368c744c4b88b0ff62f5ebe2b80",
+      "bytes": 23093
+    },
+    {
+      "path": "sources/author-p272-p291-XII-ZB-457-25.zip",
+      "sha256": "ec4dffe95ead129c12600f1e8b944dd8c9d91b4ca35282cf4e9358af585766d9",
+      "bytes": 4995
+    },
+    {
+      "path": "sources/author-p272-p291-XII-ZB-521-23.txt",
+      "sha256": "4fcb0978a19052d079a67b095072c60b559b635df5f3e8269b1b890754abc74a",
+      "bytes": 7832
+    },
+    {
+      "path": "sources/author-p272-p291-XII-ZB-521-23.xml",
+      "sha256": "34be69ad94565830f655112dfa6043094621f6298b5e63bc377fdec31fbd666a",
+      "bytes": 13417
+    },
+    {
+      "path": "sources/author-p272-p291-XII-ZB-521-23.zip",
+      "sha256": "639b16e54d73c66a848a902e22563d01e779d37b140cd14788785bd10205e56d",
+      "bytes": 3938
+    },
+    {
+      "path": "sources/author-p272-p291-bgb.xml",
+      "sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "bytes": 2519002
+    },
+    {
+      "path": "sources/author-p272-p291-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "bytes": 467286
+    },
+    {
+      "path": "sources/author-p272-p291-bgbl-2025-109.pdf",
+      "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+      "bytes": 870779
+    },
+    {
+      "path": "sources/author-p272-p291-bgbl-2025-109.txt",
+      "sha256": "847e8f48f46531a155fa01c53554c33a47cbf036386987dd176c90bb8692a40c",
+      "bytes": 145884
+    },
+    {
+      "path": "sources/author-p272-p291-bnoto.xml",
+      "sha256": "536e58a9803a662b0d3f7d8b59dcc59263faed8c666dcbd07bf1ff55286a13a4",
+      "bytes": 347021
+    },
+    {
+      "path": "sources/author-p272-p291-bnoto.zip",
+      "sha256": "686f0170a75873e99a532b8792f36729f362a8aaf38efccb56e268b8c9a7c654",
+      "bytes": 71320
+    },
+    {
+      "path": "sources/author-p272-p291-case-corpus-check.json",
+      "sha256": "9cc3826d2f3941133350dee34bb2e780f0dbc45d38cec1ef2f883d2e16762d21",
+      "bytes": 3422
+    },
+    {
+      "path": "sources/author-p272-p291-current-service.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/author-p272-p291-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/author-p272-p291-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/author-p272-p291-fetch.json",
+      "sha256": "45ff660a71a51fd78bc32d6b3dac99ab69eb73c1daa166c3adbccf41f8603dc3",
+      "bytes": 9168
+    },
+    {
+      "path": "sources/author-p272-p291-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/author-p272-p291-local-KORE307102026.md",
+      "sha256": "a57ddc36db6385d213a0dc5ef46baba31a513c07d2f2fe2e5f2b403ecd8ceae5",
+      "bytes": 12438
+    },
+    {
+      "path": "sources/author-p272-p291-local-KORE701402024.md",
+      "sha256": "fed3052223986a8038d4f9a18b3c2a745b33e3cccfbce6547e00891a0e8a1ffd",
+      "bytes": 9206
+    },
+    {
+      "path": "sources/author-p272-p291-local-KORE722642025.md",
+      "sha256": "023423b5872cc62b2780ec938223b7bca44c0a7190d29fd721721b1799029a4c",
+      "bytes": 12492
+    },
+    {
+      "path": "sources/author-p272-p291-search-log.json",
+      "sha256": "eb0741dca70585647831fc3394ee9b7d42dcdc0ba4012ea3df1842816394d04a",
+      "bytes": 5092
+    },
+    {
+      "path": "sources/author-p272-p291-sgb_11.xml",
+      "sha256": "3ea35ac49ff03b68a865d16303a7a95995f5e3ade770873f17e9d43496108965",
+      "bytes": 969609
+    },
+    {
+      "path": "sources/author-p272-p291-sgb_11.zip",
+      "sha256": "6845aec3a1fe8ff6ee7c73754883d17a17fc89c60caba5634c0783ac81fa929d",
+      "bytes": 197813
+    },
+    {
+      "path": "sources/author-p272-p291-vbvg_2023.xml",
+      "sha256": "a6931069f631d27b3fd51d8db3ee693bf282e3579b2bbbfaa3d2d8a5ec26260a",
+      "bytes": 35031
+    },
+    {
+      "path": "sources/author-p272-p291-vbvg_2023.zip",
+      "sha256": "a6f8536f2543084ef38d5ac1f115fc14782aaca40dc279c206e3e776ac8c7164",
+      "bytes": 7120
+    },
+    {
+      "path": "sources/author-p272-p291-version-map.json",
+      "sha256": "d1bc666d81f7ccf13cc39f95e1c215650ec1e5fe1d2043b8d390d69fa8e05b23",
+      "bytes": 39344
+    },
+    {
+      "path": "sources/author-p272-p291-zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/author-p272-p291-zpo.zip",
       "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
       "bytes": 245324
     },
@@ -2426,8 +2586,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "6741c111bd8a3c9f7a643b87cccdce337b332faa285091271797a32466b5febf",
-      "bytes": 195859
+      "sha256": "e047bbac26b42e0a39e3d288246f8f4223bb7c0348fb861dbdb179a90936b913",
+      "bytes": 205362
     }
   ]
 }

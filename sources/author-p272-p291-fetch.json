@@ -1,0 +1,171 @@
+[
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "accessed_at": "2026-10-20T18:40:34.844172+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p272-p291-famfg.zip",
+    "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "xml_path": "sources/author-p272-p291-famfg.xml",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "format_validation": "ZIP magic, CRC, one parseable XML, official identity",
+    "stand_notices": [
+      "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+      "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+    ],
+    "same_as_authoring_start_xml": true
+  },
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "accessed_at": "2026-10-20T18:40:35.185485+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p272-p291-bgb.zip",
+    "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+    "xml_path": "sources/author-p272-p291-bgb.xml",
+    "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+    "format_validation": "ZIP magic, CRC, one parseable XML, official identity",
+    "stand_notices": [
+      "NeufNeugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+      "Standzuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+    ]
+  },
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+    "accessed_at": "2026-10-20T18:40:35.468502+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p272-p291-zpo.zip",
+    "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+    "xml_path": "sources/author-p272-p291-zpo.xml",
+    "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+    "format_validation": "ZIP magic, CRC, one parseable XML, official identity",
+    "stand_notices": [
+      "NeufNeugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;",
+      "Standzuletzt geändert Art. 2 G v. 22.12.2025 I Nr. 349",
+      "HinweisÄnderung durch Art. 1 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "HinweisÄnderung durch Art. 2 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "HinweisÄnderung durch Art. 3 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+    ]
+  },
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.gesetze-im-internet.de/vbvg_2023/xml.zip",
+    "accessed_at": "2026-10-20T18:40:35.681809+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p272-p291-vbvg_2023.zip",
+    "sha256": "a6f8536f2543084ef38d5ac1f115fc14782aaca40dc279c206e3e776ac8c7164",
+    "xml_path": "sources/author-p272-p291-vbvg_2023.xml",
+    "xml_sha256": "a6931069f631d27b3fd51d8db3ee693bf282e3579b2bbbfaa3d2d8a5ec26260a",
+    "format_validation": "ZIP magic, CRC, one parseable XML, official identity",
+    "stand_notices": [
+      "SonstErsetzt G 400-16 v. 21.4.2005 I 1073, 1076 (VBVG)",
+      "StandZuletzt geändert durch Art. 1 G v. 7.4.2025 I Nr. 109"
+    ]
+  },
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.gesetze-im-internet.de/bnoto/xml.zip",
+    "accessed_at": "2026-10-20T18:40:35.798232+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p272-p291-bnoto.zip",
+    "sha256": "686f0170a75873e99a532b8792f36729f362a8aaf38efccb56e268b8c9a7c654",
+    "xml_path": "sources/author-p272-p291-bnoto.xml",
+    "xml_sha256": "536e58a9803a662b0d3f7d8b59dcc59263faed8c666dcbd07bf1ff55286a13a4",
+    "format_validation": "ZIP magic, CRC, one parseable XML, official identity",
+    "stand_notices": [
+      "StandZuletzt geändert durch Art. 3 G v. 16.7.2026 I Nr. 212"
+    ]
+  },
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.gesetze-im-internet.de/famfg/",
+    "accessed_at": "2026-10-20T18:40:35.939119+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/author-p272-p291-index.html",
+    "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+    "format_validation": "HTML signature and expected official identity"
+  },
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "accessed_at": "2026-10-20T18:40:36.164266+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/author-p272-p291-current-service.html",
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "format_validation": "HTML signature and expected official identity"
+  },
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE701402024.zip",
+    "accessed_at": "2026-10-20T18:40:36.314922+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p272-p291-XII-ZB-521-23.zip",
+    "sha256": "639b16e54d73c66a848a902e22563d01e779d37b140cd14788785bd10205e56d",
+    "xml_path": "sources/author-p272-p291-XII-ZB-521-23.xml",
+    "xml_sha256": "34be69ad94565830f655112dfa6043094621f6298b5e63bc377fdec31fbd666a",
+    "format_validation": "ZIP magic, CRC, one parseable XML, official identity",
+    "local_corpus_path": "sources/author-p272-p291-local-KORE701402024.md",
+    "local_corpus_sha256": "fed3052223986a8038d4f9a18b3c2a745b33e3cccfbce6547e00891a0e8a1ffd"
+  },
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE722642025.zip",
+    "accessed_at": "2026-10-20T18:40:36.538523+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p272-p291-XII-ZB-140-25.zip",
+    "sha256": "c0c1bec3987951608310437cdeb5a031a0bfe6565370fe1cc91c0cfab94ed0a2",
+    "xml_path": "sources/author-p272-p291-XII-ZB-140-25.xml",
+    "xml_sha256": "4bfd5b646c3256669ba2f5eef62e1ba0b0326a383cf39a3d93fbb797740d296b",
+    "format_validation": "ZIP magic, CRC, one parseable XML, official identity",
+    "local_corpus_path": "sources/author-p272-p291-local-KORE722642025.md",
+    "local_corpus_sha256": "023423b5872cc62b2780ec938223b7bca44c0a7190d29fd721721b1799029a4c"
+  },
+  {
+    "purpose": "bounded author p272-p291",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307102026.zip",
+    "accessed_at": "2026-10-20T18:40:36.661237+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p272-p291-XII-ZB-457-25.zip",
+    "sha256": "ec4dffe95ead129c12600f1e8b944dd8c9d91b4ca35282cf4e9358af585766d9",
+    "xml_path": "sources/author-p272-p291-XII-ZB-457-25.xml",
+    "xml_sha256": "fadb72a98e72dd182986ef78e9585735798f0368c744c4b88b0ff62f5ebe2b80",
+    "format_validation": "ZIP magic, CRC, one parseable XML, official identity",
+    "local_corpus_path": "sources/author-p272-p291-local-KORE307102026.md",
+    "local_corpus_sha256": "a57ddc36db6385d213a0dc5ef46baba31a513c07d2f2fe2e5f2b403ecd8ceae5"
+  },
+  {
+    "purpose": "bounded author p272-p291 auxiliary source",
+    "url": "https://www.recht.bund.de/bgbl/1/2025/109/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T18:46:02.859936+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "path": "sources/author-p272-p291-bgbl-2025-109.pdf",
+    "sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "format_validation": "PDF magic and EOF; extracted text identity checked separately"
+  },
+  {
+    "purpose": "bounded author p272-p291 auxiliary source",
+    "url": "https://www.gesetze-im-internet.de/sgb_11/xml.zip",
+    "accessed_at": "2026-10-20T18:46:03.208630+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p272-p291-sgb_11.zip",
+    "sha256": "6845aec3a1fe8ff6ee7c73754883d17a17fc89c60caba5634c0783ac81fa929d",
+    "xml_path": "sources/author-p272-p291-sgb_11.xml",
+    "xml_sha256": "3ea35ac49ff03b68a865d16303a7a95995f5e3ade770873f17e9d43496108965",
+    "format_validation": "ZIP signature, CRC, XML parse, SGB XI identity"
+  }
+]

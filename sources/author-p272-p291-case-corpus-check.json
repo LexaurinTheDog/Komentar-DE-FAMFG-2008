@@ -1,0 +1,131 @@
+{
+  "verified_at": "2026-10-20T18:47:20.861144+00:00",
+  "cases": [
+    {
+      "docket": "XII ZB 521/23",
+      "doknr": "KORE701402024",
+      "ecli": "ECLI:DE:BGH:2024:050624BXIIZB521.23.0",
+      "official_path": "sources/author-p272-p291-XII-ZB-521-23.xml",
+      "official_sha256": "34be69ad94565830f655112dfa6043094621f6298b5e63bc377fdec31fbd666a",
+      "local_path": "sources/author-p272-p291-local-KORE701402024.md",
+      "local_sha256": "fed3052223986a8038d4f9a18b3c2a745b33e3cccfbce6547e00891a0e8a1ffd",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "paragraphs_checked": 20,
+      "all_substantial_official_paragraphs_present_in_local_corpus": true,
+      "full_text_read": true,
+      "read_sections": [
+        "leitsatz",
+        "tenor",
+        "tatbestand",
+        "entscheidungsgruende",
+        "gruende",
+        "sonstlt"
+      ],
+      "supported_units": [
+        "p276",
+        "p286"
+      ],
+      "correction_checked": false
+    },
+    {
+      "docket": "XII ZB 140/25",
+      "doknr": "KORE722642025",
+      "ecli": "ECLI:DE:BGH:2025:130825BXIIZB140.25.0",
+      "official_path": "sources/author-p272-p291-XII-ZB-140-25.xml",
+      "official_sha256": "4bfd5b646c3256669ba2f5eef62e1ba0b0326a383cf39a3d93fbb797740d296b",
+      "local_path": "sources/author-p272-p291-local-KORE722642025.md",
+      "local_sha256": "023423b5872cc62b2780ec938223b7bca44c0a7190d29fd721721b1799029a4c",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "paragraphs_checked": 23,
+      "all_substantial_official_paragraphs_present_in_local_corpus": true,
+      "full_text_read": true,
+      "read_sections": [
+        "leitsatz",
+        "tenor",
+        "tatbestand",
+        "entscheidungsgruende",
+        "gruende",
+        "sonstlt"
+      ],
+      "supported_units": [
+        "p278"
+      ],
+      "correction_checked": false
+    },
+    {
+      "docket": "XII ZB 457/25",
+      "doknr": "KORE307102026",
+      "ecli": "ECLI:DE:BGH:2026:150426BXIIZB457.25.0",
+      "official_path": "sources/author-p272-p291-XII-ZB-457-25.xml",
+      "official_sha256": "fadb72a98e72dd182986ef78e9585735798f0368c744c4b88b0ff62f5ebe2b80",
+      "local_path": "sources/author-p272-p291-local-KORE307102026.md",
+      "local_sha256": "a57ddc36db6385d213a0dc5ef46baba31a513c07d2f2fe2e5f2b403ecd8ceae5",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "paragraphs_checked": 32,
+      "all_substantial_official_paragraphs_present_in_local_corpus": true,
+      "full_text_read": true,
+      "read_sections": [
+        "leitsatz",
+        "tenor",
+        "tatbestand",
+        "entscheidungsgruende",
+        "gruende",
+        "sonstlt"
+      ],
+      "supported_units": [
+        "p274",
+        "p276",
+        "p278",
+        "p285"
+      ],
+      "correction_checked": true
+    }
+  ],
+  "limits": "Exact text/provenance comparison is technical. Full-text holdings and boundaries separately assessed in case cards; no independent review claim."
+}

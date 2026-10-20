@@ -60,3 +60,6 @@ Die Zweitprüfung genau der §§ 232–251 hat beide zuletzt ergänzten BGH-Voll
 
 
 Autorencharge §§ 252–271: drei weitere vollständig gelesene amtliche BGH-Volltexte, insgesamt 33 selektive Fallkarten. [12. Oktober 2022 — XII ZB 450/21](BGH-XII-ZB-450-21.md), [20. Mai 2026 — XII ZB 84/26](BGH-XII-ZB-84-26.md) und [18. September 2024 — XII ZB 25/24](BGH-XII-ZB-25-24.md). Sämtliche 42, 18 beziehungsweise 19 Randnummern sind gelesen und mit dem nationalen Korpus abgeglichen. Die offene Beschwerdebegründungsfrage und der historische Zuständigkeitsvorbehalt sind ausdrücklich verzeichnet. Die Auswahl ist keine vollständige Rechtsprechungsübersicht.
+
+
+Autorencharge §§ 272–291: drei weitere vollständig gelesene amtliche BGH-Texte, insgesamt 36 selektive Fallkarten. [5. Juni 2024 — XII ZB 521/23](BGH-XII-ZB-521-23.md), [13. August 2025 — XII ZB 140/25](BGH-XII-ZB-140-25.md) und [15. April 2026 — XII ZB 457/25](BGH-XII-ZB-457-25.md). Gelesen sind sämtliche 12, 16 und 15 Randnummern, die Tenöre und bei XII ZB 457/25 der Berichtigungsbeschluss vom 27. Mai 2026. Verfahrenspflegerbestellung, Angehörigenbeteiligung, erneute Anhörung und Vollmachtsakzeptanz sind mit präzisen Aussagegrenzen belegt. Keine erschöpfende Übersicht oder unabhängige Zweitprüfung der neuen Kommentierung.
