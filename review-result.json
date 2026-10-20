@@ -194,5 +194,64 @@
     "Selective primary case research and limited amendment screening, no exhaustive subsequent-case or historical-law reconstruction.",
     "No external professional approval; technical checks do not establish legal quality."
   ],
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "completed_at": "2026-10-20T18:14:38.639514+00:00",
+  "validation": {
+    "assigned_batch_ok": true,
+    "reviewed_ids_exact": true,
+    "changed_ids": [
+      "p232",
+      "p233",
+      "p239",
+      "p242",
+      "p247",
+      "p251"
+    ],
+    "unchanged_after_full_review": [
+      "p234",
+      "p235",
+      "p236",
+      "p237",
+      "p238",
+      "p240",
+      "p241",
+      "p243",
+      "p244",
+      "p245",
+      "p246",
+      "p248",
+      "p249",
+      "p250"
+    ],
+    "unassigned_commentary_changes": [],
+    "unassigned_260_preserved": true,
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "exported_assigned_count": 20,
+    "exported_commentary_agrees": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 593325,
+      "errors": [
+        "krátký/chybějící komentář u 249 jednotek: ['p252(0<400)', 'p253(0<400)', 'p254(0<400)', 'p255(0<400)', 'p256(0<400)', 'p257(0<400)', 'p258(0<400)', 'p259(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "reason_for_global_failure": "249 unannotated units from p252 outside this bounded review",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 760,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T18:14:38.639514+00:00",
+    "whole_book_complete": false
+  }
 }
