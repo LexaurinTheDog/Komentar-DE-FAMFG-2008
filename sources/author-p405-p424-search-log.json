@@ -1,0 +1,72 @@
+{
+  "scope": [
+    "p405",
+    "p406",
+    "p407",
+    "p408",
+    "p409",
+    "p410",
+    "p411",
+    "p412",
+    "p413",
+    "p414",
+    "p415",
+    "p416",
+    "p417",
+    "p418",
+    "p419",
+    "p420",
+    "p421",
+    "p422",
+    "p423",
+    "p424"
+  ],
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"§ 417\" \"Abs. 3\"",
+    "site.bundesgerichtshof.de \"XIII ZB\" \"Haftantrag\" \"2024\"",
+    "site.rechtsprechung-im-internet.de \"XIII ZB 49/21\"",
+    "site.juris.bundesgerichtshof.de \"XIII ZB 49/21\"",
+    "site.rechtsprechung-im-internet.de \"Dispache\" \"405\"",
+    "site.rechtsprechung-im-internet.de \"410\" \"eidesstattlichen Versicherung\"",
+    "site.rechtsprechung-im-internet.de \"424\" \"Aussetzung\" \"FamFG\""
+  ],
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "query": "rg -l XIII ZB 49/21 --glob *.md",
+    "hit": "rii-kore301032024.md"
+  },
+  "fully_read": [
+    "KORE301032024: metadata, tenor and all reasons 1–11; official freshly fetched XML compared with local full text"
+  ],
+  "supported_units": [
+    "p417",
+    "p418",
+    "p420"
+  ],
+  "not_used": [
+    "Third-party redactions and search snippets. XIII ZB 58/25 surfaced during discovery but not full-text verified or cited."
+  ],
+  "no_sufficiently_relevant_verified_case_added": [
+    "p405",
+    "p406",
+    "p407",
+    "p408",
+    "p409",
+    "p410",
+    "p411",
+    "p412",
+    "p413",
+    "p414",
+    "p415",
+    "p416",
+    "p419",
+    "p421",
+    "p422",
+    "p423",
+    "p424"
+  ],
+  "limitations": [
+    "Selective research; no assertion that uncited units have no relevant cases.",
+    "No Firecrawl tool exposed in current tool catalog; direct official structured ZIP/XML fetch used."
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T22:19:06.171385+00:00",
+  "updated_at": "2026-10-20T22:28:10.592833+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
-  "completed_units": 440,
-  "remaining_units": 89,
+  "completed_units": 460,
+  "remaining_units": 69,
   "case_law_sources": [
     "cases/BGH-2023-09-19-II-ZB-15-22.md",
     "cases/BGH-II-ZB-20-21.md",
@@ -56,6 +56,7 @@
     "cases/BGH-XII-ZB-674-14.md",
     "cases/BGH-XII-ZB-84-26.md",
     "cases/BGH-XII-ZR-80-11.md",
+    "cases/BGH-XIII-ZB-49-21.md",
     "cases/OLG-Bamberg-3-Wx-15-24.md",
     "cases/OLG-Nuernberg-15-Wx-988-23.md"
   ],
@@ -74,16 +75,16 @@
     "Bounded second pass of exactly p385–p404; whole manuscript incomplete (89 other comments missing).",
     "Selective existing case authority re-read; no exhaustive case-law search or external lawyer approval."
   ],
-  "commented_scope": "§§ 1–364 einschließlich der Buchstabenparagraphen",
+  "commented_scope": "§§ 1–424 einschließlich der Buchstabenparagraphen",
   "resume": {
-    "last_commented_id": "p364",
-    "next_uncommented_id": "p365",
+    "last_commented_id": "p424",
+    "next_uncommented_id": "p425",
     "missing_identifiers": "completeness-report.json#missing_commentary",
     "full_parser": "_parse.py",
     "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
-    "instructions": "Preserve 400 existing commentaries and previous reviews. Bounded review p350–p364 complete; continue only on new assignment."
+    "instructions": "Preserve all 460 existing comments. Fresh independent second pass is needed for exactly p405–p424. Author further units only on assignment."
   },
   "source_preflight": {
     "complete": true,
@@ -91,9 +92,9 @@
     "verified_at": "2026-10-20T19:18:04.753608+00:00",
     "date": "2026-10-20",
     "commentaries_changed": false,
-    "latest_bounded_author_recheck": "sources/author-p292-p309a-version-map.json",
+    "latest_bounded_author_recheck": "sources/author-p405-p424-version-map.json",
     "latest_bounded_review_recheck": "sources/review-p330-p349-version-map.json",
-    "latest_bounded_author": "sources/author-p310-p329-version-map.json"
+    "latest_bounded_author": "sources/author-p405-p424-version-map.json"
   },
   "bounded_review": {
     "complete": true,
@@ -792,7 +793,7 @@
   ],
   "cumulative_independently_reviewed_units": 400,
   "remaining_existing_commentaries_for_review": 0,
-  "commentary_characters": 941255,
+  "commentary_characters": 1005943,
   "bounded_authoring": {
     "complete": true,
     "units_written": 20,
@@ -904,65 +905,50 @@
   "bounded_author": {
     "kind": "bounded_author",
     "complete": true,
+    "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
     "authored_ids": [
-      "p385",
-      "p386",
-      "p387",
-      "p388",
-      "p389",
-      "p390",
-      "p391",
-      "p392",
-      "p393",
-      "p394",
-      "p395",
-      "p396",
-      "p397",
-      "p398",
-      "p399",
-      "p400",
-      "p401",
-      "p402",
-      "p403",
-      "p404"
+      "p405",
+      "p406",
+      "p407",
+      "p408",
+      "p409",
+      "p410",
+      "p411",
+      "p412",
+      "p413",
+      "p414",
+      "p415",
+      "p416",
+      "p417",
+      "p418",
+      "p419",
+      "p420",
+      "p421",
+      "p422",
+      "p423",
+      "p424"
     ],
     "units_authored": 20,
-    "commentary_characters": 31262,
-    "previous_420_comments_unchanged": true,
+    "commentary_characters": 33122,
+    "previous_440_commentary_blocks_unchanged": true,
     "whole_book_complete": false,
     "total_units": 529,
-    "completed_units": 440,
-    "remaining_units": 89,
+    "completed_units": 460,
+    "remaining_units": 69,
     "statutory_agreement": 1.0,
     "parser_reproducible": true,
     "independent_second_pass_complete": false,
     "case_law_sources": [
-      "cases/BGH-II-ZB-20-21.md"
+      "cases/BGH-XIII-ZB-49-21.md"
     ],
     "unresolved_batch_blockers": [],
     "limitations": [
       "Independent second pass pending.",
-      "Selective case-law coverage.",
-      "89 unassigned comments absent; full build and full strict validation remain unsuccessful.",
-      "Length and repetition checks do not prove substantive legal quality."
+      "Selective case-law research; one new fully read official decision.",
+      "69 unassigned comments absent; full builder and strict whole-book validation cannot pass yet.",
+      "Length and similarity checks are not legal quality proof."
     ],
-    "local_links_checked": 1190,
-    "broken_local_links": [],
-    "all_20_assigned_exported": true,
-    "previous_21_chapters_unchanged": true,
-    "strict_validation": {
-      "repo": "Komentar-DE-FAMFG-2008",
-      "units": 529,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 972517,
-      "errors": [
-        "krátký/chybějící komentář u 89 jednotek: ['p405(0<400)', 'p406(0<400)', 'p407(0<400)', 'p408(0<400)', 'p409(0<400)', 'p410(0<400)', 'p411(0<400)', 'p412(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "strict_exit_code": 1,
-    "full_builder_exit_code": 1
+    "completed_at": "2026-10-20T22:28:10.592833+00:00"
   },
   "bounded_author_history": [
     {

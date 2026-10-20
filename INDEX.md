@@ -1,6 +1,6 @@
 # INDEX — FamFG: unvollständige Arbeitsausgabe
 
-Kommentiert: § 1–§ 404 (440 von 529 Einheiten). Ab § 405 fehlen 89 Kommentare. Kein vollständiger Gesetzeskommentar.
+Kommentiert: § 1–§ 424 (460 von 529 Einheiten). Ab § 425 fehlen 69 Kommentare. Kein vollständiger Gesetzeskommentar.
 
 - [Einleitung](00-einleitung.md)
 
@@ -53,6 +53,8 @@ Kommentiert: § 1–§ 404 (440 von 529 Einheiten). Ab § 405 fehlen 89 Kommenta
 - [§ 365–§ 384](21-paragraphen-365.md) — 20 kommentierte Einheiten
 
 - [§ 385–§ 404](22-paragraphen-385.md) — 20 kommentierte Einheiten
+
+- [§ 405–§ 424](23-paragraphen-405.md) — 20 kommentierte Einheiten
 
 
 

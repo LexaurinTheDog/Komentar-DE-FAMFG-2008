@@ -78,3 +78,5 @@ Autorencharge §§ 310–329: [XII ZB 183/25](BGH-XII-ZB-183-25.md), [207/25](BG
 - [BGH, 19. September 2023 – II ZB 15/22](BGH-2023-09-19-II-ZB-15-22.md): § 382, behebbares Hindernis und unzulässige Aufforderung zur Antragsrücknahme durch Zwischenverfügung.
 
 - [BGH II ZB 20/21, 26. Juli 2022](BGH-II-ZB-20-21.md): Registerfolgen nachträglich entdeckten Vermögens, § 394.
+
+- [BGH, 11. Juni 2024 – XIII ZB 49/21](BGH-XIII-ZB-49-21.md): §§ 417, 418, 420; wesentliche Antragsergänzung vor Anhörung und Vertrauensperson im eigenständigen Haftaufhebungsverfahren.

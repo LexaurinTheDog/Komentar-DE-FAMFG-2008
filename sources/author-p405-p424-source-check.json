@@ -1,0 +1,11 @@
+{
+  "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+  "accessed_at": "2026-10-20T22:23:30.640912+00:00",
+  "http_status": 200,
+  "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+  "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "path": "sources/author-p405-p424-current.zip",
+  "same_as_preserved_xml": true,
+  "format_validation": "ZIP opened and XML parsed",
+  "version_basis": "Existing preflight-result.json, decisive date 2026-10-19; this is a delivery recheck, not independent commencement proof."
+}

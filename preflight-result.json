@@ -8358,5 +8358,21 @@
     "historical_versions_checked": "529 unique provision labels and doknr, no historical duplicates; future 2027 changes excluded per retained commencement evidence.",
     "annexes_checked": "All 599 XML norms classified; no annex and no operative opening formula supplied; law-head notes retained; final provisions included.",
     "unresolved_blockers": []
+  },
+  "bounded_author_recheck_p405_p424": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T22:23:30.640912+00:00",
+    "historical_versions_checked": {
+      "unique_paragraphs": 529,
+      "duplicates": [],
+      "duplicate_doknr": [],
+      "toc_agrees": true,
+      "excluded_future_changes": "BGBl.2026 I Nr.198 Art.4 except Nr.8 effective 2027-07-01; see Art.10(2) retained official PDF/text. No assigned provision affected by these future changes."
+    },
+    "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "unresolved_blockers": [],
+    "version_evidence": "sources/author-p405-p424-version-map.json"
   }
 }

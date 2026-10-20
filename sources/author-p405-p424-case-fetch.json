@@ -1,0 +1,9 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301032024.zip",
+  "accessed_at": "2026-10-20T22:23:43.387417+00:00",
+  "http_status": 200,
+  "zip_sha256": "90f6ee078ef073f21301e3a37207cae3186a82f87d4e5761a62c418521244bdc",
+  "xml_sha256": "383d1729180339e4341a75449781484cf0e6df1410e3655923c1134cf51d1946",
+  "validation": "ZIP opened, XML parsed",
+  "local_corpus_match": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore301032024.md"
+}

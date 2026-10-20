@@ -4841,6 +4841,63 @@
       "xml_path": "sources/author-p385-p404-II-ZB-20-21.xml",
       "xml_sha256": "51e6bccc6305cc2765c5fb1e67bc5a3f5be18d078123c18a383826c1eee2961f",
       "format_validation": "ZIP opened and XML parsed"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T22:23:30.640912+00:00",
+      "http_status": 200,
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "path": "sources/author-p405-p424-current.zip",
+      "same_as_preserved_xml": true,
+      "format_validation": "ZIP opened and XML parsed",
+      "version_basis": "Existing preflight-result.json, decisive date 2026-10-19; this is a delivery recheck, not independent commencement proof."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "accessed_at": "2026-10-20T22:27:00.502811+00:00",
+      "http_status": 200,
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "path": "sources/author-p405-p424-zpo.zip",
+      "xml_path": "sources/author-p405-p424-zpo.xml",
+      "format_validation": "ZIP opened and XML parsed",
+      "selected": [
+        {
+          "id": "§ 478",
+          "text": "Der Eid muss von dem Schwurpflichtigen in Person geleistet werden."
+        },
+        {
+          "id": "§ 479",
+          "text": "(1) Das Prozessgericht kann anordnen, dass der Eid vor einem seiner Mitglieder oder vor einem anderen Gericht geleistet werde, wenn der Schwurpflichtige am Erscheinen vor dem Prozessgericht verhindert ist oder sich in großer Entfernung von dessen Sitz aufhält und die Leistung des Eides nach § 284 Absatz 2 und 3 nicht stattfindet.(2) Der Bundespräsident leistet den Eid in seiner Wohnung vor einem Mitglied des Prozessgerichts oder vor einem anderen Gericht."
+        },
+        {
+          "id": "§ 480",
+          "text": "Vor der Leistung des Eides hat der Richter den Schwurpflichtigen in angemessener Weise über die Bedeutung des Eides sowie darüber zu belehren, dass er den Eid mit religiöser oder ohne religiöse Beteuerung leisten kann."
+        },
+        {
+          "id": "§ 483",
+          "text": "(1) Eine hör- oder sprachbehinderte Person leistet den Eid nach ihrer Wahl mittels Nachsprechens der Eidesformel, mittels Abschreibens und Unterschreibens der Eidesformel oder mit Hilfe einer die Verständigung ermöglichenden Person, die vom Gericht hinzuzuziehen ist. Das Gericht hat die geeigneten technischen Hilfsmittel bereitzustellen. Die hör- oder sprachbehinderte Person ist auf ihr Wahlrecht hinzuweisen.(2) Das Gericht kann eine schriftliche Eidesleistung verlangen oder die Hinzuziehung einer die Verständigung ermöglichenden Person anordnen, wenn die hör- oder sprachbehinderte Person von ihrem Wahlrecht nach Absatz 1 keinen Gebrauch gemacht hat oder eine Eidesleistung in der nach Absatz 1 gewählten Form nicht oder nur mit unverhältnismäßigem Aufwand möglich ist. "
+        },
+        {
+          "id": "§ 878",
+          "text": "(1) Der widersprechende Gläubiger muss ohne vorherige Aufforderung binnen einer Frist von einem Monat, die mit dem Terminstag beginnt, dem Gericht nachweisen, dass er gegen die beteiligten Gläubiger Klage erhoben habe. Nach fruchtlosem Ablauf dieser Frist wird die Ausführung des Planes ohne Rücksicht auf den Widerspruch angeordnet.(2) Die Befugnis des Gläubigers, der dem Plan widersprochen hat, ein besseres Recht gegen den Gläubiger, der einen Geldbetrag nach dem Plan erhalten hat, im Wege der Klage geltend zu machen, wird durch die Versäumung der Frist und durch die Ausführung des Planes nicht ausgeschlossen. "
+        },
+        {
+          "id": "§ 879",
+          "text": "(1) Die Klage ist bei dem Verteilungsgericht und, wenn der Streitgegenstand zur Zuständigkeit der Amtsgerichte nicht gehört, bei dem Landgericht zu erheben, in dessen Bezirk das Verteilungsgericht seinen Sitz hat.(2) Das Landgericht ist für sämtliche Klagen zuständig, wenn seine Zuständigkeit nach dem Inhalt der erhobenen und in dem Termin nicht zur Erledigung gelangten Widersprüche auch nur bei einer Klage begründet ist, sofern nicht die sämtlichen beteiligten Gläubiger vereinbaren, dass das Verteilungsgericht über alle Widersprüche entscheiden solle. "
+        }
+      ],
+      "limited_check": "Only direct statutory references of FamFG §§407 and 413; not commentary on the entire ZPO."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301032024.zip",
+      "accessed_at": "2026-10-20T22:23:43.387417+00:00",
+      "http_status": 200,
+      "sha256": "90f6ee078ef073f21301e3a37207cae3186a82f87d4e5761a62c418521244bdc",
+      "path": "sources/author-p405-p424-case-XIII-ZB-49-21.zip",
+      "xml_sha256": "383d1729180339e4341a75449781484cf0e6df1410e3655923c1134cf51d1946",
+      "format_validation": "ZIP opened, XML parsed"
     }
   ],
   "version_assessment": {

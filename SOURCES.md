@@ -220,3 +220,6 @@ Autorencharge §§ 365–384: [frische amtliche Abrufe mit UTC-Zeiten, HTTP-Erge
 
 
 Amtlicher FamFG-ZIP/XML- und Indexabruf für §§ 385–404: [Abrufprotokoll](sources/author-p385-p404-fetch.json), [Wortlaut- und Fassungsabgleich](sources/author-p385-p404-checks.json). Amtliche Lieferung weiterhin bytegleich mit der auf Inkrafttreten geprüften Grundlage. [Selektive Recherche](sources/author-p385-p404-search-log.json) und [BGH II ZB 20/21](cases/BGH-II-ZB-20-21.md); Tenor und Gründe 1–18 vollständig gelesen, alle 18 nummerierten Begründungsabschnitte mit dem nationalen Korpus abgeglichen.
+
+
+Autorencharge §§ 405–424: [Amtlicher FamFG-Abruf](sources/author-p405-p424-source-check.json), [Fassungsabgleich](sources/author-p405-p424-version-map.json), [ZPO-Verweisungsprüfung](sources/author-p405-p424-zpo-check.json), [selektive Recherche](sources/author-p405-p424-search-log.json), [BGH XIII ZB 49/21](cases/BGH-XIII-ZB-49-21.md). Vollständiger amtlicher Entscheidungsinhalt einschließlich aller Gründe 1–11 gelesen. Gesamtstand 460 kommentierte Einheiten, 69 offen; ältere Zahlen sind historische Fortschrittsstände.

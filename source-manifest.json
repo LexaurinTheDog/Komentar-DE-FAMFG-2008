@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:21:23.839791+00:00",
+  "generated_at": "2026-10-20T22:28:11.989709+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -1368,6 +1368,61 @@
       "path": "sources/author-p385-p404-search-log.json",
       "sha256": "a40426a2146510ac1c6a6d75f942bd5fb9ea508324a5c23e8cfa8003b5b01480",
       "bytes": 993
+    },
+    {
+      "path": "sources/author-p405-p424-case-XIII-ZB-49-21.txt",
+      "sha256": "105ced89a59ed5f05d4ca3480c0902588bc788409e92fcaa0d27ae882a099503",
+      "bytes": 9853
+    },
+    {
+      "path": "sources/author-p405-p424-case-XIII-ZB-49-21.xml",
+      "sha256": "383d1729180339e4341a75449781484cf0e6df1410e3655923c1134cf51d1946",
+      "bytes": 14998
+    },
+    {
+      "path": "sources/author-p405-p424-case-XIII-ZB-49-21.zip",
+      "sha256": "90f6ee078ef073f21301e3a37207cae3186a82f87d4e5761a62c418521244bdc",
+      "bytes": 4095
+    },
+    {
+      "path": "sources/author-p405-p424-case-fetch.json",
+      "sha256": "481268979b5799b7d86fe76b74711f4583e3ad3f7bb91d049106e54a2f06bccb",
+      "bytes": 466
+    },
+    {
+      "path": "sources/author-p405-p424-current.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/author-p405-p424-search-log.json",
+      "sha256": "3a2a107fb61398fc6296be1f821ebda691d9b4574900a958927f4e37761c6890",
+      "bytes": 1734
+    },
+    {
+      "path": "sources/author-p405-p424-source-check.json",
+      "sha256": "77274ea43ec45527ec36dc2d619e267e7e29261e9e3f4028e6c9949b6c81ade9",
+      "bytes": 582
+    },
+    {
+      "path": "sources/author-p405-p424-version-map.json",
+      "sha256": "afcf4f9302640c0fdf371078106692a5be0c422199680beb773d118ef6a5ca79",
+      "bytes": 6444
+    },
+    {
+      "path": "sources/author-p405-p424-zpo-check.json",
+      "sha256": "1ab89774abc76ddf3160cc0ae2cc17375c7608a0f9e778ba5f3eaca9df56696c",
+      "bytes": 3634
+    },
+    {
+      "path": "sources/author-p405-p424-zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/author-p405-p424-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
     },
     {
       "path": "sources/bgbl-152-2026-10-20.pdf",
@@ -3791,8 +3846,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "2bb3a8109f6c9efe7d600d99efb1d6f46cdcbd1c40702ec31812d31d7a5ec81b",
-      "bytes": 268765
+      "sha256": "835d0f3633f5678669bde30310e48196af781093e6b84d6e116e06ab95dec2b6",
+      "bytes": 273658
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "kind": "bounded_author",
+  "complete": true,
+  "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
+  "authored_ids": [
+    "p405",
+    "p406",
+    "p407",
+    "p408",
+    "p409",
+    "p410",
+    "p411",
+    "p412",
+    "p413",
+    "p414",
+    "p415",
+    "p416",
+    "p417",
+    "p418",
+    "p419",
+    "p420",
+    "p421",
+    "p422",
+    "p423",
+    "p424"
+  ],
+  "units_authored": 20,
+  "commentary_characters": 33122,
+  "previous_440_commentary_blocks_unchanged": true,
+  "whole_book_complete": false,
+  "total_units": 529,
+  "completed_units": 460,
+  "remaining_units": 69,
+  "statutory_agreement": 1.0,
+  "parser_reproducible": true,
+  "independent_second_pass_complete": false,
+  "case_law_sources": [
+    "cases/BGH-XIII-ZB-49-21.md"
+  ],
+  "unresolved_batch_blockers": [],
+  "limitations": [
+    "Independent second pass pending.",
+    "Selective case-law research; one new fully read official decision.",
+    "69 unassigned comments absent; full builder and strict whole-book validation cannot pass yet.",
+    "Length and similarity checks are not legal quality proof."
+  ],
+  "completed_at": "2026-10-20T22:28:10.592833+00:00",
+  "local_links_checked": 1214,
+  "broken_local_links": [],
+  "all_20_assigned_units_exported": true,
+  "previous_22_chapters_unchanged": true
+}
