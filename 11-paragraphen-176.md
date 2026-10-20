@@ -1,6 +1,4 @@
-# Kommentarkapitel 11 — § 176–§ 194
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 11 — § 176–§ 194: Buch 2 — Verfahren in Familiensachen
 
 #### Buch 2 — Verfahren in Familiensachen
 

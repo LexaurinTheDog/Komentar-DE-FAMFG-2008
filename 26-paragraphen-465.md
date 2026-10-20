@@ -1,6 +1,4 @@
-# Kommentarkapitel 26 — § 465–§ 484
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 26 — § 465–§ 484: Buch 8 — Verfahren in Aufgebotssachen
 
 #### Buch 8 — Verfahren in Aufgebotssachen
 

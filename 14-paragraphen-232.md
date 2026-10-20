@@ -1,6 +1,4 @@
-# Kommentarkapitel 14 — § 232–§ 251
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 14 — § 232–§ 251: Buch 2 — Verfahren in Familiensachen
 
 #### Buch 2 — Verfahren in Familiensachen
 

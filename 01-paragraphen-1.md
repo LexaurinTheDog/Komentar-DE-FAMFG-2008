@@ -1,6 +1,4 @@
-# Kommentarkapitel 01 — § 1–§ 18
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 01 — § 1–§ 18: Buch 1 — Allgemeiner Teil
 
 #### Buch 1 — Allgemeiner Teil
 

@@ -1,6 +1,4 @@
-# Kommentarkapitel 16 — § 272–§ 291
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 16 — § 272–§ 291: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
 
 #### Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
 

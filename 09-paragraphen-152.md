@@ -1,6 +1,4 @@
-# Kommentarkapitel 09 — § 152–§ 164
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 09 — § 152–§ 164: Buch 2 — Verfahren in Familiensachen
 
 #### Buch 2 — Verfahren in Familiensachen
 

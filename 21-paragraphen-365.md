@@ -1,6 +1,4 @@
-# Kommentarkapitel 21 — § 365–§ 384
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 21 — § 365–§ 384: Buch 4 — Verfahren in Nachlass- und Teilungssachen
 
 #### Buch 4 — Verfahren in Nachlass- und Teilungssachen
 

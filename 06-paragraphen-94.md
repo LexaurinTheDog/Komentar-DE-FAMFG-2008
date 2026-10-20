@@ -1,6 +1,4 @@
-# Kommentarkapitel 06 — § 94–§ 112
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 06 — § 94–§ 112: Buch 1 — Allgemeiner Teil
 
 #### Buch 1 — Allgemeiner Teil
 

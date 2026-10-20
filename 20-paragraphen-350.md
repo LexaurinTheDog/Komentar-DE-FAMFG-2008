@@ -1,6 +1,4 @@
-# Kommentarkapitel 20 — § 350–§ 364
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 20 — § 350–§ 364: Buch 4 — Verfahren in Nachlass- und Teilungssachen
 
 #### Buch 4 — Verfahren in Nachlass- und Teilungssachen
 

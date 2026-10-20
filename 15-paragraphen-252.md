@@ -1,6 +1,4 @@
-# Kommentarkapitel 15 — § 252–§ 271
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 15 — § 252–§ 271: Buch 2 — Verfahren in Familiensachen
 
 #### Buch 2 — Verfahren in Familiensachen
 

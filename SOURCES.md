@@ -29,7 +29,7 @@ Die PDF-Abrufe lieferten HTTP 200 und tatsächliche `%PDF-`-Dateien; eine bloße
 
 ## Rechtsprechung und Suche
 
-Die [Fallkartenübersicht](cases/README.md) enthält inzwischen 24 selektiv ausgewertete amtliche Entscheidungen; die nachstehenden Chargenberichte dokumentieren Ergänzungen und jeweilige Verwendungsgrenzen. Der lokale nationale Rechtsprechungsbestand wurde nach konkreten Aktenzeichen abgefragt. Die offiziellen RII-ZIP-Dateien wurden neu abgerufen und als XML validiert. Die Karten trennen Tatbestand, Vorinstanz, gerichtliche Aussagen und Anwendungsgrenzen.
+Die [Fallkartenübersicht](cases/README.md) erschließt die selektiv ausgewerteten Entscheidungen; die nachstehenden Chargenberichte dokumentieren Ergänzungen und jeweilige Verwendungsgrenzen. Der lokale nationale Rechtsprechungsbestand wurde nach konkreten Aktenzeichen abgefragt. Die offiziellen RII-ZIP-Dateien wurden neu abgerufen und als XML validiert. Die Karten trennen Tatbestand, Vorinstanz, gerichtliche Aussagen und Anwendungsgrenzen.
 
 [Suchprotokoll](sources/search-log.json), [Firecrawl-Suchergebnis](sources/firecrawl-current-search.json). Der BGH-HTML-Abruf zu XII ZB 114/21 lieferte eine Startseite statt der Entscheidung und wird ausdrücklich als verworfen geführt. Der amtliche RII-Volltext ersetzt diesen ungeeigneten Abruf. Die gesicherte Entscheidung XII ZB 601/15 wurde nicht vollständig ausgewertet und nicht zur Autorität erhoben. Keine vollständige Rechtsprechungsauswertung für das gesamte FamFG und keine Behauptung, bei nicht zitierten Einheiten existiere keine relevante Entscheidung.
 
@@ -37,7 +37,7 @@ Die [Fallkartenübersicht](cases/README.md) enthält inzwischen 24 selektiv ausg
 
 [Verifikationsprotokoll](sources/verification.json) mit tatsächlichen URLs, Zeitstempeln, HTTP-Ergebnissen, Formatprüfungen und SHA-256; [Quellenmanifest](source-manifest.json) mit lokalen Dateiprüfsummen; [Vollständigkeitsbericht](completeness-report.json); [technischer Audit](technical-audit.json); [strenge Gesamtvalidierung](validation.json); [regulärer Buildversuch](build-result.json).
 
-Die Ausgabe ist unvollständig: 193 kommentierte und 336 noch nicht kommentierte Einheiten. Die unabhängige zweite Sachprüfung umfasst inzwischen vier begrenzte Chargen mit insgesamt 80 Einheiten (§§ 1–74a einschließlich eingefügter Buchstabenparagraphen); die Einzelergebnisse bleiben getrennt erhalten. Weitere Einzelheiten in [REVIEW](REVIEW.md). Rechte am amtlichen Wortlaut werden nicht durch die Kommentarlizenz beansprucht; [amtlich geprüfter § 5 UrhG](sources/urhg-5.html).
+Der zusammengestellte Entwurf erfasst 529 kommentierte Einheiten. Die 27 Chargenberichte und ihre Grenzen stehen in [REVIEW](REVIEW.md). Rechte am amtlichen Wortlaut werden nicht durch die Kommentarlizenz beansprucht; [amtlich geprüfter § 5 UrhG](sources/urhg-5.html). Nachstehende Chargenangaben dokumentieren frühere Arbeitsschritte.
 
 ## Ergänzende Quellen der begrenzten Zweitprüfung
 

@@ -1,67 +1,30 @@
-# INDEX — FamFG: unvollständige Arbeitsausgabe
+# INDEX — Kommentar zum FamFG
 
-Kommentiert: § 1–§ 484 (520 von 529 Einheiten). Ab § 485 fehlen 9 Kommentare. Kein vollständiger Gesetzeskommentar.
-
-- [Einleitung](00-einleitung.md)
-
-- [Quellen](SOURCES.md)
-
-- [Prüfprotokoll und offene Arbeiten](REVIEW.md)
-
-- [Vollständigkeitsbericht](completeness-report.json)
-
-- [§ 1–§ 18](01-paragraphen-1.md) — 20 kommentierte Einheiten
-
-- [§ 19–§ 36a](02-paragraphen-19.md) — 20 kommentierte Einheiten
-
-- [§ 37–§ 55](03-paragraphen-37.md) — 20 kommentierte Einheiten
-
-- [§ 56–§ 74a](04-paragraphen-56.md) — 20 kommentierte Einheiten
-
-- [§ 75–§ 93](05-paragraphen-75.md) — 20 kommentierte Einheiten
-
-- [§ 94–§ 112](06-paragraphen-94.md) — 20 kommentierte Einheiten
-
-- [§ 113–§ 131](07-paragraphen-113.md) — 20 kommentierte Einheiten
-
-- [§ 132–§ 151](08-paragraphen-132.md) — 20 kommentierte Einheiten
-
-- [§ 152–§ 164](09-paragraphen-152.md) — 20 kommentierte Einheiten
-
-- [§ 165–§ 175](10-paragraphen-165.md) — 20 kommentierte Einheiten
-
-- [§ 176–§ 194](11-paragraphen-176.md) — 20 kommentierte Einheiten
-
-- [§ 195–§ 213](12-paragraphen-195.md) — 20 kommentierte Einheiten
-
-- [§ 214–§ 231](13-paragraphen-214.md) — 20 kommentierte Einheiten
-
-- [§ 232–§ 251](14-paragraphen-232.md) — 20 kommentierte Einheiten
-
-- [§ 252–§ 271](15-paragraphen-252.md) — 20 kommentierte Einheiten
-
-- [§ 272–§ 291](16-paragraphen-272.md) — 20 kommentierte Einheiten
-
-- [§ 292–§ 309a](17-paragraphen-292.md) — 20 kommentierte Einheiten
-
-- [§ 310–§ 329](18-paragraphen-310.md) — 20 kommentierte Einheiten
-
-- [§ 330–§ 349](19-paragraphen-330.md) — 20 kommentierte Einheiten
-
-- [§ 350–§ 364](20-paragraphen-350.md) — 20 kommentierte Einheiten
-
-- [§ 365–§ 384](21-paragraphen-365.md) — 20 kommentierte Einheiten
-
-- [§ 385–§ 404](22-paragraphen-385.md) — 20 kommentierte Einheiten
-
-- [§ 405–§ 424](23-paragraphen-405.md) — 20 kommentierte Einheiten
-
-- [§ 425–§ 444](24-paragraphen-425.md) — 20 kommentierte Einheiten
-
-- [§ 445–§ 464](25-paragraphen-445.md) — 20 kommentierte Einheiten
-
-- [§ 465–§ 484](26-paragraphen-465.md) — 20 kommentierte Einheiten
-
-
-
-Die amtliche Textgrundlage und Einheitenliste enthalten das gesamte FamFG. Unkommentierte Einheiten werden in dieser Teil-Ausgabe nicht als fertige Kapitel dargestellt. Die fehlenden Kennungen stehen vollständig im Vollständigkeitsbericht.
+- [00-einleitung.md](00-einleitung.md) — Einleitung, Gesetzessystem und Arbeitsmethode
+- [01-paragraphen-1.md](01-paragraphen-1.md) — Kommentarkapitel 01: § 1–§ 18: Buch 1 — Allgemeiner Teil
+- [02-paragraphen-19.md](02-paragraphen-19.md) — Kommentarkapitel 02: § 19–§ 36a: Buch 1 — Allgemeiner Teil
+- [03-paragraphen-37.md](03-paragraphen-37.md) — Kommentarkapitel 03: § 37–§ 55: Buch 1 — Allgemeiner Teil
+- [04-paragraphen-56.md](04-paragraphen-56.md) — Kommentarkapitel 04: § 56–§ 74a: Buch 1 — Allgemeiner Teil
+- [05-paragraphen-75.md](05-paragraphen-75.md) — Kommentarkapitel 05: § 75–§ 93: Buch 1 — Allgemeiner Teil
+- [06-paragraphen-94.md](06-paragraphen-94.md) — Kommentarkapitel 06: § 94–§ 112: Buch 1 — Allgemeiner Teil
+- [07-paragraphen-113.md](07-paragraphen-113.md) — Kommentarkapitel 07: § 113–§ 131: Buch 2 — Verfahren in Familiensachen
+- [08-paragraphen-132.md](08-paragraphen-132.md) — Kommentarkapitel 08: § 132–§ 151: Buch 2 — Verfahren in Familiensachen
+- [09-paragraphen-152.md](09-paragraphen-152.md) — Kommentarkapitel 09: § 152–§ 164: Buch 2 — Verfahren in Familiensachen
+- [10-paragraphen-165.md](10-paragraphen-165.md) — Kommentarkapitel 10: § 165–§ 175: Buch 2 — Verfahren in Familiensachen
+- [11-paragraphen-176.md](11-paragraphen-176.md) — Kommentarkapitel 11: § 176–§ 194: Buch 2 — Verfahren in Familiensachen
+- [12-paragraphen-195.md](12-paragraphen-195.md) — Kommentarkapitel 12: § 195–§ 213: Buch 2 — Verfahren in Familiensachen
+- [13-paragraphen-214.md](13-paragraphen-214.md) — Kommentarkapitel 13: § 214–§ 231: Buch 2 — Verfahren in Familiensachen
+- [14-paragraphen-232.md](14-paragraphen-232.md) — Kommentarkapitel 14: § 232–§ 251: Buch 2 — Verfahren in Familiensachen
+- [15-paragraphen-252.md](15-paragraphen-252.md) — Kommentarkapitel 15: § 252–§ 271: Buch 2 — Verfahren in Familiensachen
+- [16-paragraphen-272.md](16-paragraphen-272.md) — Kommentarkapitel 16: § 272–§ 291: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
+- [17-paragraphen-292.md](17-paragraphen-292.md) — Kommentarkapitel 17: § 292–§ 309a: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
+- [18-paragraphen-310.md](18-paragraphen-310.md) — Kommentarkapitel 18: § 310–§ 329: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
+- [19-paragraphen-330.md](19-paragraphen-330.md) — Kommentarkapitel 19: § 330–§ 349: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
+- [20-paragraphen-350.md](20-paragraphen-350.md) — Kommentarkapitel 20: § 350–§ 364: Buch 4 — Verfahren in Nachlass- und Teilungssachen
+- [21-paragraphen-365.md](21-paragraphen-365.md) — Kommentarkapitel 21: § 365–§ 384: Buch 4 — Verfahren in Nachlass- und Teilungssachen
+- [22-paragraphen-385.md](22-paragraphen-385.md) — Kommentarkapitel 22: § 385–§ 404: Buch 5 — Verfahren in Registersachen, unternehmensrechtliche Verfahren
+- [23-paragraphen-405.md](23-paragraphen-405.md) — Kommentarkapitel 23: § 405–§ 424: Buch 5 — Verfahren in Registersachen, unternehmensrechtliche Verfahren
+- [24-paragraphen-425.md](24-paragraphen-425.md) — Kommentarkapitel 24: § 425–§ 444: Buch 7 — Verfahren in Freiheitsentziehungssachen
+- [25-paragraphen-445.md](25-paragraphen-445.md) — Kommentarkapitel 25: § 445–§ 464: Buch 8 — Verfahren in Aufgebotssachen
+- [26-paragraphen-465.md](26-paragraphen-465.md) — Kommentarkapitel 26: § 465–§ 484: Buch 8 — Verfahren in Aufgebotssachen
+- [27-paragraphen-485.md](27-paragraphen-485.md) — Kommentarkapitel 27: § 485–§ 493: Buch 9 — Schlussvorschriften

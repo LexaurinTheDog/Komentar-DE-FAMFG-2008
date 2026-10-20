@@ -3,7 +3,7 @@
   "total_units": 529,
   "commentary_characters": 1129560,
   "missing_commentary_count": 0,
-  "local_links_checked": 1263,
+  "local_links_checked": 935,
   "broken_local_links": [],
   "exact_repeated_substantive_paragraphs": [],
   "near_repeated_commentary_above_0_8_token_jaccard": [],
@@ -543,7 +543,7 @@
   },
   "limits": [
     "Similarity screening is heuristic and does not establish legal quality.",
-    "Remaining 0 units are not authored.",
-    "Independent second-pass review is bounded by review-result.json; no whole-book review claimed."
+    "All statutory units have commentary.",
+    "Existing batch review scope is assembled in review-result.json; no new independent review performed."
   ]
 }

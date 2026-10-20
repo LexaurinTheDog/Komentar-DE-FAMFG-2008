@@ -1,6 +1,4 @@
-# Kommentarkapitel 02 — § 19–§ 36a
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 02 — § 19–§ 36a: Buch 1 — Allgemeiner Teil
 
 #### Buch 1 — Allgemeiner Teil
 

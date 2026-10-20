@@ -1,6 +1,4 @@
-# Kommentarkapitel 07 — § 113–§ 131
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 07 — § 113–§ 131: Buch 2 — Verfahren in Familiensachen
 
 #### Buch 2 — Verfahren in Familiensachen
 

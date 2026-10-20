@@ -1,6 +1,4 @@
-# Kommentarkapitel 13 — § 214–§ 231
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 13 — § 214–§ 231: Buch 2 — Verfahren in Familiensachen
 
 #### Buch 2 — Verfahren in Familiensachen
 

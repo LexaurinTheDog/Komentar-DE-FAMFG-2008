@@ -1,6 +1,4 @@
-# Kommentarkapitel 22 — § 385–§ 404
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 22 — § 385–§ 404: Buch 5 — Verfahren in Registersachen, unternehmensrechtliche Verfahren
 
 #### Buch 5 — Verfahren in Registersachen, unternehmensrechtliche Verfahren
 

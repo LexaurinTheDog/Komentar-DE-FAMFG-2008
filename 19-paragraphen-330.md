@@ -1,6 +1,4 @@
-# Kommentarkapitel 19 — § 330–§ 349
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 19 — § 330–§ 349: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
 
 #### Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
 

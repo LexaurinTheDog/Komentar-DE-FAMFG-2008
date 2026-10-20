@@ -1,6 +1,4 @@
-# Kommentarkapitel 05 — § 75–§ 93
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 05 — § 75–§ 93: Buch 1 — Allgemeiner Teil
 
 #### Buch 1 — Allgemeiner Teil
 

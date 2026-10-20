@@ -1,6 +1,4 @@
-# Kommentarkapitel 25 — § 445–§ 464
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 25 — § 445–§ 464: Buch 8 — Verfahren in Aufgebotssachen
 
 #### Buch 8 — Verfahren in Aufgebotssachen
 

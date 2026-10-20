@@ -1,6 +1,4 @@
-# Kommentarkapitel 17 — § 292–§ 309a
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 17 — § 292–§ 309a: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
 
 #### Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
 

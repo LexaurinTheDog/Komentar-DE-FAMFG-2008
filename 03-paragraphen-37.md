@@ -1,6 +1,4 @@
-# Kommentarkapitel 03 — § 37–§ 55
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 03 — § 37–§ 55: Buch 1 — Allgemeiner Teil
 
 #### Buch 1 — Allgemeiner Teil
 

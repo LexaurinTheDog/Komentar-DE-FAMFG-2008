@@ -1,6 +1,4 @@
-# Kommentarkapitel 04 — § 56–§ 74a
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 04 — § 56–§ 74a: Buch 1 — Allgemeiner Teil
 
 #### Buch 1 — Allgemeiner Teil
 

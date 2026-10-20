@@ -1,6 +1,4 @@
-# Kommentarkapitel 08 — § 132–§ 151
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 08 — § 132–§ 151: Buch 2 — Verfahren in Familiensachen
 
 #### Buch 2 — Verfahren in Familiensachen
 

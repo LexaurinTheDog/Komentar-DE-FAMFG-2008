@@ -1,6 +1,4 @@
-# Kommentarkapitel 18 — § 310–§ 329
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 18 — § 310–§ 329: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
 
 #### Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen
 

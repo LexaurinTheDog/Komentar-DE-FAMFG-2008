@@ -1,0 +1,154 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-FAMFG-2008",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-FAMFG-2008",
+  "title": "Kommentar zum FamFG",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-FAMFG-2008/sources/famfg-canonical.md",
+  "official_source_url": "https://www.gesetze-im-internet.de/famfg/",
+  "decisive_date": "2026-10-19",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Einleitung, Gesetzessystem und Arbeitsmethode",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Amtlicher Quellenhinweis"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "paragraphen-1",
+      "title": "§ 1–§ 18: Buch 1 — Allgemeiner Teil"
+    },
+    {
+      "n": 2,
+      "slug": "paragraphen-19",
+      "title": "§ 19–§ 36a: Buch 1 — Allgemeiner Teil"
+    },
+    {
+      "n": 3,
+      "slug": "paragraphen-37",
+      "title": "§ 37–§ 55: Buch 1 — Allgemeiner Teil"
+    },
+    {
+      "n": 4,
+      "slug": "paragraphen-56",
+      "title": "§ 56–§ 74a: Buch 1 — Allgemeiner Teil"
+    },
+    {
+      "n": 5,
+      "slug": "paragraphen-75",
+      "title": "§ 75–§ 93: Buch 1 — Allgemeiner Teil"
+    },
+    {
+      "n": 6,
+      "slug": "paragraphen-94",
+      "title": "§ 94–§ 112: Buch 1 — Allgemeiner Teil"
+    },
+    {
+      "n": 7,
+      "slug": "paragraphen-113",
+      "title": "§ 113–§ 131: Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "n": 8,
+      "slug": "paragraphen-132",
+      "title": "§ 132–§ 151: Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "n": 9,
+      "slug": "paragraphen-152",
+      "title": "§ 152–§ 164: Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "n": 10,
+      "slug": "paragraphen-165",
+      "title": "§ 165–§ 175: Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "n": 11,
+      "slug": "paragraphen-176",
+      "title": "§ 176–§ 194: Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "n": 12,
+      "slug": "paragraphen-195",
+      "title": "§ 195–§ 213: Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "n": 13,
+      "slug": "paragraphen-214",
+      "title": "§ 214–§ 231: Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "n": 14,
+      "slug": "paragraphen-232",
+      "title": "§ 232–§ 251: Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "n": 15,
+      "slug": "paragraphen-252",
+      "title": "§ 252–§ 271: Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "n": 16,
+      "slug": "paragraphen-272",
+      "title": "§ 272–§ 291: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen"
+    },
+    {
+      "n": 17,
+      "slug": "paragraphen-292",
+      "title": "§ 292–§ 309a: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen"
+    },
+    {
+      "n": 18,
+      "slug": "paragraphen-310",
+      "title": "§ 310–§ 329: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen"
+    },
+    {
+      "n": 19,
+      "slug": "paragraphen-330",
+      "title": "§ 330–§ 349: Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen"
+    },
+    {
+      "n": 20,
+      "slug": "paragraphen-350",
+      "title": "§ 350–§ 364: Buch 4 — Verfahren in Nachlass- und Teilungssachen"
+    },
+    {
+      "n": 21,
+      "slug": "paragraphen-365",
+      "title": "§ 365–§ 384: Buch 4 — Verfahren in Nachlass- und Teilungssachen"
+    },
+    {
+      "n": 22,
+      "slug": "paragraphen-385",
+      "title": "§ 385–§ 404: Buch 5 — Verfahren in Registersachen, unternehmensrechtliche Verfahren"
+    },
+    {
+      "n": 23,
+      "slug": "paragraphen-405",
+      "title": "§ 405–§ 424: Buch 5 — Verfahren in Registersachen, unternehmensrechtliche Verfahren"
+    },
+    {
+      "n": 24,
+      "slug": "paragraphen-425",
+      "title": "§ 425–§ 444: Buch 7 — Verfahren in Freiheitsentziehungssachen"
+    },
+    {
+      "n": 25,
+      "slug": "paragraphen-445",
+      "title": "§ 445–§ 464: Buch 8 — Verfahren in Aufgebotssachen"
+    },
+    {
+      "n": 26,
+      "slug": "paragraphen-465",
+      "title": "§ 465–§ 484: Buch 8 — Verfahren in Aufgebotssachen"
+    },
+    {
+      "n": 27,
+      "slug": "paragraphen-485",
+      "title": "§ 485–§ 493: Buch 9 — Schlussvorschriften"
+    }
+  ]
+}

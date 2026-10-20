@@ -1,6 +1,4 @@
-# Kommentarkapitel 23 — § 405–§ 424
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 23 — § 405–§ 424: Buch 5 — Verfahren in Registersachen, unternehmensrechtliche Verfahren
 
 #### Buch 5 — Verfahren in Registersachen, unternehmensrechtliche Verfahren
 

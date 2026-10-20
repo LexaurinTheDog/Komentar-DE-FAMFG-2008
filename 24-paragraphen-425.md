@@ -1,6 +1,4 @@
-# Kommentarkapitel 24 — § 425–§ 444
-
-Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
+# Kommentarkapitel 24 — § 425–§ 444: Buch 7 — Verfahren in Freiheitsentziehungssachen
 
 #### Buch 7 — Verfahren in Freiheitsentziehungssachen
 
