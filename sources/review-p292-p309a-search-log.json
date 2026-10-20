@@ -1,0 +1,225 @@
+{
+  "verified_at": "2026-10-20T19:18:04.753608+00:00",
+  "scope": "Independent re-review exactly p292–p309a; five previously selected full official decisions reread",
+  "firecrawl_status": {
+    "credits": 0,
+    "outcome": "Status checked, direct official XML fetch used; no new Firecrawl extraction claimed"
+  },
+  "web_queries_executed": [
+    "site.rechtsprechung-im-internet.de \"XII ZB 323/25\"",
+    "site.gesetze-im-internet.de/famfg \"292\" \"2028\""
+  ],
+  "outcome": "Discovery only; no snippets or commercial commentary adopted as authority. Fresh official statutory XML/ZIP and full judicial XML are the sources.",
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "method": "Fresh primary full texts compared with preserved national corpus copies; previously selected cases fully reread, no exhaustive new corpus search claimed."
+  },
+  "cases": [
+    {
+      "docket": "XII ZB 130/23",
+      "date": "20240207",
+      "doknr": "KORE310472024",
+      "ecli": "ECLI:DE:BGH:2024:070224BXIIZB130.23.0",
+      "official_path": "sources/review-p292-p309a-XII-ZB-130-23.xml",
+      "official_sha256": "bc4e8cf6313cec1d05fcec9fbee14281cdf7796e7e0439f68f0d5e70a3482339",
+      "local_path": "sources/review-p292-p309a-local-KORE310472024.md",
+      "local_sha256": "fe499efec3dfbd43256ab533cd1144a80e0569643f87ace279f22f54fa8fac47",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "paragraphs_compared": 39,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read_in_this_second_pass": true,
+      "supported_units": [
+        "p293"
+      ]
+    },
+    {
+      "docket": "XII ZB 145/25",
+      "date": "20250723",
+      "doknr": "KORE719492025",
+      "ecli": "ECLI:DE:BGH:2025:230725BXIIZB145.25.0",
+      "official_path": "sources/review-p292-p309a-XII-ZB-145-25.xml",
+      "official_sha256": "b53c2373a4b5e79f9455e862ca130920e16e42a866eb9ff6cdd79f530be8d9f2",
+      "local_path": "sources/review-p292-p309a-local-KORE719492025.md",
+      "local_sha256": "4ea825f0dbcd46ee84cf2337aa71bb42981b84f686f8aaf3802ba926cba9918d",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "paragraphs_compared": 17,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read_in_this_second_pass": true,
+      "supported_units": [
+        "p294"
+      ]
+    },
+    {
+      "docket": "XII ZB 473/25",
+      "date": "20260204",
+      "doknr": "KORE703462026",
+      "ecli": "ECLI:DE:BGH:2026:040226BXIIZB473.25.0",
+      "official_path": "sources/review-p292-p309a-XII-ZB-473-25.xml",
+      "official_sha256": "17f9d32be9c585da016969d3543d044affbfcea7696599f86ee48119a149b6f6",
+      "local_path": "sources/review-p292-p309a-local-KORE703462026.md",
+      "local_sha256": "b219b83f4c6117c9d5442aa65a1303fd6ac2e2d7dfe03fbae1386bdc28e03aa6",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "paragraphs_compared": 22,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read_in_this_second_pass": true,
+      "supported_units": [
+        "p295"
+      ]
+    },
+    {
+      "docket": "XII ZB 218/25",
+      "date": "20260422",
+      "doknr": "KORE303572026",
+      "ecli": "ECLI:DE:BGH:2026:220426BXIIZB218.25.0",
+      "official_path": "sources/review-p292-p309a-XII-ZB-218-25.xml",
+      "official_sha256": "cc992a3d13a08d25e69adeb4d1c7c60058adb0c3149942cef7c6efe97116cd05",
+      "local_path": "sources/review-p292-p309a-local-KORE303572026.md",
+      "local_sha256": "ddf1cafb2dc64a4d271c19a49930c23744cc6cecbcb0d1c938f2f0c1175f73a5",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "paragraphs_compared": 41,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read_in_this_second_pass": true,
+      "supported_units": [
+        "p303"
+      ]
+    },
+    {
+      "docket": "XII ZB 323/25",
+      "date": "20260805",
+      "doknr": "KORE616742026",
+      "ecli": "ECLI:DE:BGH:2026:050826BXIIZB323.25.0",
+      "official_path": "sources/review-p292-p309a-XII-ZB-323-25.xml",
+      "official_sha256": "4fbb12aaf16e517163e66c7c12ac4ceaffb9b0b2cf0ea285ce9376e7b6993c49",
+      "local_path": "sources/review-p292-p309a-local-KORE616742026.md",
+      "local_sha256": "2e0655c61643f50c8c703071905f243511cf96c726ebcb96887e0c51098b053d",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "paragraphs_compared": 23,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read_in_this_second_pass": true,
+      "supported_units": [
+        "p303",
+        "p307"
+      ]
+    }
+  ],
+  "no_additional_fully_verified_case_selected_for": [
+    "p292",
+    "p292a",
+    "p296",
+    "p297",
+    "p298",
+    "p299",
+    "p300",
+    "p301",
+    "p302",
+    "p304",
+    "p305",
+    "p306",
+    "p308",
+    "p309",
+    "p309a"
+  ],
+  "limitations": [
+    "Selective case law; no-case-selected is not proof that no relevant case exists.",
+    "Authorities mentioned inside the five decisions are not represented as separately verified."
+  ]
+}

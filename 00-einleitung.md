@@ -42,3 +42,6 @@ Die Autorencharge §§ 272–291 behandelt den eigenständigen Verfahrensschutz 
 
 
 Die Autorencharge §§ 292–309a trennt Betreueranspruch und Staatskassenrückgriff, aktuelle Erweiterung und Verlängerung, besondere Genehmigung und vorläufige Betreuung sowie eigene Beschwerde und Vertretung. Unterschiedliche Anhörungspflichten, Gutachtenerleichterungen und automatische Eilfristen werden jeweils am Normtatbestand erklärt. Der amtlich verifizierte Zukunftswechsel des § 292 im Juli 2028 wird nicht vorgezogen. Die fünf neuen Fallkarten belegen gezielte Aussagen, keine erschöpfende Rechtsprechungsübersicht. Der neue Text unterliegt bislang nur der Autorenkontrolle; eine unabhängige Zweitprüfung steht aus.
+
+
+Die unabhängige Zweitprüfung der Charge §§ 292–309a umfasst genau zwanzig Einheiten. Fünf Präzisierungen und die erneute vollständige Prüfung der fünf verwendeten amtlichen BGH-Entscheidungen sind im [siebzehnten Prüfbericht](review-p292-p309a-result.json) dokumentiert. Der übrige Kommentarbestand blieb unverändert; 189 Erläuterungen ab § 310 fehlen.

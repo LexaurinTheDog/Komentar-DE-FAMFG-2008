@@ -1,6 +1,6 @@
 {
   "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-  "run_at": "2026-10-20T19:11:53.464450+00:00",
+  "run_at": "2026-10-20T19:18:05.644671+00:00",
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 189 jednotkám, např.: ['p310', 'p311', 'p312', 'p313', 'p314', 'p315', 'p316', 'p317', 'p318', 'p319']\n",
