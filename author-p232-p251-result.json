@@ -1,0 +1,155 @@
+{
+  "kind": "author",
+  "complete": true,
+  "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
+  "authored_ids": [
+    "p232",
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p238",
+    "p239",
+    "p240",
+    "p241",
+    "p242",
+    "p243",
+    "p244",
+    "p245",
+    "p246",
+    "p247",
+    "p248",
+    "p249",
+    "p250",
+    "p251"
+  ],
+  "units_authored": 20,
+  "max_units": 20,
+  "baseline_commit": "90a9a9e522862e6f019a734c599b15e4ebe59635",
+  "completed_at": "2026-10-20T18:06:50.920266+00:00",
+  "decisive_date": "2026-10-19",
+  "source_verified_at": "2026-10-20T18:05:02.893022+00:00",
+  "source_checks": "sources/author-p232-p251-fetch.json",
+  "source_version_evidence": "sources/author-p232-p251-version-map.json",
+  "parser_replay": "author-p232-p251-parser-replay.json",
+  "author_self_check": [
+    {
+      "id": "p232",
+      "finding": "Rangfolge, Ausnahme vereinfachtes Verfahren, Auslandsgrenze und subsidiäre Wahlgerichtsstände getrennt; kein automatischer Verbund.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p233",
+      "finding": "Rechtshängigkeit der Ehesache von Anhängigkeit der Unterhaltssache getrennt; begrenzter ZPO-Verweis ohne §281Abs3S2.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p234",
+      "finding": "Ausschließliche Vertretung nur bei tatsächlicher Beistandsvertretung; keine allgemeine Entziehung der Sorge; Aufgabenkreis geprüft.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p235",
+      "finding": "Relevanz, persönliche Versicherung, Pflichtantrag, Aktualisierung und fehlende Zwangsvollstreckung unterschieden.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p236",
+      "finding": "Vorherige gerichtliche Anordnung und Fristablauf, Einkommensgrenze, Adressaten, Behördenausnahme und Beteiligtenrechtsbehelf behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p237",
+      "finding": "Minderjährigkeit, anhängige Statussache, Mindestunterhaltsprogramm und Wirksamkeitshindernis voneinander getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p238",
+      "finding": "Zulässiger Änderungsgrund, zeitliche Präklusion, richtungsverschiedene Rückwirkung und Wahrung der Grundlagen behandelt; Fall374/11 begrenzt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p239",
+      "finding": "Vergleich, einseitige Urkunde und Vereinbarung getrennt; keine pauschale Übernahme des §238; beide BGH-Fälle an tragenden Stellen ausgewertet.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p240",
+      "finding": "Sondertitel und §255-Konkurrenz, Monatsfrist als Rückwirkungsgrenze, Gegenantrag und Verlangen getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p241",
+      "finding": "Rechtshängigkeitsfiktion für Rückforderung von Anspruch und Titel getrennt; keine pauschale verschuldensunabhängige Erstattung behauptet.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p242",
+      "finding": "Anhängigkeit/Kostenhilfe als Zugang, gesonderter Schutzantrag, Glaubhaftmachung, Sicherheit und Unanfechtbarkeit erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p243",
+      "finding": "Anwendungsbereich und Sonderkostenregeln beachtet; vier ausdrückliche Gesichtspunkte ohne automatischen Kostenstrafmechanismus erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p244",
+      "finding": "Keine automatische Titelbeendigung; materieller Änderungsbedarf und unterschiedliche Beweislast nach Fall422/15 abgegrenzt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p245",
+      "finding": "Rechnerische Bezifferung nach Titelinhalt von Abänderung und ausländischer Anerkennung getrennt; Stelle und Rechtsbehelf erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p246",
+      "finding": "Abweichung von allgemeiner Dringlichkeit, materieller Anspruch, Vorschussgrund, Verhandlung und §57 unterschieden.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p247",
+      "finding": "Drei Monate Kindesunterhalt von eigenem geburtsnahem Anspruch der Mutter getrennt; Vermutung und Hinterlegung behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p248",
+      "finding": "Statusverknüpfung, Zuständigkeitswechsel im Beschwerderechtszug, Sicherheit und Vollziehungsschaden nach Absatz5 erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p249",
+      "finding": "Minderjährigkeit und Haushalt, Bruttogrenze120Prozent und Sperrzeitpunkt bei Zustellung behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p250",
+      "finding": "Alle13Pflichtangaben thematisch zugeordnet; Anspruchsübergang/Zeiträume, Formularpflicht, Anhörung und Verbindung behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p251",
+      "finding": "Alle4Hinweisgruppen, Auslandsfrist und §167 getrennt; spätere Einwendungen bis Erlass nicht als sichere Zusatzfrist bezeichnet.",
+      "material_blocker_found": false
+    }
+  ],
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-374-11.md",
+    "cases/BGH-XII-ZB-422-15.md"
+  ],
+  "unresolved_blockers": [],
+  "whole_book_complete": false,
+  "total_statutory_units": 529,
+  "completed_commentary_units": 280,
+  "remaining_commentary_units": 249,
+  "independent_second_pass_complete_for_new_batch": false,
+  "limitations": [
+    "Exactly20assignedunits authored, no other commentary changed.",
+    "New batch awaits fresh independent second pass; earlier260reviewed units preserved.",
+    "Whole book remains incomplete; unmodified full build and strict validation expected to fail solely for249missingcomments.",
+    "Case-law research selective; no exhaustive subsequent decision or amendment-history reconstruction.",
+    "Technical length, equality and similarity checks do not establish legal quality."
+  ]
+}

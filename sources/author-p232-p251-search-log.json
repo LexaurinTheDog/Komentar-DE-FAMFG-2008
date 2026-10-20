@@ -1,0 +1,64 @@
+{
+  "verified_at": "2026-10-20T18:05:02.893022+00:00",
+  "scope": "selective primary-authority research for p232–p251",
+  "firecrawl_attempt": {
+    "query": "site.rechtsprechung-im-internet.de \"238\" \"239\" \"Unterhalt\"",
+    "result": "CLI exited1:insufficient credits; no body returned; no credentials or service settings accessed or changed."
+  },
+  "web_queries": [
+    "site.rechtsprechung-im-internet.de \"238\" \"239\" \"Unterhalt\"",
+    "site.rechtsprechung-im-internet.de \"249\" \"FamFG\"",
+    "site.rechtsprechung-im-internet.de \"243\" \"FamFG\" Kosten",
+    "site.rechtsprechung-im-internet.de \"238 FamFG\" \"Abänderung\"",
+    "site.bundesgerichtshof.de \"238 FamFG\" \"239\"",
+    "site.rechtsprechung-im-internet.de \"249 Abs. 2\""
+  ],
+  "web_disposition": "Search results included official statutes and state portals and third-party discovery hits. No third-party commentary used as authority. Selected target BGH decisions found by docket in national corpus and freshly fetched as official RII ZIP/XML. No additional case adopted for simplified procedure or costs from snippets.",
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "query": "rg -l then exact manifest lookup for XII ZB374/11 and XII ZB422/15; XII ZB177/22 considered but not adopted",
+    "chosen_documents": [
+      "KORE311122013",
+      "KORE300192017"
+    ],
+    "full_text_comparison": "sources/author-p232-p251-case-corpus-check.json"
+  },
+  "selected_cases": [
+    {
+      "docket": "XII ZB374/11",
+      "all_numbered_paragraphs_read": 23,
+      "supported_units": [
+        "p238",
+        "p239"
+      ]
+    },
+    {
+      "docket": "XII ZB422/15",
+      "all_numbered_paragraphs_read": 46,
+      "supported_units": [
+        "p239",
+        "p244"
+      ]
+    }
+  ],
+  "no_additional_fully_verified_case_selected_for": [
+    "p232",
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p240",
+    "p241",
+    "p242",
+    "p243",
+    "p245",
+    "p246",
+    "p247",
+    "p248",
+    "p249",
+    "p250",
+    "p251"
+  ],
+  "limits": "Selective research, not exhaustive; no-case-selected does not establish absence of case law. No subsidiary citations adopted without independent verification."
+}

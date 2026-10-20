@@ -1,6 +1,6 @@
 # INDEX — FamFG: unvollständige Arbeitsausgabe
 
-Kommentiert: § 1–§ 231 (260 von 529 Einheiten). Ab § 232 fehlen 269 Kommentare. Kein vollständiger Gesetzeskommentar.
+Kommentiert: § 1–§ 251 (280 von 529 Einheiten). Ab § 252 fehlen 249 Kommentare. Kein vollständiger Gesetzeskommentar.
 
 - [Einleitung](00-einleitung.md)
 
@@ -35,6 +35,8 @@ Kommentiert: § 1–§ 231 (260 von 529 Einheiten). Ab § 232 fehlen 269 Komment
 - [§ 195–§ 213](12-paragraphen-195.md) — 20 kommentierte Einheiten
 
 - [§ 214–§ 231](13-paragraphen-214.md) — 20 kommentierte Einheiten
+
+- [§ 232–§ 251](14-paragraphen-232.md) — 20 kommentierte Einheiten
 
 
 

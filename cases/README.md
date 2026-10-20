@@ -51,3 +51,6 @@ Die Autorencharge §§ 214–231 ergänzt [BGH, 27. Mai 2015 — XII ZB 564/12](
 
 
 Die begrenzte Zweitprüfung §§ 214–231 liest die beiden dort verwendeten Entscheidungen vollständig erneut und ergänzt [BGH, 13. Dezember 2017 — XII ZB 214/16](BGH-XII-ZB-214-16.md). Dessen Rn. 10–14 schützen die fristgerechte Zielwahl; Rn. 16–17 erläutern die vorherige Beteiligung des Zielträgers. Parteivorbringen, Zurückverweisung und zeitliche Reichweite sind in der Fallkarte getrennt. 28 Fallkarten, weiterhin selektive Abdeckung. [Abgleich aller drei Quellen](../sources/review-p214-p231-case-corpus-check.json).
+
+
+Die Autorencharge §§ 232–251 ergänzt [BGH, 29. Mai 2013 — XII ZB 374/11](BGH-XII-ZB-374-11.md) zu Präklusion und unverändertem Unterhaltsvergleich sowie [BGH, 7. Dezember 2016 — XII ZB 422/15](BGH-XII-ZB-422-15.md) zu einvernehmlicher Titelersetzung, Bindung an eine Unterhaltsvereinbarung und Beweislast nach Volljährigkeit. Sämtliche 23 beziehungsweise 46 nummerierten Absätze wurden gelesen. Historische Übergangsfragen, Parteibehauptungen und bloße Zurückverweisung sind ausdrücklich eingegrenzt. Insgesamt 30 selektiv ausgewertete Fallkarten. [Textvergleich](../sources/author-p232-p251-case-corpus-check.json).
