@@ -411,5 +411,59 @@
       "Commercial annotations and association summaries in search: discovery only, no text or holding imported"
     ],
     "limits": "Selective research. No new fully verified authority for other17 units; no exhaustive later-treatment review.2021 Rn.33 leaves OLG theory of missing decision-readiness and time limit open."
+  },
+  "bounded_review_p152_p164": {
+    "date": "2026-10-20",
+    "scope": [
+      "p152",
+      "p153",
+      "p154",
+      "p155",
+      "p155a",
+      "p155b",
+      "p155c",
+      "p156",
+      "p157",
+      "p158",
+      "p158a",
+      "p158b",
+      "p158c",
+      "p159",
+      "p160",
+      "p161",
+      "p162",
+      "p163",
+      "p163a",
+      "p164"
+    ],
+    "firecrawl": "CLI authenticated,0 credits; no credentials read/changed or toolchain installation. Direct official ZIP/PDF downloads and web discovery used.",
+    "queries": [
+      "site:rechtsprechung-im-internet.de §1592023Anhörung (no results)",
+      "BGH159Anhörung2023XII ZB",
+      "BGH Beschleunigungsbeschwerde155c zwei Monate",
+      "BGH Verfahrensbeistand Vergütung gleicher Haushalt158c",
+      "BGH159Abs2Anhörung2024",
+      "BGH159Abs220222023persönlichKind",
+      "2025158cDolmetschersAprilGesetz",
+      "2025Verfahrensbeistands690Bundesgesetzblatt"
+    ],
+    "local_corpus_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+    "selected_full_texts_read": {
+      "KORE310182026": "Tenor and all reasons1–23",
+      "KORE709562024": "Tenor and all reasons1–18"
+    },
+    "supported_units": [
+      "p158",
+      "p158b",
+      "p158c",
+      "p159"
+    ],
+    "not_used": [
+      "XII ZB81/22 and104/22: local full texts read; concern adult confinement/RVG remuneration, no holding imported into assigned units",
+      "XII ZB166/21: local full text read; adult confinement procedure, no direct holding imported into §159",
+      "III ZR72/20: manifest/discovery only; not fully read and not used",
+      "Brandenburg decisions and commercial/discovery results not used as authority"
+    ],
+    "limits": "Selective research only; no new sufficiently relevant fully verified case added for16 other assigned units. No exhaustive later-treatment review. XII ZB110/23 is expressly historical and affected by2025law; XII ZB476/25 leaves mandatory-beistand question open."
   }
 }

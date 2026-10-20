@@ -5,7 +5,7 @@
   "decisive_date": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/famfg/",
-  "verified_at": "2026-10-20T16:28:06.737218+00:00",
+  "verified_at": "2026-10-20T16:39:45.083576+00:00",
   "version_evidence": {
     "decisive_date": "2026-10-19",
     "rechecked_at": "2026-10-20T16:26:21.879451+00:00",
@@ -1025,6 +1025,52 @@
       "all599_norm_nodes_accounted_for": true,
       "parser_replay": "review-p113-p131-parser-replay.json"
     },
+    "unresolved_blockers": []
+  },
+  "bounded_review_p152_p164": {
+    "complete": true,
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T16:39:45.083576+00:00",
+    "decisive_date": "2026-10-19",
+    "fresh_official_zip_and_index": true,
+    "fresh_xml_byte_identical": true,
+    "fresh_html_index_byte_identical": true,
+    "xml": "sources/review-p152-p164-famfg.xml",
+    "official_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "version_evidence": "sources/review-p152-p164-version-map.json",
+    "commencement_evidence_reread": [
+      "sources/bgbl-192.txt:Article4 and20;1October2026",
+      "sources/bgbl-198.txt:Article4 and10; current/future split",
+      "sources/review-p152-p164-bgbl-2025-109.txt:Article2Nr1/4,Article13Abs4;11April2025",
+      "sources/review-p152-p164-bgbl-2025-139.txt:unrelated correction"
+    ],
+    "recent_enactment_evidence_reused": "sources/recent-enactments-check.json; same-day seven full statutes, not new exhaustive gazette survey",
+    "historical_versions_checked": {
+      "current_duplicate_ids": [],
+      "current_duplicate_doknr": [],
+      "historical_or_version_elements": [],
+      "old_intake_preserved": true,
+      "historical_case_statute_separated": true
+    },
+    "annexes_checked": {
+      "complete": true,
+      "disposition": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+      "unclassified": []
+    },
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "coverage": {
+      "expected": 529,
+      "parsed": 529,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "operative_repealed_abs163_3_preserved": true
+    },
+    "parser_replay": "review-p152-p164-parser-replay.json",
     "unresolved_blockers": []
   }
 }

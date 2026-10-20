@@ -1,6 +1,6 @@
 # Selektive Fallkarten
 
-Sechzehn amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
+Achtzehn amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
 
 - [BGH, 27.10.2021, XII ZB 114/21](BGH-XII-ZB-114-21.md): Nachholung fehlerhafter Anhörung, Fachkunde und Zurückverweisung; §§ 68 und 74; begrenzter Prüfungsnachtrag zu §§ 26 und 34.
 - [BGH, 15.03.2017, XII ZB 109/16](BGH-XII-ZB-109-16.md): bestimmter Sachantrag aus rechtzeitigem Gesamtvorbringen; § 117.
@@ -27,3 +27,6 @@ Die Recherche ist selektiv. Die zusätzlich gesicherten Volltexte XII ZB 601/15 
 - [BGH, 27.05.2020, XII ZB 102/20](BGH-XII-ZB-102-20-2020.md): rechtzeitiger Antrag auf Vollstreckungsschutz; § 120, ausdrücklich vom besonderen AUG-Auslandskontext des entschiedenen Falls abgegrenzt. Anderer Beschluss vom 31.03.2021 mit gleichem Aktenzeichen nicht verwendet.
 
 Die achte begrenzte Prüfung ergänzt [BGH, 21. März 2012, XII ZB 447/10](BGH-XII-ZB-447-10.md) zur Terminierung und Einbeziehung nach § 137 sowie [BGH, 21. Juli 2021, XII ZB 21/21](BGH-XII-ZB-21-21.md) zum gesetzlichen Verbund und zur unzulässigen Teilentscheidung (§§ 137, 140, 142). Beide amtlichen Volltexte sind vollständig gelesen und mit dem nationalen Korpus abgeglichen. Die vom BGH 2021 offengelassene Frage zur fehlenden Entscheidungsreife wird nicht als entschieden ausgegeben. Die unzutreffende Absatzfundstelle in Rn. 31 wird am Gesetz berichtigt.
+
+
+Die neunte Prüfung ergänzt [BGH, 10. Juni 2026, XII ZB 476/25](BGH-XII-ZB-476-25.md) zur Kindesanhörung bei Aufrechterhaltung eines längerfristigen Umgangsausschlusses im Abänderungsverfahren (§ 159; offene Bestellungsfrage zu § 158) und [BGH, 25. September 2024, XII ZB 110/23](BGH-XII-ZB-110-23.md) zur alten Abgeltung von Dolmetscherkosten (§§ 158b, 158c). Letztere Entscheidung ist wegen des amtlich geprüften geänderten Rechts seit 11. April 2025 ausdrücklich historisch begrenzt. Beide Volltexte wurden vollständig gelesen und mit dem nationalen Korpus abgeglichen.

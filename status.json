@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:30:54.267441+00:00",
+  "updated_at": "2026-10-20T16:41:34.251414+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -10,6 +10,7 @@
     "cases/BGH-IV-ZB-35-15.md",
     "cases/BGH-XII-ZB-102-20-2020.md",
     "cases/BGH-XII-ZB-109-16.md",
+    "cases/BGH-XII-ZB-110-23.md",
     "cases/BGH-XII-ZB-114-21.md",
     "cases/BGH-XII-ZB-187-20.md",
     "cases/BGH-XII-ZB-188-11.md",
@@ -19,6 +20,7 @@
     "cases/BGH-XII-ZB-232-09.md",
     "cases/BGH-XII-ZB-264-22.md",
     "cases/BGH-XII-ZB-447-10.md",
+    "cases/BGH-XII-ZB-476-25.md",
     "cases/BGH-XII-ZB-592-11.md",
     "cases/BGH-XII-ZB-674-14.md",
     "cases/BGH-XII-ZR-80-11.md",
@@ -29,7 +31,7 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 325972,
+      "commentary_chars": 351462,
       "errors": [
         "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
       ],
@@ -41,15 +43,15 @@
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "validated_at": "2026-10-20T16:30:54.267441+00:00",
-    "expected_intermediate_failure": "Only336 unannotated units outside p132–p151 review; all20 assigned units present and reviewed; statutory coverage and100% text agreement pass."
+    "validated_at": "2026-10-20T16:41:34.251414+00:00",
+    "expected_intermediate_failure": "Only 336 unannotated units outside p152–p164 review; all 20 assigned units present and reviewed; statutory coverage and 100% text agreement pass."
   },
   "remaining_limitations": [
     "336 statutory units from § 169 onward still lack original commentary.",
     "Full build and strict validation correctly fail because commentary is incomplete.",
     "Case-law research is selective; no exhaustive coverage claimed.",
     "Source preflight rechecked current delivery, relevant commencement clauses and seven recent statutory enactments; no complete historical amendment reconstruction since 2008.",
-    "Eight bounded review batches document160 existing comments §§1–151;33 other existing comments remain outside documented review. This task reviewed exactly p132–p151."
+    "Nine bounded review batches document180existing comments §§1–164;13other existing comments remain outside documented review. This task reviewed exactly p152–p164."
   ],
   "commented_scope": "§§ 1–168g",
   "resume": {
@@ -65,7 +67,7 @@
   "source_preflight": {
     "complete": true,
     "result": "preflight-result.json",
-    "verified_at": "2026-10-20T16:28:06.737218+00:00",
+    "verified_at": "2026-10-20T16:39:45.083576+00:00",
     "date": "2026-10-20",
     "commentaries_changed": false
   },
@@ -73,33 +75,33 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p132",
-      "p133",
-      "p134",
-      "p135",
-      "p136",
-      "p137",
-      "p138",
-      "p139",
-      "p140",
-      "p141",
-      "p142",
-      "p143",
-      "p144",
-      "p145",
-      "p146",
-      "p147",
-      "p148",
-      "p149",
-      "p150",
-      "p151"
+      "p152",
+      "p153",
+      "p154",
+      "p155",
+      "p155a",
+      "p155b",
+      "p155c",
+      "p156",
+      "p157",
+      "p158",
+      "p158a",
+      "p158b",
+      "p158c",
+      "p159",
+      "p160",
+      "p161",
+      "p162",
+      "p163",
+      "p163a",
+      "p164"
     ],
     "result": "review-result.json",
-    "archived_result": "review-p132-p151-result.json",
-    "technical_audit": "review-p132-p151-audit.json",
+    "archived_result": "review-p152-p164-result.json",
+    "technical_audit": "review-p152-p164-audit.json",
     "unresolved_blockers": [],
     "whole_book_complete": false,
-    "commentary_characters": 41095
+    "commentary_characters": 46297
   },
   "bounded_review_history": [
     {
@@ -320,9 +322,41 @@
       "unresolved_blockers": [],
       "whole_book_complete": false,
       "commentary_characters": 41753
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p132",
+        "p133",
+        "p134",
+        "p135",
+        "p136",
+        "p137",
+        "p138",
+        "p139",
+        "p140",
+        "p141",
+        "p142",
+        "p143",
+        "p144",
+        "p145",
+        "p146",
+        "p147",
+        "p148",
+        "p149",
+        "p150",
+        "p151"
+      ],
+      "result": "review-p132-p151-result.json",
+      "archived_result": "review-p132-p151-result.json",
+      "technical_audit": "review-p132-p151-audit.json",
+      "unresolved_blockers": [],
+      "whole_book_complete": false,
+      "commentary_characters": 41095
     }
   ],
-  "cumulative_independently_reviewed_units": 160,
-  "remaining_existing_commentaries_for_review": 33,
-  "commentary_characters": 325972
+  "cumulative_independently_reviewed_units": 180,
+  "remaining_existing_commentaries_for_review": 13,
+  "commentary_characters": 351462
 }

@@ -1,0 +1,33 @@
+{
+  "decisive_date": "2026-10-19",
+  "assessed_at": "2026-10-20T16:39:45.083576+00:00",
+  "current_famfg_xml": "sources/review-p152-p164-famfg.xml",
+  "current_famfg_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "same_as_authoring_start": true,
+  "intake_comparison": "sources/change-map.json; six presentational/source-note differences, no substantive body changes",
+  "special_historical_authority": {
+    "decision": "XII ZB110/23,2024-09-25",
+    "old_text_evidence": "sources/review-p152-p164-XII-ZB-110-23.xml, reasons7–18; judicial quotation of old158c and old158b role, not an independently reconstructed full historical statute",
+    "current_rules": [
+      "§158bAbs1: necessary adult conversations and appropriate settlement efforts as ordinary Soll-tasks",
+      "§158bAbs2: express judicial language-mediation permission",
+      "§158cAbs1:690/555EUR",
+      "§158cAbs2: expressly separate language-mediation costs",
+      "§158cAbs3: express15-month extinction rule"
+    ],
+    "enacted_by": "BGBl.2025I Nr109,Article2Nr1 and4",
+    "commencement": "Article13Abs4: day after publication10April2025 =11April2025",
+    "enactment_evidence": "sources/review-p152-p164-bgbl-2025-109.pdf",
+    "enactment_sha256": "1ff13f868178c6ca85497562b13de3e37a591793b5fe9f820432210ca17fc36d",
+    "correction": "BGBl.2025I Nr139 affects Article6Abs2Nr4b only, not FamFG Article2",
+    "correction_evidence": "sources/review-p152-p164-bgbl-2025-139.pdf",
+    "transition": "§493Abs4: §158a exception for appointment before1January2022; prior §158cAbs1 retained for appointments through10April2025; no blanket continuation of all former tasks/cost rules inferred"
+  },
+  "effective_current_2026_amendments": "Existing verified BGBl152/192/198 commencement evidence reread; no amendment of assigned provisions by these clauses",
+  "future_amendments": "BGBl2026I Nr198 Article10Abs2 excludes general2027insertions at decisive date; only Article4Nr8 effective10July2026",
+  "limits": [
+    "No full historical statutory reconstruction since2008.",
+    "Old statute reproduced in case is used for historical context only, not concatenated into current units.",
+    "Same-day recent gazette search evidence reused with recorded selection limits."
+  ]
+}

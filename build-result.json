@@ -3,5 +3,6 @@
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 336 jednotkám, např.: ['p169', 'p170', 'p171', 'p172', 'p173', 'p174', 'p175', 'p176', 'p177', 'p178']\n",
-  "interpretation": "Full builder correctly rejects336 absent comments outside assigned p132–p151 review; units not narrowed, validator unchanged."
+  "scope": "full manuscript, unchanged input scope; bounded review is20units",
+  "built_at": "2026-10-20T16:40:41.920654+00:00"
 }

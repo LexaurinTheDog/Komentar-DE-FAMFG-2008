@@ -1,0 +1,188 @@
+[
+  {
+    "doknr": "KORE310182026",
+    "official_xml_path": "sources/review-p152-p164-XII-ZB-476-25.xml",
+    "official_xml_sha256": "2867ce6cba1f072d757f9786436d91576c6a90259941bd18ed6bc180a233e300",
+    "local_path": "sources/review-p152-p164-local-KORE310182026.md",
+    "local_sha256": "8784c86dfafeb6774e7b00f277d9c46be4a98bf3dfbac8f2c2bea93d51cd42a6",
+    "all_numbered_reasons_compared": [
+      {
+        "rn": 1,
+        "found": true
+      },
+      {
+        "rn": 2,
+        "found": true
+      },
+      {
+        "rn": 3,
+        "found": true
+      },
+      {
+        "rn": 4,
+        "found": true
+      },
+      {
+        "rn": 5,
+        "found": true
+      },
+      {
+        "rn": 6,
+        "found": true
+      },
+      {
+        "rn": 7,
+        "found": true
+      },
+      {
+        "rn": 8,
+        "found": true
+      },
+      {
+        "rn": 9,
+        "found": true
+      },
+      {
+        "rn": 10,
+        "found": true
+      },
+      {
+        "rn": 11,
+        "found": true
+      },
+      {
+        "rn": 12,
+        "found": true
+      },
+      {
+        "rn": 13,
+        "found": true
+      },
+      {
+        "rn": 14,
+        "found": true
+      },
+      {
+        "rn": 15,
+        "found": true
+      },
+      {
+        "rn": 16,
+        "found": true
+      },
+      {
+        "rn": 17,
+        "found": true
+      },
+      {
+        "rn": 18,
+        "found": true
+      },
+      {
+        "rn": 19,
+        "found": true
+      },
+      {
+        "rn": 20,
+        "found": true
+      },
+      {
+        "rn": 21,
+        "found": true
+      },
+      {
+        "rn": 22,
+        "found": true
+      },
+      {
+        "rn": 23,
+        "found": true
+      }
+    ],
+    "all_reasons_found": true,
+    "tenor_found": true
+  },
+  {
+    "doknr": "KORE709562024",
+    "official_xml_path": "sources/review-p152-p164-XII-ZB-110-23.xml",
+    "official_xml_sha256": "cf7ee79697c91c71b24bbeed6bcadf30aeba67f179a0da53aad871a4ef0addb1",
+    "local_path": "sources/review-p152-p164-local-KORE709562024.md",
+    "local_sha256": "bf2b51241ef4e59578c24f6e29e1ee231752edb430aa7b44e81144cc7f427252",
+    "all_numbered_reasons_compared": [
+      {
+        "rn": 1,
+        "found": true
+      },
+      {
+        "rn": 2,
+        "found": true
+      },
+      {
+        "rn": 3,
+        "found": true
+      },
+      {
+        "rn": 4,
+        "found": true
+      },
+      {
+        "rn": 5,
+        "found": true
+      },
+      {
+        "rn": 6,
+        "found": true
+      },
+      {
+        "rn": 7,
+        "found": true
+      },
+      {
+        "rn": 8,
+        "found": true
+      },
+      {
+        "rn": 9,
+        "found": true
+      },
+      {
+        "rn": 10,
+        "found": true
+      },
+      {
+        "rn": 11,
+        "found": true
+      },
+      {
+        "rn": 12,
+        "found": true
+      },
+      {
+        "rn": 13,
+        "found": true
+      },
+      {
+        "rn": 14,
+        "found": true
+      },
+      {
+        "rn": 15,
+        "found": true
+      },
+      {
+        "rn": 16,
+        "found": true
+      },
+      {
+        "rn": 17,
+        "found": true
+      },
+      {
+        "rn": 18,
+        "found": true
+      }
+    ],
+    "all_reasons_found": true,
+    "tenor_found": true
+  }
+]
