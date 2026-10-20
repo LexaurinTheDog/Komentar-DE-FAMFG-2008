@@ -27,7 +27,7 @@
   "units_authored": 20,
   "max_units": 20,
   "baseline_commit": "90a9a9e522862e6f019a734c599b15e4ebe59635",
-  "completed_at": "2026-10-20T18:06:50.920266+00:00",
+  "completed_at": "2026-10-20T18:08:29.520179+00:00",
   "decisive_date": "2026-10-19",
   "source_verified_at": "2026-10-20T18:05:02.893022+00:00",
   "source_checks": "sources/author-p232-p251-fetch.json",
@@ -151,5 +151,38 @@
     "Whole book remains incomplete; unmodified full build and strict validation expected to fail solely for249missingcomments.",
     "Case-law research selective; no exhaustive subsequent decision or amendment-history reconstruction.",
     "Technical length, equality and similarity checks do not establish legal quality."
-  ]
+  ],
+  "commentary_characters": 50633,
+  "validation": {
+    "assigned_batch_ok": true,
+    "all_20_assigned_units_exported": true,
+    "all_previous_260_commentary_blocks_preserved": true,
+    "unassigned_commentary_changes": [],
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 591289,
+      "errors": [
+        "krátký/chybějící komentář u 249 jednotek: ['p252(0<400)', 'p253(0<400)', 'p254(0<400)', 'p255(0<400)', 'p256(0<400)', 'p257(0<400)', 'p258(0<400)', 'p259(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "expected_intermediate_failure": "249uncommentedunitsfromp252outsideboundedauthoringtask",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 724,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T18:08:29.520179+00:00",
+    "whole_book_complete": false
+  }
 }
