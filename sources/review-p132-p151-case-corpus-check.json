@@ -1,0 +1,298 @@
+[
+  {
+    "doknr": "KORE300522012",
+    "official_xml_sha256": "39e9203a494067abf1d68a10d86cf3c6d1561f7d93cc877247368caeccb9bcd2",
+    "local_path": "sources/review-p132-p151-local-KORE300522012.md",
+    "local_sha256": "8bd06a7bef9bbd6e3834eeba64a31dba02d463905f51a332657374798173d8db",
+    "all_numbered_reasons_compared": [
+      {
+        "rn": 1,
+        "found": true
+      },
+      {
+        "rn": 2,
+        "found": true
+      },
+      {
+        "rn": 3,
+        "found": true
+      },
+      {
+        "rn": 4,
+        "found": true
+      },
+      {
+        "rn": 5,
+        "found": true
+      },
+      {
+        "rn": 6,
+        "found": true
+      },
+      {
+        "rn": 7,
+        "found": true
+      },
+      {
+        "rn": 8,
+        "found": true
+      },
+      {
+        "rn": 9,
+        "found": true
+      },
+      {
+        "rn": 10,
+        "found": true
+      },
+      {
+        "rn": 11,
+        "found": true
+      },
+      {
+        "rn": 12,
+        "found": true
+      },
+      {
+        "rn": 13,
+        "found": true
+      },
+      {
+        "rn": 14,
+        "found": true
+      },
+      {
+        "rn": 15,
+        "found": true
+      },
+      {
+        "rn": 16,
+        "found": true
+      },
+      {
+        "rn": 17,
+        "found": true
+      },
+      {
+        "rn": 18,
+        "found": true
+      },
+      {
+        "rn": 19,
+        "found": true
+      },
+      {
+        "rn": 20,
+        "found": true
+      },
+      {
+        "rn": 21,
+        "found": true
+      },
+      {
+        "rn": 22,
+        "found": true
+      },
+      {
+        "rn": 23,
+        "found": true
+      },
+      {
+        "rn": 24,
+        "found": true
+      },
+      {
+        "rn": 25,
+        "found": true
+      },
+      {
+        "rn": 26,
+        "found": true
+      },
+      {
+        "rn": 27,
+        "found": true
+      },
+      {
+        "rn": 28,
+        "found": true
+      },
+      {
+        "rn": 29,
+        "found": true
+      },
+      {
+        "rn": 30,
+        "found": true
+      },
+      {
+        "rn": 31,
+        "found": true
+      },
+      {
+        "rn": 32,
+        "found": true
+      },
+      {
+        "rn": 33,
+        "found": true
+      },
+      {
+        "rn": 34,
+        "found": true
+      },
+      {
+        "rn": 35,
+        "found": true
+      },
+      {
+        "rn": 36,
+        "found": true
+      }
+    ],
+    "all_reasons_found": true,
+    "tenor_found": true
+  },
+  {
+    "doknr": "KORE304792021",
+    "official_xml_sha256": "e061338a49f57b8826b0234752df795653eb2c98dccc7c3e6bcd17ba3bd3ff6e",
+    "local_path": "sources/review-p132-p151-local-KORE304792021.md",
+    "local_sha256": "25a2b36895f717ab8d6806988f0471a94ca77f54794f6cdf151f14b466dabef5",
+    "all_numbered_reasons_compared": [
+      {
+        "rn": 1,
+        "found": true
+      },
+      {
+        "rn": 2,
+        "found": true
+      },
+      {
+        "rn": 3,
+        "found": true
+      },
+      {
+        "rn": 4,
+        "found": true
+      },
+      {
+        "rn": 5,
+        "found": true
+      },
+      {
+        "rn": 6,
+        "found": true
+      },
+      {
+        "rn": 7,
+        "found": true
+      },
+      {
+        "rn": 8,
+        "found": true
+      },
+      {
+        "rn": 9,
+        "found": true
+      },
+      {
+        "rn": 10,
+        "found": true
+      },
+      {
+        "rn": 11,
+        "found": true
+      },
+      {
+        "rn": 12,
+        "found": true
+      },
+      {
+        "rn": 13,
+        "found": true
+      },
+      {
+        "rn": 14,
+        "found": true
+      },
+      {
+        "rn": 15,
+        "found": true
+      },
+      {
+        "rn": 16,
+        "found": true
+      },
+      {
+        "rn": 17,
+        "found": true
+      },
+      {
+        "rn": 18,
+        "found": true
+      },
+      {
+        "rn": 19,
+        "found": true
+      },
+      {
+        "rn": 20,
+        "found": true
+      },
+      {
+        "rn": 21,
+        "found": true
+      },
+      {
+        "rn": 22,
+        "found": true
+      },
+      {
+        "rn": 23,
+        "found": true
+      },
+      {
+        "rn": 24,
+        "found": true
+      },
+      {
+        "rn": 25,
+        "found": true
+      },
+      {
+        "rn": 26,
+        "found": true
+      },
+      {
+        "rn": 27,
+        "found": true
+      },
+      {
+        "rn": 28,
+        "found": true
+      },
+      {
+        "rn": 29,
+        "found": true
+      },
+      {
+        "rn": 30,
+        "found": true
+      },
+      {
+        "rn": 31,
+        "found": true
+      },
+      {
+        "rn": 32,
+        "found": true
+      },
+      {
+        "rn": 33,
+        "found": true
+      }
+    ],
+    "all_reasons_found": true,
+    "tenor_found": true
+  }
+]

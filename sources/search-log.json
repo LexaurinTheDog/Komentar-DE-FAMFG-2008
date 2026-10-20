@@ -356,5 +356,60 @@
       "p120"
     ],
     "limits": "Selective research. No new fully verified case for remaining18 units; no exhaustive later-treatment claim."
+  },
+  "bounded_review_p132_p151": {
+    "date": "2026-10-20",
+    "scope": [
+      "p132",
+      "p133",
+      "p134",
+      "p135",
+      "p136",
+      "p137",
+      "p138",
+      "p139",
+      "p140",
+      "p141",
+      "p142",
+      "p143",
+      "p144",
+      "p145",
+      "p146",
+      "p147",
+      "p148",
+      "p149",
+      "p150",
+      "p151"
+    ],
+    "firecrawl": "Authenticated,0 credits; no installation or credential change; official direct downloads plus web search used",
+    "queries": [
+      "site:rechtsprechung-im-internet.de \"FamFG\" \"137\" \"zwei Wochen\"",
+      "site:rechtsprechung-im-internet.de \"§ 140\" \"FamFG\" Abtrennung",
+      "site:rechtsprechung-im-internet.de \"§ 150\" \"FamFG\" Kosten",
+      "BGH FamFG137 zwei Wochen Scheidungstermin XII ZB",
+      "BGH FamFG140 Abtrennung drei Monate Härte",
+      "BGH150 FamFG Versöhnung Kosten2017"
+    ],
+    "local_corpus_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+    "local_docket_lookup": [
+      "XII ZB447/10",
+      "XII ZB21/21",
+      "XII ZB87/12"
+    ],
+    "selected_official_full_texts_read": {
+      "KORE300522012": "Tenor and all reasons1–36",
+      "KORE304792021": "Tenor and all reasons1–33"
+    },
+    "supported_units": [
+      "p137",
+      "p140",
+      "p142"
+    ],
+    "candidates_not_used": [
+      "XII ZB87/12: manifest metadata only, no holding imported",
+      "XII ZB427/11: references within selected decisions only; no separate full-text verification or direct reliance",
+      "Commercial annotations and association summaries in search: discovery only, no text or holding imported"
+    ],
+    "limits": "Selective research. No new fully verified authority for other17 units; no exhaustive later-treatment review.2021 Rn.33 leaves OLG theory of missing decision-readiness and time limit open."
   }
 }

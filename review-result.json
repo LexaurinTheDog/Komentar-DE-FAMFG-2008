@@ -1,202 +1,191 @@
 {
-  "task_kind": "review",
+  "task_kind": "bounded independent second-pass review",
   "complete": true,
-  "scope": "Exactly assigned p113–p131 including p129a; no whole-book completion",
-  "review_date": "2026-10-20",
-  "decisive_date": "2026-10-19",
-  "verified_at": "2026-10-20T16:17:07.559561+00:00",
-  "baseline_commit": "d892b33391a00bd630c4321fea224d82728fd2f4",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p113",
-    "p114",
-    "p115",
-    "p116",
-    "p117",
-    "p118",
-    "p119",
-    "p120",
-    "p121",
-    "p122",
-    "p123",
-    "p124",
-    "p125",
-    "p126",
-    "p127",
-    "p128",
-    "p129",
-    "p129a",
-    "p130",
-    "p131"
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137",
+    "p138",
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p151"
   ],
-  "unresolved_blockers": [],
+  "baseline_commit": "31a2daeb64dc708627f6ab7fdda4b74b6ce00a36",
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T16:28:06.737218+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/famfg/",
+  "source_preflight": "preflight-result.json",
   "findings": [
     {
-      "id": "p113",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "All five paragraphs and both lists checked. Expanded precise exclusion ranges, retained §46 Abs.1 Sätze3/4, amendment effective1.10.2026, §227 Abs.3 summer adjournment exclusion versus other grounds, Ehesachen-only exclusions and terminology.",
-      "checked_sources": "FamFG §§46,112–120,127; ZPO §227; BGBl2026 I Nr192 Art4 Nr4/Art20"
+      "id": "p132",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "All3 paragraphs checked; clarified cost-offset consequences, limited success trigger, two responsibility alternatives including knowledge of third-party deception, exact authorities/third-person exclusion and independent minor protection.",
+      "authority": "FamFG §§113,132; ZPO §92 Abs1; BGB §1306",
+      "resolved": true
     },
     {
-      "id": "p114",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "All paragraphs and all seven exceptions read against exact text. Distinguished spouse versus participant categories, public employee representation and BGH qualification, consent to withdrawal versus own application, §78 Abs.3 acts, each VersAusglG reference and special procedural power.",
-      "checked_sources": "FamFG §§10,114,125; ZPO §78 Abs.3; VersAusglG §§3 Abs.3,15 Abs.1/3,19 Abs.2 Nr5"
+      "id": "p133",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Both paragraphs and all3 items checked; distinguished mandatory disclosures from desired certificates, actual ordinary residence, each agreement topic and only other family cases involving both spouses; no agreement or joinder fiction.",
+      "authority": "FamFG §§133,137",
+      "resolved": true
     },
     {
-      "id": "p115",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Read both sentences. Kept cumulative delay and gross-negligence requirements; clarified discretion after threshold, concrete reasoning, hearing and remaining admission rule. Fictional document example tests each condition separately.",
-      "checked_sources": "FamFG §§113,115,127"
+      "id": "p134",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Both paragraphs checked; separated consent to divorce and withdrawal, exact last-hearing limit for revoking divorce consent, procedural declaration and private wishes; no extension of revocation right to withdrawal consent.",
+      "authority": "FamFG §§114 Abs4 Nr3,134",
+      "resolved": true
     },
     {
-      "id": "p116",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Read all three paragraphs. Distinguished universal Beschluss form from limited final-decision effectiveness rules, Rechtskraft in Ehesachen and discretionary/mandatory-default immediate effectiveness in Familienstreitsachen. Mixed divorce/maintenance example avoids extending immediate effect to status.",
-      "checked_sources": "FamFG §§46,113,116,120"
+      "id": "p135",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Both sentences checked; free information only, named provider and participation modes, certificate, no coercive mediation, separate costs discretion and adequate excuse.",
+      "authority": "FamFG §§135,150 Abs4",
+      "resolved": true
     },
     {
-      "id": "p117",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Read all five paragraphs and actual ZPO references. Correctly identified two-month period and five-month latest commencement, separate recipients, extension not automatic, limited §522 incorporation, each paragraph2 subject, prior notice, restricted protocol route and one-month reinstatement for reasons deadlines. Existing BGH full text reread, no expansion of holding to arbitrary later requests.",
-      "checked_sources": "FamFG §§63–65,68,113–114,117,130; ZPO §§233–234,514,516,520–522,524,527–528,538–539; BGH XII ZB109/16 Rn24–27"
+      "id": "p136",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "All4 paragraphs checked; corrected undifferentiated discretion into Soll-Aussetzung when positive outlook exists, joint-objection threshold, applicant request, one repeat and aggregate maximum durations.",
+      "authority": "FamFG §136",
+      "resolved": true
     },
     {
-      "id": "p118",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Expanded previously abstract reference into Nichtigkeits-/Restitutions grounds, criminal-ground conditions, no-fault prior nonuse, exclusive forum and specific time-rule exceptions. Distinguished changed circumstances from reopening; no free correction route created.",
-      "checked_sources": "FamFG §§48,113,118; ZPO §§578–591"
+      "id": "p137",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "All5 paragraphs and all enumerated subjects checked; expanded statutory automatic joinder, simplified-maintenance exception, true scheme of financial/kindschaft joinder and post-severance status. Added verified timing/continuation-hearing holding and pure-information versus staged application distinction.",
+      "authority": "FamFG §§137,140–142,151; BGH XII ZB447/10 Rn11,15–25,29–36; XII ZB21/21 Rn11–25",
+      "resolved": true
     },
     {
-      "id": "p119",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Read exact incorporation ranges and differentiated §49 interim order from arrest. Limited §945 incorporation for interim orders to §112 Nr2/3, considered damage basis, arrest claim/ground and §929 execution rules.",
-      "checked_sources": "FamFG §§49,112,113,119; ZPO §§916–934,943–945"
+      "id": "p138",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Both paragraphs checked; mandatory assignment after strict threshold, first-instance/nonrepresented respondent scope, exact preliminary hearing and advice, cross-reference only §78c Abs1/3 and Beistand rather than plenary representative or generic legal aid.",
+      "authority": "FamFG §§114,138; ZPO §78c Abs1/3",
+      "resolved": true
     },
     {
-      "id": "p120",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Read all paragraphs and verified §707/719 references. Clarified actual effective order, application plus concrete credible irreparable detriment, later-protection threshold and personal-cohabitation exclusion. New BGH2020 full text read; Rn8 expressly explains §120 but actual AUG context and unresolved alleged foreign reversal clearly bounded.",
-      "checked_sources": "FamFG §§113,116,120; ZPO §§707 Abs.1,719 Abs.1; BGH27.5.2020 XII ZB102/20 Rn1–15, especially8–9"
+      "id": "p139",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Both paragraphs checked; content-limited transmissions to additional participants and decisions to entitled third persons, timed discretionary exclusion and distinction from general file inspection.",
+      "authority": "FamFG §139",
+      "resolved": true
     },
     {
-      "id": "p121",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Three status categories read and distinguished from monetary disputes and Folgesachen. Added that §§127 Abs.2/3 have narrower scopes; fictional status dispute no longer treats all marriage-related claims uniformly.",
-      "checked_sources": "FamFG §§111–114,121–127"
+      "id": "p140",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "All6 paragraphs, all5 grounds and BGB exception checked; replaced abstract ground labels with exact conditions, three-month period, cooperation, first separation-year correction, separate order and statutory consequences. Court wrong paragraph reference not copied into law.",
+      "authority": "FamFG §§114 Abs4 Nr4,137 Abs5,140,150 Abs5; BGB §1565 Abs2; BGH XII ZB21/21 Rn30–33",
+      "resolved": true
     },
     {
-      "id": "p122",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Each of seven ranks checked. Added full child-splitting restriction of Nr2, last ordinary-residence district at Rechtshängigkeit, ranks4/5, simple Aufenthalt in Nr6 and no new international jurisdiction. Split-child example corrected missing specificity.",
-      "checked_sources": "FamFG §§97–98,122–124; ZPO §261"
+      "id": "p141",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "All3 sentences checked; narrowed automatic child-protection exception to exact transferred-custody subjects, express continuation before effective withdrawal, consent route and no guarantee of substantive claim absent divorce.",
+      "authority": "FamFG §§113,134,137 Abs5,141,150 Abs5",
+      "resolved": true
     },
     {
-      "id": "p123",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Read both selection alternatives and exact §281 incorporation. Explained sole-divorce priority, first Rechtshängigkeit otherwise, binding/unappealable transfer and only §281 Abs.3 Satz1 cost treatment. Distinguished transfer from joinder.",
-      "checked_sources": "FamFG §§123–126; ZPO §§253,261,281 Abs.2/3 Satz1"
+      "id": "p142",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "All3 paragraphs checked; actual single final decision versus legitimate preliminary staged rulings, no default divorce, different child exception for dismissal versus withdrawal, limited pronouncement reference and verified unpermitted partial disposition.",
+      "authority": "FamFG §§130,137,140–143; BGH XII ZB21/21 Rn11–12,23–33",
+      "resolved": true
     },
     {
-      "id": "p124",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Both sentences checked. Added actual §253 essentials and filing versus service/Rechtshängigkeit. Preserved §133 special requirements and own application versus unrepresented consent distinction.",
-      "checked_sources": "FamFG §§113–114,122–124,133; ZPO §§253,261"
+      "id": "p143",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Full rule checked; priority applies only to concurrent Einspruch and other remedy, preserves separate filing requirements and forums, does not itself create a new remedy or permission for default divorce.",
+      "authority": "FamFG §§130,142–143",
+      "resolved": true
     },
     {
-      "id": "p125",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "All capacity rules checked. Separated limited capacity, incapacity, representative status, targeted approval for divorce/annulment requests and continuing lawyer requirement; no general approval condition imposed on every defence/status action.",
-      "checked_sources": "FamFG §§114,125"
+      "id": "p144",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Full rule checked; additional advance Anschluss waiver distinct from ordinary status remedy waiver, scope of continued financial appeal, no unwarranted extension of consent exception from lawyer representation.",
+      "authority": "FamFG §§114 Abs4,144–145",
+      "resolved": true
     },
     {
-      "id": "p126",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "All three paragraphs read. Separated discretionary same-marriage joinder from §123 transfer, prohibited general joinder from §137 exception, and priority of annulment only where both requests well founded.",
-      "checked_sources": "FamFG §§123,126,137"
+      "id": "p145",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "All3 paragraphs checked; other-family-subject limitation, precise last-notification trigger/substitute, qualified repeated monthly extension and absolute exclusion of status attack attached to provider appeal.",
+      "authority": "FamFG §145",
+      "resolved": true
     },
     {
-      "id": "p127",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "All paragraphs checked. Explained independent investigation rather than §26; unintroduced facts limited only in divorce/annulment, alternatives of marriage preservation or no objection, and special required pleading by opposing spouse under §1568.",
-      "checked_sources": "FamFG §§113,127; BGB §1568"
+      "id": "p146",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Both paragraphs checked; specific dismissal-reversal and pending-follow-on conditions, Soll-remand and binding legal assessment; paragraph2 only authorizes hearing, not blanket early final judgment.",
+      "authority": "FamFG §§137,142,146,148",
+      "resolved": true
     },
     {
-      "id": "p128",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "All paragraphs read. Corrected merely optional language for required separate protective hearing; distinguished informal hearing/formal party evidence, child discussion versus verbund, requested judge option, witness sanctions without detention, and personal absence versus procedural default.",
-      "checked_sources": "FamFG §§114,128,130,137; ZPO §§380–381,448"
+      "id": "p147",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Both sentences checked; application and concrete linkage in Rechtsbeschwerde, correct remand to appellate court, separate special status monthly deadline with service rather than generic knowledge.",
+      "authority": "FamFG §§145–147",
+      "resolved": true
     },
     {
-      "id": "p129",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Both paragraphs read against §§1306/1316 BGB. Explained proper defendants, material standing of third person, exact Nr1 reporting scope, independent authority powers and corresponding status-declaration rule.",
-      "checked_sources": "FamFG §§121,129; BGB §§1306,1316"
+      "id": "p148",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Full sentence checked; status finality distinct from entire-order finality and independent effectiveness requirements, severed follow-on status versus independently continued proceedings, interim/final distinction.",
+      "authority": "FamFG §§46,137 Abs5,141–142,148",
+      "resolved": true
     },
     {
-      "id": "p129a",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "All three sentences and exact §155 references checked. Clarified narrow subject, hearing target rather than merits deadline, zwingende Gründe plus immediate credible support, and both-spouses-adult exception as of hearing. Added thematic checklist.",
-      "checked_sources": "FamFG §§128,129a,155 Abs.1/Abs.2 Sätze4–5"
+      "id": "p149",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "Full sentence checked; statutory extension only after grant unless expressly excluded, not automatic grant for divorce or other follow-on subjects, distinct assignment and independent later proceedings.",
+      "authority": "FamFG §§138,149",
+      "resolved": true
     },
     {
-      "id": "p130",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Both paragraphs checked with supplementary ZPO default prerequisites. Distinguished default withdrawal decision from automatic effect of personal absence, no adverse default against respondent, record-only decision bar, §128 sanctions and §141 follow-on exceptions.",
-      "checked_sources": "FamFG §§113–114,128,130,141; ZPO §§330–331,335,337–338"
+      "id": "p150",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "All5 paragraphs checked; actual unilateral/bilateral petition outcomes versus consent, third-person out-of-court costs, reasoned equitable exceptions, attendance excuse, cost agreements and severed versus independent costs.",
+      "authority": "FamFG §§113,135,137 Abs5,140–142,150; ZPO §92 Abs1",
+      "resolved": true
     },
     {
-      "id": "p131",
-      "disposition": "corrected_or_expanded",
-      "finding_and_resolution": "Full provision read. Clarified death before status Rechtskraft, ex lege merits disposal, no simple continuation by heirs, remaining cost issues with checked §150 reference and separate follow-on questions. Example distinguishes pronouncement from effectiveness.",
-      "checked_sources": "FamFG §§116,121,131,150 Abs.2 Satz2/Abs.4"
+      "id": "p151",
+      "checked": "Every paragraph/list item read against official XML and existing commentary; example and cross-references reviewed",
+      "finding_and_correction": "All8 numbered categories checked; expanded each category, prenatal representation, distinction of BGB confinement from Land law/medical coercion, no new substantive basis, JGG limitation and exact interactions with acceleration/§167.",
+      "authority": "FamFG §§99,137 Abs3,151,155,167,231; BGB §§1631b,1795 Abs1 S3,1813 Abs1",
+      "resolved": true
     }
   ],
-  "limitations": [
-    "Only these20 commentaries reviewed; all other substantive commentaries preserved.",
-    "193 of529 units authored;336 missing commentaries outside bounded assignment.",
-    "Existing BGH2017 full text reread and one additional BGH2020 full text selectively researched; no exhaustive later-treatment or case-law survey. No new case added for other18 units; this does not mean relevant cases do not exist.",
-    "BGH2020 decision actually concerns special foreign-maintenance enforcement; only its explicit §120 explanation is used, not an unverified present-day exposition of AUG or treaty law.",
-    "Firecrawl status reports0 credits; official direct ZIP/XML sources available, no credential/service change made.",
-    "No whole-book completion, external legal approval or claim that technical checks prove substantive correctness."
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-447-10.md",
+    "cases/BGH-XII-ZB-21-21.md"
   ],
-  "evidence": {
-    "fresh_official_xml": "sources/review-p113-p131-famfg.xml",
-    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
-    "source_preflight": "preflight-result.json",
-    "batch_audit": "review-p113-p131-audit.json",
-    "parser_replay": "review-p113-p131-parser-replay.json",
-    "case_cards": [
-      "cases/BGH-XII-ZB-109-16.md",
-      "cases/BGH-XII-ZB-102-20-2020.md"
-    ],
-    "previous_review": "review-p94-p112-result.json"
-  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Complete only for exactly20 assigned units p132–p151, not the full book.",
+    "336 units outside this task still lack commentary; full builder and strict validator are expected to reject that genuine incompleteness.",
+    "Selective case law:2 fully read official decisions and national-corpus comparisons support3 units; no new sufficiently verified case added for other17 units. No exhaustive later-treatment review.",
+    "No independent external-lawyer approval; bounded fresh-process second pass only.",
+    "Auxiliary BGB/ZPO provisions read as needed; no complete preflight of every amendment to those codes.",
+    "Same-day previous recent-gazette source evidence reused with its limits; no full historic amendment reconstruction since2008."
+  ],
+  "whole_book_complete": false,
   "validation": {
-    "assigned_batch_ok": true,
-    "reviewed_ids_exact": true,
-    "unassigned_commentary_changes": [],
-    "total_expected_official_units": 529,
-    "total_parsed_units": 529,
-    "statutory_agreement": 1.0,
-    "full_builder_exit_code": 1,
-    "strict_validator": {
-      "repo": "Komentar-DE-FAMFG-2008",
-      "units": 529,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 306737,
-      "errors": [
-        "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "whole_book_complete": false,
-    "reason_for_global_failure": "336 unannotated units outside assigned p113–p131 review",
-    "local_links_checked": 315,
-    "broken_local_links": [],
-    "repeated_substantive_paragraphs": [],
-    "near_repeated_commentary": [],
-    "source_body_hash_mismatches": []
+    "state": "pending actual build and strict validation"
   }
 }
