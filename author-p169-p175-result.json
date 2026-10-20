@@ -32,5 +32,17 @@
     "This is author self-check; independent second pass for these seven units remains outstanding.",
     "Minimum length and technical text match are not legal quality certification."
   ],
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "validation": {
+    "assigned_units_ok": true,
+    "commentary_characters": 20014,
+    "source_text_agreement": 1.0,
+    "duplicate_commentary_ids": [],
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "full_build_exit_code": 1,
+    "strict_validator_ok": false,
+    "strict_validator_only_blocker": "329 not-yet-commented units outside this assignment",
+    "full_result": "validation.json"
+  }
 }

@@ -1,1 +1,11 @@
-{"repo": "Komentar-DE-FAMFG-2008", "units": 529, "verbatim_ratio": 1.0, "commentary_chars": 351462, "errors": ["krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"], "warnings": [], "ok": false}
+{
+  "repo": "Komentar-DE-FAMFG-2008",
+  "units": 529,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 371476,
+  "errors": [
+    "krátký/chybějící komentář u 329 jednotek: ['p176(0<400)', 'p177(0<400)', 'p178(0<400)', 'p179(0<400)', 'p180(0<400)', 'p181(0<400)', 'p182(0<400)', 'p183(0<400)']"
+  ],
+  "warnings": [],
+  "ok": false
+}

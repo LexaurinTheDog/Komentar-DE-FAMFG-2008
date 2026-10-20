@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:48:55.517157+00:00",
+  "updated_at": "2026-10-20T16:49:59.329961+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -33,9 +33,9 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 351462,
+      "commentary_chars": 371476,
       "errors": [
-        "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
+        "krátký/chybějící komentář u 329 jednotek: ['p176(0<400)', 'p177(0<400)', 'p178(0<400)', 'p179(0<400)', 'p180(0<400)', 'p181(0<400)', 'p182(0<400)', 'p183(0<400)']"
       ],
       "warnings": [],
       "ok": false
@@ -45,8 +45,9 @@
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "validated_at": "2026-10-20T16:41:34.251414+00:00",
-    "expected_intermediate_failure": "Only 336 unannotated units outside p152–p164 review; all 20 assigned units present and reviewed; statutory coverage and 100% text agreement pass."
+    "validated_at": "2026-10-20T16:49:59.329961+00:00",
+    "expected_intermediate_failure": "Exactly 329 unannotated units outside p169-p175; all seven assigned comments present and self-checked; 100% statutory text agreement.",
+    "bounded_batch_ok": true
   },
   "remaining_limitations": [
     "329 statutory units from § 176 onward still lack original commentary.",
@@ -359,7 +360,7 @@
   ],
   "cumulative_independently_reviewed_units": 180,
   "remaining_existing_commentaries_for_review": 20,
-  "commentary_characters": 351462,
+  "commentary_characters": 371476,
   "bounded_authoring": {
     "complete": true,
     "units_written": 7,
