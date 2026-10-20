@@ -1,0 +1,27 @@
+{
+  "checks": [
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T22:31:45.667859+00:00",
+      "http_status": 200,
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "path": "sources/author-p425-p444-famfg.zip",
+      "xml_path": "sources/author-p425-p444-famfg.xml",
+      "format_validation": "ZIP opened and contained XML parsed"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301732016.zip",
+      "accessed_at": "2026-10-20T22:31:45.926083+00:00",
+      "http_status": 200,
+      "sha256": "9f10c17c5ff5a93cd7f9b9293576bf656cd5f61d136aa3cf66f2594f4c72c938",
+      "xml_sha256": "dbf9452fe126b701d287278cebc863c9315d211d868429f59666ec7fcd271bb4",
+      "path": "sources/author-p425-p444-case.zip",
+      "xml_path": "sources/author-p425-p444-case.xml",
+      "format_validation": "ZIP opened and contained XML parsed"
+    }
+  ],
+  "canonical_xml_identical": true,
+  "existing_effective_version_evidence": "preflight-result.json",
+  "scope": "p425–p444; retains effective canonical text and excludes previously documented future amendments; no new source substitution"
+}

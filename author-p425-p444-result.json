@@ -1,0 +1,61 @@
+{
+  "kind": "bounded_author",
+  "complete": true,
+  "authored_ids": [
+    "p425",
+    "p426",
+    "p427",
+    "p428",
+    "p429",
+    "p430",
+    "p431",
+    "p432",
+    "p433",
+    "p434",
+    "p435",
+    "p436",
+    "p437",
+    "p438",
+    "p439",
+    "p440",
+    "p441",
+    "p442",
+    "p443",
+    "p444"
+  ],
+  "units_authored": 20,
+  "commentary_characters": 34717,
+  "previous_460_comments_unchanged": true,
+  "whole_book_complete": false,
+  "total_units": 529,
+  "completed_units": 480,
+  "remaining_units": 49,
+  "statutory_agreement": 1.0,
+  "parser_reproducible": true,
+  "independent_second_pass_complete": false,
+  "case_law_sources": [
+    "cases/BGH-IV-ZB-37-15.md"
+  ],
+  "unresolved_batch_blockers": [],
+  "limitations": [
+    "Independent second pass pending.",
+    "Selective case law; no full subsequent-case survey.",
+    "49 unassigned comments absent; full builder and strict whole-book validator cannot pass.",
+    "Length and similarity checks are not proof of legal quality."
+  ],
+  "completed_at": "2026-10-20T22:36:11.420536+00:00",
+  "strict_validation": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1041393,
+    "errors": [
+      "krátký/chybějící komentář u 49 jednotek: ['p445(0<400)', 'p446(0<400)', 'p447(0<400)', 'p448(0<400)', 'p449(0<120)', 'p450(0<400)', 'p451(0<400)', 'p452(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "local_links_checked": 1237,
+  "broken_local_links": [],
+  "all_20_assigned_units_exported": true
+}

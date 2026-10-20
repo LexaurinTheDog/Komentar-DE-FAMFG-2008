@@ -223,3 +223,6 @@ Amtlicher FamFG-ZIP/XML- und Indexabruf für §§ 385–404: [Abrufprotokoll](so
 
 
 Autorencharge §§ 405–424: [Amtlicher FamFG-Abruf](sources/author-p405-p424-source-check.json), [Fassungsabgleich](sources/author-p405-p424-version-map.json), [ZPO-Verweisungsprüfung](sources/author-p405-p424-zpo-check.json), [selektive Recherche](sources/author-p405-p424-search-log.json), [BGH XIII ZB 49/21](cases/BGH-XIII-ZB-49-21.md). Vollständiger amtlicher Entscheidungsinhalt einschließlich aller Gründe 1–11 gelesen. Gesamtstand 460 kommentierte Einheiten, 69 offen; ältere Zahlen sind historische Fortschrittsstände.
+
+
+Autorencharge §§ 425–444: [amtlicher erneuter Quellenabruf](sources/author-p425-p444-source-check.json), [Fassungsprüfung](sources/author-p425-p444-version-map.json), [selektive Recherche](sources/author-p425-p444-search-log.json), [BGH IV ZB 37/15](cases/BGH-IV-ZB-37-15.md), [BGB § 927](sources/author-p425-p444-bgb927.html).

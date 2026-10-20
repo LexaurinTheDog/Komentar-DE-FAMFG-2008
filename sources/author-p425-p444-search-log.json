@@ -1,0 +1,63 @@
+{
+  "scope": [
+    "p425",
+    "p426",
+    "p427",
+    "p428",
+    "p429",
+    "p430",
+    "p431",
+    "p432",
+    "p433",
+    "p434",
+    "p435",
+    "p436",
+    "p437",
+    "p438",
+    "p439",
+    "p440",
+    "p441",
+    "p442",
+    "p443",
+    "p444"
+  ],
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"425\" \"Verlängerung\" \"XIII\"",
+    "site.rechtsprechung-im-internet.de \"438\" \"Aufgebot\""
+  ],
+  "local_corpus_query": "rg -l IV ZB 37/15 /Volumes/LaCie/law-intake/eu/de/rii",
+  "local_full_text": "rii-kore301732016.md; _raw/rii-kore301732016.xml",
+  "full_text_read": [
+    "Fresh official KORE301732016 XML: tenor, Rn.1–30, correction of 10 January 2017; compared with local national corpus."
+  ],
+  "cited_units": [
+    "p438",
+    "p439"
+  ],
+  "no_additional_verified_case_for": [
+    "p425",
+    "p426",
+    "p427",
+    "p428",
+    "p429",
+    "p430",
+    "p431",
+    "p432",
+    "p433",
+    "p434",
+    "p435",
+    "p436",
+    "p437",
+    "p440",
+    "p441",
+    "p442",
+    "p443",
+    "p444"
+  ],
+  "not_cited": [
+    "XIII ZB 17/22 and third-party summaries surfaced; not fully verified and not used as authority."
+  ],
+  "limits": [
+    "Selective search only; no claim uncited provisions lack relevant cases."
+  ]
+}

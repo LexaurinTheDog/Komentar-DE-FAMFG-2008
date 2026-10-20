@@ -1,6 +1,7 @@
 {
   "exit_code": 1,
   "stdout": "",
-  "stderr": "CHYBÍ komentář k 69 jednotkám, např.: ['p425', 'p426', 'p427', 'p428', 'p429', 'p430', 'p431', 'p432', 'p433', 'p434']\n",
-  "scope": "p405–p424 reviewed; full builder rejects 69 unassigned missing comments; explicit existing partial exporter retained."
+  "stderr": "CHYBÍ komentář k 49 jednotkám, např.: ['p445', 'p446', 'p447', 'p448', 'p449', 'p450', 'p451', 'p452', 'p453', 'p454']\n",
+  "scope": "Bounded p425–p444 complete; full builder rejects 49 unassigned missing comments. Existing explicit partial exporter used.",
+  "run_at": "2026-10-20T22:36:11.420536+00:00"
 }

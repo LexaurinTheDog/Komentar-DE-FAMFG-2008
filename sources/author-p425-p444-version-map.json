@@ -1,0 +1,165 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/famfg/",
+  "verified_at": "2026-10-20T22:31:45.667859+00:00",
+  "assigned_ids": [
+    "p425",
+    "p426",
+    "p427",
+    "p428",
+    "p429",
+    "p430",
+    "p431",
+    "p432",
+    "p433",
+    "p434",
+    "p435",
+    "p436",
+    "p437",
+    "p438",
+    "p439",
+    "p440",
+    "p441",
+    "p442",
+    "p443",
+    "p444"
+  ],
+  "version_evidence": {
+    "decisive_date": "2026-10-19",
+    "rechecked_at": "2026-10-20T16:26:21.879451+00:00",
+    "consolidation_delivery_unchanged": true,
+    "xml_builddate": "20261008215512",
+    "official_stand_notices": [
+      {
+        "type": "Stand",
+        "text": "Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192"
+      },
+      {
+        "type": "Hinweis",
+        "text": "Änderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+      },
+      {
+        "type": "Sonst",
+        "text": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      }
+    ],
+    "citation_notice_distinction": "HTML Vollzitat cites Art. 4 G 2.7.2026 I Nr.198; XML Stand cites Art.4 G 22.6.2026 I Nr.192 plus a documentary-pending notice for Nr.198. Effectiveness resolved by commencement clauses, not these labels.",
+    "commencement_checks": [
+      {
+        "act": "BGBl. 2026 I Nr.152",
+        "amending_clause": "Art.6",
+        "effective_clause": "Art.18 Abs.1; exceptions in Abs.2–4 do not cover Art.6",
+        "effective_date": "2026-10-01",
+        "units": [
+          "p95"
+        ],
+        "evidence": "sources/bgbl-152.pdf",
+        "fresh_identical_evidence": "sources/bgbl-152-2026-10-20.pdf"
+      },
+      {
+        "act": "BGBl. 2026 I Nr.192",
+        "amending_clause": "Art.4 Nr.1–4",
+        "effective_clause": "Art.20 Abs.1; exceptions in Abs.2–5 do not cover Art.4",
+        "effective_date": "2026-10-01",
+        "units": [
+          "p41a",
+          "p46",
+          "p113"
+        ],
+        "evidence": "sources/bgbl-192.pdf",
+        "fresh_identical_evidence": "sources/bgbl-192-2026-10-20.pdf"
+      },
+      {
+        "act": "BGBl. 2026 I Nr.198",
+        "amending_clause": "Art.4 Nr.8",
+        "effective_clause": "Art.10 Abs.1 Nr.2; publication on 2026-07-09",
+        "effective_date": "2026-07-10",
+        "units": [
+          "p214"
+        ],
+        "evidence": "sources/bgbl-198.pdf",
+        "fresh_identical_evidence": "sources/bgbl-198-2026-10-20.pdf"
+      },
+      {
+        "act": "BGBl. 2026 I Nr.198",
+        "amending_clause": "Art.4 Nr.1–7,9",
+        "effective_clause": "Art.10 Abs.2",
+        "effective_date": "2027-07-01",
+        "excluded_future_ids": [
+          "p94a",
+          "p94b",
+          "p94c",
+          "p94d",
+          "p167c",
+          "p216b"
+        ],
+        "other_excluded_changes": [
+          "p57",
+          "p88",
+          "p96",
+          "TOC and subsection renumbering"
+        ],
+        "evidence": "sources/bgbl-198.pdf"
+      },
+      {
+        "act": "BGBl.2026 I Nr.107",
+        "amending_clause": "Art.11Abs.7",
+        "effective_clause": "Art.12Abs.1; exceptions in Abs.2–4 do not cover Art.11Abs.7",
+        "effective_date": "2026-07-01",
+        "units": [
+          "p250"
+        ],
+        "change": "Bürgergeld replaced by Grundsicherungsgeld in §250Abs1Nr12",
+        "evidence": "sources/review-p232-p251-bgbl-107.pdf"
+      }
+    ],
+    "actual_text_checks": {
+      "p41a_new_electronic_notice": true,
+      "p46_new_abs2": true,
+      "p113_updated_reference": true,
+      "p95_new_abs5": true,
+      "p214_effective_sentence": true,
+      "future_insertions_absent": true,
+      "future_p88_abs4_absent": true,
+      "future_p96_abs3_absent": true,
+      "future_p57_item4a_absent": true
+    },
+    "recent_enactments_check": "sources/recent-enactments-check.json",
+    "recent_statutes_screened": [
+      275,
+      276,
+      285,
+      286,
+      289,
+      293,
+      304
+    ],
+    "recent_scan_result": "No FamFG / Familiensachen / freiwilligen Gerichtsbarkeit occurrence in seven full official PDFs; conservative late-September boundary includes acts preceding intake.",
+    "intake_comparison": "Six presentation/source-note differences resolved individually in change-map.json; no substantive paragraph wording change identified.",
+    "limits": [
+      "No complete reconstruction of every amendment since 2008.",
+      "Current-service regulations and corrections screened by title; full-text statutory search is limited to the seven selected listed acts.",
+      "Selective case cards retained; this source preflight does not re-review case law or the commentary."
+    ],
+    "latest_bounded_recheck": "sources/review-p365-p384-version-map.json",
+    "latest_bounded_author_recheck": "sources/author-p310-p329-version-map.json"
+  },
+  "fresh_source": "sources/author-p425-p444-source-check.json",
+  "historical_versions_checked": {
+    "official_expected_count": 529,
+    "parsed_count": 529,
+    "duplicates": [],
+    "future_amendments": "Previously checked BGBl.2026 I Nr.198 Art.4 except Nr.8 remains future (2027-07-01); no assigned paragraph affected. Fresh official XML identical to preserved source. No historical text concatenation."
+  },
+  "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+  "opening_formula": {
+    "present": false,
+    "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+    "global_notes_preserved": true
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Relies on retained title-wide commencement checks for decisive authoring date, not a new historical reconstruction of all amendments."
+  ]
+}
