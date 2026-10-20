@@ -1,0 +1,36 @@
+{
+  "task_kind": "author",
+  "complete": true,
+  "assigned_ids": [
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175"
+  ],
+  "units_written": 7,
+  "decisive_date": "2026-10-19",
+  "authored_at": "2026-10-20T16:48:55.517157+00:00",
+  "source_verification": "sources/author-p169-p175-fetch.json",
+  "audit": "author-p169-p175-audit.json",
+  "case_cards": [
+    "cases/BGH-XII-ZB-670-14.md",
+    "cases/BGH-XII-ZB-639-14.md"
+  ],
+  "manual_checks": [
+    "All seven units read against fresh official statutory text; all paragraphs and numbered items explained.",
+    "2026 amendments of p171/p175 and actual commencement checked in promulgated act.",
+    "Two case full texts read; party/lower-court content and open questions distinguished.",
+    "Distinct examples, cross-references, representation roles, no reuse of other-unit commentary."
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Whole book incomplete: 200/529 commented; 329 units outside assignment remain.",
+    "Selective case-law research only.",
+    "This is author self-check; independent second pass for these seven units remains outstanding.",
+    "Minimum length and technical text match are not legal quality certification."
+  ],
+  "whole_book_complete": false
+}

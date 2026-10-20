@@ -6,7 +6,7 @@
 
 **Ergänzung vom 20. Oktober 2026 — begrenzte Quellenvorprüfung:** Die amtlichen Quellen wurden neu abgerufen; XML, HTML und drei einschlägige Verkündungs-PDFs sind mit den gesicherten Fassungen bytegleich. Alle 529 Paragraphenkennungen und sämtliche 599 XML-Normelemente wurden technisch zugeordnet, einschließlich Quellenhinweisen, Gliederung, leeren Einheiten und Schlussbestimmungen. Eine eigene Eingangsformel oder operative Anlage fehlt in diesem Datensatz nicht: Eine solche Einheit ist dort nicht enthalten. Sieben neuere amtliche Gesetzesvolltexte wurden zusätzlich auf FamFG-Bezüge durchsucht. Der Parser wurde gegen das stille Übergehen neuer Normtypen und doppelter Textfassungen abgesichert. Der [Vorprüfungsbericht](preflight-result.json) ist für diesen begrenzten Auftrag vollständig; er ist keine inhaltliche Prüfung der vorhandenen 193 Kommentare und keine unabhängige Zweitprüfung. Die fehlenden 336 Kommentare bleiben unverändert offen.
 
-§§ 1–168g sind mit 193 vorschriftenspezifischen Kommentierungen vorhanden. Der Abschnitt Kindschaftssachen endet damit einschließlich der eingefügten Regeln zur Vormundschaft und standesamtlichen Mitteilung. Der gesamte amtliche Normbestand enthält 529 Paragrapheneinheiten. Die 336 Einheiten ab § 169 sind noch nicht kommentiert; ihre vollständigen Kennungen stehen in `completeness-report.json`.
+§§ 1–175 sind mit 200 vorschriftenspezifischen Kommentierungen vorhanden. Der Abschnitt Kindschaftssachen endet damit einschließlich der eingefügten Regeln zur Vormundschaft und standesamtlichen Mitteilung. Der gesamte amtliche Normbestand enthält 529 Paragrapheneinheiten. Die 329 Einheiten ab § 176 sind noch nicht kommentiert; ihre vollständigen Kennungen stehen in `completeness-report.json`.
 
 Geprüft wurden die im bearbeiteten Bereich verwendeten Gesetzespassagen beim Schreiben, die Zuordnung von eigenständiger Beteiligung und bloßer Anhörung, die Sonderweiche des § 113, Unterschiede zwischen Einlegung und Begründung von Rechtsmitteln, die Grenzen der Kindesanhörung und die zum Stichtag erst künftig wirksamen Gewaltschutzänderungen. Zwei verwendete BGH-Volltexte wurden einschließlich ihrer jeweiligen Grenzen gelesen. Dies ist keine Aussage, dass sämtliche denkbaren Auslegungsstreitigkeiten erschöpfend behandelt seien.
 
@@ -18,7 +18,7 @@ Die Ausgangs- und Aktualitätsquellen sowie drei relevante Verkündungsakte sind
 
 ## Offene materielle Arbeit
 
-Der vollständige Kommentar ab § 169, darunter Abstammung, Adoption, weitere Familiensachen, Betreuung und Unterbringung, Nachlass und Teilung, Register, Freiheitsentziehung, Aufgebot und Schlussrecht, fehlt noch. Die Wortlautdatei ist hierfür vorhanden; sie ist kein Ersatz für originäre Erläuterungen.
+Der vollständige Kommentar ab § 176, darunter weitere Abstammungsvorschriften, Adoption, weitere Familiensachen, Betreuung und Unterbringung, Nachlass und Teilung, Register, Freiheitsentziehung, Aufgebot und Schlussrecht, fehlt noch. Die Wortlautdatei ist hierfür vorhanden; sie ist kein Ersatz für originäre Erläuterungen.
 
 Die Rechtsprechungsrecherche bleibt selektiv und muss für die noch fehlenden Sachgebiete fortgesetzt werden. Ein vorhandener, nicht ausgewerteter Download darf nicht ohne tatsächliche Lektüre als geprüft gelten. Auch der vorhandene Kommentar benötigt eine frische unabhängige zweite Prüfung auf Auslegung, Verweise, Anwendungsgrenzen und Aktualität vor einer Kennzeichnung als vollständig geprüft.
 
@@ -180,3 +180,10 @@ Im zugewiesenen Umfang wurde kein ungelöster materieller Blocker belassen. Dies
 
 
 Technischer Abschluss der neunten Charge: 20/20 zugewiesene Kennungen geprüft und überarbeitet; keine andere Kommentierung geändert. Alle 529 Gesetzeseinheiten sind im Parser enthalten und stimmen zu 100 Prozent mit der kanonischen Quelle überein; unter Ausblendung von Leerraum gibt es keine Zeichenabweichung zum amtlichen XML. Alle geprüften lokalen Links sind vorhanden, keine längeren Absatzduplikate oder auffälligen Kommentarpaare oberhalb der dokumentierten Ähnlichkeitsschwelle wurden gefunden. Die Quellenkörper stimmen mit ihren Prüfsummen überein. Der reguläre Vollbuild und der strenge Validator scheitern ausschließlich an 336 unkommentierten Einheiten außerhalb dieser Charge. Die vorhandene Teil-Ausgabe wurde mit den Korrekturen und Belegen neu erstellt. [Build](build-result.json), [Validierung](validation.json), [Chargenaudit](review-p152-p164-audit.json), [Gesamtaudit](technical-audit.json). Kein Gesamtabschluss und keine externe Freigabe.
+
+
+## Begrenzte Autorenfortsetzung §§ 169–175 am 20. Oktober 2026
+
+Sieben zuvor fehlende Erläuterungen sind neu verfasst. Alle Absätze und Nummern dieser sieben Vorschriften wurden am frischen, bytegleichen amtlichen XML gelesen. Die Autorenkontrolle trennt insbesondere Status und biologische Klärung (§ 169), internationale und örtliche Zuständigkeit (§ 170), Antrag und Ermittlung (§ 171), Beteiligung und Vertretung (§§ 172–174) sowie Erörterung und Anhörung (§ 175). Das verkündete Änderungsgesetz BGBl. 2026 I Nr. 83 belegt die seit 1. April geltende Fassung; eine frühere Altersgrenze der Anhörung wird nicht fortgeschrieben. Zwei vollständig gelesene BGH-Beschlüsse sind mit präzisen Verwendungsgrenzen und lokalen Korpusbelegen dokumentiert.
+
+Dies ist die Erstbearbeitung mit Eigenkontrolle, keine unabhängige Zweitprüfung. Die bisher geprüften 180 Einheiten und deren Berichte wurden nicht verändert. Nunmehr verbleiben 329 unkommentierte Einheiten; die sieben neuen und 13 bereits zuvor vorhandenen weiteren Kommentare benötigen noch den vorgesehenen frischen Zweitdurchgang. [Chargenergebnis](author-p169-p175-result.json), [Chargenaudit](author-p169-p175-audit.json), [Quellenbelege](sources/author-p169-p175-fetch.json).

@@ -2,7 +2,7 @@
   "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
   "exit_code": 1,
   "stdout": "",
-  "stderr": "CHYBÍ komentář k 336 jednotkám, např.: ['p169', 'p170', 'p171', 'p172', 'p173', 'p174', 'p175', 'p176', 'p177', 'p178']\n",
-  "scope": "full manuscript, unchanged input scope; bounded review is20units",
-  "built_at": "2026-10-20T16:40:41.920654+00:00"
+  "stderr": "CHYBÍ komentář k 329 jednotkám, např.: ['p176', 'p177', 'p178', 'p179', 'p180', 'p181', 'p182', 'p183', 'p184', 'p185']\n",
+  "executed_at": "2026-10-20T16:48:55.517157+00:00",
+  "scope": "Full 529-unit build deliberately retained; expected intermediate failure for 329 unannotated units."
 }

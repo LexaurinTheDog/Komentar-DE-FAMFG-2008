@@ -1,0 +1,237 @@
+{
+  "scope": "authoring and technical self-check of exactly seven assigned units; not independent review",
+  "baseline_commit": "74c8cadb6e6465f778755fa4927dbbc300666181",
+  "verified_at": "2026-10-20T16:49:03.996565+00:00",
+  "assigned_ids": [
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175"
+  ],
+  "changed_ids": [
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175"
+  ],
+  "unassigned_commentary_changes": [],
+  "source_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "checks": [
+    {
+      "id": "p169",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 3063,
+      "commentary_sha256": "88f1ca148416b8d76e827f05189e72d850accca72ff3d6131fe6a4f46492a7e0",
+      "official_doknr": "BJNR258700008BJNE017400000"
+    },
+    {
+      "id": "p170",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2337,
+      "commentary_sha256": "942088e5b56bbdeccfcba5dd6358646e785d98cbf2b7049da6f3fcbed20dafe5",
+      "official_doknr": "BJNR258700008BJNE017500000"
+    },
+    {
+      "id": "p171",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 3096,
+      "commentary_sha256": "906303d618c9a95c1a5903f81c24d7be220efdc59a8f132c98ce218f6ee316b3",
+      "official_doknr": "BJNR258700008BJNE017602126"
+    },
+    {
+      "id": "p172",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2898,
+      "commentary_sha256": "0aa7cc6a3d0a049332feed5db86bda9b9b956320261798013169e55f0da5b7a3",
+      "official_doknr": "BJNR258700008BJNE017700000"
+    },
+    {
+      "id": "p173",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2211,
+      "commentary_sha256": "9d11fc7baa23f929cdffcf711c3f3f6b4411e295346f98ec12764efcfc25a0ae",
+      "official_doknr": "BJNR258700008BJNE017800000"
+    },
+    {
+      "id": "p174",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2779,
+      "commentary_sha256": "ac4c9e16808f2790c1ee89b0071dbd6e53578a791d48e95826e4f149750ac06b",
+      "official_doknr": "BJNR258700008BJNE017902125"
+    },
+    {
+      "id": "p175",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 3630,
+      "commentary_sha256": "646be22e28e97bfcb74f827870dcbc6174b41485b1746cf69e856897e372a7c8",
+      "official_doknr": "BJNR258700008BJNE018001126"
+    }
+  ],
+  "case_corpus_checks": [
+    {
+      "doknr": "KORE304302015",
+      "local_path": "sources/author-p169-p175-local-KORE304302015.md",
+      "local_sha256": "3503f4b4e5cad6526380881da90329e58bad8912f2e733c7f6ae6ed6f0e66a4a",
+      "numbered_reasons": [
+        {
+          "rn": 1,
+          "found": true
+        },
+        {
+          "rn": 2,
+          "found": true
+        },
+        {
+          "rn": 3,
+          "found": true
+        },
+        {
+          "rn": 4,
+          "found": true
+        },
+        {
+          "rn": 5,
+          "found": true
+        },
+        {
+          "rn": 6,
+          "found": true
+        },
+        {
+          "rn": 7,
+          "found": true
+        },
+        {
+          "rn": 8,
+          "found": true
+        },
+        {
+          "rn": 9,
+          "found": true
+        },
+        {
+          "rn": 10,
+          "found": true
+        },
+        {
+          "rn": 11,
+          "found": true
+        },
+        {
+          "rn": 12,
+          "found": true
+        },
+        {
+          "rn": 13,
+          "found": true
+        },
+        {
+          "rn": 14,
+          "found": true
+        },
+        {
+          "rn": 15,
+          "found": true
+        },
+        {
+          "rn": 16,
+          "found": true
+        },
+        {
+          "rn": 17,
+          "found": true
+        },
+        {
+          "rn": 18,
+          "found": true
+        }
+      ],
+      "tenor_matches": true
+    },
+    {
+      "doknr": "KORE307712016",
+      "local_path": "sources/author-p169-p175-local-KORE307712016.md",
+      "local_sha256": "1d9f8b9078d551e33089ddfe486a04c9c80eb38f0fcf2ec6918c8a988cdc819d",
+      "numbered_reasons": [
+        {
+          "rn": 1,
+          "found": true
+        },
+        {
+          "rn": 2,
+          "found": true
+        },
+        {
+          "rn": 3,
+          "found": true
+        },
+        {
+          "rn": 4,
+          "found": true
+        },
+        {
+          "rn": 5,
+          "found": true
+        },
+        {
+          "rn": 6,
+          "found": true
+        },
+        {
+          "rn": 7,
+          "found": true
+        },
+        {
+          "rn": 8,
+          "found": true
+        },
+        {
+          "rn": 9,
+          "found": true
+        },
+        {
+          "rn": 10,
+          "found": true
+        },
+        {
+          "rn": 11,
+          "found": true
+        },
+        {
+          "rn": 12,
+          "found": true
+        },
+        {
+          "rn": 13,
+          "found": true
+        },
+        {
+          "rn": 14,
+          "found": true
+        },
+        {
+          "rn": 15,
+          "found": true
+        },
+        {
+          "rn": 16,
+          "found": true
+        },
+        {
+          "rn": 17,
+          "found": true
+        }
+      ],
+      "tenor_matches": true
+    }
+  ],
+  "exported_assigned_statutory_text_agrees": true,
+  "errors": [],
+  "ok": true
+}

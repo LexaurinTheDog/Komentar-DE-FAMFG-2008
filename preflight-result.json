@@ -1072,5 +1072,27 @@
     },
     "parser_replay": "review-p152-p164-parser-replay.json",
     "unresolved_blockers": []
+  },
+  "bounded_authoring_p169_p175": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "verified_at": "2026-10-20T16:48:55.517157+00:00",
+    "fresh_xml_byte_identical": true,
+    "version_evidence": {
+      "act": "BGBl. 2026 I Nr. 83",
+      "evidence_path": "sources/author-p169-p175-bgbl-2026-83.pdf",
+      "amendments": "Art.4 Nr.2 and Nr.3: p171 and p175",
+      "commencement": "Art.6: day after publication of 31 March 2026; effective 1 April 2026",
+      "current_text_agrees": true
+    },
+    "historical_versions_checked": "Existing preflight intake/change map and current canonical text retained; duplicate/historical elements rechecked by _completeness.py; no concatenated versions.",
+    "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "unresolved_blockers": []
   }
 }

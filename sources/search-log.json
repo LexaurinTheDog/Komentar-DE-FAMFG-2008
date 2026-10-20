@@ -465,5 +465,29 @@
       "Brandenburg decisions and commercial/discovery results not used as authority"
     ],
     "limits": "Selective research only; no new sufficiently relevant fully verified case added for16 other assigned units. No exhaustive later-treatment review. XII ZB110/23 is expressly historical and affected by2025law; XII ZB476/25 leaves mandatory-beistand question open."
+  },
+  "bounded_authoring_p169_p175": {
+    "date": "2026-10-20",
+    "method": "web search, direct official ZIP/XML, local corpus manifest and full texts",
+    "firecrawl": "Installed/authenticated; status showed zero credits; direct official fetch used without settings changes.",
+    "queries": [
+      "site.bundesgerichtshof.de \"§ 172\" \"Abstammung\" FamFG",
+      "site.bundesgerichtshof.de \"§ 171\" \"FamFG\" Antrag Abstammung",
+      "site.bundesgerichtshof.de \"§ 173\" \"FamFG\" \"Beistand\"",
+      "site.bundesgerichtshof.de \"§ 174\" \"FamFG\" \"Interessengegensatz\"",
+      "site.rechtsprechung-im-internet.de \"XII ZB 670/14\"",
+      "site.rechtsprechung-im-internet.de \"XII ZB 639/14\"",
+      "site.rechtsprechung-im-internet.de \"FamFG\" \"175\" \"Anhörung\""
+    ],
+    "local_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+    "full_texts_read": [
+      "KORE304302015",
+      "KORE307712016"
+    ],
+    "found_not_relied_on": [
+      "XII ZB 510/10",
+      "XII ZB 671/14"
+    ],
+    "limitations": "Selective research. No separately verified directly determinative case added for p169, p170, p173, p174 or the new 2026 p175 hearing rule; no assertion of absence of relevant case law."
   }
 }

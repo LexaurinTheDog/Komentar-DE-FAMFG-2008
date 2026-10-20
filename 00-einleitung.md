@@ -2,7 +2,7 @@
 
 Das FamFG verbindet sehr unterschiedliche gerichtliche Aufgaben: familienrechtliche Status- und Leistungsstreitigkeiten, Schutzverfahren, Nachlass- und Registersachen sowie weitere Angelegenheiten der freiwilligen Gerichtsbarkeit. Die gemeinsame Gesetzesüberschrift darf nicht darüber hinwegtäuschen, dass diese Gegenstände unterschiedliche Beteiligungs-, Ermittlungs-, Entscheidungs- und Vollstreckungsmodelle verlangen. Der erste praktische Schritt besteht deshalb in der gesetzlichen Einordnung des konkreten Begehrens.
 
-Diese Ausgabe enthält die Kommentierung der §§ 1–168g, insgesamt 193 Paragrapheneinheiten. Der gesamte amtliche Quellenbestand umfasst 529 Einheiten; die Kommentierung ab § 169 fehlt. Der Teilstand ist in README, INDEX und Vollständigkeitsbericht ausdrücklich ausgewiesen. Aus der vollständigen Erfassung des Gesetzeswortlauts wird keine vollständige Kommentierung abgeleitet.
+Diese Ausgabe enthält die Kommentierung der §§ 1–175, insgesamt 200 Paragrapheneinheiten. Der gesamte amtliche Quellenbestand umfasst 529 Einheiten; die Kommentierung ab § 176 fehlt. Der Teilstand ist in README, INDEX und Vollständigkeitsbericht ausdrücklich ausgewiesen. Aus der vollständigen Erfassung des Gesetzeswortlauts wird keine vollständige Kommentierung abgeleitet.
 
 ## Verfahrensart vor Einzelproblem
 

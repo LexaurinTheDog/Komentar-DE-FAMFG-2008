@@ -1,11 +1,11 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:41:34.251414+00:00",
+  "updated_at": "2026-10-20T16:48:55.517157+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
-  "completed_units": 193,
-  "remaining_units": 336,
+  "completed_units": 200,
+  "remaining_units": 329,
   "case_law_sources": [
     "cases/BGH-IV-ZB-35-15.md",
     "cases/BGH-XII-ZB-102-20-2020.md",
@@ -22,6 +22,8 @@
     "cases/BGH-XII-ZB-447-10.md",
     "cases/BGH-XII-ZB-476-25.md",
     "cases/BGH-XII-ZB-592-11.md",
+    "cases/BGH-XII-ZB-639-14.md",
+    "cases/BGH-XII-ZB-670-14.md",
     "cases/BGH-XII-ZB-674-14.md",
     "cases/BGH-XII-ZR-80-11.md",
     "cases/OLG-Bamberg-3-Wx-15-24.md"
@@ -47,22 +49,21 @@
     "expected_intermediate_failure": "Only 336 unannotated units outside p152–p164 review; all 20 assigned units present and reviewed; statutory coverage and 100% text agreement pass."
   },
   "remaining_limitations": [
-    "336 statutory units from § 169 onward still lack original commentary.",
-    "Full build and strict validation correctly fail because commentary is incomplete.",
-    "Case-law research is selective; no exhaustive coverage claimed.",
-    "Source preflight rechecked current delivery, relevant commencement clauses and seven recent statutory enactments; no complete historical amendment reconstruction since 2008.",
-    "Nine bounded review batches document180existing comments §§1–164;13other existing comments remain outside documented review. This task reviewed exactly p152–p164."
+    "329 statutory units from § 176 onward still lack original commentary.",
+    "Full build and strict validation correctly fail while commentary is incomplete.",
+    "180 units have documented bounded independent review; 20 further comments including the seven new units await that pass.",
+    "Case-law research selective; source preflight limits remain as documented."
   ],
-  "commented_scope": "§§ 1–168g",
+  "commented_scope": "§§ 1–175",
   "resume": {
-    "last_commented_id": "p168g",
-    "next_uncommented_id": "p169",
+    "last_commented_id": "p175",
+    "next_uncommented_id": "p176",
     "missing_identifiers": "completeness-report.json#missing_commentary",
     "full_parser": "_parse.py",
     "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
-    "instructions": "Continue original commentary from § 169 in batches; retain all existing substantive prose. Never mark complete until all 529 units are commented and full build and strict validation pass."
+    "instructions": "Continue original commentary from § 176 in assigned batches; retain existing prose. Full title remains incomplete."
   },
   "source_preflight": {
     "complete": true,
@@ -357,6 +358,22 @@
     }
   ],
   "cumulative_independently_reviewed_units": 180,
-  "remaining_existing_commentaries_for_review": 13,
-  "commentary_characters": 351462
+  "remaining_existing_commentaries_for_review": 20,
+  "commentary_characters": 351462,
+  "bounded_authoring": {
+    "complete": true,
+    "units_written": 7,
+    "assigned_ids": [
+      "p169",
+      "p170",
+      "p171",
+      "p172",
+      "p173",
+      "p174",
+      "p175"
+    ],
+    "result": "author-p169-p175-result.json",
+    "technical_audit": "author-p169-p175-audit.json",
+    "whole_book_complete": false
+  }
 }

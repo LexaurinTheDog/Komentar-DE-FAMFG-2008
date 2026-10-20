@@ -1,0 +1,13 @@
+# BGH, 28. Juli 2015 — XII ZB 670/14
+
+Gericht: Bundesgerichtshof, 12. Zivilsenat. Beschluss vom 28. Juli 2015. Amtliche Kennung KORE304302015. Der amtliche XML-Datensatz enthält keine ECLI; es wird keine ergänzt.
+
+[Amtlicher Volltext](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE304302015), [amtlicher ZIP-Abruf](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304302015.zip), [gesichertes XML](../sources/author-p169-p175-XII-ZB-670-14.xml), [Textkörper](../sources/author-p169-p175-XII-ZB-670-14.txt), [nationaler Korpusbeleg](../sources/author-p169-p175-local-KORE304302015.md). Tatsächlicher Abruf am 20. Oktober 2026; HTTP 200, UTC-Zeit und SHA-256 stehen in [verification.json](../sources/verification.json). Tenor und Gründe Rn. 1–18 vollständig gelesen und mit dem lokalen Korpus verglichen.
+
+Der rechtliche Vater hatte seine Vaterschaft angefochten und war während des Verfahrens verstorben. Keiner der übrigen hierzu berechtigten Beteiligten verlangte innerhalb der gesetzten Frist die Fortsetzung. Die Mutter des Verstorbenen begehrte später ihre eigene Hinzuziehung und Fortsetzung. Der BGH weist die Rechtsbeschwerde gegen die Ablehnung der Hinzuziehung zurück.
+
+Rn. 5–8 geben die Begründung des Oberlandesgerichts wieder. Der eigene rechtliche Schluss des BGH beginnt in Rn. 9. Rn. 10 bestätigt, dass § 172 FamFG nicht abschließend ist: Weitere Personen sind bei unmittelbarer eigener Rechtsbetroffenheit nach § 7 Absatz 2 Nummer 1 hinzuzuziehen. Rn. 11 grenzt die lediglich abgeleiteten verwandtschaftlichen Beziehungen der nächsten Angehörigen zu Lebzeiten des Vaters davon ab. Rn. 13–16 behandeln den Schwebezustand nach dem Tod und das fehlende Fortsetzungsverlangen. Ohne wirksame Fortsetzung fehlt im entschiedenen Fall ein anhängiges Hauptsacheverfahren für die gewünschte Hinzuziehung.
+
+Die Entscheidung betrifft nicht jede denkbare Beteiligung von Angehörigen. Rn. 17 grenzt die Kostenentscheidung nach Erledigung ausdrücklich aus. Rn. 18 lässt offen, ob nächste Verwandte nach einem wirksamen Fortsetzungsverlangen zu beteiligen wären. Das im Parallelbeschluss XII ZB 671/14 begründete Fortsetzungsrecht wird hier nur insoweit wiedergegeben, wie der gelesene Volltext selbst darauf Bezug nimmt; der Parallelbeschluss ist in dieser Charge nicht eigenständig ausgewertet.
+
+Unterstützte Einheit: § 172, ergänzende Anwendung des § 7 und Grenzen des konkreten Ablehnungsfalls. Der einschlägige Wortlaut von §§ 7, 172 und 181 wurde am amtlichen FamFG-XML des Bearbeitungsstichtags 19. Oktober 2026 kontrolliert. Der aktuelle BGB-Anfechtungsmaßstab nach der Reform vom 1. April 2026 wird nicht aus diesem Beschluss abgeleitet. Keine vollständige Recherche zur späteren Rezeption.

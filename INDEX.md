@@ -1,6 +1,6 @@
 # INDEX — FamFG: unvollständige Arbeitsausgabe
 
-Kommentiert: §§ 1–168g (193 von 529 Einheiten). Ab § 169 fehlen 336 Kommentare. Kein vollständiger Gesetzeskommentar.
+Kommentiert: §§ 1–175 (200 von 529 Einheiten). Ab § 176 fehlen 329 Kommentare. Kein vollständiger Gesetzeskommentar.
 
 - [Einleitung](00-einleitung.md)
 
@@ -28,7 +28,7 @@ Kommentiert: §§ 1–168g (193 von 529 Einheiten). Ab § 169 fehlen 336 Komment
 
 - [§ 152–§ 164](09-paragraphen-152.md) — 20 kommentierte Einheiten
 
-- [§ 165–§ 168g](10-paragraphen-165.md) — 13 kommentierte Einheiten
+- [§ 165–§ 175](10-paragraphen-165.md) — 20 kommentierte Einheiten
 
 
 

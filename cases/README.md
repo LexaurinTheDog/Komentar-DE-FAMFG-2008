@@ -30,3 +30,6 @@ Die achte begrenzte Prüfung ergänzt [BGH, 21. März 2012, XII ZB 447/10](BGH-X
 
 
 Die neunte Prüfung ergänzt [BGH, 10. Juni 2026, XII ZB 476/25](BGH-XII-ZB-476-25.md) zur Kindesanhörung bei Aufrechterhaltung eines längerfristigen Umgangsausschlusses im Abänderungsverfahren (§ 159; offene Bestellungsfrage zu § 158) und [BGH, 25. September 2024, XII ZB 110/23](BGH-XII-ZB-110-23.md) zur alten Abgeltung von Dolmetscherkosten (§§ 158b, 158c). Letztere Entscheidung ist wegen des amtlich geprüften geänderten Rechts seit 11. April 2025 ausdrücklich historisch begrenzt. Beide Volltexte wurden vollständig gelesen und mit dem nationalen Korpus abgeglichen.
+
+
+Die Autorencharge §§ 169–175 ergänzt [BGH, 28. Juli 2015, XII ZB 670/14](BGH-XII-ZB-670-14.md) zur nicht abschließenden Beteiligtenliste und zum begrenzten Fortsetzungsfall sowie [BGH, 27. Januar 2016, XII ZB 639/14](BGH-XII-ZB-639-14.md) zur anwaltlichen Beiordnung. Beide Volltexte wurden gelesen; historische BGB-Fundstellen und offene Fragen werden ausdrücklich abgegrenzt.

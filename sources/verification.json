@@ -1664,6 +1664,109 @@
       "format_validation": "PDF signature, EOF, pdftotext and actual act identity read",
       "text_path": "sources/review-p152-p164-bgbl-2025-139.txt",
       "text_sha256": "a673ae8575730a77703cf0471fce82390775a7029e6d9231bc3cc3f7bc9ee3c2"
+    },
+    {
+      "purpose": "bounded authoring p169-p175",
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T16:44:10.653398+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p169-p175-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "format_validation": "ZIP signature, CRC and parsed unique XML member; expected law/case metadata inspected",
+      "members": [
+        "BJNR258700008.xml"
+      ],
+      "xml_path": "sources/author-p169-p175-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "stand_notices": [
+        "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+        "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ],
+      "version_assessment": "FamFG authoring date 2026-10-19, byte-identical fresh delivery; existing preflight commencement checks plus BGBl 2026 I Nr.83 Art.4 Nr.2/3 and Art.6 (effective 2026-04-01). Referenced current BGB provisions inspected; no full BGB legislative-history reconstruction."
+    },
+    {
+      "purpose": "bounded authoring p169-p175",
+      "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "accessed_at": "2026-10-20T16:44:10.941358+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p169-p175-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "format_validation": "ZIP signature, CRC and parsed unique XML member; expected law/case metadata inspected",
+      "members": [
+        "BJNR001950896.xml"
+      ],
+      "xml_path": "sources/author-p169-p175-bgb.xml",
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+        "Standzuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+      ],
+      "version_assessment": "FamFG authoring date 2026-10-19, byte-identical fresh delivery; existing preflight commencement checks plus BGBl 2026 I Nr.83 Art.4 Nr.2/3 and Art.6 (effective 2026-04-01). Referenced current BGB provisions inspected; no full BGB legislative-history reconstruction."
+    },
+    {
+      "purpose": "bounded authoring p169-p175",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304302015.zip",
+      "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304302015.zip",
+      "accessed_at": "2026-10-20T16:44:12.684034+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p169-p175-XII-ZB-670-14.zip",
+      "sha256": "5d8af4a3e2b68d445d61eed8d6cd62f40bc9e9d4e3532d940fb58d19988483e3",
+      "format_validation": "ZIP signature, CRC and parsed unique XML member; expected law/case metadata inspected",
+      "members": [
+        "jb-KORE304302015.xml"
+      ],
+      "xml_path": "sources/author-p169-p175-XII-ZB-670-14.xml",
+      "xml_sha256": "30022b37f9648b5fbc7d1a91c19a7aeb53092c01ca34445b50388ad7aa2944c1",
+      "case_metadata": {
+        "doknr": "KORE304302015",
+        "gertyp": "BGH",
+        "entsch-datum": "20150728",
+        "aktenzeichen": "XII ZB 670/14",
+        "ecli": ""
+      },
+      "version_assessment": "FamFG authoring date 2026-10-19, byte-identical fresh delivery; existing preflight commencement checks plus BGBl 2026 I Nr.83 Art.4 Nr.2/3 and Art.6 (effective 2026-04-01). Referenced current BGB provisions inspected; no full BGB legislative-history reconstruction."
+    },
+    {
+      "purpose": "bounded authoring p169-p175",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307712016.zip",
+      "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307712016.zip",
+      "accessed_at": "2026-10-20T16:44:12.941042+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p169-p175-XII-ZB-639-14.zip",
+      "sha256": "eb7a3745bd9ed57a6b0e42aad651d4b118dcc669395b44c86f911d616bdf47d9",
+      "format_validation": "ZIP signature, CRC and parsed unique XML member; expected law/case metadata inspected",
+      "members": [
+        "jb-KORE307712016.xml"
+      ],
+      "xml_path": "sources/author-p169-p175-XII-ZB-639-14.xml",
+      "xml_sha256": "fb236316af32ac08b6bd2d60d65bbcf95cbdf57054e4b161a1d255efb36d4cfb",
+      "case_metadata": {
+        "doknr": "KORE307712016",
+        "gertyp": "BGH",
+        "entsch-datum": "20160127",
+        "aktenzeichen": "XII ZB 639/14",
+        "ecli": "ECLI:DE:BGH:2016:270116BXIIZB639.14.0"
+      },
+      "version_assessment": "FamFG authoring date 2026-10-19, byte-identical fresh delivery; existing preflight commencement checks plus BGBl 2026 I Nr.83 Art.4 Nr.2/3 and Art.6 (effective 2026-04-01). Referenced current BGB provisions inspected; no full BGB legislative-history reconstruction."
+    },
+    {
+      "purpose": "bounded authoring p169-p175",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/83/regelungstext.pdf?__blob=publicationFile&v=2",
+      "actual_url": "https://www.recht.bund.de/bgbl/1/2026/83/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed_at": "2026-10-20T16:44:13.074247+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/author-p169-p175-bgbl-2026-83.pdf",
+      "sha256": "0f0447e6a9c93f1300ade5cd46e3d3c35caef59137542f58d2c1c7894b3023a9",
+      "format_validation": "PDF magic bytes; extracted full text inspected",
+      "version_assessment": "FamFG authoring date 2026-10-19, byte-identical fresh delivery; existing preflight commencement checks plus BGBl 2026 I Nr.83 Art.4 Nr.2/3 and Art.6 (effective 2026-04-01). Referenced current BGB provisions inspected; no full BGB legislative-history reconstruction."
     }
   ],
   "version_assessment": {
