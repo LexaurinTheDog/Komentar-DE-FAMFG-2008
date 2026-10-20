@@ -1,6 +1,6 @@
 # Selektive Fallkarten
 
-Achtzehn amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
+Einundzwanzig amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
 
 - [BGH, 27.10.2021, XII ZB 114/21](BGH-XII-ZB-114-21.md): Nachholung fehlerhafter Anhörung, Fachkunde und Zurückverweisung; §§ 68 und 74; begrenzter Prüfungsnachtrag zu §§ 26 und 34.
 - [BGH, 15.03.2017, XII ZB 109/16](BGH-XII-ZB-109-16.md): bestimmter Sachantrag aus rechtzeitigem Gesamtvorbringen; § 117.
@@ -33,3 +33,6 @@ Die neunte Prüfung ergänzt [BGH, 10. Juni 2026, XII ZB 476/25](BGH-XII-ZB-476-
 
 
 Die Autorencharge §§ 169–175 ergänzt [BGH, 28. Juli 2015, XII ZB 670/14](BGH-XII-ZB-670-14.md) zur nicht abschließenden Beteiligtenliste und zum begrenzten Fortsetzungsfall sowie [BGH, 27. Januar 2016, XII ZB 639/14](BGH-XII-ZB-639-14.md) zur anwaltlichen Beiordnung. Beide Volltexte wurden gelesen; historische BGB-Fundstellen und offene Fragen werden ausdrücklich abgegrenzt.
+
+
+Die zehnte Prüfung ergänzt [BGH, 5. Oktober 2016 — XII ZB 280/15](BGH-XII-ZB-280-15.md) zu § 167a: eng begrenzte Ausnahme beim Zulässigkeitserfordernis der Versicherung und keine automatische neue Begutachtung. Tenor und sämtliche Gründe wurden vollständig gelesen. Die vorhandenen Karten zu XII ZB 639/14 und XII ZB 670/14 wurden anhand der erneut vollständig gelesenen amtlichen Texte bestätigt. Die heutigen Anhörungs- und materiellen Anfechtungsregeln werden nicht aus älteren Fassungen abgeleitet.

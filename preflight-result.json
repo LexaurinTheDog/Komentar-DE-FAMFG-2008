@@ -5,7 +5,7 @@
   "decisive_date": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/famfg/",
-  "verified_at": "2026-10-20T16:39:45.083576+00:00",
+  "verified_at": "2026-10-20T16:56:46.850441+00:00",
   "version_evidence": {
     "decisive_date": "2026-10-19",
     "rechecked_at": "2026-10-20T16:26:21.879451+00:00",
@@ -1093,6 +1093,43 @@
       "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
       "global_notes_preserved": true
     },
+    "unresolved_blockers": []
+  },
+  "bounded_review_p165_p175": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T16:56:46.850441+00:00",
+    "version_evidence": "sources/review-p165-p175-version-map.json",
+    "fresh_xml_byte_identical": true,
+    "fresh_index_byte_identical": true,
+    "historical_versions_checked": {
+      "duplicate_ids": [],
+      "duplicate_doknr": [],
+      "historical_version_elements": [],
+      "intake_preserved": true,
+      "2026_reform_checked": true,
+      "future_167c_excluded_by_commencement": true
+    },
+    "annexes_checked": {
+      "complete": true,
+      "disposition": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+      "unclassified": []
+    },
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "coverage": {
+      "expected": 529,
+      "parsed": 529,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "all_norm_nodes": 599
+    },
+    "parser_replay": "review-p165-p175-parser-replay.json",
     "unresolved_blockers": []
   }
 }

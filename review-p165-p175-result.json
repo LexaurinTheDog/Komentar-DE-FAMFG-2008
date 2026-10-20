@@ -1,0 +1,192 @@
+{
+  "task_kind": "bounded independent second-pass review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p165",
+    "p166",
+    "p167",
+    "p167a",
+    "p167b",
+    "p168",
+    "p168a",
+    "p168b",
+    "p168c",
+    "p168d",
+    "p168e",
+    "p168f",
+    "p168g",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175"
+  ],
+  "baseline_commit": "52507e593685f19800b746aebd982cda9d3d541e",
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T16:56:46.850441+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/famfg/",
+  "source_preflight": "preflight-result.json",
+  "findings": [
+    {
+      "id": "p165",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Expanded all5paragraphs: existing title/private agreement, renewal discretion, immediate invitation and notices, child-welfare discussion, approved replacement, cumulative no-agreement/no-advice failure versus nonappearance, one-month cost connection only. Added92Abs3 boundary.",
+      "authority": "FamFG165,156Abs2,92Abs3",
+      "resolved": true
+    },
+    {
+      "id": "p166",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Expanded all3paragraphs; actual1696BGB change/termination standards and exceptions, ongoing proportionality, distinct periodic review versus usual3-month review after no protective measure.",
+      "authority": "FamFG166;BGB1696",
+      "resolved": true
+    },
+    {
+      "id": "p167",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Expanded all7paragraphs and exact312Nr1/2 versusNr4 incorporation, mandatory beistand, mutual notices,14-year capacity, distinct child hearing, limited transport support, expert categories/certificate distinction and separate interim333limits.",
+      "authority": "FamFG151Nr6/7,167,312,319,321,333;BGB1631b",
+      "resolved": true
+    },
+    {
+      "id": "p167a",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Corrected absolute implication of original admissibility summary by narrow verified2016exception, retained statutory rule and subsequent cure. Explained exact177Abs2S2/178Abs2 references, necessity/no automatic new expert, different1686aBGB child-welfare tests.",
+      "authority": "BGH XII ZB280/15 Rn20–21,25–27;FamFG167a;BGB1686a",
+      "resolved": true
+    },
+    {
+      "id": "p167b",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Clarified that relevant favorable report is statutory interdisciplinary commission under1631eBGB, not any medical letter; substantive absolute bar cannot be cured procedurally. Expanded consultation, statutory162exclusion and independent159review.",
+      "authority": "FamFG159,162,167b;BGB1631eAbs1–5",
+      "resolved": true
+    },
+    {
+      "id": "p168",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Expanded actual selection hearing, register request purpose/limits under41BZRG, periodic latest2year check and concrete corresponding291review rather than bare reference.",
+      "authority": "FamFG168,291;BGB1781;BZRG41",
+      "resolved": true
+    },
+    {
+      "id": "p168a",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Checked all5formula items, shared1777Abs2 tasks and actual287Abs2 immediate-effect events; distinguished notice, urgency order and certificate.",
+      "authority": "FamFG168a,168f,287Abs2;BGB1776,1777,1781",
+      "resolved": true
+    },
+    {
+      "id": "p168b",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Checked all4certificate items and all3statutory Amtsvormundschaft cases. Expanded limits/exemptions, declaratory certificate and no equation of nichteheliche birth with automatic guardianship.",
+      "authority": "FamFG168a–168b;BGB1751,1786,1787,1789,1801",
+      "resolved": true
+    },
+    {
+      "id": "p168c",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Expanded important-decision scope, actual closeness, qualified-delay exception and hearing versus formal involvement, retained concrete example.",
+      "authority": "FamFG168c,168Abs1,7Abs6",
+      "resolved": true
+    },
+    {
+      "id": "p168d",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Replaced generic reference-only explanation with actual292Abs1/3–6 content, economic inquiry/proportionality, child hearing, nonfixed expense route and conditional state forms; explicit nonincorporation of292Abs2.",
+      "authority": "FamFG168d,292Abs1/3–6",
+      "resolved": true
+    },
+    {
+      "id": "p168e",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Added actual1806BGB termination link, both findings and timing, distinction between end of guardianship and personal office, no constitutive certificate return.",
+      "authority": "FamFG168e,168bAbs3;BGB1773,1806",
+      "resolved": true
+    },
+    {
+      "id": "p168f",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Expanded corresponding application within limited tasks, precise formula and certificate, retained fictional example and placed practical guardianship checklist at thematic end.",
+      "authority": "FamFG168f,168–168e",
+      "resolved": true
+    },
+    {
+      "id": "p168g",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Enumerated all5independent paragraph1 notices and complete cumulative paragraph2 trigger, verified current1617Abs4BGB double-name default, no automatic guardianship or general notification rule.",
+      "authority": "FamFG168g;BGB1617Abs4,1787",
+      "resolved": true
+    },
+    {
+      "id": "p169",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "All4categories checked. Corrected chronological wording that could imply prior compulsory genetic-clarification proceedings are prerequisite to access to existing report; preserved remaining substantive analysis and example.",
+      "authority": "FamFG169,177Abs2;BGB1598aAbs2/4,1600",
+      "resolved": true
+    },
+    {
+      "id": "p170",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "All3paragraphs and example checked; exclusive sequential venue and international jurisdiction distinction correct; retained without alteration.",
+      "authority": "FamFG170,100",
+      "resolved": true
+    },
+    {
+      "id": "p171",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Both paragraphs checked; commencement83Art4Nr2/6 verified, current unrestricted sentence, knowledge chronology,23/26 versus177limit and precise639/14aid holding; retained.",
+      "authority": "FamFG171,23,26,78Abs2,177;BGB1600b;BGH XII ZB639/14 Rn11–17",
+      "resolved": true
+    },
+    {
+      "id": "p172",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "All3necessary persons and requested youth-office involvement checked with176current wording;670/14 precisely limited. Corrected example that could suggest1712Beistand authority automatically includes biological-father challenge.",
+      "authority": "FamFG172,7,173,176,181,184Abs3;BGB1712;BGH XII ZB670/14 Rn10–18",
+      "resolved": true
+    },
+    {
+      "id": "p173",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Full sentence checked with1712/1716BGB; representation exclusion versus own maternal party role and limited mandate correct. Retained example subject to ongoing Beistand representation.",
+      "authority": "FamFG173;BGB1712,1716",
+      "resolved": true
+    },
+    {
+      "id": "p174",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Full provision and158–158c incorporation checked; case-specific need, separate legal representation and1629Abs2aBGB exclusion,493Abs4 transitions correct. Retained without alteration.",
+      "authority": "FamFG174,158–158c,493Abs4;BGB1629Abs2a",
+      "resolved": true
+    },
+    {
+      "id": "p175",
+      "checked": "Entire statutory unit and every paragraph/list item read against official XML and existing manuscript; scope, consequence, cross-references, fictional example and repetition reviewed.",
+      "finding_and_correction": "Both paragraphs read against83Art4Nr3/6 effective1April2026; current cases2and4/no age threshold, distinction from appearance/capacity and34exceptions,180court recording and final checklist correct. Retained.",
+      "authority": "FamFG175,169Nr2/4,34,177,180;BGBl2026I83",
+      "resolved": true
+    }
+  ],
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-280-15.md",
+    "cases/BGH-XII-ZB-639-14.md",
+    "cases/BGH-XII-ZB-670-14.md"
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Complete only for20exact assigned units p165–p175 including lettered sections; not whole-book completion.",
+    "329units from176onwards remain unannotated outside this assignment.",
+    "Selective research:1new official case read in full plus2existing authorities re-read, no sufficiently verified relevant case added for17other units; no exhaustive later-treatment study.",
+    "Fresh-process bounded second pass, no external professional approval.",
+    "Current FamFG delivery independently refetched and commencement evidence read; same-day recent-gazette screening reused with documented selection limits.",
+    "Referenced BGB/BZRG clauses read, not a complete preflight of those entire statutes."
+  ],
+  "whole_book_complete": false,
+  "validation": {
+    "state": "awaiting actual build/validation"
+  }
+}

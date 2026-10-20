@@ -1,0 +1,61 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T16:56:46.850441+00:00",
+  "fresh_xml": "sources/review-p165-p175-famfg.xml",
+  "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "same_as_authoring_start": true,
+  "current_assigned_ids": [
+    "p165",
+    "p166",
+    "p167",
+    "p167a",
+    "p167b",
+    "p168",
+    "p168a",
+    "p168b",
+    "p168c",
+    "p168d",
+    "p168e",
+    "p168f",
+    "p168g",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175"
+  ],
+  "current_reforms": {
+    "act": "BGBl. 2026 I Nr.83, 29March2026; issued31March2026",
+    "clauses": "Article4Nr2 deletes earlier171Abs2S2 reference restriction; Article4Nr3 replaces175Abs2; Article6 effective day after promulgation",
+    "effective_date": "2026-04-01",
+    "evidence": "sources/author-p169-p175-bgbl-2026-83.pdf",
+    "sha256": "0f0447e6a9c93f1300ade5cd46e3d3c35caef59137542f58d2c1c7894b3023a9",
+    "text_evidence": "sources/author-p169-p175-bgbl-2026-83.txt",
+    "scope_note": "Current175Abs2 applies to169Nr2and4 with no statutory14-year threshold; no old text concatenated."
+  },
+  "excluded_future": {
+    "act": "BGBl.2026I Nr198",
+    "clauses": "Article4Nr7 inserts167c; Article10Abs2 delays to1July2027. Article4Nr8 alone effective10July2026 under10Abs1Nr2.",
+    "evidence": "sources/bgbl-198.pdf",
+    "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+    "effective_date": "2027-07-01",
+    "excluded_id": "p167c"
+  },
+  "historical_case_limits": [
+    "XII ZB280/15 interprets167a; old159hearing age text not carried into current law.",
+    "XII ZB639/14 old1795BGB reference not carried into current law.",
+    "XII ZB670/14 does not settle relatives involvement after valid continuation; no2026substantive standing derived from2015case."
+  ],
+  "intake_comparison": "sources/change-map.json: no substantive body changes; six presentation/note differences retained and resolved",
+  "recent_gazette": "sources/recent-enactments-check.json reused from same-day actual gazette screening; seven selected full statutes, no exhaustive historical survey",
+  "auxiliary_sources": [
+    "sources/review-p165-p175-bgb.xml",
+    "sources/review-p165-p175-bzrg.xml"
+  ],
+  "limitations": [
+    "Auxiliary statutes checked for cited provisions only, not complete independent BGB/BZRG historical consolidation.",
+    "No full reconstruction of FamFG amendments since2008."
+  ]
+}

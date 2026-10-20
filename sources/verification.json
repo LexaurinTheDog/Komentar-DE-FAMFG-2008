@@ -1767,6 +1767,93 @@
       "sha256": "0f0447e6a9c93f1300ade5cd46e3d3c35caef59137542f58d2c1c7894b3023a9",
       "format_validation": "PDF magic bytes; extracted full text inspected",
       "version_assessment": "FamFG authoring date 2026-10-19, byte-identical fresh delivery; existing preflight commencement checks plus BGBl 2026 I Nr.83 Art.4 Nr.2/3 and Art.6 (effective 2026-04-01). Referenced current BGB provisions inspected; no full BGB legislative-history reconstruction."
+    },
+    {
+      "purpose": "bounded review p165-p175",
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T16:52:01.474140+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p165-p175-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+      "members": [
+        "BJNR258700008.xml"
+      ],
+      "xml_path": "sources/review-p165-p175-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "version_evidence": "sources/review-p165-p175-version-map.json"
+    },
+    {
+      "purpose": "bounded review p165-p175",
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "actual_url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T16:52:01.814924+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p165-p175-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "format_validation": "HTML signature and FamFG identity",
+      "version_evidence": "sources/review-p165-p175-version-map.json"
+    },
+    {
+      "purpose": "bounded review p165-p175",
+      "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "accessed_at": "2026-10-20T16:52:01.970049+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p165-p175-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+      "members": [
+        "BJNR001950896.xml"
+      ],
+      "xml_path": "sources/review-p165-p175-bgb.xml",
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "version_evidence": "sources/review-p165-p175-version-map.json"
+    },
+    {
+      "purpose": "bounded review p165-p175",
+      "url": "https://www.gesetze-im-internet.de/bzrg/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/bzrg/xml.zip",
+      "accessed_at": "2026-10-20T16:52:02.308196+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p165-p175-bzrg.zip",
+      "sha256": "ae69fd88f433f42874104102cfaf87b11c1eed7f71ab0baf282086d9170a5400",
+      "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+      "members": [
+        "BJNR002430971.xml"
+      ],
+      "xml_path": "sources/review-p165-p175-bzrg.xml",
+      "xml_sha256": "3a3a9093b5eefaa40105bff8ce7988e321a56826be9448cb8029509017de109e",
+      "version_evidence": "sources/review-p165-p175-version-map.json"
+    },
+    {
+      "purpose": "bounded review p165-p175",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304852016.zip",
+      "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304852016.zip",
+      "accessed_at": "2026-10-20T16:52:02.451265+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p165-p175-XII-ZB-280-15.zip",
+      "sha256": "c5f0566c1f6fe657c5cdbc661c087d0c5d7acfec93fec107bdcedc042581e945",
+      "case_metadata": {
+        "doknr": "KORE304852016",
+        "gertyp": "BGH",
+        "entsch-datum": "20161005",
+        "aktenzeichen": "XII ZB 280/15",
+        "ecli": "ECLI:DE:BGH:2016:051016BXIIZB280.15.0"
+      },
+      "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+      "members": [
+        "jb-KORE304852016.xml"
+      ],
+      "xml_path": "sources/review-p165-p175-XII-ZB-280-15.xml",
+      "xml_sha256": "44c8fa5d56ef521d171b2042d516e53419ec48b18751e3aa73b8556a96574c00",
+      "version_evidence": "sources/review-p165-p175-version-map.json"
     }
   ],
   "version_assessment": {

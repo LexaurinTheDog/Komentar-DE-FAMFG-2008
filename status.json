@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:49:59.329961+00:00",
+  "updated_at": "2026-10-20T16:57:46.250583+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -19,6 +19,7 @@
     "cases/BGH-XII-ZB-224-17.md",
     "cases/BGH-XII-ZB-232-09.md",
     "cases/BGH-XII-ZB-264-22.md",
+    "cases/BGH-XII-ZB-280-15.md",
     "cases/BGH-XII-ZB-447-10.md",
     "cases/BGH-XII-ZB-476-25.md",
     "cases/BGH-XII-ZB-592-11.md",
@@ -50,10 +51,10 @@
     "bounded_batch_ok": true
   },
   "remaining_limitations": [
-    "329 statutory units from § 176 onward still lack original commentary.",
-    "Full build and strict validation correctly fail while commentary is incomplete.",
-    "180 units have documented bounded independent review; 20 further comments including the seven new units await that pass.",
-    "Case-law research selective; source preflight limits remain as documented."
+    "329statutory units from176onwards lack commentary.",
+    "Full build and strict validation remain negative for missing commentary outside assigned batch.",
+    "All200existing comments have bounded second-pass reports; this process reviewed only20assigned units.",
+    "Selective case-law coverage and source-preflight limits remain as documented."
   ],
   "commented_scope": "§§ 1–175",
   "resume": {
@@ -69,7 +70,7 @@
   "source_preflight": {
     "complete": true,
     "result": "preflight-result.json",
-    "verified_at": "2026-10-20T16:39:45.083576+00:00",
+    "verified_at": "2026-10-20T16:56:46.850441+00:00",
     "date": "2026-10-20",
     "commentaries_changed": false
   },
@@ -77,33 +78,32 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p152",
-      "p153",
-      "p154",
-      "p155",
-      "p155a",
-      "p155b",
-      "p155c",
-      "p156",
-      "p157",
-      "p158",
-      "p158a",
-      "p158b",
-      "p158c",
-      "p159",
-      "p160",
-      "p161",
-      "p162",
-      "p163",
-      "p163a",
-      "p164"
+      "p165",
+      "p166",
+      "p167",
+      "p167a",
+      "p167b",
+      "p168",
+      "p168a",
+      "p168b",
+      "p168c",
+      "p168d",
+      "p168e",
+      "p168f",
+      "p168g",
+      "p169",
+      "p170",
+      "p171",
+      "p172",
+      "p173",
+      "p174",
+      "p175"
     ],
     "result": "review-result.json",
-    "archived_result": "review-p152-p164-result.json",
-    "technical_audit": "review-p152-p164-audit.json",
+    "archived_result": "review-p165-p175-result.json",
+    "technical_audit": "review-p165-p175-audit.json",
     "unresolved_blockers": [],
-    "whole_book_complete": false,
-    "commentary_characters": 46297
+    "whole_book_complete": false
   },
   "bounded_review_history": [
     {
@@ -356,10 +356,42 @@
       "unresolved_blockers": [],
       "whole_book_complete": false,
       "commentary_characters": 41095
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p152",
+        "p153",
+        "p154",
+        "p155",
+        "p155a",
+        "p155b",
+        "p155c",
+        "p156",
+        "p157",
+        "p158",
+        "p158a",
+        "p158b",
+        "p158c",
+        "p159",
+        "p160",
+        "p161",
+        "p162",
+        "p163",
+        "p163a",
+        "p164"
+      ],
+      "result": "review-p152-p164-result.json",
+      "archived_result": "review-p152-p164-result.json",
+      "technical_audit": "review-p152-p164-audit.json",
+      "unresolved_blockers": [],
+      "whole_book_complete": false,
+      "commentary_characters": 46297
     }
   ],
-  "cumulative_independently_reviewed_units": 180,
-  "remaining_existing_commentaries_for_review": 20,
+  "cumulative_independently_reviewed_units": 200,
+  "remaining_existing_commentaries_for_review": 0,
   "commentary_characters": 371476,
   "bounded_authoring": {
     "complete": true,

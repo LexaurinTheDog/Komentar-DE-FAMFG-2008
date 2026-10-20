@@ -489,5 +489,22 @@
       "XII ZB 671/14"
     ],
     "limitations": "Selective research. No separately verified directly determinative case added for p169, p170, p173, p174 or the new 2026 p175 hearing rule; no assertion of absence of relevant case law."
-  }
+  },
+  "bounded_review_entries": [
+    {
+      "date": "2026-10-20T16:56:46.850441+00:00",
+      "scope": "bounded independent review p165–p175",
+      "queries": [
+        "web discovery: site.rechtsprechung-im-internet.de \"XII ZB 280/15\" \"167a\"",
+        "rg -l \"XII ZB 280/15\" /Volumes/LaCie/law-intake/eu/de/rii"
+      ],
+      "method": "Discovery results not relied upon for holdings. Official KORE304852016 ZIP/XML fetched, all reasons1–61 and tenor read, national corpus compared; existing639/14 and670/14 re-read. Firecrawl authenticated but zero credits; direct official HTTP used.",
+      "selected": [
+        "KORE304852016",
+        "KORE307712016",
+        "KORE304302015"
+      ],
+      "limits": "Selective research, no exhaustive treatment/citator search; no verified case for17other assigned units."
+    }
+  ]
 }

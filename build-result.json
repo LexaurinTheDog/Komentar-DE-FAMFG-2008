@@ -3,6 +3,7 @@
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 329 jednotkám, např.: ['p176', 'p177', 'p178', 'p179', 'p180', 'p181', 'p182', 'p183', 'p184', 'p185']\n",
-  "executed_at": "2026-10-20T16:48:55.517157+00:00",
-  "scope": "Full 529-unit build deliberately retained; expected intermediate failure for 329 unannotated units."
+  "whole_book_complete": false,
+  "expected_intermediate_failure": "329unannotated units from176onwards outside assigned review",
+  "checked_at": "2026-10-20T16:57:57.187718+00:00"
 }
