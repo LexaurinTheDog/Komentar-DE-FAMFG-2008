@@ -1,0 +1,11 @@
+{
+  "repo": "Komentar-DE-FAMFG-2008",
+  "units": 529,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 1076980,
+  "errors": [
+    "krátký/chybějící komentář u 29 jednotek: ['p465(0<400)', 'p466(0<400)', 'p467(0<400)', 'p468(0<400)', 'p469(0<400)', 'p470(0<400)', 'p471(0<400)', 'p472(0<400)']"
+  ],
+  "warnings": [],
+  "ok": false
+}

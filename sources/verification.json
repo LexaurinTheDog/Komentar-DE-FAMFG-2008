@@ -4927,6 +4927,36 @@
       "path": "sources/author-p425-p444-bgb927.html",
       "sha256": "124c7881a62d4b9f1354f7467169f9ccca4da536383ceb218c70cb701ba44c04",
       "format_validation": "Official HTML contains section 927, thirty-year requirement and all three paragraphs"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T22:39:37.838905+00:00",
+      "http_status": 200,
+      "path": "sources/author-p445-p464-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "xml_path": "sources/author-p445-p464-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP opened and XML parsed"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "accessed_at": "2026-10-20T22:39:38.204917+00:00",
+      "http_status": 200,
+      "path": "sources/author-p445-p464-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "xml_path": "sources/author-p445-p464-bgb.xml",
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "format_validation": "ZIP opened and XML parsed"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE140012073.zip",
+      "accessed_at": "2026-10-20T22:43:36.139142+00:00",
+      "http_status": 200,
+      "path": "sources/author-p445-p464-V-ZB-147-13.zip",
+      "sha256": "a10a7d25bd46568b2e518e96427f6a354c12774cce453e9fa52a0efbb006c3ae",
+      "xml_path": "sources/author-p445-p464-V-ZB-147-13.xml",
+      "xml_sha256": "d80dd566b57d787ca8d0c1e01aa7e173c5422fc50f39d1a0f4de0167143be72f",
+      "format_validation": "ZIP opened; court XML parsed; docket found"
     }
   ],
   "version_assessment": {

@@ -1,0 +1,68 @@
+{
+  "scope": [
+    "p445",
+    "p446",
+    "p447",
+    "p448",
+    "p449",
+    "p450",
+    "p451",
+    "p452",
+    "p453",
+    "p454",
+    "p455",
+    "p456",
+    "p457",
+    "p458",
+    "p459",
+    "p460",
+    "p461",
+    "p462",
+    "p463",
+    "p464"
+  ],
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"Aufgebot\" \"1170\"",
+    "site.rechtsprechung-im-internet.de \"Nachlassgläubiger\" \"Aufgebot\""
+  ],
+  "local_corpus_query": "rg -l \"§ 449 FamFG|§ 450 FamFG|§ 451 FamFG|§ 458 FamFG|§ 455 FamFG\" /Volumes/LaCie/law-intake/eu/de/rii -g *.md",
+  "local_full_text": "rii-jure140012073.md",
+  "full_text_read": [
+    "Fresh official JURE140012073 XML, tenor and all reasons Rn.1–14; compared with local national corpus.",
+    "AG Hof 52 II 2/25 official Bayern page, tenor and Rn.1–7; not used as authority because limited additional value and listed appeal not examined."
+  ],
+  "cited_units": [
+    "p449"
+  ],
+  "case_context_supports": [
+    "p451"
+  ],
+  "no_additional_verified_case_for": [
+    "p445",
+    "p446",
+    "p447",
+    "p448",
+    "p450",
+    "p452",
+    "p453",
+    "p454",
+    "p455",
+    "p456",
+    "p457",
+    "p458",
+    "p459",
+    "p460",
+    "p461",
+    "p462",
+    "p463",
+    "p464"
+  ],
+  "not_cited": [
+    "OLG Celle 6 W 100/22 page returned fetch error 402; snippet not used as authority.",
+    "OLG Braunschweig 3 W 68/21 search result and BSG cross-citation not substituted for actual full text."
+  ],
+  "limits": [
+    "Selective search only; no claim uncited provisions lack relevant cases.",
+    "Historical procedural appeal route of BGH V ZB 147/13 excluded from current procedural discussion."
+  ]
+}

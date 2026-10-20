@@ -1,6 +1,7 @@
 {
   "exit_code": 1,
   "stdout": "",
-  "stderr": "CHYBÍ komentář k 49 jednotkám, např.: ['p445', 'p446', 'p447', 'p448', 'p449', 'p450', 'p451', 'p452', 'p453', 'p454']\n",
-  "scope": "Bounded review p425–p444 complete; full builder rejects 49 unassigned missing comments. Existing partial exporter retained."
+  "stderr": "CHYBÍ komentář k 29 jednotkám, např.: ['p465', 'p466', 'p467', 'p468', 'p469', 'p470', 'p471', 'p472', 'p473', 'p474']\n",
+  "scope": "Assigned p445–p464 complete; full builder rejects 29 unassigned missing comments. Existing explicit partial draft exporter used.",
+  "run_at": "2026-10-20T22:44:31.858299+00:00"
 }
