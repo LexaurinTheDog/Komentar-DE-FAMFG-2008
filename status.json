@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T15:09:28.799254+00:00",
+  "updated_at": "2026-10-20T15:10:10.379255+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -26,7 +26,9 @@
     "full_build_exit_code": 1,
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
-    "statutory_coverage_complete": true
+    "statutory_coverage_complete": true,
+    "validated_at": "2026-10-20T15:10:10.379255+00:00",
+    "expected_intermediate_failure": "Only the 336 unannotated units; source preflight and statutory extraction pass."
   },
   "remaining_limitations": [
     "336 statutory units from § 169 onward still lack original commentary.",
