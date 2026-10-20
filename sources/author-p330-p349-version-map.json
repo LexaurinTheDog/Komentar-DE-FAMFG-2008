@@ -1,0 +1,243 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T21:48:20.901909+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/famfg/",
+  "fresh_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "unchanged_from_effectiveness_checked_source": true,
+  "commencement_evidence": [
+    {
+      "act": "BGBl. 2026 I Nr.152",
+      "amending_clause": "Art.6",
+      "effective_clause": "Art.18 Abs.1; exceptions in Abs.2–4 do not cover Art.6",
+      "effective_date": "2026-10-01",
+      "units": [
+        "p95"
+      ],
+      "evidence": "sources/bgbl-152.pdf",
+      "fresh_identical_evidence": "sources/bgbl-152-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.192",
+      "amending_clause": "Art.4 Nr.1–4",
+      "effective_clause": "Art.20 Abs.1; exceptions in Abs.2–5 do not cover Art.4",
+      "effective_date": "2026-10-01",
+      "units": [
+        "p41a",
+        "p46",
+        "p113"
+      ],
+      "evidence": "sources/bgbl-192.pdf",
+      "fresh_identical_evidence": "sources/bgbl-192-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.198",
+      "amending_clause": "Art.4 Nr.8",
+      "effective_clause": "Art.10 Abs.1 Nr.2; publication on 2026-07-09",
+      "effective_date": "2026-07-10",
+      "units": [
+        "p214"
+      ],
+      "evidence": "sources/bgbl-198.pdf",
+      "fresh_identical_evidence": "sources/bgbl-198-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.198",
+      "amending_clause": "Art.4 Nr.1–7,9",
+      "effective_clause": "Art.10 Abs.2",
+      "effective_date": "2027-07-01",
+      "excluded_future_ids": [
+        "p94a",
+        "p94b",
+        "p94c",
+        "p94d",
+        "p167c",
+        "p216b"
+      ],
+      "other_excluded_changes": [
+        "p57",
+        "p88",
+        "p96",
+        "TOC and subsection renumbering"
+      ],
+      "evidence": "sources/bgbl-198.pdf"
+    }
+  ],
+  "historical_versions": "No duplicate official identifiers; future 2027 changes remain excluded as recorded in preflight-result.json.",
+  "annexes_and_opening_formula": {
+    "complete": true,
+    "disposition": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "all_xml_norm_elements_accounted_for": 599,
+    "unclassified": [],
+    "final_transitional_ids": [
+      "p486",
+      "p487",
+      "p488",
+      "p489",
+      "p490",
+      "p491",
+      "p492",
+      "p493"
+    ],
+    "repealed_slots": [
+      "p79",
+      "p190",
+      "p230",
+      "p289",
+      "p364",
+      "p396"
+    ],
+    "repealed_subparagraphs": [
+      {
+        "id": "p163",
+        "disposition": "Repealed subparagraph retained inside operative provision"
+      },
+      {
+        "id": "p368",
+        "disposition": "Repealed subparagraph retained inside operative provision"
+      }
+    ]
+  },
+  "assigned_checks": [
+    {
+      "id": "p330",
+      "characters": 1907,
+      "commentary_sha256": "f8b2673917250f8b39e18e1a180eeaa18f3dd0e888ad4c2a4313d9353437c2d2",
+      "official_doknr": "BJNR258700008BJNE033602125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p331",
+      "characters": 1897,
+      "commentary_sha256": "4bdb673dd5b9daf9bedaee7d585df5cfc2a669bba817d981bf11b0536d28e09d",
+      "official_doknr": "BJNR258700008BJNE033703125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p332",
+      "characters": 1746,
+      "commentary_sha256": "76235a238afe201b33769d92d456de2867bfc0c71fa7e3cd6ba91c446d434ac1",
+      "official_doknr": "BJNR258700008BJNE033801125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p333",
+      "characters": 1986,
+      "commentary_sha256": "8b284171fa43255b30ad80aa688faa95488bd32ac1f15200cb8cd6075a448ad9",
+      "official_doknr": "BJNR258700008BJNE033901308",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p334",
+      "characters": 1452,
+      "commentary_sha256": "da4402c62bf48e3a3e0b8635aad192c404ca4f4f8472891d07da0a12ca4d412f",
+      "official_doknr": "BJNR258700008BJNE034001125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p335",
+      "characters": 2097,
+      "commentary_sha256": "79eb7cb570491dff2d64a40148af4bca04d9099dc94578397e6bfa87c58b15aa",
+      "official_doknr": "BJNR258700008BJNE034100000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p336",
+      "characters": 1489,
+      "commentary_sha256": "7763eddda270f75f62b97a38135e02a0516190156d7d3ff18c6cb8cae0422601",
+      "official_doknr": "BJNR258700008BJNE034200000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p337",
+      "characters": 1841,
+      "commentary_sha256": "5240b8ed42ca1d75352604b8e658dd3a4bc571b4a4dcd271c6ca62ac4d6f8685",
+      "official_doknr": "BJNR258700008BJNE034302125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p338",
+      "characters": 2028,
+      "commentary_sha256": "4f0067949e9d84795b64fbc7d5c9e8ff426518912d58d031685935bf6ef17635",
+      "official_doknr": "BJNR258700008BJNE034400000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p339",
+      "characters": 2124,
+      "commentary_sha256": "f4721e1d38d08d631763a4c3781e0c6f88aae70ec024fc794ec17e05f8fafc98",
+      "official_doknr": "BJNR258700008BJNE034501125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p340",
+      "characters": 1761,
+      "commentary_sha256": "0fb881d7ed91790f1ff07de728da01d9007c352a5c17e74da283122406c06299",
+      "official_doknr": "BJNR258700008BJNE034601125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p341",
+      "characters": 1780,
+      "commentary_sha256": "95471b01f47d79f52e490076325fad25f58d4ea8b261abe19df3dcaae62de75e",
+      "official_doknr": "BJNR258700008BJNE034700000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p342",
+      "characters": 1891,
+      "commentary_sha256": "401986bbd4caa62470dd9116364d58f87fec50e65a7fd385c036ba7194b8c27c",
+      "official_doknr": "BJNR258700008BJNE034800000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p343",
+      "characters": 1893,
+      "commentary_sha256": "8c0831a099d1bb6dc6eba9ef938017f8777e6b05e4e3472f0f77732242a00ef4",
+      "official_doknr": "BJNR258700008BJNE034901311",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p344",
+      "characters": 2339,
+      "commentary_sha256": "42e72db5a5cfa600ffc1dd0546211bc3c5ff5afbb4daac1255ac80c2594ab80f",
+      "official_doknr": "BJNR258700008BJNE035003131",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p345",
+      "characters": 2179,
+      "commentary_sha256": "8760f21b4a60a0c9ac5773fc78ce339a5fd146628f28b66304a6438b97d8377d",
+      "official_doknr": "BJNR258700008BJNE035100000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p346",
+      "characters": 1666,
+      "commentary_sha256": "63227792a304c5636e105d15bf3640fec6787301bf9e0338e26c2d3a93c8a43e",
+      "official_doknr": "BJNR258700008BJNE035200000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p347",
+      "characters": 1715,
+      "commentary_sha256": "02cf14b9a558bae326d581a2d16dcd702cad2db9f3f91fe6f2627d9ece5be023",
+      "official_doknr": "BJNR258700008BJNE035303125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p348",
+      "characters": 1977,
+      "commentary_sha256": "a1ee8f95088b2ed6d1e1aa0489de15eae24503e9c0c9b620aed43253f9ae9c99",
+      "official_doknr": "BJNR258700008BJNE035400000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p349",
+      "characters": 2462,
+      "commentary_sha256": "6f22fc9392a1082c3aaa703e73a85bea9515dc634ae78d8534c2a671b4cc20b1",
+      "official_doknr": "BJNR258700008BJNE035500000",
+      "statutory_agreement": true
+    }
+  ],
+  "limits": "Existing full-source preflight retained; this bounded author task adds fresh identical XML evidence, not a new complete historical audit."
+}

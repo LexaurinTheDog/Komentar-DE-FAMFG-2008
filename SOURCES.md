@@ -202,3 +202,6 @@ Fünf vollständig gelesene amtliche Entscheidungen: [XII ZB 183/25](cases/BGH-X
 
 
 Zweitprüfung genau §§ 310–329: [frische amtliche Abrufe mit Hashes](sources/review-p310-p329-fetch.json); [Fassungs-/Abdeckungsprüfung](sources/review-p310-p329-version-map.json). Amtliche ZIP/XML und vollständige Lesetexte im Quellenverzeichnis. Keine umfassende Rechtsprechungsrecherche; keine zusätzlichen Fälle aus bloßen Zitaten übernommen.
+
+
+Autorencharge §§ 330–349 vom 20. Oktober 2026: 20 neue Einheiten; [Quellenabgleich](sources/author-p330-p349-version-map.json), [selektive Recherche](sources/author-p330-p349-search-log.json), [BGH-Fallkarte zu § 335](cases/BGH-XII-ZB-63-25.md), [technisches Chargenergebnis](author-p330-p349-result.json). Kein unabhängiger Zweitprüfungsabschluss dieser Charge und kein Gesamtabschluss.

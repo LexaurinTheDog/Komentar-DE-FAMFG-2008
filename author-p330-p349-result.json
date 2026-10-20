@@ -1,0 +1,204 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
+  "authored_ids": [
+    "p330",
+    "p331",
+    "p332",
+    "p333",
+    "p334",
+    "p335",
+    "p336",
+    "p337",
+    "p338",
+    "p339",
+    "p340",
+    "p341",
+    "p342",
+    "p343",
+    "p344",
+    "p345",
+    "p346",
+    "p347",
+    "p348",
+    "p349"
+  ],
+  "units_authored": 20,
+  "commentary_characters": 38230,
+  "checks": [
+    {
+      "id": "p330",
+      "characters": 1907,
+      "commentary_sha256": "f8b2673917250f8b39e18e1a180eeaa18f3dd0e888ad4c2a4313d9353437c2d2",
+      "official_doknr": "BJNR258700008BJNE033602125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p331",
+      "characters": 1897,
+      "commentary_sha256": "4bdb673dd5b9daf9bedaee7d585df5cfc2a669bba817d981bf11b0536d28e09d",
+      "official_doknr": "BJNR258700008BJNE033703125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p332",
+      "characters": 1746,
+      "commentary_sha256": "76235a238afe201b33769d92d456de2867bfc0c71fa7e3cd6ba91c446d434ac1",
+      "official_doknr": "BJNR258700008BJNE033801125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p333",
+      "characters": 1986,
+      "commentary_sha256": "8b284171fa43255b30ad80aa688faa95488bd32ac1f15200cb8cd6075a448ad9",
+      "official_doknr": "BJNR258700008BJNE033901308",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p334",
+      "characters": 1452,
+      "commentary_sha256": "da4402c62bf48e3a3e0b8635aad192c404ca4f4f8472891d07da0a12ca4d412f",
+      "official_doknr": "BJNR258700008BJNE034001125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p335",
+      "characters": 2097,
+      "commentary_sha256": "79eb7cb570491dff2d64a40148af4bca04d9099dc94578397e6bfa87c58b15aa",
+      "official_doknr": "BJNR258700008BJNE034100000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p336",
+      "characters": 1489,
+      "commentary_sha256": "7763eddda270f75f62b97a38135e02a0516190156d7d3ff18c6cb8cae0422601",
+      "official_doknr": "BJNR258700008BJNE034200000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p337",
+      "characters": 1841,
+      "commentary_sha256": "5240b8ed42ca1d75352604b8e658dd3a4bc571b4a4dcd271c6ca62ac4d6f8685",
+      "official_doknr": "BJNR258700008BJNE034302125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p338",
+      "characters": 2028,
+      "commentary_sha256": "4f0067949e9d84795b64fbc7d5c9e8ff426518912d58d031685935bf6ef17635",
+      "official_doknr": "BJNR258700008BJNE034400000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p339",
+      "characters": 2124,
+      "commentary_sha256": "f4721e1d38d08d631763a4c3781e0c6f88aae70ec024fc794ec17e05f8fafc98",
+      "official_doknr": "BJNR258700008BJNE034501125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p340",
+      "characters": 1761,
+      "commentary_sha256": "0fb881d7ed91790f1ff07de728da01d9007c352a5c17e74da283122406c06299",
+      "official_doknr": "BJNR258700008BJNE034601125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p341",
+      "characters": 1780,
+      "commentary_sha256": "95471b01f47d79f52e490076325fad25f58d4ea8b261abe19df3dcaae62de75e",
+      "official_doknr": "BJNR258700008BJNE034700000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p342",
+      "characters": 1891,
+      "commentary_sha256": "401986bbd4caa62470dd9116364d58f87fec50e65a7fd385c036ba7194b8c27c",
+      "official_doknr": "BJNR258700008BJNE034800000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p343",
+      "characters": 1893,
+      "commentary_sha256": "8c0831a099d1bb6dc6eba9ef938017f8777e6b05e4e3472f0f77732242a00ef4",
+      "official_doknr": "BJNR258700008BJNE034901311",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p344",
+      "characters": 2339,
+      "commentary_sha256": "42e72db5a5cfa600ffc1dd0546211bc3c5ff5afbb4daac1255ac80c2594ab80f",
+      "official_doknr": "BJNR258700008BJNE035003131",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p345",
+      "characters": 2179,
+      "commentary_sha256": "8760f21b4a60a0c9ac5773fc78ce339a5fd146628f28b66304a6438b97d8377d",
+      "official_doknr": "BJNR258700008BJNE035100000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p346",
+      "characters": 1666,
+      "commentary_sha256": "63227792a304c5636e105d15bf3640fec6787301bf9e0338e26c2d3a93c8a43e",
+      "official_doknr": "BJNR258700008BJNE035200000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p347",
+      "characters": 1715,
+      "commentary_sha256": "02cf14b9a558bae326d581a2d16dcd702cad2db9f3f91fe6f2627d9ece5be023",
+      "official_doknr": "BJNR258700008BJNE035303125",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p348",
+      "characters": 1977,
+      "commentary_sha256": "a1ee8f95088b2ed6d1e1aa0489de15eae24503e9c0c9b620aed43253f9ae9c99",
+      "official_doknr": "BJNR258700008BJNE035400000",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p349",
+      "characters": 2462,
+      "commentary_sha256": "6f22fc9392a1082c3aaa703e73a85bea9515dc634ae78d8534c2a671b4cc20b1",
+      "official_doknr": "BJNR258700008BJNE035500000",
+      "statutory_agreement": true
+    }
+  ],
+  "previous_360_commentary_blocks_unchanged": true,
+  "whole_book_complete": false,
+  "total_units": 529,
+  "completed_units": 380,
+  "remaining_units": 149,
+  "statutory_agreement": 1.0,
+  "parser_reproducible": true,
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-63-25.md"
+  ],
+  "strict_validation": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 855180,
+    "errors": [
+      "krátký/chybějící komentář u 149 jednotek: ['p350(0<400)', 'p351(0<400)', 'p352(0<400)', 'p352a(0<400)', 'p352b(0<400)', 'p352c(0<400)', 'p352d(0<400)', 'p352e(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "unresolved_batch_blockers": [],
+  "limitations": [
+    "Independent second pass pending for this batch.",
+    "Selective case-law coverage.",
+    "149 unassigned units lack commentary; full builder and strict whole-book validation correctly fail.",
+    "Technical checks do not establish legal quality."
+  ],
+  "completed_at": "2026-10-20T21:48:20.901909+00:00",
+  "local_links_checked": 1107,
+  "broken_local_links": [],
+  "previous_18_exported_chapters_unchanged": true,
+  "all_20_units_exported": true
+}

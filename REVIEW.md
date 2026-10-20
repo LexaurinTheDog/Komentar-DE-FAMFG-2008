@@ -469,3 +469,6 @@ Die begrenzte unabhängige Zweitprüfung vom 20. Oktober 2026 erfasst genau §§
 – **p327 (confirmed):** Begrenzung auf §312Nr4, Verpflichtungsantrag, Geltendmachung eigener Rechte, fehlende automatische Hemmung, gerichtliche Aussetzungsmöglichkeit und Unanfechtbarkeit geprüft; keine eigenen materiellen Vollzugsansprüche erfunden.
 – **p328 (confirmed):** Nur landesrechtliche Unterbringung; Aussetzung/Aufhebung, Auflagen, sechs Monate/ein Jahr und alternative Widerrufsgründe geprüft. XII ZB412/24 Rn10/11 belegt nur kurze Unterbrechungen ohne Fristneubeginn.
 – **p329 (confirmed):** Einzelhöchstfristen ein/zwei Jahre und sechs Wochen, wiederholte Erstverfahrensgarantien und vierjährige/zwölfwöchige Unabhängigkeitsschwellen geprüft. XII ZB207/25 Rn19 trägt Gutachtendatum, XII ZB412/24 Rn8–14 zeitliche Kontinuität und offene Umgehungsfrage; keine pauschale Lebenszeitaddition.
+
+
+Autorencharge §§ 330–349 vom 20. Oktober 2026: 20 neue Einheiten; [Quellenabgleich](sources/author-p330-p349-version-map.json), [selektive Recherche](sources/author-p330-p349-search-log.json), [BGH-Fallkarte zu § 335](cases/BGH-XII-ZB-63-25.md), [technisches Chargenergebnis](author-p330-p349-result.json). Kein unabhängiger Zweitprüfungsabschluss dieser Charge und kein Gesamtabschluss.

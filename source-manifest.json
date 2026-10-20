@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:42:18.177228+00:00",
+  "generated_at": "2026-10-20T21:48:59.924080+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -1183,6 +1183,46 @@
       "path": "sources/author-p310-p329-version-map.json",
       "sha256": "4c25684fa11851627fb284212e0bd26e65ddfe9e609e529d3a21dd44ed097c39",
       "bytes": 37200
+    },
+    {
+      "path": "sources/author-p330-p349-XII-ZB-63-25.xml",
+      "sha256": "214e7200eb1d2ce127c50896958db47a69cc9fa51cb3e38f8dfde46ade32bad7",
+      "bytes": 13355
+    },
+    {
+      "path": "sources/author-p330-p349-XII-ZB-63-25.zip",
+      "sha256": "86e41721e423d10227e55d1eaf6d328e7299e2d08e44fb52c3f689c51bade00c",
+      "bytes": 3882
+    },
+    {
+      "path": "sources/author-p330-p349-case-corpus-check.json",
+      "sha256": "9bed19e71deba6d22d7f0021f7a2666f18dd8ed5b4875d11bcdb0c1748c4d5b8",
+      "bytes": 367
+    },
+    {
+      "path": "sources/author-p330-p349-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/author-p330-p349-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/author-p330-p349-local-KORE723732025.md",
+      "sha256": "414c84dfa6e483b12e6b4147669261f738f56fd8cb9691727ccc53373bd3b600",
+      "bytes": 9172
+    },
+    {
+      "path": "sources/author-p330-p349-search-log.json",
+      "sha256": "19d7d7620c5e91bd923f60823aa053c3871269c0d702e8ab343ade3b1dfed4ac",
+      "bytes": 1155
+    },
+    {
+      "path": "sources/author-p330-p349-version-map.json",
+      "sha256": "b6f8dabc66ec1d10ded59a0858bd3ed5ec3070d07c089342c2d593382be56b37",
+      "bytes": 8043
     },
     {
       "path": "sources/bgbl-152-2026-10-20.pdf",
@@ -3401,8 +3441,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "d65c395688836d3239b56dcff6e0f73c5b8352799bc716034d8439fc1f794ce3",
-      "bytes": 252152
+      "sha256": "b771aab48295a647f6f2869c262faec8922f27a54fb2f45ab4c3a7d6425cde53",
+      "bytes": 253208
     }
   ]
 }

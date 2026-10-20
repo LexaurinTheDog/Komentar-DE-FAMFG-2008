@@ -4715,5 +4715,27 @@
       "Current-service regulations and corrections screened by title; full-text statutory search is limited to the seven selected listed acts.",
       "Selective case cards retained; this source preflight does not re-review case law or the commentary."
     ]
-  }
+  },
+  "bounded_author_p330_p349": [
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T21:43:46.957045+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p330-p349-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "zip_sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "format": "ZIP CRC checked, XML parsed; identity checked"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE723732025.zip",
+      "accessed_at": "2026-10-20T21:43:47.308899+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p330-p349-XII-ZB-63-25.xml",
+      "sha256": "214e7200eb1d2ce127c50896958db47a69cc9fa51cb3e38f8dfde46ade32bad7",
+      "zip_sha256": "86e41721e423d10227e55d1eaf6d328e7299e2d08e44fb52c3f689c51bade00c",
+      "format": "ZIP CRC checked, XML parsed; identity checked"
+    }
+  ]
 }

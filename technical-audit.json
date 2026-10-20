@@ -1,9 +1,9 @@
 {
-  "commented_units": 360,
+  "commented_units": 380,
   "total_units": 529,
-  "commentary_characters": 816950,
-  "missing_commentary_count": 169,
-  "local_links_checked": 1090,
+  "commentary_characters": 855180,
+  "missing_commentary_count": 149,
+  "local_links_checked": 1107,
   "broken_local_links": [],
   "exact_repeated_substantive_paragraphs": [],
   "near_repeated_commentary_above_0_8_token_jaccard": [],
@@ -370,11 +370,31 @@
     "p326": 2429,
     "p327": 2340,
     "p328": 2453,
-    "p329": 3611
+    "p329": 3611,
+    "p330": 1907,
+    "p331": 1897,
+    "p332": 1746,
+    "p333": 1986,
+    "p334": 1452,
+    "p335": 2097,
+    "p336": 1489,
+    "p337": 1841,
+    "p338": 2028,
+    "p339": 2124,
+    "p340": 1761,
+    "p341": 1780,
+    "p342": 1891,
+    "p343": 1893,
+    "p344": 2339,
+    "p345": 2179,
+    "p346": 1666,
+    "p347": 1715,
+    "p348": 1977,
+    "p349": 2462
   },
   "limits": [
     "Similarity screening is heuristic and does not establish legal quality.",
-    "Remaining 169 units are not authored.",
+    "Remaining 149 units are not authored.",
     "Independent second-pass review is bounded by review-result.json; no whole-book review claimed."
   ]
 }

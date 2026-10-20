@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-20T21:48:20.901909+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de 335 beteiligt FamFG",
+    "site.rechtsprechung-im-internet.de 343 gewöhnlichen Aufenthalt"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+  "selected_full_text": "KORE723732025; official XML and local corpus full text read",
+  "discovery_only_not_relied_on": [
+    "Hospiz decisions",
+    "OLG München33UH4/23e",
+    "Commercial annotations"
+  ],
+  "no_new_verified_authority_for": [
+    "p330",
+    "p331",
+    "p332",
+    "p333",
+    "p334",
+    "p336",
+    "p337",
+    "p338",
+    "p339",
+    "p340",
+    "p341",
+    "p342",
+    "p343",
+    "p344",
+    "p345",
+    "p346",
+    "p347",
+    "p348",
+    "p349"
+  ],
+  "limits": "Selective research only; no exhaustive case-law or later-treatment coverage. Direct official ZIP used; Firecrawl unnecessary for parseable XML.",
+  "failed_source_urls": [
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/FamFG.xml",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/FamFG.xml.zip",
+      "http_status": 404
+    }
+  ]
+}
