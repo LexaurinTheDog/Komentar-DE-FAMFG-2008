@@ -1,0 +1,205 @@
+{
+  "verified_at": "2026-10-20T19:27:11.174771+00:00",
+  "scope": "Selective primary research for exactly p310–p329",
+  "firecrawl": {
+    "status": "Authenticated, zero credits; not used to retrieve content; no installation or service changes."
+  },
+  "web_queries": [
+    "site.rechtsprechung-im-internet.de 319 2025 Gutachten",
+    "site.rechtsprechung-im-internet.de 321 2026 Unterbringung",
+    "site.rechtsprechung-im-internet.de 329 2025 Wochen"
+  ],
+  "outcome": "Search returned noisy results including third-party case discovery; no snippet or commercial commentary used as authority. Actual judgments discovered in national corpus and fetched as official ZIP/XML.",
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "method": "rg and local section/date/actual docket filtering, then full-text reading and official identity validation.",
+    "discovery_correction": "One locally retrieved record mentioning XII ZB552/25 was actually VI ZR335/24; rejected before commentary authority use and replaced by KORE300332026. Erroneously named working captures removed; final dossier contains only correctly identified judgment."
+  },
+  "selected_cases": [
+    {
+      "docket": "XII ZB 183/25",
+      "date": "20250611",
+      "doknr": "KORE717062025",
+      "ecli": "ECLI:DE:BGH:2025:110625BXIIZB183.25.0",
+      "official_path": "sources/author-p310-p329-XII-ZB-183-25.xml",
+      "official_sha256": "1d3c3a5f50749ecd2f076d574b598c788a0130e0ad4a0d106f727c98c90f8be5",
+      "local_path": "sources/author-p310-p329-local-KORE717062025.md",
+      "local_sha256": "74f793f1e62ee5bc9033d45932bfc090ecb8f4835e978895b3b939cc0e4b1ba4",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "paragraphs_compared": 17,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read": true,
+      "supported_units": [
+        "p313",
+        "p314",
+        "p319"
+      ]
+    },
+    {
+      "docket": "XII ZB 207/25",
+      "date": "20250730",
+      "doknr": "KORE721862025",
+      "ecli": "ECLI:DE:BGH:2025:300725BXIIZB207.25.0",
+      "official_path": "sources/author-p310-p329-XII-ZB-207-25.xml",
+      "official_sha256": "66376376b20d5c169c744cddeab4d2f5de3a9ca2e90b50f0a25229d19f2cc949",
+      "local_path": "sources/author-p310-p329-local-KORE721862025.md",
+      "local_sha256": "8713887a706598100627c5c016c9eef59c725e1b6928e8c3cb76a9a22b0ef9ed",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "paragraphs_compared": 33,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read": true,
+      "supported_units": [
+        "p321",
+        "p329"
+      ]
+    },
+    {
+      "docket": "XII ZB 412/24",
+      "date": "20250604",
+      "doknr": "KORE717402025",
+      "ecli": "ECLI:DE:BGH:2025:040625BXIIZB412.24.0",
+      "official_path": "sources/author-p310-p329-XII-ZB-412-24.xml",
+      "official_sha256": "c5adb39d9fa9fd9ff81207935b14d13bf0d2303fde28047578f777bec2b69f92",
+      "local_path": "sources/author-p310-p329-local-KORE717402025.md",
+      "local_sha256": "25268891194c07a6fd0be8d3e5195a1d40ee4b4ed3d1a79012b0ceedeb8335e6",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "paragraphs_compared": 28,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read": true,
+      "supported_units": [
+        "p328",
+        "p329"
+      ]
+    },
+    {
+      "docket": "XII ZB 552/25",
+      "date": "20260617",
+      "doknr": "KORE300332026",
+      "ecli": "ECLI:DE:BGH:2026:170626BXIIZB552.25.0",
+      "official_path": "sources/author-p310-p329-XII-ZB-552-25.xml",
+      "official_sha256": "d46b3b779d5ae4cb65fdfba9aa24e67f850d5a50b50a20c744814828c27c764c",
+      "local_path": "sources/author-p310-p329-local-KORE300332026.md",
+      "local_sha256": "c57225bdb5142859cf3680d8f7a985bbb1838d567c0c76e6e0c589d8dc859d72",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "paragraphs_compared": 25,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read": true,
+      "supported_units": [
+        "p321",
+        "p329"
+      ]
+    },
+    {
+      "docket": "XII ZB 271/24",
+      "date": "20251112",
+      "doknr": "KORE729272025",
+      "ecli": "ECLI:DE:BGH:2025:121125BXIIZB271.24.0",
+      "official_path": "sources/author-p310-p329-XII-ZB-271-24.xml",
+      "official_sha256": "1517e3debb4e5718b6b70cc47ae1d43191f4168dc59ccb078acb046bf514c893",
+      "local_path": "sources/author-p310-p329-local-KORE729272025.md",
+      "local_sha256": "217dd4feaea88035b1a8b3fdcab65e9fd36a48a1066d97815faffb1bd9edd287",
+      "numbered_paragraphs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "paragraphs_compared": 17,
+      "all_official_substantial_paragraphs_present_in_local_corpus": true,
+      "full_text_read": true,
+      "supported_units": [
+        "p316",
+        "p319",
+        "p321",
+        "p325"
+      ]
+    }
+  ],
+  "no_additional_fully_verified_case_selected_for": [
+    "p310",
+    "p311",
+    "p312",
+    "p315",
+    "p317",
+    "p318",
+    "p320",
+    "p322",
+    "p323",
+    "p324",
+    "p326",
+    "p327"
+  ],
+  "limits": "No selection does not mean no relevant decision exists. Referenced judgments within selected cases not separately verified. BGB1832 constitutional note recorded as source note, not a fully read sixth case."
+}

@@ -1,0 +1,50 @@
+{
+  "kind": "author",
+  "complete": false,
+  "stage": "bounded_author_batch_technical_checks_pending",
+  "scope": "exactly p310–p329",
+  "assigned_ids": [
+    "p310",
+    "p311",
+    "p312",
+    "p313",
+    "p314",
+    "p315",
+    "p316",
+    "p317",
+    "p318",
+    "p319",
+    "p320",
+    "p321",
+    "p322",
+    "p323",
+    "p324",
+    "p325",
+    "p326",
+    "p327",
+    "p328",
+    "p329"
+  ],
+  "units_authored": 20,
+  "commentary_file": "commentary/part-19-unterbringung-310-329.md",
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T19:28:05.579086+00:00",
+  "source_preflight_complete": true,
+  "source_evidence": "sources/author-p310-p329-version-map.json",
+  "full_cases_read": 5,
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-183-25.md",
+    "cases/BGH-XII-ZB-207-25.md",
+    "cases/BGH-XII-ZB-412-24.md",
+    "cases/BGH-XII-ZB-552-25.md",
+    "cases/BGH-XII-ZB-271-24.md"
+  ],
+  "whole_book_complete": false,
+  "independent_second_pass_pending": true,
+  "unresolved_blockers": [],
+  "limitations": [
+    "169 unassigned units remain without commentary from p330.",
+    "Selective case law; no current full review of Land statutes.",
+    "Author technical checks are not independent second pass or external professional approval."
+  ]
+}

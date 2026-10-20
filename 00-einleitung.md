@@ -2,7 +2,7 @@
 
 Das FamFG verbindet sehr unterschiedliche gerichtliche Aufgaben: familienrechtliche Status- und Leistungsstreitigkeiten, Schutzverfahren, Nachlass- und Registersachen sowie weitere Angelegenheiten der freiwilligen Gerichtsbarkeit. Die gemeinsame Gesetzesüberschrift darf nicht darüber hinwegtäuschen, dass diese Gegenstände unterschiedliche Beteiligungs-, Ermittlungs-, Entscheidungs- und Vollstreckungsmodelle verlangen. Der erste praktische Schritt besteht deshalb in der gesetzlichen Einordnung des konkreten Begehrens.
 
-Diese Ausgabe enthält die Kommentierung der §§ 1–309a einschließlich der Buchstabenparagraphen, insgesamt 340 Paragrapheneinheiten. Der gesamte amtliche Quellenbestand umfasst 529 Einheiten; die Kommentierung ab § 310 fehlt. Der Teilstand ist in README, INDEX und Vollständigkeitsbericht ausdrücklich ausgewiesen. Aus der vollständigen Erfassung des Gesetzeswortlauts wird keine vollständige Kommentierung abgeleitet.
+Diese Ausgabe enthält die Kommentierung der §§ 1–329 einschließlich der Buchstabenparagraphen, insgesamt 360 Paragrapheneinheiten. Der gesamte amtliche Quellenbestand umfasst 529 Einheiten; die Kommentierung ab § 330 fehlt. Der Teilstand ist in README, INDEX und Vollständigkeitsbericht ausdrücklich ausgewiesen. Aus der vollständigen Erfassung des Gesetzeswortlauts wird keine vollständige Kommentierung abgeleitet.
 
 ## Verfahrensart vor Einzelproblem
 
@@ -45,3 +45,6 @@ Die Autorencharge §§ 292–309a trennt Betreueranspruch und Staatskassenrückg
 
 
 Die unabhängige Zweitprüfung der Charge §§ 292–309a umfasst genau zwanzig Einheiten. Fünf Präzisierungen und die erneute vollständige Prüfung der fünf verwendeten amtlichen BGH-Entscheidungen sind im [siebzehnten Prüfbericht](review-p292-p309a-result.json) dokumentiert. Der übrige Kommentarbestand blieb unverändert; 189 Erläuterungen ab § 310 fehlen.
+
+
+Die Autorencharge §§ 310–329 behandelt den Abschluss der betreuungsgerichtlichen Mitteilungen und das Unterbringungsverfahren bis zu Dauer und Verlängerung. Im Mittelpunkt stehen die Einordnung einzelner Eingriffe, Beteiligung und eigene Verfahrensfähigkeit, die persönliche Anhörung, unterschiedliche medizinische Beweismittel sowie Tenor, Wirksamkeit, Bekanntgabe und Vollzugsbefugnisse. Landesrechtliche Maßnahmen werden verfahrensrechtlich eingeordnet; eine aktuelle Vollkommentierung sämtlicher Landesgesetze wird nicht behauptet. Die fünf neuen Fallkarten legen tragende Aussagen und Grenzen offen, darunter die nur teilweise erfolgreiche Rechtsbeschwerde in XII ZB 552/25 und die fallbezogene Unterbrechungsbewertung in XII ZB 412/24. Die zwanzig neuen Kommentare sind noch nicht unabhängig zweitgeprüft.

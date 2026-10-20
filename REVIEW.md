@@ -1,3 +1,5 @@
+Aktueller Autorenstand nach Ergänzung §§ 310–329: 360/529 Einheiten kommentiert; 169 Einheiten ab § 330 fehlen. Die neue Charge ist technisch selbstkontrolliert und wartet auf eine frische unabhängige Zweitprüfung. Der folgende Bestand dokumentiert die zeitlich jeweiligen früheren Prüfstände; diese Charge ändert deren inhaltliche Berichte nicht.
+
 # Prüfprotokoll und ausstehende Bearbeitung
 
 **Kein externes fachliches Freigabeurteil.** Der erste Teil dokumentiert die frühere Eigenkontrolle vom 19. Oktober 2026 und die Quellenvorprüfung. Die anschließend dokumentierten sechzehn getrennten Zweitprüfungen vom 20. Oktober sind jeweils auf genau 20 Einheiten beschränkt.
@@ -431,3 +433,12 @@ Volltextlektüre der Rechtsprechung: XII ZB 130/23 Rn. 1–26, XII ZB 145/25 Rn.
 
 
 Technischer Abschluss dieser begrenzten Zweitprüfung: genau 20/20 Einheiten gelesen, fünf präzisiert, 15 unverändert bestätigt. Alle 320 anderen Kommentarblöcke sowie die 16 früheren Ausgabekapitel sind bytegleich zum Ausgangsstand. Die 20 exportierten Gesetzestexte und Erläuterungen stimmen mit WORK überein. Der Parserlauf ist bytegleich reproduziert; 529 amtliche Kennungen ohne fehlende, zusätzliche oder doppelte Kennung und 100 Prozent Wortlautübereinstimmung. Alle 1001 geprüften lokalen Belegverknüpfungen vorhanden; Hash-, Platzhalter- und Wiederholungsscreening ohne Befund. Diese technischen Ergebnisse ersetzen keine juristische Qualitätsprüfung. Regulärer Gesamtbuild und strenge Gesamtvalidierung bleiben ausschließlich wegen 189 unkommentierter Einheiten ab § 310 negativ. Die tatsächliche Teilausgabe ist neu gebaut. Kein Gesamtabschluss, keine Veröffentlichung und keine externe Freigabe.
+
+
+## Autorencharge §§ 310–329 vom 20. Oktober 2026
+
+Genau zwanzig neue Kommentare, zwanzig fiktive Fälle und zwei thematische Prüflisten. Sämtliche 340 früheren Kommentarblöcke, siebzehn Ausgabekapitel und früheren maschinenlesbaren Zweitprüfungsberichte werden gegenüber dem Ausgangscommit geprüft und erhalten. Eigene Normprüfung betrifft jede zugewiesene Einheit; sie ist keine unabhängige Zweitprüfung. [Autorenprüfung](author-p310-p329-audit.json), [Chargenbericht](author-p310-p329-result.json), [Quellenprüfung](sources/author-p310-p329-version-map.json).
+
+Vollständig gelesen sind BGH XII ZB 183/25 (Rn. 1–11), 207/25 (1–20), 412/24 (1–15), 552/25 (1–15) und 271/24 (1–11) einschließlich Tenören und vorhandenen Leitsätzen. [Korpusabgleich](sources/author-p310-p329-case-corpus-check.json). Die Fälle behandeln Rechtshilfeanhörung, Einführung und Alter von Gutachten, Unterbrechungen bei Zwangsbehandlung, das ärztliche Zeugnis und eigene Gutachtenkenntnis. Die Auswahl ist selektiv. Ein zunächst falsch zugeordneter Suchfund wurde anhand der tatsächlichen Entscheidungsidentität ausgeschieden und durch den richtigen amtlichen Volltext ersetzt; er wurde nicht als Kommentarautorität verwendet. Die in XII ZB 412/24 enthaltene ungenaue Zuordnung des Sechswochenzeitraums zu Absatz 3 wird anhand des Gesetzestexts in der Fallkarte erklärt und nicht fortgeschrieben.
+
+Der unveränderte Vollbuilder und die strenge Gesamtvalidierung werden weiterhin wegen unkommentierter, nicht zugewiesener Einheiten negativ bleiben. Für die neue Charge werden Wortlaut, Parserwiederholung, Vollständigkeit, Erhalt vorhandener Arbeit, örtliche Links und auffällige Wiederholungen geprüft. Diese technischen Kontrollen beweisen keine juristische Qualität. Keine externe Freigabe und keine Fertigstellung des ganzen Buchs.

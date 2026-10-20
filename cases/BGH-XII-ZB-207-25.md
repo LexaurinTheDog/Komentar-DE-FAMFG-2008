@@ -1,0 +1,15 @@
+# BGH, Beschluss vom 30. Juli 2025 — XII ZB 207/25
+
+Bundesgerichtshof, XII. Zivilsenat. ECLI:DE:BGH:2025:300725BXIIZB207.25.0; amtliche Kennung KORE721862025. Vollständig gelesen am 20. Oktober 2026: sämtliche vorhandenen Leitsätze, Tenor und Gründe Rn. 1–20. Verwendung: §§ 321 und 329, ergänzend § 324 FamFG.
+
+[Amtlicher Datensatz](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE721862025), [amtlicher ZIP-Abruf](../sources/author-p310-p329-XII-ZB-207-25.zip), [XML](../sources/author-p310-p329-XII-ZB-207-25.xml), [Lesetext](../sources/author-p310-p329-XII-ZB-207-25.txt), [nationaler Korpus](../sources/author-p310-p329-local-KORE721862025.md), [HTTP, UTC-Zeit und Hashes](../sources/author-p310-p329-fetch.json), [Volltextvergleich](../sources/author-p310-p329-case-corpus-check.json).
+
+Ein gerichtlich beauftragtes Gutachten wurde nach kurzzeitiger Einstellung des Unterbringungsverfahrens in einem erneut eingeleiteten Verfahren verwendet. Die Betroffene rügte die Beweisverwertung, die unterbliebene erneute Anhörung und die Dauer. Der BGH ließ die ersten beiden Rügen nicht durchgreifen, verkürzte aber die Genehmigungsdauer.
+
+Rn. 9–15 behandeln die förmliche Einführung eines Gutachtens aus einem anderen Verfahren und das vorgelagerte rechtliche Gehör. Entscheidend war die ursprüngliche gerichtliche Beauftragung, die Neutralität und gerichtliche Anleitung gewährleistete. Dass die zugrunde liegende Beweisanordnung am Erstellungstag aufgehoben und das Gutachten erst anschließend eingereicht wurde, beseitigte diese Eigenschaft im konkreten Fall nicht. Die konkludente Einführung durch Übersendung genügte hier nur angesichts des sehr engen zeitlichen und sachlichen Zusammenhangs. Daraus wird keine allgemeine Erlaubnis abgeleitet, Gutachten ohne Einführung oder vorherige Stellungnahmemöglichkeit zu verwerten.
+
+Rn. 17–18 erläutern ergänzend die Möglichkeit, auf eine erneute Anhörung im Beschwerdeverfahren zu verzichten: Die erste Anhörung war ordnungsgemäß nach Gutachtenübersendung in Anwesenheit der Betreuerin und Verfahrenspflegerin erfolgt. Ein nicht entscheidungserhebliches ärztliches Vorgespräch änderte daran im konkreten Fall nichts. Das rechtfertigt nicht das Verschweigen sonstiger entscheidungserheblicher Erkenntnisse.
+
+Rn. 19 trägt die zeitliche Korrektur: Grundsätzlich ist die zulässige Unterbringungszeit am Gutachtendatum und nicht erst am Beschlusstag auszurichten. Ohne weitere Feststellungen trug das Gutachten vom 13. Januar 2025 die Genehmigung nur bis 13. Januar 2026. Die Entscheidung ist keine abstrakte Regel, wonach jedes Gutachten genau ein Jahr gültig wäre. Prognoseinhalt und konkrete Feststellungen bleiben maßgeblich. Der zugrunde liegende § 1831 BGB sowie §§ 321 und 329 sind in den gesicherten aktuellen Gesetzesquellen geprüft.
+
+Selektive Recherche; keine erschöpfende Rechtsprechungsübersicht. Innerhalb des Beschlusses zitierte weitere Entscheidungen gelten nicht als zusätzlich vollständig recherchierte Belege. Autorenkontrolle, frische unabhängige Zweitprüfung noch ausstehend; keine externe professionelle Freigabe.

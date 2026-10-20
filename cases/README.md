@@ -66,3 +66,6 @@ Autorencharge §§ 272–291: drei weitere vollständig gelesene amtliche BGH-Te
 
 
 Autorencharge §§ 292–309a: fünf neue vollständig gelesene amtliche Entscheidungen, insgesamt 41 Fallkarten. [XII ZB 130/23](BGH-XII-ZB-130-23.md), [XII ZB 145/25](BGH-XII-ZB-145-25.md), [XII ZB 473/25](BGH-XII-ZB-473-25.md), [XII ZB 218/25](BGH-XII-ZB-218-25.md), [XII ZB 323/25](BGH-XII-ZB-323-25.md). Sämtliche 26, 11, 15, 29 und 13 Randnummern sowie Tenöre und vorhandene Leitsätze gelesen. Originaldatensätze, Korpusspiegel und präzise Verwendungsgrenzen sind verlinkt. Neue Charge noch ohne unabhängige Zweitprüfung.
+
+
+Autorencharge §§ 310–329: [XII ZB 183/25](BGH-XII-ZB-183-25.md), [207/25](BGH-XII-ZB-207-25.md), [412/24](BGH-XII-ZB-412-24.md), [552/25](BGH-XII-ZB-552-25.md), [271/24](BGH-XII-ZB-271-24.md). Fünf amtliche Volltexte mit insgesamt 72 nummerierten Randnummern, Tenören und vorhandenen Leitsätzen gelesen; fallbezogene Aussagen, Gegenargumente und Grenzen getrennt. Neue Charge wartet auf unabhängige Zweitprüfung.
