@@ -3,13 +3,8 @@
   "total_units": 529,
   "commentary_characters": 388003,
   "missing_commentary_count": 329,
-  "local_links_checked": 462,
-  "broken_local_links": [
-    {
-      "file": "README.md",
-      "target": "review-p165-p175-audit.json"
-    }
-  ],
+  "local_links_checked": 466,
+  "broken_local_links": [],
   "exact_repeated_substantive_paragraphs": [],
   "near_repeated_commentary_above_0_8_token_jaccard": [],
   "xml_character_disagreements_ignoring_whitespace": [],

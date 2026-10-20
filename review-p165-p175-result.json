@@ -187,6 +187,56 @@
   ],
   "whole_book_complete": false,
   "validation": {
-    "state": "awaiting actual build/validation"
+    "assigned_batch_ok": true,
+    "reviewed_ids_exact": true,
+    "unassigned_commentary_changes": [],
+    "changed_units": [
+      "p165",
+      "p166",
+      "p167",
+      "p167a",
+      "p167b",
+      "p168",
+      "p168a",
+      "p168b",
+      "p168c",
+      "p168d",
+      "p168e",
+      "p168f",
+      "p168g",
+      "p169",
+      "p172"
+    ],
+    "unchanged_after_substantive_review": [
+      "p170",
+      "p171",
+      "p173",
+      "p174",
+      "p175"
+    ],
+    "total_expected_official_units": 529,
+    "total_parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 388003,
+      "errors": [
+        "krátký/chybějící komentář u 329 jednotek: ['p176(0<400)', 'p177(0<400)', 'p178(0<400)', 'p179(0<400)', 'p180(0<400)', 'p181(0<400)', 'p182(0<400)', 'p183(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "whole_book_complete": false,
+    "reason_for_global_failure": "329unannotated units outside assigned review p165–p175",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 466,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "source_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T16:58:32.809892+00:00"
   }
 }
