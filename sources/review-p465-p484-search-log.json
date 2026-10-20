@@ -1,0 +1,32 @@
+{
+  "scope": [
+    "p465",
+    "p466",
+    "p467",
+    "p468",
+    "p469",
+    "p470",
+    "p471",
+    "p472",
+    "p473",
+    "p474",
+    "p475",
+    "p476",
+    "p477",
+    "p478",
+    "p479",
+    "p480",
+    "p481",
+    "p482",
+    "p483",
+    "p484"
+  ],
+  "method": "Existing selective authority rechecked against freshly retrieved primary full text and retained local judicial corpus; no exhaustive new discovery",
+  "official_full_text": "sources/review-p465-p484-case.xml",
+  "local_corpus": "sources/author-p465-p484-local-KORE621012017.md",
+  "read": "Tenor and all reasons Rn.1–18; allegations Rn.2/4 and appellate summary Rn.7–11 distinguished from BGH Rn.12–17",
+  "supported_units": [
+    "p467"
+  ],
+  "other_units": "No additional sufficiently relevant verified decision added."
+}

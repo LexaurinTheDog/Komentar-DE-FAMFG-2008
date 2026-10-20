@@ -103,158 +103,158 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p445",
-      "p446",
-      "p447",
-      "p448",
-      "p449",
-      "p450",
-      "p451",
-      "p452",
-      "p453",
-      "p454",
-      "p455",
-      "p456",
-      "p457",
-      "p458",
-      "p459",
-      "p460",
-      "p461",
-      "p462",
-      "p463",
-      "p464"
+      "p465",
+      "p466",
+      "p467",
+      "p468",
+      "p469",
+      "p470",
+      "p471",
+      "p472",
+      "p473",
+      "p474",
+      "p475",
+      "p476",
+      "p477",
+      "p478",
+      "p479",
+      "p480",
+      "p481",
+      "p482",
+      "p483",
+      "p484"
     ],
     "unresolved_blockers": [],
     "findings": [
       {
-        "id": "p445",
-        "review": "Aufforderung, konkrete Eigentumsandrohung, allgemeiner §434 und Nachmeldung nach §438 gegen Wortlaut geprüft.",
+        "id": "p465",
+        "review": "Alle sechs Absätze und BinSchG§110 geprüft: Erwerber, Veräußerung außerhalb Zwangsversteigerung, Registereintragung, bekannte Forderungen, Dreimonatsminimum und nur unbekannte Pfandrechte korrekt.",
         "corrected": false
       },
       {
-        "id": "p446",
-        "review": "Beide Absätze mit SchRG§6 geprüft; Zehnjahresfrist statt Übertragung der Grundstücksfrist, Zusatzbedingungen eingetragener Eigentümer, Erwerb erst durch Registereintragung und Drittenschutz ergänzt.",
+        "id": "p466",
+        "review": "Dreistufige Anknüpfung des Absatzes1, ausschließliche Belegenheit bei Grundbuchrechten und ergänzende Publizität nach Absatz3 getrennt geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p467",
+        "review": "Absatz1/2 am Wortlaut und BGH XI ZB1/16 Tenor/Rn1–18 geprüft; Inhaberschaft gegenüber Eigentum und Bedingungen mittelbaren Besitzes präzisiert.",
         "corrected": true
       },
       {
-        "id": "p447",
-        "review": "Beide Ausschlusswege §§1170/1171 BGB und örtliche Belegenheit, Abgrenzung Briefverlust/Unbekanntheit geprüft.",
+        "id": "p468",
+        "review": "Alle drei Nummern geprüft: Abschrift oder vollständige Erkennbarkeit, Verlust/Berechtigung glaubhaft machen, bloßes Angebot der Versicherung an Eides statt.",
         "corrected": false
       },
       {
-        "id": "p448",
-        "review": "Alle Sätze des Absatzes2: §1170-Beschränkung, Vormerkung/Anspruch, Gesamtrechtsalternative und vollstreckbarer Titel getrennt geprüft.",
+        "id": "p469",
+        "review": "Anmeldung und Vorlage bis Anmeldezeitpunkt, konkrete Androhung Kraftlosigkeit und Berücksichtigung vor Beschluss nach §477 geprüft.",
         "corrected": false
       },
       {
-        "id": "p449",
-        "review": "Vorgeschaltete Glaubhaftmachung und zumutbare Nachforschung gegen BGH V ZB147/13 Rn1–14 voll gelesen; kein Erbnachweiszwang und keine generelle Nachlasspflegschaft behauptet.",
+        "id": "p470",
+        "review": "Pflichtblätter aus Urkunde/Genehmigung oder Landesrecht und fakultatives elektronisches Zusatzmedium unterschieden; §§478/483 geprüft.",
         "corrected": false
       },
       {
-        "id": "p450",
-        "review": "Alle fünf Absätze und §801/§1170 BGB geprüft; materielle Eigentümerhypothek und Kraftlosigkeit des Briefs ergänzt.",
+        "id": "p471",
+        "review": "Erster Schein einer seit Verlust ausgegebenen Reihe, Sechsmonatsabstand und beide Zeugnisangaben nach Ablauf vollständig geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p472",
+        "review": "Zuletzt ausgegebene Reihe über vier Jahre, seit Verlust fällige Scheine für vier Jahre ohne Nichtzahlungszeiträume, spätere Scheine und Zusatzzeugnis bei Neuausgabe geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p473",
+        "review": "Insoweit-Erleichterung nur für maßgebliche vorgelegte Scheine und gleichwertiges Zeugnis eigener Vorlage geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p474",
+        "review": "Ende weiterer Ausgaben, Fälligkeit letzten Scheins und sechs Monate; Ausnahme bei Voraussetzungen §§471/472 geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p475",
+        "review": "Verfallzeit bei erster Bundesanzeigerveröffentlichung und Subsidiarität gegenüber §§471–474 sowie sechs Monate ab Verfalltag geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p476",
+        "review": "Sollhöchstfrist gegen besondere Schutzfristen geprüft; allgemeines Sechswochenminimum nach §437 mit richtigem Veröffentlichungsbeginn ergänzt.",
         "corrected": true
       },
       {
-        "id": "p451",
-        "review": "Angebot versus tatsächliche Hinterlegung, Kündigungsfrist, Zinserfordernisse und Rücknahmeverzicht geprüft; reale Erlass/Rechtskraft-Abweichung in §1171Abs3 BGB bestätigt.",
+        "id": "p477",
+        "review": "Vor Beschlusserlass angemeldete Rechte unter Vorlage, Benachrichtigung, Frist für Einsicht/Stellungnahme und Zusammenhang §482Abs2 geprüft.",
         "corrected": false
       },
       {
-        "id": "p452",
-        "review": "Beide Absätze mit SchRG§§58,66,67 geprüft; Erlöschen statt Eigentümerhypothek und abweichender Beginn der Dreißigjahresfrist ausdrücklich ergänzt.",
+        "id": "p478",
+        "review": "Alle drei Absätze: Kraftloserklärung, wesentlicher Inhalt/Bundesanzeiger plus §470 und Bekanntmachung nur insoweit aufgehobener Kraftloserklärung geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p479",
+        "review": "Beide Absätze: Legitimation gegenüber Verpflichtetem, keine abschließende materielle Streitentscheidung, Fortwirkung von Leistungen und tatsächliche Kenntnis im Leistungszeitpunkt geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p480",
+        "review": "Vier Absätze mit Antrag, allen Zahlstellen, Verfahrensnachricht, öffentlicher Bekanntmachung, sofortiger Beschwerde, erweiterter Wirkung und Altkuponausnahme geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p481",
+        "review": "Anordnung vor seit Verlust erfolgter Ausgabe als Voraussetzung; nur Zeugnis §471Abs2 entfällt, nicht generell Wartezeit oder andere Nachweise geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p482",
+        "review": "Drei Absätze und sämtliche Aufhebungsgründe geprüft; rechtzeitiger Einleitungsantrag genügt für Sechsmonatstatbestand präzisiert, Einsicht vor Aufhebung und Rechtsmittel korrekt.",
         "corrected": true
       },
       {
-        "id": "p453",
-        "review": "Auswahlverweisung und eigene Berechtigung/Mitteilung, BGB§§887,1104,1112 und SchRG§13 geprüft; Ausnahme subjektiv-dinglicher Rechte korrekt.",
-        "corrected": false
-      },
-      {
-        "id": "p454",
-        "review": "Nachlassgerichtszuständigkeit einschließlich Behördenalternative und Verfahrenszweck mit §1970 BGB abgeglichen.",
-        "corrected": false
-      },
-      {
-        "id": "p455",
-        "review": "Drei Absätze: Erbe ohne unbeschränkte Haftung, Verwaltungsbefugnis der Amtsträger und Erbschaftsannahme geprüft; Ausnahme §460Abs2 korrekt begrenzt.",
-        "corrected": false
-      },
-      {
-        "id": "p456",
-        "review": "Bekannte Gläubiger und Wohnorte, bestrittene Forderung versus Anerkenntnis und Ergänzung fehlender Liste geprüft.",
-        "corrected": false
-      },
-      {
-        "id": "p457",
-        "review": "Soll-Hindernis bei Insolvenzantrag versus Beendigung bei Eröffnung getrennt; Beispiel zeitlich zutreffend.",
-        "corrected": false
-      },
-      {
-        "id": "p458",
-        "review": "Beide Absätze mit BGB§§1971–1973 geprüft; Ausnahme bei Geltendmachung erst nach Berichtigung der Pflichtteile/Vermächtnisse/Auflagen ergänzt.",
+        "id": "p483",
+        "review": "Auswahlverweisungen, §808Abs1/2 BGB und Landesrechtsvorbehalt geprüft; grundsätzliche Aushändigungspflicht zur Erklärung des Aufgebotsbedarfs ergänzt.",
         "corrected": true
       },
       {
-        "id": "p459",
-        "review": "Gegenstand/Grund, Original oder Abschrift sowie Einsicht nur bei glaubhaftem rechtlichem Interesse vollständig geprüft.",
-        "corrected": false
-      },
-      {
-        "id": "p460",
-        "review": "Begünstigung anderer Erben mit Haftungsvorbehalt, zusätzliche Quotenandrohung nach Teilung und begrenzte Ausnahme für unbeschränkt haftende Erben geprüft.",
-        "corrected": false
-      },
-      {
-        "id": "p461",
-        "review": "Beschränkung auf §460Abs1Satz1; keine Quotenübertragung oder automatische voraussetzungslose Nacherbenbefugnis geprüft.",
-        "corrected": false
-      },
-      {
-        "id": "p462",
-        "review": "Erbender oder verwaltungsbefugter Ehegatte, keine Zustimmung, Fortbestand nach Ende und Lebenspartnerschaften geprüft.",
-        "corrected": false
-      },
-      {
-        "id": "p463",
-        "review": "Käufer und Erbe mit Haftungsvorbehalt, Veräußerungsketten und sonstige Verpflichtung zur Erbschaftsveräußerung gegen beide Absätze geprüft.",
-        "corrected": false
-      },
-      {
-        "id": "p464",
-        "review": "Ausgewählte Verweisung ohne §§460/461, Vermögensmasse und nur neu begründete persönliche Haftung mit §1489Abs2/3 BGB abgeglichen.",
+        "id": "p484",
+        "review": "Abschließender Anwendungsbereich Absatz1, spezielle Erweiterung nur für §1162 BGB nach Absatz2, Abweichungsgegenstände und keine automatische Landesrechtsabweichung geprüft.",
         "corrected": false
       }
     ],
     "limitations": [
-      "Exactly p445–p464 reviewed; no whole-book completion or independent external professional approval.",
-      "Existing selective primary case re-read in full; no exhaustive new case-law survey.",
-      "Commencement analysis uses retained official enactment evidence plus fresh identical statutory XML; not a reconstruction of every amendment since 2008."
+      "Exactly p465–p484 reviewed; no whole-book completion or external professional approval.",
+      "Existing selective primary decision re-read in full with retained local corpus; no exhaustive case-law survey or specific state-law opinion.",
+      "Commencement evidence retained and checked against fresh identical official XML; no reconstruction of every amendment since 2008."
     ],
-    "reviewed_at": "2026-10-20T22:46:53.463396+00:00",
-    "source_evidence": "sources/review-p445-p464-version-map.json",
+    "reviewed_at": "2026-10-20T22:55:29.253791+00:00",
+    "source_evidence": "sources/review-p465-p484-version-map.json",
     "technical_checks": {
       "assigned_comments": 20,
       "parser_replay_byte_identical": true,
       "statutory_agreement": 1.0,
       "broken_local_links": [],
       "repeated_paragraphs": [],
-      "previous_24_output_chapters_unchanged": true,
+      "previous_25_output_chapters_unchanged": true,
       "unassigned_work_commentary_unchanged": true
     },
     "strict_validation": {
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 1078461,
+      "commentary_chars": 1111650,
       "errors": [
-        "krátký/chybějící komentář u 29 jednotek: ['p465(0<400)', 'p466(0<400)', 'p467(0<400)', 'p468(0<400)', 'p469(0<400)', 'p470(0<400)', 'p471(0<400)', 'p472(0<400)']"
+        "krátký/chybějící komentář u 9 jednotek: ['p485(0<120)', 'p486(0<400)', 'p487(0<400)', 'p488(0<400)', 'p489(0<400)', 'p490(0<400)', 'p491(0<400)', 'p492(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "validation_scope": "Whole book fails only on 29 unassigned missing comments; exactly twenty assigned units reviewed."
+    "validation_scope": "Whole book fails only on 9 unassigned missing comments; exactly twenty assigned units reviewed."
   },
   "bounded_review_history": [
     {
@@ -1037,9 +1037,9 @@
     "repo": "Komentar-DE-FAMFG-2008",
     "units": 529,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1078461,
+    "commentary_chars": 1111650,
     "errors": [
-      "krátký/chybějící komentář u 29 jednotek: ['p465(0<400)', 'p466(0<400)', 'p467(0<400)', 'p468(0<400)', 'p469(0<400)', 'p470(0<400)', 'p471(0<400)', 'p472(0<400)']"
+      "krátký/chybějící komentář u 9 jednotek: ['p485(0<120)', 'p486(0<400)', 'p487(0<400)', 'p488(0<400)', 'p489(0<400)', 'p490(0<400)', 'p491(0<400)', 'p492(0<400)']"
     ],
     "warnings": [],
     "ok": false

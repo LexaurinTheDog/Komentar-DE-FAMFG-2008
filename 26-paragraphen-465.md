@@ -1,4 +1,6 @@
-# Kommentarkapitel 26 — § 465–§ 484: Buch 8 — Verfahren in Aufgebotssachen
+# Kommentarkapitel 26 — § 465–§ 484
+
+Teil der unvollständigen Arbeitsausgabe; zum Gesamtstand siehe [README](README.md).
 
 #### Buch 8 — Verfahren in Aufgebotssachen
 
@@ -58,7 +60,7 @@ Absatz 3 sichert zusätzliche Publizität, wenn ein anderes Gericht das Aufgebot
 >
 > (2) Bei anderen Urkunden ist derjenige zur Stellung des Antrags berechtigt, der das Recht aus der Urkunde geltend machen kann.
 
-§ 467 unterscheidet zwei Arten der Antragsberechtigung. Bei Inhaberpapieren und durch Indossament übertragbaren, tatsächlich mit Blankoindossament versehenen Papieren knüpft Absatz 1 an die bisherige Inhaberschaft des verlorenen oder vernichteten Papiers an. Eine bloße wirtschaftliche Beteiligung oder die Erwartung, das Papier später zu erhalten, ersetzt die erforderliche Stellung nicht. Ob ein Papier nur indossierbar ist oder auch ein Blankoindossament trägt, darf bei dieser Zuordnung nicht übergangen werden.
+§ 467 unterscheidet zwei Arten der Antragsberechtigung. Bei Inhaberpapieren und durch Indossament übertragbaren, tatsächlich mit Blankoindossament versehenen Papieren knüpft Absatz 1 an die bisherige Inhaberschaft des verlorenen oder vernichteten Papiers an. Eine bloße wirtschaftliche Beteiligung oder die Erwartung, das Papier später zu erhalten, ersetzt die erforderliche Stellung nicht. Die bisherige Inhaberschaft ist aber auch nicht mit dem Eigentum am Papier gleichzusetzen. Nach BGH XI ZB 1/16, Rn. 13, kommt es auf die zur Vorlage befähigende tatsächliche Gewalt an; mittelbarer Besitz ist nicht allgemein ausgeschlossen, verlangt im dort erörterten Fall jedoch eine Verwahrung, die eine Rechtsausübung durch Dritte ausschließt. Ob ein Papier nur indossierbar ist oder auch ein Blankoindossament trägt, darf bei dieser Zuordnung nicht übergangen werden.
 
 Absatz 2 stellt bei den übrigen Urkunden darauf ab, wer das verbriefte Recht geltend machen kann. Die materielle Berechtigung ist dort Bestandteil der Antragsprüfung. Der Gegensatz der Absätze verbietet es, aus dem Besitz irgendeiner Urkunde unterschiedslos eine Aufgebotsbefugnis abzuleiten. Ebenso darf aus der Zulassung zum Aufgebot keine abschließende Entscheidung über sämtliche konkurrierenden Rechte an dem Papier hergeleitet werden.
 
@@ -192,7 +194,7 @@ Die Sollgrenze des § 476 darf die besondere Mindestabsicherung nicht verkürzen
 
 § 476 setzt mit höchstens einem Jahr eine Sollobergrenze der Aufgebotsfrist. Das fördert einen zügigen Abschluss und schützt den Antragsteller vor einer ohne sachlichen Grund fortdauernden Unsicherheit. „Soll“ ist jedoch keine ausnahmslose Höchstgrenze, die jede speziell vorgeschriebene Schutzfrist abschneidet. Insbesondere die von Ausgaben und Fälligkeiten abhängigen §§ 471 bis 475 können im Einzelfall einen längeren Zeitraum erfordern.
 
-Die Vorschrift bestimmt keine eigenständige Mindestfrist. Dafür sind die allgemeinen und besonderen Aufgebotsregeln heranzuziehen. Auch gewährt der Ablauf eines Jahres für sich genommen noch keinen Anspruch auf einen Ausschließungsbeschluss: Identifikation, Antragsberechtigung, Bekanntmachungen und erforderliche Zeugnisse müssen weiterhin geprüft sein. Im Bereich des § 484 Absatz 2 bleibt die zugelassene abweichende Landesgesetzgebung zu beachten.
+Die Vorschrift bestimmt keine eigenständige Mindestfrist. § 437 verlangt grundsätzlich mindestens sechs Wochen zwischen der ersten Veröffentlichung in einem Informations- und Kommunikationssystem oder im Bundesanzeiger und dem Anmeldezeitpunkt, sofern das Gesetz nichts Abweichendes anordnet. Diese Untergrenze und die besondere Sollobergrenze sind getrennt zu berechnen. Auch gewährt der Ablauf eines Jahres für sich genommen noch keinen Anspruch auf einen Ausschließungsbeschluss: Identifikation, Antragsberechtigung, Bekanntmachungen und erforderliche Zeugnisse müssen weiterhin geprüft sein. Im Bereich des § 484 Absatz 2 bleibt die zugelassene abweichende Landesgesetzgebung zu beachten.
 
 **Fiktiver Fall.** Alle Unterlagen für ein einfaches Urkundenaufgebot liegen vor, besondere Fälligkeitshindernisse bestehen nicht. Eine ohne Begründung auf zwei Jahre festgesetzte Frist widerspricht der gesetzlichen Leitentscheidung. Anders ist zu prüfen, wenn erst § 475 einen späteren Anmeldezeitpunkt erlaubt.
 
@@ -286,7 +288,7 @@ Die Befreiung betrifft ausdrücklich das Zeugnis des § 471 Absatz 2. Sie hebt w
 >
 > (3) Der Beschluss, durch den die Zahlungssperre aufgehoben wird, ist mit der sofortigen Beschwerde in entsprechender Anwendung der §§ 567 bis 572 der Zivilprozessordnung anfechtbar.
 
-§ 482 verhindert eine gegenstandslos gewordene Zahlungssperre. Absatz 1 verlangt ihre Aufhebung von Amts wegen, wenn das verlorene Papier dem Gericht vorgelegt oder das Verfahren ohne Ausschließungsbeschluss erledigt wird. Eine vor Verfahrenseinleitung angeordnete Sperre darf außerdem nicht unbegrenzt fortbestehen: Nach Beseitigung des Einleitungshindernisses muss binnen sechs Monaten die Einleitung beantragt werden. Die Frist beginnt somit nicht zwangsläufig bereits mit der Sperranordnung.
+§ 482 verhindert eine gegenstandslos gewordene Zahlungssperre. Absatz 1 verlangt ihre Aufhebung von Amts wegen, wenn das verlorene Papier dem Gericht vorgelegt oder das Verfahren ohne Ausschließungsbeschluss erledigt wird. Eine vor Verfahrenseinleitung angeordnete Sperre darf außerdem nicht unbegrenzt fortbestehen: Nach Beseitigung des Einleitungshindernisses muss binnen sechs Monaten die Einleitung beantragt werden. Die Frist beginnt somit nicht zwangsläufig bereits mit der Sperranordnung. Rechtzeitig beantragt sein muss die Einleitung; dass das Gericht sie innerhalb derselben sechs Monate tatsächlich vollzieht, verlangt dieser Tatbestand nicht.
 
 War das Aufgebot oder die Sperre öffentlich bekannt gemacht, ist auch die Verfahrenserledigung oder Sperraufhebung von Amts wegen im Bundesanzeiger bekannt zu machen. Dies beseitigt die durch die frühere Veröffentlichung erzeugte Informationslage. Eine bloß interne Aktenverfügung genügt für diesen Publizitätszweck nicht.
 
@@ -300,7 +302,7 @@ Absatz 2 stellt für den Fall der Urkundenvorlage eine zwingende Reihenfolge auf
 
 > Bezweckt das Aufgebotsverfahren die Kraftloserklärung einer Urkunde der in § 808 des Bürgerlichen Gesetzbuchs bezeichneten Art, gelten § 466 Abs. 3, die §§ 470 und 478 Abs. 2 Satz 2 sowie die §§ 480 bis 482 entsprechend. Die Landesgesetze können über die Veröffentlichung des Aufgebots und der in § 478 Abs. 2, 3 und in den §§ 480, 482 vorgeschriebenen Bekanntmachungen sowie über die Aufgebotsfrist abweichende Vorschriften erlassen.
 
-§ 483 erstreckt ausgewählte Schutz- und Publizitätsregeln auf Urkunden nach § 808 BGB. Bei diesen wird der Gläubiger benannt, der Schuldner kann aber nach Maßgabe der Urkunde durch Leistung an den Inhaber frei werden; der Inhaber erhält nicht allein aufgrund des Besitzes einen Anspruch auf die Leistung. Diese Besonderheit erklärt die Bezeichnung als hinkendes Inhaberpapier. § 808 Absatz 2 BGB sieht bei Verlust oder Vernichtung grundsätzlich die Kraftloserklärung vor, soweit nichts anderes bestimmt ist.
+§ 483 erstreckt ausgewählte Schutz- und Publizitätsregeln auf Urkunden nach § 808 BGB. Bei diesen wird der Gläubiger benannt, der Schuldner kann aber nach Maßgabe der Urkunde durch Leistung an den Inhaber frei werden; der Inhaber erhält nicht allein aufgrund des Besitzes einen Anspruch auf die Leistung. Diese Besonderheit erklärt die Bezeichnung als hinkendes Inhaberpapier. § 808 Absatz 2 BGB sieht bei Verlust oder Vernichtung grundsätzlich die Kraftloserklärung vor, soweit nichts anderes bestimmt ist. Zugleich ist der Schuldner grundsätzlich nur gegen Aushändigung der Urkunde zur Leistung verpflichtet. Die Benennung des Gläubigers beseitigt deshalb das praktische Hindernis des Papierverlusts nicht schon von selbst.
 
 Entsprechend gelten die zusätzliche Bekanntmachung beim zuständigen Gericht nach § 466 Absatz 3, § 470 und dessen Heranziehung bei der Beschlussbekanntmachung sowie die Zahlungssperrenregeln der §§ 480 bis 482. Die ausdrückliche Auswahl ist zu beachten: Aus ihr folgt keine unterschiedslose Übertragung sämtlicher nur auf Inhaberpapiere zugeschnittener Aussagen. Die konkrete Urkundengestaltung bleibt für die Einordnung maßgeblich.
 

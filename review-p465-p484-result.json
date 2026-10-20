@@ -1,0 +1,157 @@
+{
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p465",
+    "p466",
+    "p467",
+    "p468",
+    "p469",
+    "p470",
+    "p471",
+    "p472",
+    "p473",
+    "p474",
+    "p475",
+    "p476",
+    "p477",
+    "p478",
+    "p479",
+    "p480",
+    "p481",
+    "p482",
+    "p483",
+    "p484"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p465",
+      "review": "Alle sechs Absätze und BinSchG§110 geprüft: Erwerber, Veräußerung außerhalb Zwangsversteigerung, Registereintragung, bekannte Forderungen, Dreimonatsminimum und nur unbekannte Pfandrechte korrekt.",
+      "corrected": false
+    },
+    {
+      "id": "p466",
+      "review": "Dreistufige Anknüpfung des Absatzes1, ausschließliche Belegenheit bei Grundbuchrechten und ergänzende Publizität nach Absatz3 getrennt geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p467",
+      "review": "Absatz1/2 am Wortlaut und BGH XI ZB1/16 Tenor/Rn1–18 geprüft; Inhaberschaft gegenüber Eigentum und Bedingungen mittelbaren Besitzes präzisiert.",
+      "corrected": true
+    },
+    {
+      "id": "p468",
+      "review": "Alle drei Nummern geprüft: Abschrift oder vollständige Erkennbarkeit, Verlust/Berechtigung glaubhaft machen, bloßes Angebot der Versicherung an Eides statt.",
+      "corrected": false
+    },
+    {
+      "id": "p469",
+      "review": "Anmeldung und Vorlage bis Anmeldezeitpunkt, konkrete Androhung Kraftlosigkeit und Berücksichtigung vor Beschluss nach §477 geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p470",
+      "review": "Pflichtblätter aus Urkunde/Genehmigung oder Landesrecht und fakultatives elektronisches Zusatzmedium unterschieden; §§478/483 geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p471",
+      "review": "Erster Schein einer seit Verlust ausgegebenen Reihe, Sechsmonatsabstand und beide Zeugnisangaben nach Ablauf vollständig geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p472",
+      "review": "Zuletzt ausgegebene Reihe über vier Jahre, seit Verlust fällige Scheine für vier Jahre ohne Nichtzahlungszeiträume, spätere Scheine und Zusatzzeugnis bei Neuausgabe geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p473",
+      "review": "Insoweit-Erleichterung nur für maßgebliche vorgelegte Scheine und gleichwertiges Zeugnis eigener Vorlage geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p474",
+      "review": "Ende weiterer Ausgaben, Fälligkeit letzten Scheins und sechs Monate; Ausnahme bei Voraussetzungen §§471/472 geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p475",
+      "review": "Verfallzeit bei erster Bundesanzeigerveröffentlichung und Subsidiarität gegenüber §§471–474 sowie sechs Monate ab Verfalltag geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p476",
+      "review": "Sollhöchstfrist gegen besondere Schutzfristen geprüft; allgemeines Sechswochenminimum nach §437 mit richtigem Veröffentlichungsbeginn ergänzt.",
+      "corrected": true
+    },
+    {
+      "id": "p477",
+      "review": "Vor Beschlusserlass angemeldete Rechte unter Vorlage, Benachrichtigung, Frist für Einsicht/Stellungnahme und Zusammenhang §482Abs2 geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p478",
+      "review": "Alle drei Absätze: Kraftloserklärung, wesentlicher Inhalt/Bundesanzeiger plus §470 und Bekanntmachung nur insoweit aufgehobener Kraftloserklärung geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p479",
+      "review": "Beide Absätze: Legitimation gegenüber Verpflichtetem, keine abschließende materielle Streitentscheidung, Fortwirkung von Leistungen und tatsächliche Kenntnis im Leistungszeitpunkt geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p480",
+      "review": "Vier Absätze mit Antrag, allen Zahlstellen, Verfahrensnachricht, öffentlicher Bekanntmachung, sofortiger Beschwerde, erweiterter Wirkung und Altkuponausnahme geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p481",
+      "review": "Anordnung vor seit Verlust erfolgter Ausgabe als Voraussetzung; nur Zeugnis §471Abs2 entfällt, nicht generell Wartezeit oder andere Nachweise geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p482",
+      "review": "Drei Absätze und sämtliche Aufhebungsgründe geprüft; rechtzeitiger Einleitungsantrag genügt für Sechsmonatstatbestand präzisiert, Einsicht vor Aufhebung und Rechtsmittel korrekt.",
+      "corrected": true
+    },
+    {
+      "id": "p483",
+      "review": "Auswahlverweisungen, §808Abs1/2 BGB und Landesrechtsvorbehalt geprüft; grundsätzliche Aushändigungspflicht zur Erklärung des Aufgebotsbedarfs ergänzt.",
+      "corrected": true
+    },
+    {
+      "id": "p484",
+      "review": "Abschließender Anwendungsbereich Absatz1, spezielle Erweiterung nur für §1162 BGB nach Absatz2, Abweichungsgegenstände und keine automatische Landesrechtsabweichung geprüft.",
+      "corrected": false
+    }
+  ],
+  "limitations": [
+    "Exactly p465–p484 reviewed; no whole-book completion or external professional approval.",
+    "Existing selective primary decision re-read in full with retained local corpus; no exhaustive case-law survey or specific state-law opinion.",
+    "Commencement evidence retained and checked against fresh identical official XML; no reconstruction of every amendment since 2008."
+  ],
+  "reviewed_at": "2026-10-20T22:55:29.253791+00:00",
+  "source_evidence": "sources/review-p465-p484-version-map.json",
+  "technical_checks": {
+    "assigned_comments": 20,
+    "parser_replay_byte_identical": true,
+    "statutory_agreement": 1.0,
+    "broken_local_links": [],
+    "repeated_paragraphs": [],
+    "previous_25_output_chapters_unchanged": true,
+    "unassigned_work_commentary_unchanged": true
+  },
+  "strict_validation": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1111650,
+    "errors": [
+      "krátký/chybějící komentář u 9 jednotek: ['p485(0<120)', 'p486(0<400)', 'p487(0<400)', 'p488(0<400)', 'p489(0<400)', 'p490(0<400)', 'p491(0<400)', 'p492(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "validation_scope": "Whole book fails only on 9 unassigned missing comments; exactly twenty assigned units reviewed."
+}

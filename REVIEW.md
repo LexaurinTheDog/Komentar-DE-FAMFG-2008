@@ -577,3 +577,8 @@ Autorenkontrolle §§ 445–464: Alle zwanzig neuen Einheiten gegen den gesetzli
 ## Begrenzte Zweitprüfung §§ 445–464
 
 Alle zwanzig Einheiten p445–p464 am amtlichen Text geprüft. Präzisiert wurden § 446 (schiffsrechtliche Zehnjahresfrist, Registererwerb und Drittenschutz), § 450 (Eigentümerhypothek), § 452 (Erlöschen der Schiffshypothek und Hinterlegungsfrist) sowie § 458 (Grenze des Vorrangs bei bereits berichtigten Verbindlichkeiten). BGH V ZB 147/13 vollständig mit historischem Verfahrenskontext gelesen. [Einzelbefunde](review-p445-p464-result.json), [Quellen](sources/review-p445-p464-fetch.json), [Fassungsprüfung](sources/review-p445-p464-version-map.json). Diese begrenzte Zweitprüfung ist abgeschlossen; der Gesamtentwurf bleibt unvollständig. Keine externe anwaltliche Freigabe.
+
+
+## Begrenzte Zweitprüfung §§ 465–484
+
+Alle zwanzig Einheiten p465–p484 einzeln am amtlichen Text geprüft. Ergänzt wurden § 467 (Inhaberschaft, Eigentum und mittelbarer Besitz), § 476 (Sechswochenminimum nach § 437), § 482 (rechtzeitiger Einleitungsantrag) und § 483 (Aushändigungspflicht nach § 808 BGB). BGH XI ZB 1/16 mit Tenor und allen Gründen vollständig nachgelesen; Parteivortrag und Gerichtsgründe getrennt. [Einzelbefunde](review-p465-p484-result.json), [Quellenabrufe](sources/review-p465-p484-fetch.json), [Fassungsprüfung](sources/review-p465-p484-version-map.json). Diese begrenzte Zweitprüfung ist abgeschlossen. Der Gesamtentwurf bleibt unvollständig; keine externe anwaltliche Freigabe.

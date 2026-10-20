@@ -1,0 +1,17 @@
+{
+  "exit_code": 1,
+  "result": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1111650,
+    "errors": [
+      "krátký/chybějící komentář u 9 jednotek: ['p485(0<120)', 'p486(0<400)', 'p487(0<400)', 'p488(0<400)', 'p489(0<400)', 'p490(0<400)', 'p491(0<400)', 'p492(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "bounded_review_complete": true,
+  "whole_book_complete": false,
+  "remaining_unassigned_comments": 9
+}
