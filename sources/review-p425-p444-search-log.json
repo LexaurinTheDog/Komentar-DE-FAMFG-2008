@@ -1,0 +1,33 @@
+{
+  "scope": [
+    "p425",
+    "p426",
+    "p427",
+    "p428",
+    "p429",
+    "p430",
+    "p431",
+    "p432",
+    "p433",
+    "p434",
+    "p435",
+    "p436",
+    "p437",
+    "p438",
+    "p439",
+    "p440",
+    "p441",
+    "p442",
+    "p443",
+    "p444"
+  ],
+  "method": "Re-read existing selective primary authority rather than claim exhaustive new discovery",
+  "official_full_text": "sources/review-p425-p444-case.xml",
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore301732016.md",
+  "read": "Tenor, Rn.1–30, Berichtigungsbeschluss 2017-01-10",
+  "supported_units": [
+    "p438",
+    "p439"
+  ],
+  "other_units": "No additional sufficiently relevant verified case added in this bounded review."
+}

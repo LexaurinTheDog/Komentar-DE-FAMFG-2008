@@ -562,3 +562,10 @@ Die Charge ist geprüft; der Gesamtentwurf bleibt bei 460/529 kommentierten Einh
 
 
 Autorenkontrolle §§ 425–444: alle zwanzig neuen Einheiten anhand des amtlichen Wortlauts gelesen; Fristablauf/Verlängerung, Aufhebung/Aussetzung, die unterschiedlichen Eilgründe, Behördenhaft und gerichtliche Prüfung sowie Bekanntmachung/Zustellung/Erlass/Rechtskraft getrennt erläutert. Redaktionelle Verweisungsfehler in §§ 431 und 439 offengelegt. BGH IV ZB 37/15 vollständig einschließlich Berichtigung gelesen und seine Wiedereinsetzungsaussage auf den entschiedenen Kontext begrenzt. Eigenkontrolle, keine unabhängige Zweitprüfung. 49 unkommentierte Einheiten außerhalb der Charge verbleiben. [Chargenergebnis](author-p425-p444-result.json).
+
+
+## Begrenzte Zweitprüfung §§ 425–444
+
+Alle zwanzig Einheiten p425–p444 einzeln gegen amtlichen Wortlaut und Verweisungsnormen gelesen. Präzisiert: § 427 Absatz 3 (abweichende Eilvoraussetzungen), § 439 Absatz 4 (richtige Absatzverweisung, Beginn der absoluten Fünfjahresgrenze und weiterhin kurze Antragsfrist), § 444 (sofort verfügbare Beweismittel nach § 31 Absatz 2). BGH IV ZB 37/15 einschließlich Rn. 1–30 und Berichtigung vollständig erneut gelesen; Aussagegrenzen gewahrt. [Einzelbefunde](review-p425-p444-result.json), [Quellenabruf](sources/review-p425-p444-fetch.json), [Fassungsprüfung](sources/review-p425-p444-version-map.json).
+
+Diese begrenzte Zweitprüfung ist abgeschlossen. Gesamtentwurf weiterhin 480/529 kommentierte Einheiten; 49 andere Einheiten fehlen. Keine externe anwaltliche Freigabe und keine vollständige Rechtsprechungsrecherche.

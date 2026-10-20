@@ -5161,5 +5161,47 @@
       "xml_sha256": "383d1729180339e4341a75449781484cf0e6df1410e3655923c1134cf51d1946",
       "format_validation": "ZIP opened; XML parsed; dokument"
     }
+  ],
+  "review_p425_p444": [
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T22:38:14.062861+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p425-p444-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "xml_path": "sources/review-p425-p444-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP CRC checked; expected XML root parsed"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T22:38:14.375352+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p425-p444-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "format_validation": "Expected official statutory HTML content present"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301732016.zip",
+      "accessed_at": "2026-10-20T22:38:14.538137+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p425-p444-case.zip",
+      "sha256": "9f10c17c5ff5a93cd7f9b9293576bf656cd5f61d136aa3cf66f2594f4c72c938",
+      "xml_path": "sources/review-p425-p444-case.xml",
+      "xml_sha256": "dbf9452fe126b701d287278cebc863c9315d211d868429f59666ec7fcd271bb4",
+      "format_validation": "ZIP CRC checked; expected XML root parsed"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__927.html",
+      "accessed_at": "2026-10-20T22:38:14.671445+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p425-p444-bgb927.html",
+      "sha256": "124c7881a62d4b9f1354f7467169f9ccca4da536383ceb218c70cb701ba44c04",
+      "format_validation": "Expected official statutory HTML content present"
+    }
   ]
 }

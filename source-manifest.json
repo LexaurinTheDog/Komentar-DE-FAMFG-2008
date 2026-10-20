@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:36:12.552882+00:00",
+  "generated_at": "2026-10-20T22:38:15.171714+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -3595,6 +3595,51 @@
       "bytes": 245324
     },
     {
+      "path": "sources/review-p425-p444-bgb927.html",
+      "sha256": "124c7881a62d4b9f1354f7467169f9ccca4da536383ceb218c70cb701ba44c04",
+      "bytes": 4421
+    },
+    {
+      "path": "sources/review-p425-p444-case.xml",
+      "sha256": "dbf9452fe126b701d287278cebc863c9315d211d868429f59666ec7fcd271bb4",
+      "bytes": 37423
+    },
+    {
+      "path": "sources/review-p425-p444-case.zip",
+      "sha256": "9f10c17c5ff5a93cd7f9b9293576bf656cd5f61d136aa3cf66f2594f4c72c938",
+      "bytes": 8594
+    },
+    {
+      "path": "sources/review-p425-p444-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/review-p425-p444-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/review-p425-p444-fetch.json",
+      "sha256": "50bb6a89b0eed6b00dd8085912511fd42aadb9f3e0e91433ffeb2b0c8bcb69a0",
+      "bytes": 1877
+    },
+    {
+      "path": "sources/review-p425-p444-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/review-p425-p444-search-log.json",
+      "sha256": "c90a1b4b6c652b9138a27ea43f73ab56e25f171b2d4fb5cae9c05b2360a2f827",
+      "bytes": 718
+    },
+    {
+      "path": "sources/review-p425-p444-version-map.json",
+      "sha256": "753596c02d9c201f758731074ec7411badbf09690c45a8282c922394e41e29a2",
+      "bytes": 7110
+    },
+    {
       "path": "sources/review-p47-674-14-gruende.txt",
       "sha256": "f2176cb1bfaf844119e6fb4d749d34984e078177e383c75fc6050277fe7af8a1",
       "bytes": 22246
@@ -3936,8 +3981,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "dec51b82ee236462f45463c9e7e7ff3c5a9cbe42a8227e9f393f5ec6b8e0bfea",
-      "bytes": 277051
+      "sha256": "c05eb2d1c5294ada1b7b23daaaca22e8932aaac136e27d940a7220b9bc7a79f7",
+      "bytes": 279033
     }
   ]
 }

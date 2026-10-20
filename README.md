@@ -128,3 +128,5 @@ Begrenzte Zweitprüfung §§ 405–424 abgeschlossen: zwanzig Einheiten geprüft
 
 
 Autorencheckpoint §§ 425–444: zwanzig neue Kommentare und fiktive Fälle, zwei thematische Prüflisten; Gesamtstand 480/529. Der Abschnitt schließt Freiheitsentziehungssachen ab und erläutert die allgemeinen Aufgebotsregeln sowie den Beginn des Eigentümeraufgebots. Amtlicher BGH-Volltext IV ZB 37/15 samt Berichtigung vollständig gelesen. [Chargenergebnis](author-p425-p444-result.json), [Fallkarte](cases/BGH-IV-ZB-37-15.md), [Fassungsnachweis](sources/author-p425-p444-version-map.json). Unabhängige Zweitprüfung dieser Charge steht aus; ältere Fortschrittszahlen sind historische Teilstände.
+
+Begrenzte Zweitprüfung §§ 425–444 abgeschlossen: zwanzig Einheiten geprüft, drei Kommentarstellen präzisiert. Der frühere Hinweis auf die ausstehende Zweitprüfung dieser Charge ist damit überholt. [Einzelbefunde](review-p425-p444-result.json), [Prüfbericht](REVIEW.md). Gesamtentwurf weiterhin unvollständig (480/529).

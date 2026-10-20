@@ -102,158 +102,158 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p405",
-      "p406",
-      "p407",
-      "p408",
-      "p409",
-      "p410",
-      "p411",
-      "p412",
-      "p413",
-      "p414",
-      "p415",
-      "p416",
-      "p417",
-      "p418",
-      "p419",
-      "p420",
-      "p421",
-      "p422",
-      "p423",
-      "p424"
+      "p425",
+      "p426",
+      "p427",
+      "p428",
+      "p429",
+      "p430",
+      "p431",
+      "p432",
+      "p433",
+      "p434",
+      "p435",
+      "p436",
+      "p437",
+      "p438",
+      "p439",
+      "p440",
+      "p441",
+      "p442",
+      "p443",
+      "p444"
     ],
     "unresolved_blockers": [],
     "findings": [
       {
-        "id": "p405",
-        "review": "Alle fünf Absätze geprüft: Beteiligtenantrag, Benennung, Eingangskontrolle, beide Belehrungen, Zweiwochenfrist und §404 Abs.1.",
+        "id": "p425",
+        "review": "Alle drei Absätze: konkrete Befristung, kürzere Spezialhöchstdauer, rechtzeitiger Verlängerungsbeschluss, Freilassung/Mitteilung und erneute Erstprüfung abgeglichen.",
         "corrected": false
       },
       {
-        "id": "p406",
-        "review": "Unwidersprochene Bestätigung, Anerkenntnis/Einigung, unberührter Teil und Nichtanerkennungsfiktion des Abwesenden unterschieden.",
+        "id": "p426",
+        "review": "Amtsaufhebung bei Wegfall, vorherige Behördenanhörung, Beteiligtenantrag/Beschluss und Unterschied zur ursprünglichen Rechtmäßigkeitskontrolle geprüft.",
         "corrected": false
       },
       {
-        "id": "p407",
-        "review": "Kläger/Beklagte, Monatsfrist zum Nachweis und Verlängerung, weitere materielle Klage und Berichtigung geprüft. Zuständigkeitskonzentration aus §879 Abs.2 ZPO ergänzt.",
+        "id": "p427",
+        "review": "Beide Eilkonstellationen, Sechswochenobergrenze und unverzügliche Nachholung geprüft; abweichende Tatbestände des Absatzes 3 gegenüber Absätzen 1/2 ausdrücklich präzisiert.",
         "corrected": true
       },
       {
-        "id": "p408",
-        "review": "Drei Beschwerdegegenstände und Ausschluss materieller Widerspruchsgründe geprüft; Verfahrensrüge davon getrennt.",
+        "id": "p428",
+        "review": "Keine eigene Eingriffsbefugnis, unverzügliche Richterbefassung versus äußerste Folgetagesgrenze und gerichtliche Kontrolle der Verwaltungsmaßnahme geprüft.",
         "corrected": false
       },
       {
-        "id": "p409",
-        "review": "Relative Wirkung, Rechtskraft, Vollstreckung und alle drei nachfolgenden Klagearten mit sachlicher Zuständigkeit geprüft.",
+        "id": "p429",
+        "review": "Behörde, Angehörigenkategorien einschließlich Zusammenleben/nicht dauernd getrennt, Beteiligung erster Instanz, Vertrauensperson/Pfleger und Einlegungsort abgeglichen.",
         "corrected": false
       },
       {
-        "id": "p410",
-        "review": "Alle vier Fallgruppen einschließlich BGB-Verweisungskatalog, Vollstreckungsgerichtsausnahme und begrenzter Pfandverkaufsgegenstand geprüft.",
+        "id": "p430",
+        "review": "Ablehnung/Rücknahme plus fehlender begründeter Anlass kumulativ, notwendige Auslagen und richtige Körperschaft geprüft.",
         "corrected": false
       },
       {
-        "id": "p411",
-        "review": "Vier Anknüpfungen, zusätzliche Abgabemöglichkeit und nur bei Sachverständigen ausdrückliche Gerichtsvereinbarung geprüft.",
+        "id": "p431",
+        "review": "Entsprechende §§308/311, Erforderlichkeit/Interessenabwägung und Dokumentation, Mitteilung an Einrichtungsleitung sowie redaktionelle §426-Verweisung geprüft.",
         "corrected": false
       },
       {
-        "id": "p412",
-        "review": "Alle vier Gruppen, vorhandener Gegner, differenzierte Verwahrerbestellung und Vergütungsbeteiligung geprüft.",
+        "id": "p432",
+        "review": "Gerichtliche Pflicht bei Anordnung und Verlängerung, alternative Empfänger, Unverzüglichkeit und fehlender Automatismus zur Beteiligtenstellung geprüft.",
         "corrected": false
       },
       {
-        "id": "p413",
-        "review": "Beidseitiger Antrag, persönliches Erscheinen und §§478–480/483 ZPO am frischen amtlichen Text geprüft; entsprechende Anwendung gewahrt.",
+        "id": "p433",
+        "review": "Gesetzesvorbehalt des Aufgebots, bestimmter Rechtsnachteil und keine allgemeine Forderungsvernichtung geprüft.",
         "corrected": false
       },
       {
-        "id": "p414",
-        "review": "Nur stattgebende Sachverständigenentscheidung unanfechtbar; keine Bindung sämtlicher materieller Ansprüche behauptet.",
+        "id": "p434",
+        "review": "Antragserfordernis und alle drei Mindestinhalte; insbesondere offener Katalog und Abgrenzung zur Endentscheidung geprüft.",
         "corrected": false
       },
       {
-        "id": "p415",
-        "review": "Bundesrechtlicher Anwendungsbereich, abweichendes Verfahrensrecht und Eingriff gegen Willen/bei Willenlosigkeit geprüft; keine eigene Haftgrundlage.",
+        "id": "p435",
+        "review": "Kumulative Grundbekanntmachung, elektronischer Aushangersatz und lediglich zusätzliche Publikation geprüft.",
         "corrected": false
       },
       {
-        "id": "p416",
-        "review": "Gewöhnlicher Aufenthalt, subsidiärer Bedürfnisort und bestehende Verwahrung als besondere Anknüpfung geprüft.",
+        "id": "p436",
+        "review": "Alle drei unschädlichen Bekanntmachungsfehler abgeglichen; keine Heilung fehlender Veröffentlichung oder zu kurzer Mindestfrist behauptet.",
         "corrected": false
       },
       {
-        "id": "p417",
-        "review": "Alle fünf Tatsachengruppen, Soll-Aktenvorlage nur Abschiebungshaft, Ergänzung und Grenze heutiger BGH-Aussage geprüft; zuständige antragstellende Behörde ausdrücklich ergänzt.",
+        "id": "p437",
+        "review": "Sechswochenmindestabstand, gesetzliche Abweichung, erstmalige elektronische/Bundesanzeiger-Veröffentlichung und Nachmeldung getrennt geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p438",
+        "review": "Nachmeldung bis Erlass, nicht Rechtskraft; BGH-Rn.15–21 voll gelesen, konkreter Beispielsablauf stimmt; Wiedereinsetzung nur im entschiedenen Kontext verneint.",
+        "corrected": false
+      },
+      {
+        "id": "p439",
+        "review": "Alle vier Absätze und BGH-Rn.22–30 geprüft; redaktioneller Verweis auf §18 Abs.4, Beginn der Fünfjahresgrenze und fortgeltende kurze Antragsfrist ergänzt.",
         "corrected": true
       },
       {
-        "id": "p418",
-        "review": "Pflichtbeteiligte, Pfleger durch Bestellung, familiäre Voraussetzungen und benannte Vertrauensperson geprüft; BGH-Rn.7 auf Aufhebungsverfahren begrenzt.",
+        "id": "p440",
+        "review": "Qualifizierte widersprechende Anmeldung und beide Alternativen Aussetzung/Vorbehalt, keine positive materielle Rechtsfeststellung, geprüft.",
         "corrected": false
       },
       {
-        "id": "p419",
-        "review": "Alle sechs Absätze geprüft: Erforderlichkeit, Wille/Information, keine gesetzliche Vertretung, Bevollmächtigung, Ende, Rechtsmittel und Vergütung/Kosten.",
+        "id": "p441",
+        "review": "Öffentliche Zustellung und ausdrückliche §§186–188 ZPO, Abgrenzung zu Bekanntmachung/Erlass/Rechtskraft geprüft; keine ungesicherte Zustellungsfiktion genannt.",
         "corrected": false
       },
       {
-        "id": "p420",
-        "review": "Persönliche Vorabanhörung, Vorführung, getrennte Ausnahmen, sonstige Beteiligte und ärztlicher Sachverständiger geprüft; Aushändigung/Übersetzung/Dokumentation nach BGH-Rn.9 ergänzt.",
+        "id": "p442",
+        "review": "BGB§927 vollständig gelesen: Eigentum erst durch Eintragung, Drittenschutz und Belegenheitszuständigkeit geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p443",
+        "review": "Eigenbesitzdauer, Abgrenzung Fremdbesitz und Zusatzvoraussetzungen bei eingetragenem Eigentümer mit BGB§927 abgeglichen.",
+        "corrected": false
+      },
+      {
+        "id": "p444",
+        "review": "Vorgeschaltete Glaubhaftmachung, Besitz/Grundstücksidentität und widersprüchliche Pachtbelege geprüft; Ausschluss nicht sofort möglicher Beweisaufnahme nach §31 Abs.2 ergänzt.",
         "corrected": true
-      },
-      {
-        "id": "p421",
-        "review": "Beide besonderen Tenorbestandteile, Dauerbegründung/Endzeitpunkt und früherer Wegfall der Voraussetzungen getrennt geprüft.",
-        "corrected": false
-      },
-      {
-        "id": "p422",
-        "review": "Rechtskraft, Anordnung sofortiger Wirksamkeit, alternative Handlungen und Empfänger, Zeitvermerk und Behördenvollzug geprüft.",
-        "corrected": false
-      },
-      {
-        "id": "p423",
-        "review": "Nur Gründe an Betroffenen, ärztliches Zeugnis und erhebliche Gesundheitsnachteile; kein pauschaler Ausschluss von Tenor oder Anhörung.",
-        "corrected": false
-      },
-      {
-        "id": "p424",
-        "review": "Aussetzung/Aufhebung, vorherige Anhörungen, Wochen-Ausnahme, Auflagen und beide Widerrufsgründe geprüft; keine automatische Dauerverlängerung.",
-        "corrected": false
       }
     ],
     "limitations": [
-      "Exactly p405–p424 reviewed; no whole-book completion (69 other comments absent).",
-      "Selective existing primary case fully re-read; no exhaustive case-law search, no external lawyer approval.",
-      "Current service text compared to retained commencement evidence; not a reconstruction of every amendment since 2008."
+      "Exactly p425–p444 reviewed; no whole-book completion, 49 other comments absent.",
+      "Existing relevant BGH case read in full including correction; no exhaustive new case-law survey or external professional approval.",
+      "Effective version uses retained official commencement evidence and fresh identical XML; no reconstruction of every amendment since 2008."
     ],
-    "reviewed_at": "2026-10-20T22:30:31.215547+00:00",
-    "source_evidence": "sources/review-p405-p424-version-map.json",
+    "reviewed_at": "2026-10-20T22:38:13.546842+00:00",
+    "source_evidence": "sources/review-p425-p444-version-map.json",
     "technical_checks": {
       "assigned_comments": 20,
       "parser_replay_byte_identical": true,
       "statutory_agreement": 1.0,
       "broken_local_links": [],
       "repeated_paragraphs": [],
-      "previous_22_output_chapters_unchanged": true,
+      "previous_23_output_chapters_unchanged": true,
       "unassigned_work_commentary_unchanged": true
     },
     "strict_validation": {
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 1006676,
+      "commentary_chars": 1042074,
       "errors": [
-        "krátký/chybějící komentář u 69 jednotek: ['p425(0<400)', 'p426(0<400)', 'p427(0<400)', 'p428(0<400)', 'p429(0<400)', 'p430(0<400)', 'p431(0<400)', 'p432(0<400)']"
+        "krátký/chybějící komentář u 49 jednotek: ['p445(0<400)', 'p446(0<400)', 'p447(0<400)', 'p448(0<400)', 'p449(0<120)', 'p450(0<400)', 'p451(0<400)', 'p452(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "validation_scope": "Whole book fails on 69 unassigned missing comments; review of exactly twenty assigned units complete."
+    "validation_scope": "Whole book fails only on 49 unassigned missing comments; review of exactly twenty assigned units complete."
   },
   "bounded_review_history": [
     {
@@ -1036,7 +1036,7 @@
     "repo": "Komentar-DE-FAMFG-2008",
     "units": 529,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1041393,
+    "commentary_chars": 1042074,
     "errors": [
       "krátký/chybějící komentář u 49 jednotek: ['p445(0<400)', 'p446(0<400)', 'p447(0<400)', 'p448(0<400)', 'p449(0<120)', 'p450(0<400)', 'p451(0<400)', 'p452(0<400)']"
     ],

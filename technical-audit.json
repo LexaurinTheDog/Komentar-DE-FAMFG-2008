@@ -1,9 +1,9 @@
 {
   "commented_units": 480,
   "total_units": 529,
-  "commentary_characters": 1041393,
+  "commentary_characters": 1042074,
   "missing_commentary_count": 49,
-  "local_links_checked": 1237,
+  "local_links_checked": 1243,
   "broken_local_links": [],
   "exact_repeated_substantive_paragraphs": [],
   "near_repeated_commentary_above_0_8_token_jaccard": [],
@@ -473,7 +473,7 @@
     "p424": 2159,
     "p425": 1651,
     "p426": 1618,
-    "p427": 1666,
+    "p427": 1882,
     "p428": 1661,
     "p429": 1643,
     "p430": 1608,
@@ -485,12 +485,12 @@
     "p436": 1629,
     "p437": 1606,
     "p438": 1633,
-    "p439": 1813,
+    "p439": 2067,
     "p440": 1712,
     "p441": 2093,
     "p442": 1849,
     "p443": 1874,
-    "p444": 1812
+    "p444": 2023
   },
   "limits": [
     "Similarity screening is heuristic and does not establish legal quality.",
