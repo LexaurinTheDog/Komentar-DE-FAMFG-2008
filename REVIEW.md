@@ -496,3 +496,6 @@ Die begrenzte Zweitprüfung vom 20. Oktober 2026 erfasst genau §§ 330–349 (2
 - **p347 (confirmed):** Alle drei Absätze mit elektronischer Erstmeldung, nicht amtlich verwahrten Dokumenten nach erstem Erbfall, erneuter Registrierung und Rückgabemitteilung geprüft; keine Veröffentlichung des Inhalts behauptet.
 - **p348 (confirmed):** Unverzügliche Eröffnung nach Todeskenntnis, Niederschrift/Verschlusszustand, optionaler Termin, Vorlegung auf Verlangen, schriftliche Bekanntgabe und Ausnahme für Anwesende sowie Grenze §349 geprüft.
 - **p349 (confirmed):** Trennbare Verfügungen Überlebender, beglaubigte Abschrift, Wiederverwahrung und Ausnahme bei nur erstem Erbfall sowie Erbverträge vollständig geprüft; Beispiel enthält echte weitere Anordnungen.
+
+
+Autorencharge §§ 350–364 einschließlich §§ 352a–352e: 20 zugewiesene Einheiten verfasst, noch keine unabhängige Zweitprüfung. [Technischer Bericht](author-p350-p364-result.json), [Fassungsabgleich](sources/author-p350-p364-version-map.json), [selektives Rechercheprotokoll](sources/author-p350-p364-search-log.json), [BGH IV ZB 11/22](cases/BGH-IV-ZB-11-22.md), [OLG Nürnberg 15 Wx 988/23](cases/OLG-Nuernberg-15-Wx-988-23.md). Gesamtmanuskript bleibt unvollständig.

@@ -4625,6 +4625,43 @@
       "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
       "local_corpus_path": "sources/review-p330-p349-local-KORE723732025.md",
       "local_corpus_sha256": "414c84dfa6e483b12e6b4147669261f738f56fd8cb9691727ccc53373bd3b600"
+    },
+    {
+      "purpose": "bounded author p350-p364",
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T21:54:51.358471+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p350-p364-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "xml_path": "sources/author-p350-p364-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP CRC verified; XML parsed; FamFG identity verified",
+      "same_as_decisive_date_xml": true
+    },
+    {
+      "purpose": "bounded author p350-p364 selected case full text",
+      "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2023-N-25863",
+      "accessed_at": "2026-10-20T21:58:34.893624+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "path": "sources/author-p350-p364-OLG-Nuernberg-15-Wx-988-23.html",
+      "sha256": "788f8f5d1b5f94e2aeddd15b86de44d8242ce55eacd78d3c4516691f0dffc57a",
+      "format_validation": "HTML parsed by source reader; court, docket, all numbered reasons 1–31 checked; editorial headnotes not used"
+    },
+    {
+      "purpose": "bounded author p350-p364 selected case; local and official full text read",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304352023.zip",
+      "accessed_at": "2026-10-20T21:59:03.057397+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p350-p364-BGH-IV-ZB-11-22.zip",
+      "sha256": "a0a7dbb8fc6ee8f5cac49f13297e93d95ab65bcdb398484a05c1de4aab9f3814",
+      "xml_path": "sources/author-p350-p364-BGH-IV-ZB-11-22.xml",
+      "xml_sha256": "c56b90da87885e3d7e7af0291382f5542c52690d1ff6091476023d599e07b537",
+      "format_validation": "ZIP CRC, XML parsed, docket checked",
+      "local_corpus_path": "sources/author-p350-p364-local-KORE304352023.md",
+      "local_corpus_sha256": "a8bbef1bc0bb78c91ee7ad7e0c1eee5d202b59d2a3d13c117050786e3d6fc090"
     }
   ],
   "version_assessment": {

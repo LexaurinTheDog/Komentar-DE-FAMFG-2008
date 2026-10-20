@@ -71,3 +71,6 @@ Autorencharge §§ 292–309a: fünf neue vollständig gelesene amtliche Entsche
 Autorencharge §§ 310–329: [XII ZB 183/25](BGH-XII-ZB-183-25.md), [207/25](BGH-XII-ZB-207-25.md), [412/24](BGH-XII-ZB-412-24.md), [552/25](BGH-XII-ZB-552-25.md), [271/24](BGH-XII-ZB-271-24.md). Fünf amtliche Volltexte mit insgesamt 72 nummerierten Randnummern, Tenören und vorhandenen Leitsätzen gelesen; fallbezogene Aussagen, Gegenargumente und Grenzen getrennt. Neue Charge wartet auf unabhängige Zweitprüfung.
 
 - [BGH XII ZB 63/25, 9. Juli 2025](BGH-XII-ZB-63-25.md): § 335; getrennte Aufgabenbereiche mehrerer Betreuer und eigene Angehörigenbeschwerde.
+
+- [BGH IV ZB 11/22](BGH-IV-ZB-11-22.md): § 352e, Bindung an rechtskräftige Erbunwürdigkeitserklärung.
+- [OLG Nürnberg 15 Wx 988/23](OLG-Nuernberg-15-Wx-988-23.md): § 352e, Feststellung und Urkundenerteilung.

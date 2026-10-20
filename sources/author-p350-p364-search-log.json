@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-20T22:00:16.354285+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"352a\" \"Erbteile\"",
+    "site.rechtsprechung-im-internet.de \"352e\" \"Beschluss\" Erbschein",
+    "domain-filtered queries for 352a and 352e returned no results",
+    "local rg: § 352a|§ 352e|§ 357 FamFG in /Volumes/LaCie/law-intake/eu/de/rii/*.md"
+  ],
+  "selected_full_texts": [
+    "BGH IV ZB 11/22, official XML and local corpus read in full",
+    "OLG Nürnberg 15 Wx 988/23, official HTML reasons 1–31 read in full"
+  ],
+  "discovery_only_not_relied_on": [
+    "BGH IV ZB 26/25 screened but not fully read",
+    "Commercial annotations and redactional headnotes",
+    "Other local rg hits"
+  ],
+  "no_sufficiently_relevant_new_verified_case_found_for": [
+    "p350",
+    "p351",
+    "p352",
+    "p352a",
+    "p352b",
+    "p352c",
+    "p352d",
+    "p353",
+    "p354",
+    "p355",
+    "p356",
+    "p357",
+    "p358",
+    "p359",
+    "p360",
+    "p361",
+    "p362",
+    "p363",
+    "p364"
+  ],
+  "limitations": [
+    "Selective research only; no exhaustive search or later-treatment audit. Direct official ZIP/XML and HTML retrieval; Firecrawl not needed for accessible text."
+  ]
+}

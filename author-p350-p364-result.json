@@ -1,0 +1,174 @@
+{
+  "complete": true,
+  "kind": "bounded_author",
+  "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
+  "authored_ids": [
+    "p350",
+    "p351",
+    "p352",
+    "p352a",
+    "p352b",
+    "p352c",
+    "p352d",
+    "p352e",
+    "p353",
+    "p354",
+    "p355",
+    "p356",
+    "p357",
+    "p358",
+    "p359",
+    "p360",
+    "p361",
+    "p362",
+    "p363",
+    "p364"
+  ],
+  "units_authored": 20,
+  "checks": [
+    {
+      "id": "p350",
+      "characters": 1944,
+      "commentary_sha256": "f9202f339e573df8f489a2aed0c9654be282970736529d995ddaa36d187d4d02",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p351",
+      "characters": 2219,
+      "commentary_sha256": "a6e75fd8190c840b243dd03bf3d68d0afad8dcfce60255c95a20027db491bc74",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p352",
+      "characters": 2507,
+      "commentary_sha256": "a2d47838c24f35fda58c72621fe3bd418c57fe9b86108b9870c94a811807bfbb",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p352a",
+      "characters": 2107,
+      "commentary_sha256": "74833b085065d0075eed6a66644a51ad0af569a277824a8310388831606128a6",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p352b",
+      "characters": 1874,
+      "commentary_sha256": "3312bf526c6bde9ca1c338656d2bdb86fa9cc1f281ec44fae440cf3b4baa5c97",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p352c",
+      "characters": 1948,
+      "commentary_sha256": "7439f01946939111fe2662186a8143a1f4e965fd0cbf90909f24f8739bb4264d",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p352d",
+      "characters": 1829,
+      "commentary_sha256": "a516ea083a542086c87411f26f86aa6286eb16af3fa8c0030b71725c7f69b008",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p352e",
+      "characters": 2496,
+      "commentary_sha256": "035892d22d9e92098aa0b2d886851b452dedf4483607115cee14bf6015daac8e",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p353",
+      "characters": 2156,
+      "commentary_sha256": "d653cc834f23a908e6a4cb6886e65eefe544a18bed2045a74d7e7335c5fe7426",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p354",
+      "characters": 1963,
+      "commentary_sha256": "465c24599bfc2916829d626aef2089b403bba9b5848083966a391636a3048c22",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p355",
+      "characters": 2388,
+      "commentary_sha256": "b9eba2d2c8a1dfe26082009b221f18c5e766c9c5a7df2d9e5d8e0086763ba4f4",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p356",
+      "characters": 2137,
+      "commentary_sha256": "8850634e7e5f63a2798355d898f6c1783819af88093d0abdac6d27250445c6a6",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p357",
+      "characters": 1983,
+      "commentary_sha256": "110f57268f66b8220ec53f02d89711bd78f26dced21ae9162430360ec3b83861",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p358",
+      "characters": 1894,
+      "commentary_sha256": "b3ec9617fca53d6ee98c87390a529e26b4215c0807c5feb37cdd225ea06de206",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p359",
+      "characters": 1961,
+      "commentary_sha256": "d60ae2c9f61fd33b0ed6ff9468ec0cfe3042edad37184c26ce91f832f6d05139",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p360",
+      "characters": 1842,
+      "commentary_sha256": "365db2f0b9937d50f9c201e03a5987ebca7507f0cafb901edc5d6ca9214501c3",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p361",
+      "characters": 1904,
+      "commentary_sha256": "795aaf64c2ecccff86664e02e154f1abeedc42c7ec18f36c5049581e0a6fc49e",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p362",
+      "characters": 2266,
+      "commentary_sha256": "f2b969b24409cabbc6e9dc767d8dbdc9edc521468844a8c2f3040a6cf85e1699",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p363",
+      "characters": 2171,
+      "commentary_sha256": "17ec94e1d78d4fdd0fe3a5a9b02fb0b88425b0c7777e08c051af91da7627e5ae",
+      "statutory_agreement": true
+    },
+    {
+      "id": "p364",
+      "characters": 667,
+      "commentary_sha256": "991f25eced19b2b3b96af4dec55b2865aecf23f20154f8c5f0f52bc5752a5c50",
+      "statutory_agreement": true
+    }
+  ],
+  "commentary_characters": 40256,
+  "previous_380_commentary_blocks_unchanged": true,
+  "whole_book_complete": false,
+  "total_units": 529,
+  "completed_units": 400,
+  "remaining_units": 129,
+  "statutory_agreement": 1.0,
+  "parser_reproducible": true,
+  "case_law_sources": [
+    "cases/BGH-IV-ZB-11-22.md",
+    "cases/OLG-Nuernberg-15-Wx-988-23.md"
+  ],
+  "unresolved_batch_blockers": [],
+  "limitations": [
+    "Independent second pass pending.",
+    "Case-law coverage is selective.",
+    "129 unassigned comments absent; full builder and validator therefore cannot pass.",
+    "Technical checks do not establish legal quality."
+  ],
+  "completed_at": "2026-10-20T22:00:16.354285+00:00",
+  "local_links_checked": 1139,
+  "broken_local_links": [],
+  "previous_19_exported_chapters_unchanged": true,
+  "all_20_units_exported": true
+}

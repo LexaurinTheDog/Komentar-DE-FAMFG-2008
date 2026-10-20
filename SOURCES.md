@@ -208,3 +208,6 @@ Autorencharge §§ 330–349 vom 20. Oktober 2026: 20 neue Einheiten; [Quellenab
 
 
 Zweitprüfung §§ 330–349: [frische amtliche Abrufe](sources/review-p330-p349-fetch.json), [Fassungs- und Abdeckungsprüfung](sources/review-p330-p349-version-map.json). Nur die vorhandene ausgewählte BGH-Entscheidung erneut geprüft, keine erschöpfende Rechtsprechungsrecherche.
+
+
+Autorencharge §§ 350–364 einschließlich §§ 352a–352e: 20 zugewiesene Einheiten verfasst, noch keine unabhängige Zweitprüfung. [Technischer Bericht](author-p350-p364-result.json), [Fassungsabgleich](sources/author-p350-p364-version-map.json), [selektives Rechercheprotokoll](sources/author-p350-p364-search-log.json), [BGH IV ZB 11/22](cases/BGH-IV-ZB-11-22.md), [OLG Nürnberg 15 Wx 988/23](cases/OLG-Nuernberg-15-Wx-988-23.md). Gesamtmanuskript bleibt unvollständig.
