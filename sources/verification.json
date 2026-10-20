@@ -162,6 +162,187 @@
       "content_type": "text/html",
       "sha256": "0d1230ebb389ebdfdd0cb265ac74ee91345d19787520507c4db51cf85e375524",
       "bytes": 4525
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T15:03:50.814099+00:00",
+      "path": "sources/famfg-2026-10-20.zip",
+      "purpose": "source preflight recheck on 2026-10-20; original authoring date remains 2026-10-19",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783,
+      "members": [
+        "BJNR258700008.xml"
+      ],
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "xml_builddate": "20261008215512",
+      "extracted_path": "sources/famfg-2026-10-20.xml",
+      "format_validation": "ZIP signature and CRC readable; exactly one expected FamFG XML member; XML parsed; doknr and jurabk verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T15:03:51.205486+00:00",
+      "path": "sources/famfg-index-2026-10-20.html",
+      "purpose": "source preflight recheck on 2026-10-20; original authoring date remains 2026-10-19",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117,
+      "format_validation": "HTML structure and expected subject markers verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/BJNR258700008.html",
+      "accessed_at": "2026-10-20T15:03:51.468986+00:00",
+      "path": "sources/famfg-full-2026-10-20.html",
+      "purpose": "source preflight recheck on 2026-10-20; original authoring date remains 2026-10-19",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/BJNR258700008.html",
+      "sha256": "580404218120946703ba727362d74a2edfc43ca06792c4ba17908719aa721555",
+      "bytes": 824197,
+      "format_validation": "HTML structure and expected subject markers verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T15:03:52.051925+00:00",
+      "path": "sources/current-service-2026-10-20.html",
+      "purpose": "source preflight recheck on 2026-10-20; original authoring date remains 2026-10-19",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "format_validation": "HTML structure and expected subject markers verified"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:03:52.206362+00:00",
+      "path": "sources/bgbl-152-2026-10-20.pdf",
+      "purpose": "source preflight recheck on 2026-10-20; original authoring date remains 2026-10-19",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774,
+      "format_validation": "PDF magic and EOF trailer verified; text extraction separately inspected"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/192/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:03:52.538573+00:00",
+      "path": "sources/bgbl-192-2026-10-20.pdf",
+      "purpose": "source preflight recheck on 2026-10-20; original authoring date remains 2026-10-19",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/192/regelungstext.pdf?__blob=publicationFile&v=1",
+      "sha256": "15fcf268bd8ec91b2c27933d163d5ffbad40ac7dc6af37ba6a70300b112d0ce2",
+      "bytes": 333585,
+      "format_validation": "PDF magic and EOF trailer verified; text extraction separately inspected"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/198/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:03:52.948662+00:00",
+      "path": "sources/bgbl-198-2026-10-20.pdf",
+      "purpose": "source preflight recheck on 2026-10-20; original authoring date remains 2026-10-19",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/198/regelungstext.pdf?__blob=publicationFile&v=1",
+      "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+      "bytes": 308089,
+      "format_validation": "PDF magic and EOF trailer verified; text extraction separately inspected"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/275/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:16.774644+00:00",
+      "path": "sources/bgbl-recent-275-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "071111b7ef88b1b59b56a1a462dbf45497ade657b2b06c9acbb8e065d0ffba10",
+      "bytes": 1330955,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-275-2026-10-20.txt",
+      "text_sha256": "e19d60cbaf74fcc9056e8cb274c26aa1ca9862625fb070f994cbc9c37362e805",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/276/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:18.237778+00:00",
+      "path": "sources/bgbl-recent-276-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "f3145c36ac3cdddf0a1b49e9ddda53d9fadcc2c14f08fb3fabf3331b5f391f38",
+      "bytes": 252978,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-276-2026-10-20.txt",
+      "text_sha256": "72f1a935b9100f2323b5eefb191b7e3316d792c04b845ca30683679a2dffa347",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/285/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:18.580534+00:00",
+      "path": "sources/bgbl-recent-285-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "e3c98b45bf2c762a33173e4f0d372621923a7d767ea92ecb260323582500ebb4",
+      "bytes": 258522,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-285-2026-10-20.txt",
+      "text_sha256": "af2b669030a2ade472d9cc2299678f77d5e6c085f34c8577142973f690403390",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/286/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:18.871247+00:00",
+      "path": "sources/bgbl-recent-286-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "d1cdeefc61b94bd9cc229e8efb4c0d5c86e0a75ed2b5df73e3ba2f7a23f3c389",
+      "bytes": 310766,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-286-2026-10-20.txt",
+      "text_sha256": "5536b9afe8b97db58714b8ef1e2473bcfb68322b82987cb2e6a9aff76e2ab0fc",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/289/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:19.208231+00:00",
+      "path": "sources/bgbl-recent-289-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "dc408b7d21a8b92420ce20ccc05889dbc4385d45a672c1ece73c3e4ea7adf4d9",
+      "bytes": 304447,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-289-2026-10-20.txt",
+      "text_sha256": "613a068226e24380b24e2db9f7d9d84963a39b02ed5130ceba4866a8de94f387",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/293/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:19.526852+00:00",
+      "path": "sources/bgbl-recent-293-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "ab60a3e09a2fdbccb762dbf34b1ea3959b15cfe336fefa8007da4fd77bda9e4d",
+      "bytes": 264917,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-293-2026-10-20.txt",
+      "text_sha256": "51d3125150e06a8d160f7942079987091f6acef84de82bcecc793fccd79fe596",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/304/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:19.835875+00:00",
+      "path": "sources/bgbl-recent-304-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "438548acb9dd5094d06ab20c94807d340183ddef44ef3beb5372a48aa7d38bec",
+      "bytes": 601560,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-304-2026-10-20.txt",
+      "text_sha256": "c853a1c332fa798ddd1089fbcaf8638a23a14fdc8656a113dddbac97fa029975",
+      "famfg_hits": []
     }
   ],
   "version_assessment": {
@@ -197,5 +378,112 @@
     ],
     "intake_comparison": "No substantive paragraph-text changes after excluding source notes and explicit empty slots held in intake headings; source metadata updated. Six raw differences documented in change-map.json.",
     "limits": "Official GII index, XML, complete HTML and Aktualitätendienst consulted on the authoring date; no claim to a complete independent audit of every historical amending act."
+  },
+  "preflight_recheck": {
+    "decisive_date": "2026-10-19",
+    "rechecked_at": "2026-10-20T15:07:59.390039+00:00",
+    "consolidation_delivery_unchanged": true,
+    "xml_builddate": "20261008215512",
+    "official_stand_notices": [
+      {
+        "type": "Stand",
+        "text": "Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192"
+      },
+      {
+        "type": "Hinweis",
+        "text": "Änderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+      },
+      {
+        "type": "Sonst",
+        "text": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      }
+    ],
+    "citation_notice_distinction": "HTML Vollzitat cites Art. 4 G 2.7.2026 I Nr.198; XML Stand cites Art.4 G 22.6.2026 I Nr.192 plus a documentary-pending notice for Nr.198. Effectiveness resolved by commencement clauses, not these labels.",
+    "commencement_checks": [
+      {
+        "act": "BGBl. 2026 I Nr.152",
+        "amending_clause": "Art.6",
+        "effective_clause": "Art.18 Abs.1; exceptions in Abs.2–4 do not cover Art.6",
+        "effective_date": "2026-10-01",
+        "units": [
+          "p95"
+        ],
+        "evidence": "sources/bgbl-152.pdf",
+        "fresh_identical_evidence": "sources/bgbl-152-2026-10-20.pdf"
+      },
+      {
+        "act": "BGBl. 2026 I Nr.192",
+        "amending_clause": "Art.4 Nr.1–4",
+        "effective_clause": "Art.20 Abs.1; exceptions in Abs.2–5 do not cover Art.4",
+        "effective_date": "2026-10-01",
+        "units": [
+          "p41a",
+          "p46",
+          "p113"
+        ],
+        "evidence": "sources/bgbl-192.pdf",
+        "fresh_identical_evidence": "sources/bgbl-192-2026-10-20.pdf"
+      },
+      {
+        "act": "BGBl. 2026 I Nr.198",
+        "amending_clause": "Art.4 Nr.8",
+        "effective_clause": "Art.10 Abs.1 Nr.2; publication on 2026-07-09",
+        "effective_date": "2026-07-10",
+        "units": [
+          "p214"
+        ],
+        "evidence": "sources/bgbl-198.pdf",
+        "fresh_identical_evidence": "sources/bgbl-198-2026-10-20.pdf"
+      },
+      {
+        "act": "BGBl. 2026 I Nr.198",
+        "amending_clause": "Art.4 Nr.1–7,9",
+        "effective_clause": "Art.10 Abs.2",
+        "effective_date": "2027-07-01",
+        "excluded_future_ids": [
+          "p94a",
+          "p94b",
+          "p94c",
+          "p94d",
+          "p167c",
+          "p216b"
+        ],
+        "other_excluded_changes": [
+          "p57",
+          "p88",
+          "p96",
+          "TOC and subsection renumbering"
+        ],
+        "evidence": "sources/bgbl-198.pdf"
+      }
+    ],
+    "actual_text_checks": {
+      "p41a_new_electronic_notice": true,
+      "p46_new_abs2": true,
+      "p113_updated_reference": true,
+      "p95_new_abs5": true,
+      "p214_effective_sentence": true,
+      "future_insertions_absent": true,
+      "future_p88_abs4_absent": true,
+      "future_p96_abs3_absent": true,
+      "future_p57_item4a_absent": true
+    },
+    "recent_enactments_check": "sources/recent-enactments-check.json",
+    "recent_statutes_screened": [
+      275,
+      276,
+      285,
+      286,
+      289,
+      293,
+      304
+    ],
+    "recent_scan_result": "No FamFG / Familiensachen / freiwilligen Gerichtsbarkeit occurrence in seven full official PDFs; conservative late-September boundary includes acts preceding intake.",
+    "intake_comparison": "Six presentation/source-note differences resolved individually in change-map.json; no substantive paragraph wording change identified.",
+    "limits": [
+      "No complete reconstruction of every amendment since 2008.",
+      "Current-service regulations and corrections screened by title; full-text statutory search is limited to the seven selected listed acts.",
+      "Selective case cards retained; this source preflight does not re-review case law or the commentary."
+    ]
   }
 }

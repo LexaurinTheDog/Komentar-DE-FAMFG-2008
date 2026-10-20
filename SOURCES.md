@@ -2,6 +2,12 @@
 
 Bearbeitungsstichtag und tatsächlicher Abruf: **19. Oktober 2026**. Die Quellen wurden lokal gesichert; das Original-Intake wurde nicht verändert.
 
+Erneute Quellenvorprüfung: **20. Oktober 2026**, bei unverändertem Bearbeitungsstichtag. [Heutige ZIP-Lieferung](sources/famfg-2026-10-20.zip), [heutiges XML](sources/famfg-2026-10-20.xml), [HTML-Index](sources/famfg-index-2026-10-20.html), [Gesamt-HTML](sources/famfg-full-2026-10-20.html) und [Aktualitätendienst](sources/current-service-2026-10-20.html) sind mit tatsächlichem HTTP-Ergebnis und Hash im Verifikationsprotokoll erfasst. Die FamFG-Dateien sind gegenüber dem 19. Oktober bytegleich. Alle drei einschlägigen Änderungsgesetz-PDFs wurden erneut erfolgreich geladen und sind ebenfalls bytegleich. Artikel 4 Nummer 4 der Nr. 192 ändert zusätzlich die Verweisung in § 113 Absatz 1; auch diese Änderung ist im ausgewählten Text enthalten.
+
+Der [Vorprüfungsbericht](preflight-result.json) verbindet die tatsächlichen Inkrafttretensregeln mit konkreten Textprüfungen. Die [ergänzende Verkündungsprüfung](sources/recent-enactments-check.json) sichert sieben vollständig durchsuchte amtliche Gesetzes-PDFs aus dem neueren Aktualitätendienst: Nr. 275, 276, 285, 286, 289, 293 und 304. Es ergab sich kein Fund für FamFG, Familiensachen oder freiwillige Gerichtsbarkeit. Die Auswahl schließt vorsorglich späte Septembergesetze vor dem Intake ein; Verordnungen und Berichtigungen wurden anhand ihrer Titel gesichtet. Dies ist keine lückenlose historische Prüfung aller Verkündungen.
+
+Der Vollständigkeitsbericht enthält nun ein Einzelinventar sämtlicher XML-Normelemente sowie Zeichenvergleiche aller Quellenhinweise und Gliederungen. Gesetzeskopf und Inhaltsübersicht enthalten keine übergangene operative Eingangsformel. Die Hinweise zur Entstehung als Artikel 1 des FGG-RG und zum ursprünglichen Inkrafttreten bleiben in der kanonischen Transkription erhalten. Der Parser bricht bei bislang unbekannten Normtypen oder doppelten Paragraphenkennungen ab. Es wurden keine neuen Kommentare verfasst und keine vorhandenen Kommentare verändert.
+
 ## Gesetzestext
 
 - [Gesetze im Internet, FamFG](https://www.gesetze-im-internet.de/famfg/): [Index-Snapshot](sources/famfg-index.html), [vollständiges HTML](sources/famfg-full.html).

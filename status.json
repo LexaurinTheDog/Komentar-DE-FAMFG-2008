@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-19T18:03:41.525575+00:00",
+  "updated_at": "2026-10-20T15:09:28.799254+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -33,7 +33,7 @@
     "Full build and strict validation correctly fail because commentary is incomplete.",
     "Independent second-pass review not performed.",
     "Case-law research is selective; no exhaustive coverage claimed.",
-    "The source audit verifies current GII delivery and the identified recent commencement provisions, not every historical amending act."
+    "Source preflight rechecked current delivery, relevant commencement clauses and seven recent statutory enactments; no complete historical amendment reconstruction since 2008."
   ],
   "commentary_characters": 202505,
   "commented_scope": "§§ 1–168g",
@@ -46,5 +46,12 @@
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
     "instructions": "Continue original commentary from § 169 in batches; retain all existing substantive prose. Never mark complete until all 529 units are commented and full build and strict validation pass."
+  },
+  "source_preflight": {
+    "complete": true,
+    "result": "preflight-result.json",
+    "verified_at": "2026-10-20T15:07:59.390039+00:00",
+    "date": "2026-10-20",
+    "commentaries_changed": false
   }
 }

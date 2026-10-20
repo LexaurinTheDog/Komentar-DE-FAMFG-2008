@@ -1980,5 +1980,4210 @@
       "disposition": "Repealed subparagraph retained inside operative provision"
     }
   ],
-  "official_xml_text_character_mismatches_ignoring_whitespace": []
+  "official_xml_text_character_mismatches_ignoring_whitespace": [],
+  "official_norm_inventory": [
+    {
+      "doknr": "BJNR258700008",
+      "label": "",
+      "xml_element_sha256": "edd7c4b582064e39099eb4f483078f128160f72cd67e0593099b1d42a86357ee",
+      "disposition": "law metadata and global editorial source notes, retained in canonical text; no operative opening formula supplied"
+    },
+    {
+      "doknr": "BJNR258700008BJNE000155131",
+      "label": "Inhaltsübersicht",
+      "xml_element_sha256": "51b630e764a37a09d3c308d27363b71bd6ef07da9033dfc4f3a8b987e158142f",
+      "disposition": "official table of contents, independently enumerated as toc_expected_ids; not a second copy of the provisions"
+    },
+    {
+      "doknr": "BJNR258700008BJNG000100000",
+      "label": "",
+      "xml_element_sha256": "910db41ca689d0485a7ea2c898ac8b7f63464a5315168b134dcac8eac1fc6292",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Buch 1 — Allgemeiner Teil"
+    },
+    {
+      "doknr": "BJNR258700008BJNG000200000",
+      "label": "",
+      "xml_element_sha256": "da725b83db0417a2abe84e674ec4ea59b5975b0cc711c43438a6b1a9a13c2376",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 1 — Allgemeine Vorschriften"
+    },
+    {
+      "doknr": "BJNR258700008BJNE000200000",
+      "label": "§ 1",
+      "xml_element_sha256": "2e3ed79c0f89440a7bf64f900e8f1c90983649af054177bdde84544b4f403de5",
+      "disposition": "statutory unit",
+      "id": "p1"
+    },
+    {
+      "doknr": "BJNR258700008BJNE000300000",
+      "label": "§ 2",
+      "xml_element_sha256": "dc45445e6de34f192e07be56829405e4bccf942554940f7d73700b6cbdb641b0",
+      "disposition": "statutory unit",
+      "id": "p2"
+    },
+    {
+      "doknr": "BJNR258700008BJNE000400000",
+      "label": "§ 3",
+      "xml_element_sha256": "3991063e126a43724637d863391cfe8e8fee47fa0ffcefbd733df67c2a2b4657",
+      "disposition": "statutory unit",
+      "id": "p3"
+    },
+    {
+      "doknr": "BJNR258700008BJNE000500000",
+      "label": "§ 4",
+      "xml_element_sha256": "55c8d0e9bfba5764a237356e421869f942497eaa46d8a2237c79f31bbb7b30f1",
+      "disposition": "statutory unit",
+      "id": "p4"
+    },
+    {
+      "doknr": "BJNR258700008BJNE000600000",
+      "label": "§ 5",
+      "xml_element_sha256": "b495af08c34550278556689cbd8e9342c41adce6eaac09db2af7c4ec2a04a548",
+      "disposition": "statutory unit",
+      "id": "p5"
+    },
+    {
+      "doknr": "BJNR258700008BJNE000700000",
+      "label": "§ 6",
+      "xml_element_sha256": "b38839912611df168018c3e1aed6bd1c42e79274cc5d85c2f848b9d572f63aaf",
+      "disposition": "statutory unit",
+      "id": "p6"
+    },
+    {
+      "doknr": "BJNR258700008BJNE000800000",
+      "label": "§ 7",
+      "xml_element_sha256": "e229435986f0fd41d15468065001afe3d7ea71e42408fdadfa8b8ef8b2901733",
+      "disposition": "statutory unit",
+      "id": "p7"
+    },
+    {
+      "doknr": "BJNR258700008BJNE000900000",
+      "label": "§ 8",
+      "xml_element_sha256": "c3be6cd716000c161ee93545b3e77219508bc370685740a7149b3f2aa2724812",
+      "disposition": "statutory unit",
+      "id": "p8"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001001160",
+      "label": "§ 9",
+      "xml_element_sha256": "c65c89e7631ce10425f2838519555dc462199246053b018535221a1f45b19a9e",
+      "disposition": "statutory unit",
+      "id": "p9"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001101160",
+      "label": "§ 10",
+      "xml_element_sha256": "7daa1591ba388c10e88f015808dc2417806a426a30dac7e5639eee80789c5297",
+      "disposition": "statutory unit",
+      "id": "p10"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001200000",
+      "label": "§ 11",
+      "xml_element_sha256": "e95af68dba723c68d31b5a822d629b4dc7390ee7c45e20eb0f00c8af2372c508",
+      "disposition": "statutory unit",
+      "id": "p11"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001300000",
+      "label": "§ 12",
+      "xml_element_sha256": "67c31a9a9f98a2ca0d35858d7dec16ac0bf12d4448f4ef4f49db2ef20b0a2cc0",
+      "disposition": "statutory unit",
+      "id": "p12"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001402125",
+      "label": "§ 13",
+      "xml_element_sha256": "12f61e3cc64964e5cd9ee95feeffa22a855d2603d1f551c830a9a2b11262e792",
+      "disposition": "statutory unit",
+      "id": "p13"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001513131",
+      "label": "§ 14",
+      "xml_element_sha256": "6e05204e01bc6ed9e8a5a04afbe0ef67e5b444b14827410d58a8353c1a4f3bd1",
+      "disposition": "statutory unit",
+      "id": "p14"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050404125",
+      "label": "§ 14a",
+      "xml_element_sha256": "0a57fbe446e810f62d0e89023cb90a9c934adb9a0fda0a7aa944d287beead41d",
+      "disposition": "statutory unit",
+      "id": "p14a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050501125",
+      "label": "§ 14b",
+      "xml_element_sha256": "dbd1d108401074fa2027f359e4dfc71125669310b48184ca3761a22b70fbbb86",
+      "disposition": "statutory unit",
+      "id": "p14b"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001601125",
+      "label": "§ 15",
+      "xml_element_sha256": "34272485c4ee9d3925c6e52739927c3ce85e5a2cda3577353f97cd72743a1fed",
+      "disposition": "statutory unit",
+      "id": "p15"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001700000",
+      "label": "§ 16",
+      "xml_element_sha256": "9cd7bbacfc6d086a1b342cf6f2f36ddca93966f619d3428e0f7b6011c67af4eb",
+      "disposition": "statutory unit",
+      "id": "p16"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001800000",
+      "label": "§ 17",
+      "xml_element_sha256": "13528d0a02696f5f2ff1376bfe18bf992bcb86b8864c1cd908ad7c2101ff94ac",
+      "disposition": "statutory unit",
+      "id": "p17"
+    },
+    {
+      "doknr": "BJNR258700008BJNE001901308",
+      "label": "§ 18",
+      "xml_element_sha256": "e9378d4432f8c36f480a721915ee1976d13144e959e5d61911428c249433041e",
+      "disposition": "statutory unit",
+      "id": "p18"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002000000",
+      "label": "§ 19",
+      "xml_element_sha256": "6abadb8cd4f325d4e0b70b8682c64aa4f09c3ba886c2dd0a56c1913cda93f312",
+      "disposition": "statutory unit",
+      "id": "p19"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002100000",
+      "label": "§ 20",
+      "xml_element_sha256": "3e20539be32f3e744959632556759979cc360dc189a18d3e9c4974b7d0dc11cb",
+      "disposition": "statutory unit",
+      "id": "p20"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002200000",
+      "label": "§ 21",
+      "xml_element_sha256": "17ad6d53305b2ec9e056de3f2abb49c74c946e160648fc5cc6bdb5c41fb2b19f",
+      "disposition": "statutory unit",
+      "id": "p21"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002300000",
+      "label": "§ 22",
+      "xml_element_sha256": "a7c3f6816a40d4a1b80cae36e50b0049890eb8b94ba15bcc81a4e017f0023652",
+      "disposition": "statutory unit",
+      "id": "p22"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002400000",
+      "label": "§ 22a",
+      "xml_element_sha256": "d85eefc351e4b7c58ec06718707cb98dded3b61778351bb04a04540c2a57149d",
+      "disposition": "statutory unit",
+      "id": "p22a"
+    },
+    {
+      "doknr": "BJNR258700008BJNG000300000",
+      "label": "",
+      "xml_element_sha256": "f43ae39cb236f2633349bd14928309714e1904aba2d7ec03376d84eee723b21e",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 2 — Verfahren im ersten Rechtszug"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002501308",
+      "label": "§ 23",
+      "xml_element_sha256": "a9501c9cd73aee912589ae8bd69dc9d97401227dc16b071a00ab2a41e6bfb2f0",
+      "disposition": "statutory unit",
+      "id": "p23"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002600000",
+      "label": "§ 24",
+      "xml_element_sha256": "fc4160b46f5dd7360354b9915941eb7fc9fd1e191331e9554f1d6d1abbf1417f",
+      "disposition": "statutory unit",
+      "id": "p24"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002701125",
+      "label": "§ 25",
+      "xml_element_sha256": "ba707ccbaf63546243605d6c5add5c5b8f3cb5ba378a5f27dd031e28605cd7a5",
+      "disposition": "statutory unit",
+      "id": "p25"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002800000",
+      "label": "§ 26",
+      "xml_element_sha256": "6f5e2ce14b6161ac145d8e3f62ebf563546aa2a0d2a0d263269709b0154156a7",
+      "disposition": "statutory unit",
+      "id": "p26"
+    },
+    {
+      "doknr": "BJNR258700008BJNE002900000",
+      "label": "§ 27",
+      "xml_element_sha256": "87b0615c7446e5dd366286fe994df990a478a6d0c48609e4b36b1befa2ba8893",
+      "disposition": "statutory unit",
+      "id": "p27"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003001308",
+      "label": "§ 28",
+      "xml_element_sha256": "a83d6ddf13cd47b4cea1be7f14edca827b1fc49b60509ef1a4688486ceac8234",
+      "disposition": "statutory unit",
+      "id": "p28"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003100000",
+      "label": "§ 29",
+      "xml_element_sha256": "95d1616163000d4fbe5eb208793e50b68b02ec9c91e3395f33409e8378526f97",
+      "disposition": "statutory unit",
+      "id": "p29"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003201125",
+      "label": "§ 30",
+      "xml_element_sha256": "4a464a484dd0a1a766b5d880fcf26b9cc2c75131f7fb242cb2a9ddcb6cb743e3",
+      "disposition": "statutory unit",
+      "id": "p30"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003300000",
+      "label": "§ 31",
+      "xml_element_sha256": "69209382fb255773a069707833e71a84f42e744ce84f1f06268e67a1128d671a",
+      "disposition": "statutory unit",
+      "id": "p31"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003401125",
+      "label": "§ 32",
+      "xml_element_sha256": "24bbf304335be55ca2f028ece222ca66422480a71eb745ae1d5bab25007abd93",
+      "disposition": "statutory unit",
+      "id": "p32"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003501125",
+      "label": "§ 33",
+      "xml_element_sha256": "c683762ba68017377ddcd403b1e6700be5275a24bd64a103af463a9f88860f91",
+      "disposition": "statutory unit",
+      "id": "p33"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003601125",
+      "label": "§ 34",
+      "xml_element_sha256": "9b049fcaa8036cfa205a74999fe750898c8e2b307701c39558d047a6fc90ea28",
+      "disposition": "statutory unit",
+      "id": "p34"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003702308",
+      "label": "§ 35",
+      "xml_element_sha256": "501b103c2b59bc3aa4745457d46886722f4eeb567ec8bcd72d0ce5a237d418db",
+      "disposition": "statutory unit",
+      "id": "p35"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003801308",
+      "label": "§ 36",
+      "xml_element_sha256": "63cbad2fa99551a81767d87514488981a1a8a60fd124663f4c4637d7cde39caa",
+      "disposition": "statutory unit",
+      "id": "p36"
+    },
+    {
+      "doknr": "BJNR258700008BJNE049800308",
+      "label": "§ 36a",
+      "xml_element_sha256": "6c5a9bda3130e27c8a23917e103b5e8738d34e97cacbd0976846fd38cac61708",
+      "disposition": "statutory unit",
+      "id": "p36a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE003900000",
+      "label": "§ 37",
+      "xml_element_sha256": "2df2f7c62381dd6ef3966309c39f061e7e8d50bdd2d2b89a5c0cc34b81db2ed5",
+      "disposition": "statutory unit",
+      "id": "p37"
+    },
+    {
+      "doknr": "BJNR258700008BJNG000400000",
+      "label": "",
+      "xml_element_sha256": "53e8b4f639a80750c91da585ec8cfe36f1f502c8a0f0728af9dd46f5a16020a2",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 3 — Beschluss"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004000000",
+      "label": "§ 38",
+      "xml_element_sha256": "6faf76d1ff413e627e1012fe76798c9df0e756bc6eb0bc84a6bc455ffa884380",
+      "disposition": "statutory unit",
+      "id": "p38"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004101308",
+      "label": "§ 39",
+      "xml_element_sha256": "2d1e6da8d19fc338d6d8ee0b413085579b5549367688c8e887fba6ff4af7e630",
+      "disposition": "statutory unit",
+      "id": "p39"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004200000",
+      "label": "§ 40",
+      "xml_element_sha256": "8ffff2a32ca154e485e2e9c017be6a5f84cd8129a9c2171ac87931453a7e2359",
+      "disposition": "statutory unit",
+      "id": "p40"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004301125",
+      "label": "§ 41",
+      "xml_element_sha256": "d7e49c9a0a4d5fa24f5ab8f95d7f4b42f77d1dc785d37dc174b51a9bf3e6691e",
+      "disposition": "statutory unit",
+      "id": "p41"
+    },
+    {
+      "doknr": "BJNR258700008BJNE053500131",
+      "label": "§ 41a",
+      "xml_element_sha256": "53fb8ee918247e26b2d4cfe6011fb563d593208887ee067a22e719e0a84fbb08",
+      "disposition": "statutory unit",
+      "id": "p41a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004400000",
+      "label": "§ 42",
+      "xml_element_sha256": "318e292eca514de36a876725f9eb1db3ef995614195456b77506921182f30084",
+      "disposition": "statutory unit",
+      "id": "p42"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004500000",
+      "label": "§ 43",
+      "xml_element_sha256": "02214e76166f9d0a5ef4c9e79e439a17fb0a10a05acfd4ae026242adc5c82764",
+      "disposition": "statutory unit",
+      "id": "p43"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004600000",
+      "label": "§ 44",
+      "xml_element_sha256": "4da4463cbb9dc6e3ab84ad75d728d0c2ab01dcda469dc33c06df644226bb8f05",
+      "disposition": "statutory unit",
+      "id": "p44"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004700000",
+      "label": "§ 45",
+      "xml_element_sha256": "a93a80f4ec159a8ee9c953fbf1e258035e7a295dc4bb4b04543ff3f838853b02",
+      "disposition": "statutory unit",
+      "id": "p45"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004802131",
+      "label": "§ 46",
+      "xml_element_sha256": "d31bdafe1301ea320d44f0483be79740e0f301495f695cdef818ad00fea84147",
+      "disposition": "statutory unit",
+      "id": "p46"
+    },
+    {
+      "doknr": "BJNR258700008BJNE004900000",
+      "label": "§ 47",
+      "xml_element_sha256": "56a96dd4a4f9647a7fecb7c0d40c597c6baff18c6851aa2b24afb2361aa905b5",
+      "disposition": "statutory unit",
+      "id": "p47"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005000000",
+      "label": "§ 48",
+      "xml_element_sha256": "94e0e0937d614718f6ddc0838f563baca01f992df46083e7c78de1246b7c70c0",
+      "disposition": "statutory unit",
+      "id": "p48"
+    },
+    {
+      "doknr": "BJNR258700008BJNG000500000",
+      "label": "",
+      "xml_element_sha256": "91d454b4f603064e11b67270596bd3c453231b65e20045cdb310ff8fe25e63b3",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 4 — Einstweilige Anordnung"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005100000",
+      "label": "§ 49",
+      "xml_element_sha256": "085436a21c6638e7e751622e2c8bd1f78cd168c002e283d9fb8c6473f77f2c50",
+      "disposition": "statutory unit",
+      "id": "p49"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005200000",
+      "label": "§ 50",
+      "xml_element_sha256": "c61303fab520e7907b9aa9a4c815a1a93da8cb6d3827331f0e4d05d90baa1e08",
+      "disposition": "statutory unit",
+      "id": "p50"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005300000",
+      "label": "§ 51",
+      "xml_element_sha256": "d1db4534294180dcb410a27438ce710bd638f35e8b167a068268a2134dcbbee0",
+      "disposition": "statutory unit",
+      "id": "p51"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005400000",
+      "label": "§ 52",
+      "xml_element_sha256": "76b3d1acc5d9f853db196304280b7ce8e969b215b21784b2290e54a4adc9e7a4",
+      "disposition": "statutory unit",
+      "id": "p52"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005500000",
+      "label": "§ 53",
+      "xml_element_sha256": "87ba15d475b9abe27830023bf2e931b447daf942d1ed5ca04dcd59989d678e95",
+      "disposition": "statutory unit",
+      "id": "p53"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005600000",
+      "label": "§ 54",
+      "xml_element_sha256": "27c5f8afa52287d512ee854205907144bcc66c1359e9c416581536ccf288284a",
+      "disposition": "statutory unit",
+      "id": "p54"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005701160",
+      "label": "§ 55",
+      "xml_element_sha256": "28326c84521f96dcda53d51f5ca0e4e2a772f4a64cb860c1d6c39f6d59e5974b",
+      "disposition": "statutory unit",
+      "id": "p55"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005800000",
+      "label": "§ 56",
+      "xml_element_sha256": "110f1468052ac9d8cb6aa7fa418176df399e570870c9de72387d4dc65bd1063a",
+      "disposition": "statutory unit",
+      "id": "p56"
+    },
+    {
+      "doknr": "BJNR258700008BJNE005902308",
+      "label": "§ 57",
+      "xml_element_sha256": "4d7041ed986f207c16372f22f6862e95cd70ac64f60c390a1539d606606ec343",
+      "disposition": "statutory unit",
+      "id": "p57"
+    },
+    {
+      "doknr": "BJNR258700008BJNG000600000",
+      "label": "",
+      "xml_element_sha256": "b9ebb9ed30cdf34edb49820d5077d872c06e119e6a07680be0cf549f85d164fb",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 5 — Rechtsmittel"
+    },
+    {
+      "doknr": "BJNR258700008BJNG000700000",
+      "label": "",
+      "xml_element_sha256": "6bb52caa65dab6194309d403b072e4cead8c299dcbcf8edfd60aeef4918bdf64",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 1 — Beschwerde"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006000000",
+      "label": "§ 58",
+      "xml_element_sha256": "44bab4eb01170cfec0b59f1fa490b91fadb47810a41b68eb3c312c63a110deae",
+      "disposition": "statutory unit",
+      "id": "p58"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006100000",
+      "label": "§ 59",
+      "xml_element_sha256": "bd5b35805c480eb89f20e221123ac071d1c060408dedfbae449b011157f24380",
+      "disposition": "statutory unit",
+      "id": "p59"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006200000",
+      "label": "§ 60",
+      "xml_element_sha256": "2734f450ee5dddde419d6018fe0714ab11ef2cb63da0738c06ce2c29d67cd069",
+      "disposition": "statutory unit",
+      "id": "p60"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006301131",
+      "label": "§ 61",
+      "xml_element_sha256": "1030ffce90cef33b8b278086f925f201848703cb00dfc06770dfd4f97db7f6cd",
+      "disposition": "statutory unit",
+      "id": "p61"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006402125",
+      "label": "§ 62",
+      "xml_element_sha256": "6d9e4689460639b5cc1da76314a7ed0ba93de4fde053559f1e0eabea400cf8cd",
+      "disposition": "statutory unit",
+      "id": "p62"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006501308",
+      "label": "§ 63",
+      "xml_element_sha256": "10b0c4d29cc3c1d910ef8e8d936550b9a89c841ed786f7d08db1a414a78861b3",
+      "disposition": "statutory unit",
+      "id": "p63"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006603125",
+      "label": "§ 64",
+      "xml_element_sha256": "15b9dd9fdb21b417622793564e54fee66815ce6a54d6f23a7a5eebcb1f09235a",
+      "disposition": "statutory unit",
+      "id": "p64"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006701308",
+      "label": "§ 65",
+      "xml_element_sha256": "84127ef058616950b4c545f712f50935a4180f9f99c4495645a0cff2c5c2ca77",
+      "disposition": "statutory unit",
+      "id": "p65"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006801160",
+      "label": "§ 66",
+      "xml_element_sha256": "85c39098eb756aa64c9943244ac5f3fd923944405bc31d0b8ebc8fe5793a6c6e",
+      "disposition": "statutory unit",
+      "id": "p66"
+    },
+    {
+      "doknr": "BJNR258700008BJNE006901160",
+      "label": "§ 67",
+      "xml_element_sha256": "353367b360e0565bbee1f432ad9e8be4fd7947b7137f2483b3161ffb9fc13636",
+      "disposition": "statutory unit",
+      "id": "p67"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007001125",
+      "label": "§ 68",
+      "xml_element_sha256": "f9d51f8c7f0edc68de7f80b4926fe2172f5ee3a9ca390932da2a1e0d6b028619",
+      "disposition": "statutory unit",
+      "id": "p68"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007100000",
+      "label": "§ 69",
+      "xml_element_sha256": "013e4dc7f8c76c21c37a1c00a65a66cb971ec0da37b4d823210845136657544c",
+      "disposition": "statutory unit",
+      "id": "p69"
+    },
+    {
+      "doknr": "BJNR258700008BJNG000800000",
+      "label": "",
+      "xml_element_sha256": "7fc1f174a419576926c3280cf43ae552c9402d552c81970857a78f9b516b0710",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 2 — Rechtsbeschwerde"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007203125",
+      "label": "§ 70",
+      "xml_element_sha256": "a1c736ab768162394ecba7afd219ae968a4669be0f30af8092d5974b0da3ebcc",
+      "disposition": "statutory unit",
+      "id": "p70"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007300000",
+      "label": "§ 71",
+      "xml_element_sha256": "b58b24c9b83920936c681531f2bedefcdc6abd96d645ebddfcbc9cb77a73fa81",
+      "disposition": "statutory unit",
+      "id": "p71"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007400000",
+      "label": "§ 72",
+      "xml_element_sha256": "ac4a12ff7cda474f0da8c508edf8bacd32b5bd5819f1f72115d8bcd5a9ad8930",
+      "disposition": "statutory unit",
+      "id": "p72"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007501160",
+      "label": "§ 73",
+      "xml_element_sha256": "b548eb5da053ea0ae40d9e467819c70717edf727221e9f4f29ea6bf754dbc329",
+      "disposition": "statutory unit",
+      "id": "p73"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007600000",
+      "label": "§ 74",
+      "xml_element_sha256": "ffbff813d2442b6e941f2cfd1f316da71b667b7b522d0ec6a9fb92615461ad5e",
+      "disposition": "statutory unit",
+      "id": "p74"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007700000",
+      "label": "§ 74a",
+      "xml_element_sha256": "23601f9785799e09743a11e630be088c09b54a2b0a140fe45b895139e67c06d1",
+      "disposition": "statutory unit",
+      "id": "p74a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007801308",
+      "label": "§ 75",
+      "xml_element_sha256": "36f884187431d7b748f659c487755c2aefb40cdc5106a5b2f64cb0d194c72104",
+      "disposition": "statutory unit",
+      "id": "p75"
+    },
+    {
+      "doknr": "BJNR258700008BJNG000900000",
+      "label": "",
+      "xml_element_sha256": "90bc1cd1596a96cad300e68e95ae4e5f7354c10e147080ee312aad91146f8b3c",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 6 — Verfahrenskostenhilfe"
+    },
+    {
+      "doknr": "BJNR258700008BJNE007900000",
+      "label": "§ 76",
+      "xml_element_sha256": "7b11a01628cdfb8e28a69722baae43421bda55e86ae55242df4392180e5c809d",
+      "disposition": "statutory unit",
+      "id": "p76"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008002311",
+      "label": "§ 77",
+      "xml_element_sha256": "7415fb92a141fe026e332a6126d05d2e5fbbb8c750609b824acae27956b62b8c",
+      "disposition": "statutory unit",
+      "id": "p77"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008100000",
+      "label": "§ 78",
+      "xml_element_sha256": "9ff22e7c03d85a6742312bcbbb7c3f6c8db22f4b0a59ba6234a8903e3020e215",
+      "disposition": "statutory unit",
+      "id": "p78"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008200000",
+      "label": "§ 79",
+      "xml_element_sha256": "8515eb555de2c1fa7162e9e236cca482a6d473193e7e365d5b58cb9e37f3b0e8",
+      "disposition": "statutory unit",
+      "id": "p79"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001000000",
+      "label": "",
+      "xml_element_sha256": "78e1091857dac88662e83ebbdcf644ff2414ef26bb374ddc21f32fd0be489f61",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 7 — Kosten"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008300000",
+      "label": "§ 80",
+      "xml_element_sha256": "0179e36c404b5af6654034cf465a09c8b66bd8f08fcd7599a6ef0edc84d3171c",
+      "disposition": "statutory unit",
+      "id": "p80"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008402308",
+      "label": "§ 81",
+      "xml_element_sha256": "a401e38081faf4ccbdc23650aea1bff229703447a3c0d47fd9bf61704fa2775c",
+      "disposition": "statutory unit",
+      "id": "p81"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008500000",
+      "label": "§ 82",
+      "xml_element_sha256": "0e01dd378468fb72326ec39b5d0d70bc94ff01965f6d6491c23e98f45f88c566",
+      "disposition": "statutory unit",
+      "id": "p82"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008600000",
+      "label": "§ 83",
+      "xml_element_sha256": "ae673eb9bccc89597d2ec5e8be985c701ed712ab829efb907d0c92f30956be56",
+      "disposition": "statutory unit",
+      "id": "p83"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008700000",
+      "label": "§ 84",
+      "xml_element_sha256": "79c890dae325a9997ee896c22d6a82f8490b38a63045ff96597a4ece7d263e61",
+      "disposition": "statutory unit",
+      "id": "p84"
+    },
+    {
+      "doknr": "BJNR258700008BJNE053300131",
+      "label": "§ 84a",
+      "xml_element_sha256": "0e2b1f26484d8652b420965d8ef55834a6c92cfe56201f44fb6d0bf0ce2a4378",
+      "disposition": "statutory unit",
+      "id": "p84a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008800000",
+      "label": "§ 85",
+      "xml_element_sha256": "d4f5f1524e9313cb6fecc09f2c59dd98870f0afedb1ac603d11897d34059b109",
+      "disposition": "statutory unit",
+      "id": "p85"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001100000",
+      "label": "",
+      "xml_element_sha256": "87e1073d45b5b8926ecdeb34d17449b752a12096dc4b56c1180c45c514016bb1",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 8 — Vollstreckung"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001200000",
+      "label": "",
+      "xml_element_sha256": "9fe491086b07d3ca411d5bd041ca0b8aeaebeffdb1559e66539172eee62961bd",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 1 — Allgemeine Vorschriften"
+    },
+    {
+      "doknr": "BJNR258700008BJNE008900000",
+      "label": "§ 86",
+      "xml_element_sha256": "36fe61db4fa9c8d34f7d62cc27025dca1af6c55c850436ba9be2fe511709fb8a",
+      "disposition": "statutory unit",
+      "id": "p86"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009001125",
+      "label": "§ 87",
+      "xml_element_sha256": "a12c09f7e4f53a6bc1053440756527b9594353addcafc7b4c03b42ba32fa633b",
+      "disposition": "statutory unit",
+      "id": "p87"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001300000",
+      "label": "",
+      "xml_element_sha256": "3a4d50ff48554225deb61bbc1ff9e2babcc375e34377ffb2fecd1ff54c284542",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 2 — Vollstreckung von Entscheidungen über die Herausgabe von Personen und die Regelung des Umgangs"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009101311",
+      "label": "§ 88",
+      "xml_element_sha256": "219396f25bfc67df302a2669e0b0705061582126341a47c5d2773ff65362bf72",
+      "disposition": "statutory unit",
+      "id": "p88"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009201160",
+      "label": "§ 89",
+      "xml_element_sha256": "823c2b3e922c327581242f5331e4a13604725abc3f611828496fd66f9cb07e22",
+      "disposition": "statutory unit",
+      "id": "p89"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009300000",
+      "label": "§ 90",
+      "xml_element_sha256": "597e5c2204efe385453ec741d31b8540c498a0fdbffa303b0be4a963deefa314",
+      "disposition": "statutory unit",
+      "id": "p90"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009401160",
+      "label": "§ 91",
+      "xml_element_sha256": "4d2282574b195dbd55f8ac1c9fe8a246dbf555be11d499d5f0e891a2013e1fc6",
+      "disposition": "statutory unit",
+      "id": "p91"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009500000",
+      "label": "§ 92",
+      "xml_element_sha256": "207443d7b0d6521de21647b3126da44ffb17067536704766054b46d31a10c940",
+      "disposition": "statutory unit",
+      "id": "p92"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009600000",
+      "label": "§ 93",
+      "xml_element_sha256": "be21706e2f601de79b50c949707284affe1ac155835a322308f996d0ac4c41fb",
+      "disposition": "statutory unit",
+      "id": "p93"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009701160",
+      "label": "§ 94",
+      "xml_element_sha256": "865462e8319d52d4fd04e73e276694ca89caa10b711b7c1d1e77c7515a133589",
+      "disposition": "statutory unit",
+      "id": "p94"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001400000",
+      "label": "",
+      "xml_element_sha256": "84aabe685c180d6e3e3ea5955ae8c3ab5d53dbc51a4720d0b098a42cecc9ae63",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 3 — Vollstreckung nach der Zivilprozessordnung"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009801126",
+      "label": "§ 95",
+      "xml_element_sha256": "71a5cf14b8e48e26bd5247cf5c28d69da58f3cb1dad844bb174fb49a0dc67dba",
+      "disposition": "statutory unit",
+      "id": "p95"
+    },
+    {
+      "doknr": "BJNR258700008BJNE009902125",
+      "label": "§ 96",
+      "xml_element_sha256": "07c49a80d61b92c0f499ebf13dfc8d898e16bb9ee388eaf159ac83da192f681b",
+      "disposition": "statutory unit",
+      "id": "p96"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010000000",
+      "label": "§ 96a",
+      "xml_element_sha256": "34e21835cf7fa757075fcb02f29309a78a7f6eb47881fc73ccfeda0a78d2cd6e",
+      "disposition": "statutory unit",
+      "id": "p96a"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001500000",
+      "label": "",
+      "xml_element_sha256": "767cbe5fecd1fcf228153fe39bd3fcf73cea12effa7ce164956227db0d920a60",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 9 — Verfahren mit Auslandsbezug"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001601125",
+      "label": "",
+      "xml_element_sha256": "0abcc1d0358c63ba43be4b4beb424d90ffa239586530008e661e0a773ae2b8a1",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 1 — Verhältnis zu völkerrechtlichen Vereinbarungen und Rechtsakten der Europäischen Union"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010101125",
+      "label": "§ 97",
+      "xml_element_sha256": "796db2c33fd221de5ec27a07cc2604179289feb9129d1b289da281488f7c4ada",
+      "disposition": "statutory unit",
+      "id": "p97"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001700000",
+      "label": "",
+      "xml_element_sha256": "4ce246342109bc455781bb0c6efec0a437cb7429e521d5d2f16b3a894c85f71f",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 2 — Internationale Zuständigkeit"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010202125",
+      "label": "§ 98",
+      "xml_element_sha256": "2da3bf3df4f50ca36209f4bd86fc6b0ecf73ffdfa8ded779798eee9cc291351f",
+      "disposition": "statutory unit",
+      "id": "p98"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010301160",
+      "label": "§ 99",
+      "xml_element_sha256": "de85b7b9f4126ead7ed367565c571c2dac28e1553d38172d361d36248de15758",
+      "disposition": "statutory unit",
+      "id": "p99"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010400000",
+      "label": "§ 100",
+      "xml_element_sha256": "f18fc97d6390ebd51557d7073e3e873de8db0a765b0bf284c32171b2f09fe419",
+      "disposition": "statutory unit",
+      "id": "p100"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010500000",
+      "label": "§ 101",
+      "xml_element_sha256": "78c4e89757d71eaf46342a4ef5a33cf3a18f4f99a5fb560d3a57342c692056cf",
+      "disposition": "statutory unit",
+      "id": "p101"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010600000",
+      "label": "§ 102",
+      "xml_element_sha256": "04c6ff03be41e80d378d2e84414ffab53bbf0121bc64c58edb379fddf277dd61",
+      "disposition": "statutory unit",
+      "id": "p102"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010700000",
+      "label": "§ 103",
+      "xml_element_sha256": "0e4108edfd93b4d0d2f60df212d216c77d98b2cb3bcb331b6606787342f5d988",
+      "disposition": "statutory unit",
+      "id": "p103"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010803125",
+      "label": "§ 104",
+      "xml_element_sha256": "dc2d91edc8cd201997edb55c660298f38f0394c96e542bd2fb15939f27279509",
+      "disposition": "statutory unit",
+      "id": "p104"
+    },
+    {
+      "doknr": "BJNR258700008BJNE010900000",
+      "label": "§ 105",
+      "xml_element_sha256": "8a31bc940d4abff068987b5e40b5ee223f6c7fa448126f6cbd5ec644d9f403e6",
+      "disposition": "statutory unit",
+      "id": "p105"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011000000",
+      "label": "§ 106",
+      "xml_element_sha256": "e6b338e16c686040d7f99d35f5e58ea503491f593930a5713bdd925dbded95f2",
+      "disposition": "statutory unit",
+      "id": "p106"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001800000",
+      "label": "",
+      "xml_element_sha256": "fb84266e9e587b84e6b7fe1d32844dfafb011df9feaf25cb58c72689f3d8b94d",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 3 — Anerkennung und Vollstreckbarkeit ausländischer Entscheidungen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011100000",
+      "label": "§ 107",
+      "xml_element_sha256": "f33ef824b96a2b3e57854b2b0046dbb46c3f9f3d7e1f6bf4aea1dc2a8e9f459f",
+      "disposition": "statutory unit",
+      "id": "p107"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011201125",
+      "label": "§ 108",
+      "xml_element_sha256": "99356fff2c51f544fd140fb83f46efcafed9e08b6d4464b5619a5db0cbc4a1e4",
+      "disposition": "statutory unit",
+      "id": "p108"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011301160",
+      "label": "§ 109",
+      "xml_element_sha256": "83e1edc8b1877cf3fbadfdd07edc2db7616ee3bad096afeb21e9e60688062a74",
+      "disposition": "statutory unit",
+      "id": "p109"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011400000",
+      "label": "§ 110",
+      "xml_element_sha256": "2e23dc1a85aa54695d64cc80464579c7485d1001f51ed8ca23989148c8dfde37",
+      "disposition": "statutory unit",
+      "id": "p110"
+    },
+    {
+      "doknr": "BJNR258700008BJNG001900000",
+      "label": "",
+      "xml_element_sha256": "a8b3902080d5cd44bc37f78bf198601cbbe4cbe348f1854bb2a2a6fb1b6c1147",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Buch 2 — Verfahren in Familiensachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002000000",
+      "label": "",
+      "xml_element_sha256": "c12ff23539eb52169ebf0e0321b9feaaf5f4e0198feac2175662cb7f3fccd3eb",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 1 — Allgemeine Vorschriften"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011501160",
+      "label": "§ 111",
+      "xml_element_sha256": "bbaa56449626b1285115e432072f9c3df02165ab721f83db5369283a3102e333",
+      "disposition": "statutory unit",
+      "id": "p111"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011601160",
+      "label": "§ 112",
+      "xml_element_sha256": "d6abc4f8a5cca8b10ba39d8aa0b91d49df1222edd3008c5ccb407bd0c4f1456f",
+      "disposition": "statutory unit",
+      "id": "p112"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011703131",
+      "label": "§ 113",
+      "xml_element_sha256": "611b21734aa93ca20f199aafd8c616a65c9fdefb87bb63bfeaf20e2833f083d7",
+      "disposition": "statutory unit",
+      "id": "p113"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011804125",
+      "label": "§ 114",
+      "xml_element_sha256": "37a25af20d244d47f51a0a74dc0eba66f286b288e4a9b0c8581a304f72708cb0",
+      "disposition": "statutory unit",
+      "id": "p114"
+    },
+    {
+      "doknr": "BJNR258700008BJNE011900000",
+      "label": "§ 115",
+      "xml_element_sha256": "e6e1341134581dada27dba19c97fe7e3abba04f0bef308b965be9db31472bccd",
+      "disposition": "statutory unit",
+      "id": "p115"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012000000",
+      "label": "§ 116",
+      "xml_element_sha256": "79aa0d272d8b804c761a102d5f913b527e9a2ab87f30a6d6b13237d04a3f2031",
+      "disposition": "statutory unit",
+      "id": "p116"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012102308",
+      "label": "§ 117",
+      "xml_element_sha256": "3ba045a7d46c20cedf6764651f26706d74401a41caa236248093ed0afaa2c92c",
+      "disposition": "statutory unit",
+      "id": "p117"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012200000",
+      "label": "§ 118",
+      "xml_element_sha256": "8592ea01c851a2bdeb325f36e8aec05d0fbf76708b37873309fde2a709521c5a",
+      "disposition": "statutory unit",
+      "id": "p118"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012300000",
+      "label": "§ 119",
+      "xml_element_sha256": "3ebfc9b136068bf462c20637add89b513497cbdca759668f5ac605387d59f28c",
+      "disposition": "statutory unit",
+      "id": "p119"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012400000",
+      "label": "§ 120",
+      "xml_element_sha256": "87a627e0843bb017f0fe61b8919ebbd2a9da3e113950925ae40b4f86b0e5fe17",
+      "disposition": "statutory unit",
+      "id": "p120"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002100000",
+      "label": "",
+      "xml_element_sha256": "1868e3dab73130f5f520748df96163f5c844238bafc06dae2b7219def824aa04",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 2 — Verfahren in Ehesachen; Verfahren in Scheidungssachen und Folgesachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002200000",
+      "label": "",
+      "xml_element_sha256": "0ac444b65fed6d7a2c97df76d2f5df6d7594acff528a3e451e249a47e6068671",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 1 — Verfahren in Ehesachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012500000",
+      "label": "§ 121",
+      "xml_element_sha256": "298cb4473507dd697196cd281e0a16ae13b944a8239e85e67e30f9bdf2571299",
+      "disposition": "statutory unit",
+      "id": "p121"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012601311",
+      "label": "§ 122",
+      "xml_element_sha256": "c1701a1af9ebd9183ee311ce01632b32128b0b6833a820125393e2e841539307",
+      "disposition": "statutory unit",
+      "id": "p122"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012700000",
+      "label": "§ 123",
+      "xml_element_sha256": "a807cee132ea2368bf823267af4f2509801512508cc6038276762a14dffb16fc",
+      "disposition": "statutory unit",
+      "id": "p123"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012800000",
+      "label": "§ 124",
+      "xml_element_sha256": "276927c14f1deb282155873921e242959ed677d6f4640687e184a43a7ab60013",
+      "disposition": "statutory unit",
+      "id": "p124"
+    },
+    {
+      "doknr": "BJNR258700008BJNE012901160",
+      "label": "§ 125",
+      "xml_element_sha256": "17d16c2be194741a3be244de8ae41e6906ca2fc2baeae0a2c83bb69dd13d82eb",
+      "disposition": "statutory unit",
+      "id": "p125"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013000000",
+      "label": "§ 126",
+      "xml_element_sha256": "fbecff41d1d17cf73c5c5367d29ee377d993af7f69ba0eec423d1f81d6d880ba",
+      "disposition": "statutory unit",
+      "id": "p126"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013100000",
+      "label": "§ 127",
+      "xml_element_sha256": "2e965f49c413fcdf9e748cd89f25c13367210eeb69f4d6e77d0833417cc25e10",
+      "disposition": "statutory unit",
+      "id": "p127"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013200000",
+      "label": "§ 128",
+      "xml_element_sha256": "47fe4cd109e3976f9deacbcc203d63235e2b850c7e1bfc301f696bcdcfb98852",
+      "disposition": "statutory unit",
+      "id": "p128"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013300000",
+      "label": "§ 129",
+      "xml_element_sha256": "cb416e2f3eb964a3ccaf4ff3bdd9d4312e8b39a60670eb68df59adda6a2d09ec",
+      "disposition": "statutory unit",
+      "id": "p129"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051500311",
+      "label": "§ 129a",
+      "xml_element_sha256": "116552c9850e2a589c671adb898e2dcb366c7c55fafc0b57b8b2bbe3c713ebae",
+      "disposition": "statutory unit",
+      "id": "p129a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013400000",
+      "label": "§ 130",
+      "xml_element_sha256": "20491365b3cd0655fc52565c2ebfa410298646168d8789723575c6c7b227d6dc",
+      "disposition": "statutory unit",
+      "id": "p130"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013500000",
+      "label": "§ 131",
+      "xml_element_sha256": "2f1aff877ac930f42c4e9d2df7a71d2f553609ec9320c6b1865be6ac17eb5b54",
+      "disposition": "statutory unit",
+      "id": "p131"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013601311",
+      "label": "§ 132",
+      "xml_element_sha256": "1052dce7ae9e7e42cb532ed31ef53936829fd82179ac7d045e6693f98dc9ac83",
+      "disposition": "statutory unit",
+      "id": "p132"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002300000",
+      "label": "",
+      "xml_element_sha256": "d83f0f03887a22a0cbd6e54bd9606a3bd6bd76d11358cc4fc76e2e8f05d9b028",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 2 — Verfahren in Scheidungssachen und Folgesachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013701160",
+      "label": "§ 133",
+      "xml_element_sha256": "1981f90bfac8418196bb7f30f4c6c59b02eef09f9db93aad0eb775f3ae363d65",
+      "disposition": "statutory unit",
+      "id": "p133"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013800000",
+      "label": "§ 134",
+      "xml_element_sha256": "63a18783229ba775ad0a47334b9a6c30b8621ebf8396a1da58ec7a74c334f654",
+      "disposition": "statutory unit",
+      "id": "p134"
+    },
+    {
+      "doknr": "BJNR258700008BJNE013901308",
+      "label": "§ 135",
+      "xml_element_sha256": "1d8bad23e1457ec2d7600055457f68b047d7d65226acd88f48775e51c759572c",
+      "disposition": "statutory unit",
+      "id": "p135"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014000000",
+      "label": "§ 136",
+      "xml_element_sha256": "6dc08142c55307797509f623c5743fb77d0b8c7fdcf50801244bc875ead6337f",
+      "disposition": "statutory unit",
+      "id": "p136"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014102160",
+      "label": "§ 137",
+      "xml_element_sha256": "64210662b7b06b5245eeb39a8619169924283349a8da03f0a830529aa32a68c9",
+      "disposition": "statutory unit",
+      "id": "p137"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014200000",
+      "label": "§ 138",
+      "xml_element_sha256": "d49c99a9d44c2b74a152147b8a8f46a107499ce7d6aa5738f0c43c59b4a10a4a",
+      "disposition": "statutory unit",
+      "id": "p138"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014300000",
+      "label": "§ 139",
+      "xml_element_sha256": "4d42083954c1522b68e5f2df20a7b2723d80eaab12dc9229eb210e3a0bf77d94",
+      "disposition": "statutory unit",
+      "id": "p139"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014400000",
+      "label": "§ 140",
+      "xml_element_sha256": "1ac934fd33cdced08a20e8eb3b996cd7c2bea2acb4088ac4fdc763426db28996",
+      "disposition": "statutory unit",
+      "id": "p140"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014500000",
+      "label": "§ 141",
+      "xml_element_sha256": "6e438639ba16b67fa26c9b0c757b85c2661144d0e0fda14c5b553b05d6f1d8f3",
+      "disposition": "statutory unit",
+      "id": "p141"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014601160",
+      "label": "§ 142",
+      "xml_element_sha256": "0ab88ba9a810d71ba289be427a3be9ed4546e2aa61eb926562d3ed2994f871ac",
+      "disposition": "statutory unit",
+      "id": "p142"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014700000",
+      "label": "§ 143",
+      "xml_element_sha256": "cb0113ab50fd55e506d64fa495acf6da57317b03614a006c6b2240511dbff22f",
+      "disposition": "statutory unit",
+      "id": "p143"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014800000",
+      "label": "§ 144",
+      "xml_element_sha256": "4a6135f44d20305d6517c7b56aea2f402e3b01dec825c7c5feebb91ecdc97dde",
+      "disposition": "statutory unit",
+      "id": "p144"
+    },
+    {
+      "doknr": "BJNR258700008BJNE014902311",
+      "label": "§ 145",
+      "xml_element_sha256": "b83456d49328b65690c6201b783ab3e0fa7cf88b1ef7b4fe322f60a277d0da7c",
+      "disposition": "statutory unit",
+      "id": "p145"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015000000",
+      "label": "§ 146",
+      "xml_element_sha256": "2483b6b57c0d78bc2a0d6162d4c9c81d890753dbf96f9bfb81f43e6f2828aa74",
+      "disposition": "statutory unit",
+      "id": "p146"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015100000",
+      "label": "§ 147",
+      "xml_element_sha256": "eb43670c36832fb1003025fadaf279899c455cc1edc4da7bb8f5e94fd09a64b4",
+      "disposition": "statutory unit",
+      "id": "p147"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015200000",
+      "label": "§ 148",
+      "xml_element_sha256": "5893b2f6ce122736b5e98e419f7da1b3d61b2c49cdda34bfc4868dcfcd97e77a",
+      "disposition": "statutory unit",
+      "id": "p148"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015301160",
+      "label": "§ 149",
+      "xml_element_sha256": "e8df82b847abc1971bf33a68b12c2e79b7d48eba1dd2c1ad75cd46b025f4d6f4",
+      "disposition": "statutory unit",
+      "id": "p149"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015401308",
+      "label": "§ 150",
+      "xml_element_sha256": "c0a6e8938f00ae5fb5bc56779280bd4d0d8b540b8a0f9ba18c06e32a312a2939",
+      "disposition": "statutory unit",
+      "id": "p150"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002400000",
+      "label": "",
+      "xml_element_sha256": "6c2a0ab9969b681a1a7a1a4be89014b93532508032bd345f983391c5c08f39df",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 3 — Verfahren in Kindschaftssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015504125",
+      "label": "§ 151",
+      "xml_element_sha256": "20029b9ad6ceab0c5475f8c74d5088bf965c956990e04d901577ca2b702e8b59",
+      "disposition": "statutory unit",
+      "id": "p151"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015601125",
+      "label": "§ 152",
+      "xml_element_sha256": "0b244877c819a2e97c8fa66a3f8d08f589fb7309956b6383f713928971f61deb",
+      "disposition": "statutory unit",
+      "id": "p152"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015700000",
+      "label": "§ 153",
+      "xml_element_sha256": "66e57e4e93fe10c45f976e876f911394921d6d8d53aa3767213791b1c58ea1f1",
+      "disposition": "statutory unit",
+      "id": "p153"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015800000",
+      "label": "§ 154",
+      "xml_element_sha256": "3db378a7e5f8216dd98b7d42fc2c567d18dd7b5e85d00bf15d2257d91554869c",
+      "disposition": "statutory unit",
+      "id": "p154"
+    },
+    {
+      "doknr": "BJNR258700008BJNE015901308",
+      "label": "§ 155",
+      "xml_element_sha256": "b0662c7d8db5f604232aa2881de265a3196151951264b15f05d33cf6e1a9c532",
+      "disposition": "statutory unit",
+      "id": "p155"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050001125",
+      "label": "§ 155a",
+      "xml_element_sha256": "fdaa1db384ca71cca56244b5b2834f4386ddc758490404d0a3327518616ba8ed",
+      "disposition": "statutory unit",
+      "id": "p155a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051100311",
+      "label": "§ 155b",
+      "xml_element_sha256": "05180a85d0a649a90e0fb39d093e9613b198a1b9c3d4fb4dcaba4d50e69d252f",
+      "disposition": "statutory unit",
+      "id": "p155b"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051200311",
+      "label": "§ 155c",
+      "xml_element_sha256": "bda0d0e46cd926fda272498dc082070e43863e81eaa82a98beb7e873032d34ef",
+      "disposition": "statutory unit",
+      "id": "p155c"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016001308",
+      "label": "§ 156",
+      "xml_element_sha256": "2413899f4d02652e1df0eb0aafe1c20702615543a88b195e67f40601c467990a",
+      "disposition": "statutory unit",
+      "id": "p156"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016101308",
+      "label": "§ 157",
+      "xml_element_sha256": "698961412ff1f32e78de64910bd277c6080e801552192bf0a6ea0e56c1f62a6c",
+      "disposition": "statutory unit",
+      "id": "p157"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016205360",
+      "label": "§ 158",
+      "xml_element_sha256": "dee1f0d827e3f2b580336c794832a6f747a7190111ae835be994d9793550af79",
+      "disposition": "statutory unit",
+      "id": "p158"
+    },
+    {
+      "doknr": "BJNR258700008BJNE052802360",
+      "label": "§ 158a",
+      "xml_element_sha256": "77425b973b6644a2ba4ec111820f434f412e411279b45a530a683385482e5471",
+      "disposition": "statutory unit",
+      "id": "p158a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE052901125",
+      "label": "§ 158b",
+      "xml_element_sha256": "6685baa93b8696a81c97a7332eefae91484e8816befea66e0d0f208089f20a2b",
+      "disposition": "statutory unit",
+      "id": "p158b"
+    },
+    {
+      "doknr": "BJNR258700008BJNE053002125",
+      "label": "§ 158c",
+      "xml_element_sha256": "be488a62fcc87325864d9e997543f965357ceaea457dc6842bfd0616022b909f",
+      "disposition": "statutory unit",
+      "id": "p158c"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016301125",
+      "label": "§ 159",
+      "xml_element_sha256": "af1cc344c1d017b4c2662a7c4bbddb416e0b74c06250ca32426208d58c60c296",
+      "disposition": "statutory unit",
+      "id": "p159"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016400000",
+      "label": "§ 160",
+      "xml_element_sha256": "915816e7071e91da705e059dc7aa823f8c9ab77cc5c9e5a0b1a8298b68a258b4",
+      "disposition": "statutory unit",
+      "id": "p160"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016500000",
+      "label": "§ 161",
+      "xml_element_sha256": "ab398570484cd074e71f91c602e525d6285d908bcbae64ab984c61e63280fa5b",
+      "disposition": "statutory unit",
+      "id": "p161"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016601308",
+      "label": "§ 162",
+      "xml_element_sha256": "3e45ca2f0381ab6578f2f279c835bbb1f324e209c8e4f8d521bac677c065db18",
+      "disposition": "statutory unit",
+      "id": "p162"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016702311",
+      "label": "§ 163",
+      "xml_element_sha256": "65a0b61f404b78c8541752adf144eb8881c46c7175dd97288399b10f64788df7",
+      "disposition": "statutory unit",
+      "id": "p163"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051300311",
+      "label": "§ 163a",
+      "xml_element_sha256": "2251d58da0ecbd3e267ebfa63b1b58a3670adedaa13ee27f5724b3f7d7d937b0",
+      "disposition": "statutory unit",
+      "id": "p163a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016800000",
+      "label": "§ 164",
+      "xml_element_sha256": "4e0ae15969be0de51a50e05c5a6de775cba52311beaacea0a8fd7470c6d41e42",
+      "disposition": "statutory unit",
+      "id": "p164"
+    },
+    {
+      "doknr": "BJNR258700008BJNE016900000",
+      "label": "§ 165",
+      "xml_element_sha256": "388f0464a5e9cb78e9d9f63292d05c592799d233ce5f55dace2a45a6a5f43542",
+      "disposition": "statutory unit",
+      "id": "p165"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017001125",
+      "label": "§ 166",
+      "xml_element_sha256": "08a9ef046df6792433cb4fb70a3dbaa24a8f0ebd62714a778eb066b5c2af70fe",
+      "disposition": "statutory unit",
+      "id": "p166"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017103311",
+      "label": "§ 167",
+      "xml_element_sha256": "330b6b61137bce3f3bff49831cb8a965b2bc22d6abf44cc6b31662f7442da53e",
+      "disposition": "statutory unit",
+      "id": "p167"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050300311",
+      "label": "§ 167a",
+      "xml_element_sha256": "0146ccff25eeb21c2390d036d2bb8a67e799f858d7d51cea8a1b417cdc360a62",
+      "disposition": "statutory unit",
+      "id": "p167a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE052700125",
+      "label": "§ 167b",
+      "xml_element_sha256": "61f9f332d6ba066661c3b173025014213f898dd83c5c9156b6fdb26532b1250f",
+      "disposition": "statutory unit",
+      "id": "p167b"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017202125",
+      "label": "§ 168",
+      "xml_element_sha256": "7578cafb7e882885252e800844d2ba58723d9c9a9d25d91e414efbd3953de6a7",
+      "disposition": "statutory unit",
+      "id": "p168"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051700125",
+      "label": "§ 168a",
+      "xml_element_sha256": "d978047b3f102b73b545109c03abf60ea1f84ccdb5478fe59afb85b692c6dd7a",
+      "disposition": "statutory unit",
+      "id": "p168a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051800125",
+      "label": "§ 168b",
+      "xml_element_sha256": "6fa336b324f19dc4f7800fce6e4cdfc9bae62ba2070b9aa73b996ccbe86180ca",
+      "disposition": "statutory unit",
+      "id": "p168b"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051900125",
+      "label": "§ 168c",
+      "xml_element_sha256": "053f2f87cc95c6e470abc39b6aea95b28aa996716dfe411d7f70a2a38997323d",
+      "disposition": "statutory unit",
+      "id": "p168c"
+    },
+    {
+      "doknr": "BJNR258700008BJNE052000125",
+      "label": "§ 168d",
+      "xml_element_sha256": "d8904541dc766bf04350cb300210db879d450e8a2d91a2537f075c34105bcb86",
+      "disposition": "statutory unit",
+      "id": "p168d"
+    },
+    {
+      "doknr": "BJNR258700008BJNE052100125",
+      "label": "§ 168e",
+      "xml_element_sha256": "b0ef3487261d1b59f68dc53698af774589969a9c7c651195a3ef3b98f793fddc",
+      "disposition": "statutory unit",
+      "id": "p168e"
+    },
+    {
+      "doknr": "BJNR258700008BJNE052200125",
+      "label": "§ 168f",
+      "xml_element_sha256": "92b9af7b08dd1e488f912af2c0bb58f0e3a6da6c770aa6f359c4984405bd5d60",
+      "disposition": "statutory unit",
+      "id": "p168f"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017306125",
+      "label": "§ 168g",
+      "xml_element_sha256": "2fa4fda29bbd9b71978d574553289e44f20697345ea1a1f45d21f665675ec5cd",
+      "disposition": "statutory unit",
+      "id": "p168g"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002500000",
+      "label": "",
+      "xml_element_sha256": "a707500bff78f7fb6afea6b861a290601252f62c68ad40d5099c52b375addb2b",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 4 — Verfahren in Abstammungssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017400000",
+      "label": "§ 169",
+      "xml_element_sha256": "c2d3a1505d8f6cfc48b682b26b7ff75b52ecd0dc9c66ba7a2f6250bbcea91d93",
+      "disposition": "statutory unit",
+      "id": "p169"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017500000",
+      "label": "§ 170",
+      "xml_element_sha256": "0c5404674abb56db9aad7a10982d69581c8db27aea8a89fd3d0758ebd26a31fb",
+      "disposition": "statutory unit",
+      "id": "p170"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017602126",
+      "label": "§ 171",
+      "xml_element_sha256": "ba0b7ddbe33fe0f36f0309d55c63b7849b840303cc0ef35a4dc49fb81d9a447a",
+      "disposition": "statutory unit",
+      "id": "p171"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017700000",
+      "label": "§ 172",
+      "xml_element_sha256": "383b3cfb260253d8686593437515d986e3f40711627bed486978a473decda3e7",
+      "disposition": "statutory unit",
+      "id": "p172"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017800000",
+      "label": "§ 173",
+      "xml_element_sha256": "4f4bfa0943d0a63f1c0cdb6db8f59a9561cd5181b8775fa4547c94824cced2d6",
+      "disposition": "statutory unit",
+      "id": "p173"
+    },
+    {
+      "doknr": "BJNR258700008BJNE017902125",
+      "label": "§ 174",
+      "xml_element_sha256": "607f7752723f44a93b50b3b40ec524e5568912625a2179eef6b07f878ae92c83",
+      "disposition": "statutory unit",
+      "id": "p174"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018001126",
+      "label": "§ 175",
+      "xml_element_sha256": "8bda171e0f11ad98d9da7cdf128d318493a0860a2d08d2abd5554fa4153b3667",
+      "disposition": "statutory unit",
+      "id": "p175"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018102126",
+      "label": "§ 176",
+      "xml_element_sha256": "993968b09dc6fe82a912a3702387b5b34c640cb12c8ce0a297ab1bfbfc4a137e",
+      "disposition": "statutory unit",
+      "id": "p176"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018200000",
+      "label": "§ 177",
+      "xml_element_sha256": "9d73e1f0a5e50fab85f56c6ea4194950943bcab9bf1599725f803606cb06631f",
+      "disposition": "statutory unit",
+      "id": "p177"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018300000",
+      "label": "§ 178",
+      "xml_element_sha256": "bf6d3adcf0079d52c39c9da20323f5195b14e7a26caa1c0f3e2e50591fd86c9b",
+      "disposition": "statutory unit",
+      "id": "p178"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018400000",
+      "label": "§ 179",
+      "xml_element_sha256": "d5f4a94cd6ae0c2971fc957427867d5481581ebb92697405762337048a6262cc",
+      "disposition": "statutory unit",
+      "id": "p179"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018501126",
+      "label": "§ 180",
+      "xml_element_sha256": "80dfaec719be6c2e586ef0e98021295573b67ac8c40e67d7660800a89322b827",
+      "disposition": "statutory unit",
+      "id": "p180"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018600000",
+      "label": "§ 181",
+      "xml_element_sha256": "0e010afcc58416531b43e638871ec5eb075e13bb25cba08c0d57d8e2e5629d53",
+      "disposition": "statutory unit",
+      "id": "p181"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018701126",
+      "label": "§ 182",
+      "xml_element_sha256": "e1d28c635b2e04acd75e783b0ad97bcf0c61d8aafd0d06d32f169f267bc46128",
+      "disposition": "statutory unit",
+      "id": "p182"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018800000",
+      "label": "§ 183",
+      "xml_element_sha256": "483741c2cd9ba4a6d1e4177c32a954963bbcd317889fe8e384850ac455317446",
+      "disposition": "statutory unit",
+      "id": "p183"
+    },
+    {
+      "doknr": "BJNR258700008BJNE018900000",
+      "label": "§ 184",
+      "xml_element_sha256": "5f7bed8822f6bfaab465309ac6dbcc3c7b655acd41779012599bb20029835233",
+      "disposition": "statutory unit",
+      "id": "p184"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019000000",
+      "label": "§ 185",
+      "xml_element_sha256": "13b7b5a897ffe74425f9eb8033cad21bf42588e795408d2570fd7c3e1a449dac",
+      "disposition": "statutory unit",
+      "id": "p185"
+    },
+    {
+      "doknr": "BJNR258700008BJNE053400126",
+      "label": "§ 185a",
+      "xml_element_sha256": "931cd6ae1d7a72d8940c989aa6fc83405c5a38b9e17df65b2ef1627986f7faa3",
+      "disposition": "statutory unit",
+      "id": "p185a"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002600000",
+      "label": "",
+      "xml_element_sha256": "46a4c5d90736f06f63646056dbe555996d551d5efc9d6d4a5bf30a899dcab890",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 5 — Verfahren in Adoptionssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019100000",
+      "label": "§ 186",
+      "xml_element_sha256": "42bcdc7c42a39c763adbe698bbf9ed40f3f6b32a10e4d9b5fe31966334b72ce6",
+      "disposition": "statutory unit",
+      "id": "p186"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019203125",
+      "label": "§ 187",
+      "xml_element_sha256": "772f8b7d2d8f080a829b04cc35dccc62e3ec747ca424610a869ba17c83d9b749",
+      "disposition": "statutory unit",
+      "id": "p187"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019302311",
+      "label": "§ 188",
+      "xml_element_sha256": "71d4de5ea4d1899808666d768c2dc682256e71a3cd44ae59f632ceafa6c2012f",
+      "disposition": "statutory unit",
+      "id": "p188"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019401125",
+      "label": "§ 189",
+      "xml_element_sha256": "60fb6e4dce66e60d4012d386b0ff2c9eacd1e0140b4b6c2d64fc55cce019824e",
+      "disposition": "statutory unit",
+      "id": "p189"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019501125",
+      "label": "§ 190",
+      "xml_element_sha256": "e312834d0ac228d225371ab789dc2fbd82ff905a3a3d503d702ddaca24e62cf2",
+      "disposition": "statutory unit",
+      "id": "p190"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019602125",
+      "label": "§ 191",
+      "xml_element_sha256": "e9c6c60286ffabe219ce4dc27279dcf6b305c62c925f249bf59fff65c57627c7",
+      "disposition": "statutory unit",
+      "id": "p191"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019700000",
+      "label": "§ 192",
+      "xml_element_sha256": "7cb4b4874c4f436351c0831c0afb63e3f814ad77e877870b696ebcb5bae5aceb",
+      "disposition": "statutory unit",
+      "id": "p192"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019800000",
+      "label": "§ 193",
+      "xml_element_sha256": "db28f96cd0337c67b612cdc1edd7f93d67f79aa8f2829b8094776a3ecb3f9820",
+      "disposition": "statutory unit",
+      "id": "p193"
+    },
+    {
+      "doknr": "BJNR258700008BJNE019900000",
+      "label": "§ 194",
+      "xml_element_sha256": "8e9655fb236a93e23546ba3511c9d6497e7adf60ca333283fd2406aec4b889e8",
+      "disposition": "statutory unit",
+      "id": "p194"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020001125",
+      "label": "§ 195",
+      "xml_element_sha256": "b3e9e1128bce77d47599f4c9708f9a87bcdb970120245e31b427074c36404aae",
+      "disposition": "statutory unit",
+      "id": "p195"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020100000",
+      "label": "§ 196",
+      "xml_element_sha256": "9e0dda272ae54f2e597a960ce0147fc0e72b11a63b9c3d3325f130f4eb030151",
+      "disposition": "statutory unit",
+      "id": "p196"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051600125",
+      "label": "§ 196a",
+      "xml_element_sha256": "e38a5faaf2456b7f63a79584298d100f454e6c2aea95b0de4987c2fca9edd9d9",
+      "disposition": "statutory unit",
+      "id": "p196a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020200000",
+      "label": "§ 197",
+      "xml_element_sha256": "766629c59604ebc95facecb3fea5eb34cb44a95769241d7be3e264da721aaa21",
+      "disposition": "statutory unit",
+      "id": "p197"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020300000",
+      "label": "§ 198",
+      "xml_element_sha256": "6a7e808aec1669c7f7f885330bd2f0b143782f4e18121a7202fc871dfa04a889",
+      "disposition": "statutory unit",
+      "id": "p198"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020400000",
+      "label": "§ 199",
+      "xml_element_sha256": "cac5f62340ec5b81696cf48e973fb7beaf62421ec58c6c0dd46d19cf228193de",
+      "disposition": "statutory unit",
+      "id": "p199"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002701160",
+      "label": "",
+      "xml_element_sha256": "586236638684dd850f3f61546b7e096a346b2c7400c15ca38e4f2458d7660b70",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 6 — Verfahren in Ehewohnungs- und Haushaltssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020501160",
+      "label": "§ 200",
+      "xml_element_sha256": "622c2d3f625e739288f2756e932f61d44f7f060e00a4cc27e96b5a5438329e3c",
+      "disposition": "statutory unit",
+      "id": "p200"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020600000",
+      "label": "§ 201",
+      "xml_element_sha256": "c69c99f2261e0c610e60f0823e803e86db9f696b613c265af0ba2579aae85a9f",
+      "disposition": "statutory unit",
+      "id": "p201"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020701160",
+      "label": "§ 202",
+      "xml_element_sha256": "4f6c3469ff64f31121df2e58fb7cc94f9a091535068669bb54745bc2f816a1ce",
+      "disposition": "statutory unit",
+      "id": "p202"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020801160",
+      "label": "§ 203",
+      "xml_element_sha256": "027f3dafea157cb6ad28463f0560a02a50df8d06ac9fcc9462abedf804737d49",
+      "disposition": "statutory unit",
+      "id": "p203"
+    },
+    {
+      "doknr": "BJNR258700008BJNE020901160",
+      "label": "§ 204",
+      "xml_element_sha256": "2b883f5cc97ae5b2bdac7cbccd83703d87f099d881edce97b8a9d2e8aec8b241",
+      "disposition": "statutory unit",
+      "id": "p204"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021001160",
+      "label": "§ 205",
+      "xml_element_sha256": "9bfd848000c714447544a127ba24d27ee9909b9bc8cd227d53e7ef5d4f0c31ce",
+      "disposition": "statutory unit",
+      "id": "p205"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021101160",
+      "label": "§ 206",
+      "xml_element_sha256": "932c100fa26bfee094d0447625eedb3b64dd957ae18e3be66fa1e2536155cd1a",
+      "disposition": "statutory unit",
+      "id": "p206"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021200000",
+      "label": "§ 207",
+      "xml_element_sha256": "02a05d30d99a245871790f83d3a6dbb23e4c74f0d319591ac191379e15213d90",
+      "disposition": "statutory unit",
+      "id": "p207"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021300000",
+      "label": "§ 208",
+      "xml_element_sha256": "4a351dedd3cb591d98fdf5b5a7931476b0cf4d08a5ffd7613caab3fb0a091286",
+      "disposition": "statutory unit",
+      "id": "p208"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021401160",
+      "label": "§ 209",
+      "xml_element_sha256": "ed488f683ce6b2e626601d467505c180975f120fc2a662ab0aed34c7d4c29b34",
+      "disposition": "statutory unit",
+      "id": "p209"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002800000",
+      "label": "",
+      "xml_element_sha256": "e8e393dcf74f7c6efe5c999dddfbc7867a19015c678938287c7e55605dd30e3f",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 7 — Verfahren in Gewaltschutzsachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021500000",
+      "label": "§ 210",
+      "xml_element_sha256": "c783826cac6f53fda1b66fe1df64f915a9ffad54abe80d84964e96243936a415",
+      "disposition": "statutory unit",
+      "id": "p210"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021600000",
+      "label": "§ 211",
+      "xml_element_sha256": "412fa61452225fc9e9262bb869a4ac251ccefe4638c82a952cbfb67fcab7093c",
+      "disposition": "statutory unit",
+      "id": "p211"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021700000",
+      "label": "§ 212",
+      "xml_element_sha256": "29c1de79211a9f73492a59e086c094e047408cba5adec3b8f3da25b50602d680",
+      "disposition": "statutory unit",
+      "id": "p212"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021800000",
+      "label": "§ 213",
+      "xml_element_sha256": "dc06f6b6eaaba276a82efabc8e651f0320cb07f9639d9944bcb319ce577337b7",
+      "disposition": "statutory unit",
+      "id": "p213"
+    },
+    {
+      "doknr": "BJNR258700008BJNE021902126",
+      "label": "§ 214",
+      "xml_element_sha256": "95b58f1a7b8e72ce016e717ce7d71024f16eabd9c425f7150bb2d2c2889f75c1",
+      "disposition": "statutory unit",
+      "id": "p214"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051400311",
+      "label": "§ 214a",
+      "xml_element_sha256": "199d755fd18c0dc20d4028f8937f3caf66ee117dbace3fd5f7c38c04291b70d2",
+      "disposition": "statutory unit",
+      "id": "p214a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022000000",
+      "label": "§ 215",
+      "xml_element_sha256": "ce6c2c2644f8e3975f0b64790698cc353cdfe010203e6ec7a46f45ee7f65e3de",
+      "disposition": "statutory unit",
+      "id": "p215"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022100000",
+      "label": "§ 216",
+      "xml_element_sha256": "9bef197a5a0f05c62c5e1fbf9fab8c9c64019f9ba737e6e6419ddc1157aeba7d",
+      "disposition": "statutory unit",
+      "id": "p216"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022201311",
+      "label": "§ 216a",
+      "xml_element_sha256": "2638ae54600a22f76fe79ac2e42c8ce325021fab26fa71c2b61b00698b422cb0",
+      "disposition": "statutory unit",
+      "id": "p216a"
+    },
+    {
+      "doknr": "BJNR258700008BJNG002900000",
+      "label": "",
+      "xml_element_sha256": "4fff65aa4135c96b54564c133617139730f9fcda6c64d996a3a5b41cd85461e4",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 8 — Verfahren in Versorgungsausgleichssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022300000",
+      "label": "§ 217",
+      "xml_element_sha256": "ad30bf8a22e16133df489c4ae4d590cd1ff21e9790ce0db6f330f2455cb0bf00",
+      "disposition": "statutory unit",
+      "id": "p217"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022400000",
+      "label": "§ 218",
+      "xml_element_sha256": "26fbf34107fb109f5cd1d05099f4ac4544cfc64d98930e398cb2c9b0dcbab575",
+      "disposition": "statutory unit",
+      "id": "p218"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022501160",
+      "label": "§ 219",
+      "xml_element_sha256": "d1a1db42af07a1541da80fb510a901fb0e6110b893c647475184b3c6d1e368ab",
+      "disposition": "statutory unit",
+      "id": "p219"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022601160",
+      "label": "§ 220",
+      "xml_element_sha256": "8ee74ac451228209bcbd14495b733991528d8f5eedc4c2a84d791cdc59a4dfdf",
+      "disposition": "statutory unit",
+      "id": "p220"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022701160",
+      "label": "§ 221",
+      "xml_element_sha256": "ddbbfc206ad3b99ae28d007188c61e8245ec8669253fca398730f6e519342aba",
+      "disposition": "statutory unit",
+      "id": "p221"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022802125",
+      "label": "§ 222",
+      "xml_element_sha256": "92e8e99d31971b635896b898922985ccce8228238e7a6234fd6c27053cee751e",
+      "disposition": "statutory unit",
+      "id": "p222"
+    },
+    {
+      "doknr": "BJNR258700008BJNE022901160",
+      "label": "§ 223",
+      "xml_element_sha256": "8f78b7a5c84cc8a5b6a3b10c2c37e4265908df8d4e4447f5e39bdd1d4b820593",
+      "disposition": "statutory unit",
+      "id": "p223"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023001160",
+      "label": "§ 224",
+      "xml_element_sha256": "4adc62bf99176a367d9d19b2b430522593ccbe7d728f2bb8317d76abdb021ebd",
+      "disposition": "statutory unit",
+      "id": "p224"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023101160",
+      "label": "§ 225",
+      "xml_element_sha256": "52f88193f1ed33346a607ddb15b3f057224f2ccbbae4b7ae84001be18b6304f1",
+      "disposition": "statutory unit",
+      "id": "p225"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023202125",
+      "label": "§ 226",
+      "xml_element_sha256": "79de44a4fa1bbec84ad08fe67c036d5e06e306433f14ce1443438d1a30bed352",
+      "disposition": "statutory unit",
+      "id": "p226"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023301160",
+      "label": "§ 227",
+      "xml_element_sha256": "0d1321fd278346d156ec5eab057a894d8ec6638dbdb46d6fc197eb364212bf79",
+      "disposition": "statutory unit",
+      "id": "p227"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023401160",
+      "label": "§ 228",
+      "xml_element_sha256": "f40e45fa155c05033732a51d824788035d1987943e6c3da12af83f4117448859",
+      "disposition": "statutory unit",
+      "id": "p228"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023502311",
+      "label": "§ 229",
+      "xml_element_sha256": "cb2e4d55fd26fce580954f795f069a3ab7c031743e7ec74cb81f42eeeec5e509",
+      "disposition": "statutory unit",
+      "id": "p229"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023601160",
+      "label": "§ 230",
+      "xml_element_sha256": "cb5482cdb86ba2b2312f7d322340eb50c5a71a095b85569f05fa1aa3c967183f",
+      "disposition": "statutory unit",
+      "id": "p230"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003000000",
+      "label": "",
+      "xml_element_sha256": "06c6d6cbca3fe9c2825a19a8119bde5df4152d16f062c934e03e9b67c772164c",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 9 — Verfahren in Unterhaltssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003100000",
+      "label": "",
+      "xml_element_sha256": "aba8de2e5598ca957fdc5c5e51e2d7440dbdf1ae8c37b5694eb1cb8fc308baee",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 1 — Besondere Verfahrensvorschriften"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023701125",
+      "label": "§ 231",
+      "xml_element_sha256": "a025a1c73d4a8471f5c1f8281aed79bbde21d277b6e4f3ec0e8a2588a585c998",
+      "disposition": "statutory unit",
+      "id": "p231"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023800000",
+      "label": "§ 232",
+      "xml_element_sha256": "89d4f0d513fc5d7261882ed8e381488a7edde1374acd2617acad64451de3e3e4",
+      "disposition": "statutory unit",
+      "id": "p232"
+    },
+    {
+      "doknr": "BJNR258700008BJNE023902125",
+      "label": "§ 233",
+      "xml_element_sha256": "b546db21c336322729ba9499040bb6c03b843b8d35679e485324a6ffb39bf986",
+      "disposition": "statutory unit",
+      "id": "p233"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024000000",
+      "label": "§ 234",
+      "xml_element_sha256": "9570b3ee3b3b0fd42ac6433773b7c2c29d10b7c07d6feca7d4538d506590925d",
+      "disposition": "statutory unit",
+      "id": "p234"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024100000",
+      "label": "§ 235",
+      "xml_element_sha256": "cb6fc67f699b27bb1e2eec4107091d1aa3ce6643b851d3389a43aa010d7033fc",
+      "disposition": "statutory unit",
+      "id": "p235"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024200000",
+      "label": "§ 236",
+      "xml_element_sha256": "3db3fc866a3c47bda07679adcf90357514e4a41ffcfbf51b7ae4e5a31f6573a7",
+      "disposition": "statutory unit",
+      "id": "p236"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024300000",
+      "label": "§ 237",
+      "xml_element_sha256": "95d153d74b523f0ebd59c0394fbf6c1a8ebaef043200e524c77505484fe0e7b2",
+      "disposition": "statutory unit",
+      "id": "p237"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024400000",
+      "label": "§ 238",
+      "xml_element_sha256": "a2c7899dfc188b2a68359c31c056347e84d8f7cc8ee2a97d9573f600de1abf6a",
+      "disposition": "statutory unit",
+      "id": "p238"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024500000",
+      "label": "§ 239",
+      "xml_element_sha256": "f5fe51c5c76418c75ad8559f157cb5bc93e81a4da04b90ff047dfe2376322db4",
+      "disposition": "statutory unit",
+      "id": "p239"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024600000",
+      "label": "§ 240",
+      "xml_element_sha256": "a7b17185b073192a7ca01483bb214006132bdf954c3913dddcd357b3960bf519",
+      "disposition": "statutory unit",
+      "id": "p240"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024700000",
+      "label": "§ 241",
+      "xml_element_sha256": "12547ec1d3e3c56c17b3ce07384d781e687cb21897a9370f591ec6461ebb3f9b",
+      "disposition": "statutory unit",
+      "id": "p241"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024801160",
+      "label": "§ 242",
+      "xml_element_sha256": "b0a06e9d9acdc52dfbf2ad235210f01eea4c14ea744580d773d70c7df3ea8779",
+      "disposition": "statutory unit",
+      "id": "p242"
+    },
+    {
+      "doknr": "BJNR258700008BJNE024900000",
+      "label": "§ 243",
+      "xml_element_sha256": "fde9071a08501addc9379986dc629886de9107d07fc020697901bbadba717311",
+      "disposition": "statutory unit",
+      "id": "p243"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025000000",
+      "label": "§ 244",
+      "xml_element_sha256": "90ddb34580340a4744214016fff9ed617f5f3de914bda905ba8aba7b813db351",
+      "disposition": "statutory unit",
+      "id": "p244"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025100000",
+      "label": "§ 245",
+      "xml_element_sha256": "2947aa44e4ec7378377f7d198876325e6a19fc7454b1a3829e12720cd8745083",
+      "disposition": "statutory unit",
+      "id": "p245"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003200000",
+      "label": "",
+      "xml_element_sha256": "1d4aa1bc0c9b1ce04c616e4ed83e7dca43693fc394d272f28d82bd62d997caf1",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 2 — Einstweilige Anordnung"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025200000",
+      "label": "§ 246",
+      "xml_element_sha256": "6639b1080e90ed4a25a6d937ecd9ce62b4f80568db85f9d2947a156fb5aacc26",
+      "disposition": "statutory unit",
+      "id": "p246"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025300000",
+      "label": "§ 247",
+      "xml_element_sha256": "2913daad2a229e0627c26cd46e74e73982374de0a904053dd4fa5503105025b2",
+      "disposition": "statutory unit",
+      "id": "p247"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025400000",
+      "label": "§ 248",
+      "xml_element_sha256": "6c89effffc6c31b74b1031c7e6c35e3fd32bf18072bfe3114a21f117989f678b",
+      "disposition": "statutory unit",
+      "id": "p248"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003300000",
+      "label": "",
+      "xml_element_sha256": "7eea673a271f525648fc04c9ef8cae83ea36e86908d2da15738a93ad28039983",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 3 — Vereinfachtes Verfahren über den Unterhalt Minderjähriger"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025500000",
+      "label": "§ 249",
+      "xml_element_sha256": "b3ab0bb3b5a6258473ce8c03afff456f5a69f4183915b78e94a74bc0e8831ffc",
+      "disposition": "statutory unit",
+      "id": "p249"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025602131",
+      "label": "§ 250",
+      "xml_element_sha256": "454b3a68d13b44f11c59c0eefd283c633477e994022feb615e7a06669f4b3f91",
+      "disposition": "statutory unit",
+      "id": "p250"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025703311",
+      "label": "§ 251",
+      "xml_element_sha256": "49146af01f0752bd043700b610f39f753b74b41b788d7fc6b991475872ecfe67",
+      "disposition": "statutory unit",
+      "id": "p251"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025801311",
+      "label": "§ 252",
+      "xml_element_sha256": "28dc4e9256db46a4e953c58d123ebb7cbb54dcb3e3a9851382d126f872d76c9c",
+      "disposition": "statutory unit",
+      "id": "p252"
+    },
+    {
+      "doknr": "BJNR258700008BJNE025902311",
+      "label": "§ 253",
+      "xml_element_sha256": "307e565b4d561791810a4625c1bafbe20f3cfa9d24dafeef4e510178bee0f76f",
+      "disposition": "statutory unit",
+      "id": "p253"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026001311",
+      "label": "§ 254",
+      "xml_element_sha256": "ab340bbc5341041d0b79b2514fceab5aa71f9e99fe72d6a6782dd2e5f1eb1ba2",
+      "disposition": "statutory unit",
+      "id": "p254"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026102311",
+      "label": "§ 255",
+      "xml_element_sha256": "b34ef2ffd8560dffdd96479097896ded82bb930bb6cc4b28518058a7a9dfc8da",
+      "disposition": "statutory unit",
+      "id": "p255"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026201311",
+      "label": "§ 256",
+      "xml_element_sha256": "7f345dad53396dfd288bd3aacd91f71b3f3d3fd4c6ce1aaae32fb0367df73878",
+      "disposition": "statutory unit",
+      "id": "p256"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026300000",
+      "label": "§ 257",
+      "xml_element_sha256": "e21880d4ab5082e50be464122785c3892cc3dd89efabe3bf7e4e899e7a524a0b",
+      "disposition": "statutory unit",
+      "id": "p257"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026401311",
+      "label": "§ 258",
+      "xml_element_sha256": "2059867c24935a26d9a97eeb334b5079a1145d514f284b368752be33b2b100aa",
+      "disposition": "statutory unit",
+      "id": "p258"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026502125",
+      "label": "§ 259",
+      "xml_element_sha256": "31f71b4873b6bc6dd7d166ccb68ac4b3bca69fc234b4f30919451a675ccdf3f8",
+      "disposition": "statutory unit",
+      "id": "p259"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026600000",
+      "label": "§ 260",
+      "xml_element_sha256": "3ad6d71b291e6ef4f958870007c04033fc8e261465eac49e6a5fcf9e42435244",
+      "disposition": "statutory unit",
+      "id": "p260"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003400000",
+      "label": "",
+      "xml_element_sha256": "96971f0b7c847fb1fcf4ee3324f2b4fc779631d6bb573e45154335db895a659e",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 10 — Verfahren in Güterrechtssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026701308",
+      "label": "§ 261",
+      "xml_element_sha256": "202664350681ec6b9e1b1c9776aeb39044c8afd0a347e6f6f68ab7af2a7f86ec",
+      "disposition": "statutory unit",
+      "id": "p261"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026800000",
+      "label": "§ 262",
+      "xml_element_sha256": "8f93a5778ef342549f5f67c4c3e6decc995b1995722fb765e62e548755edb978",
+      "disposition": "statutory unit",
+      "id": "p262"
+    },
+    {
+      "doknr": "BJNR258700008BJNE026900000",
+      "label": "§ 263",
+      "xml_element_sha256": "b7fbbd08980b67076e3f71ad490e8aea8dd28918b019d1a691c213628066df6e",
+      "disposition": "statutory unit",
+      "id": "p263"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027001308",
+      "label": "§ 264",
+      "xml_element_sha256": "6d50cff8ee148650711fd72233fad0a1982f9bc780ee6671409d04e67416c6ed",
+      "disposition": "statutory unit",
+      "id": "p264"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027100000",
+      "label": "§ 265",
+      "xml_element_sha256": "2ea83e4d258195aa03ae00fff77f0e8da1bcbf4f4c20608ebf1954d2f87e00b7",
+      "disposition": "statutory unit",
+      "id": "p265"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003500000",
+      "label": "",
+      "xml_element_sha256": "1c80604cb13682e6176b91a67edd1a9562650585d93c983d381c547e407813b3",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 11 — Verfahren in sonstigen Familiensachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027200000",
+      "label": "§ 266",
+      "xml_element_sha256": "40a9a870f1a6f1b0c6dda1dd1389e17dcd44615be1ee153440c3ea4fc17ad2cf",
+      "disposition": "statutory unit",
+      "id": "p266"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027300000",
+      "label": "§ 267",
+      "xml_element_sha256": "1eaa82df7d277ab52422a832fd4e0e97684e3242886583ac5b70cf1a3b30d289",
+      "disposition": "statutory unit",
+      "id": "p267"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027400000",
+      "label": "§ 268",
+      "xml_element_sha256": "5185cfb7a6fe8368efccffd1cdd32a17b205fc98b492224357534c4803c16d52",
+      "disposition": "statutory unit",
+      "id": "p268"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003600000",
+      "label": "",
+      "xml_element_sha256": "8a6725e3f37ba0d834de35f15a637e1b936edc9db7e368b8c70304b023ec8827",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 12 — Verfahren in Lebenspartnerschaftssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027504125",
+      "label": "§ 269",
+      "xml_element_sha256": "6da9044a1d92f9392430a97e9b5a733f96c53a4767d4cba426ac0c088f3bdd46",
+      "disposition": "statutory unit",
+      "id": "p269"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027601160",
+      "label": "§ 270",
+      "xml_element_sha256": "14c28f0ee2cc9decbc4238d76fb8ac5b47bfb4c6ddc08676cc895e30143fb4b4",
+      "disposition": "statutory unit",
+      "id": "p270"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003700000",
+      "label": "",
+      "xml_element_sha256": "3433d2ef0c60844ddb4080db80e31a1bea763dc0141744123912a1c4ee53adbe",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Buch 3 — Verfahren in Betreuungs- und Unterbringungssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003800000",
+      "label": "",
+      "xml_element_sha256": "6696174c73aa39db126aedc056e5b08674c93c231759bf42817acb2af166c584",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 1 — Verfahren in Betreuungssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027701125",
+      "label": "§ 271",
+      "xml_element_sha256": "6085a473c44be4aa434ba555d743c461c410ae0cf56d2e1d39acc26aab026801",
+      "disposition": "statutory unit",
+      "id": "p271"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027800000",
+      "label": "§ 272",
+      "xml_element_sha256": "f543dd5b60d0e5c163dcd29e27f5a51ca6e69ea5bb4121de4efd28687489e0a7",
+      "disposition": "statutory unit",
+      "id": "p272"
+    },
+    {
+      "doknr": "BJNR258700008BJNE027900000",
+      "label": "§ 273",
+      "xml_element_sha256": "575aaedf0b9d90ca4767741a76b367450cf3da0b4deda53f032e50602da2a0c9",
+      "disposition": "statutory unit",
+      "id": "p273"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028001125",
+      "label": "§ 274",
+      "xml_element_sha256": "01321412d2f51bb8af29b64ea9e81fd2032f540dfe8c13d697072b2fc40fb70b",
+      "disposition": "statutory unit",
+      "id": "p274"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028101125",
+      "label": "§ 275",
+      "xml_element_sha256": "62d8fd3e3189ac9d374f2b6da222d753738f867c069a65acde084712c4ee86ac",
+      "disposition": "statutory unit",
+      "id": "p275"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028201125",
+      "label": "§ 276",
+      "xml_element_sha256": "7d390674ca2059088ad967b47a0bcb409f83c4567bd05273479d2eb5a7fa3879",
+      "disposition": "statutory unit",
+      "id": "p276"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028303125",
+      "label": "§ 277",
+      "xml_element_sha256": "768e5a02878b63213677ea4f377b42f3a675109c8dbc667d2160e7087983a7a5",
+      "disposition": "statutory unit",
+      "id": "p277"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028403125",
+      "label": "§ 278",
+      "xml_element_sha256": "15bbbdcaaa414669010ed23327c404f81a54ebbfb6fb4bfec479d48ba086d036",
+      "disposition": "statutory unit",
+      "id": "p278"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028502125",
+      "label": "§ 279",
+      "xml_element_sha256": "a8641cad07d5fbdd081d6f4523e7a5bf792c706be2cb970fb14de2ccf810b4a5",
+      "disposition": "statutory unit",
+      "id": "p279"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028602125",
+      "label": "§ 280",
+      "xml_element_sha256": "92e90940e409604adf4301edb5f9c15d773f00b1a0fc3d57230e4f33fdae05d3",
+      "disposition": "statutory unit",
+      "id": "p280"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028701125",
+      "label": "§ 281",
+      "xml_element_sha256": "f595e9cdc26a7a546cd32d87f916a43a754deca80ee6a981a74b36f52b1ac970",
+      "disposition": "statutory unit",
+      "id": "p281"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028802360",
+      "label": "§ 282",
+      "xml_element_sha256": "4125a1ae412a44051bb59e53cee93fbe3fcbdfa00e4cd4b629c17c0472c1a31b",
+      "disposition": "statutory unit",
+      "id": "p282"
+    },
+    {
+      "doknr": "BJNR258700008BJNE028901308",
+      "label": "§ 283",
+      "xml_element_sha256": "8bd747ad83a9a7c7f907f3b1efcdd83fd985cfe2f759e087d0263439244ddc2f",
+      "disposition": "statutory unit",
+      "id": "p283"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029000000",
+      "label": "§ 284",
+      "xml_element_sha256": "d00bf429039061abceda68ca59ea33b7edca28cbff6f913a9e59e6abf661c477",
+      "disposition": "statutory unit",
+      "id": "p284"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029103360",
+      "label": "§ 285",
+      "xml_element_sha256": "02a79e1904c66a10363afd34ebf6f2c548dfefa3b06b336fa3ef6dea0a149e9e",
+      "disposition": "statutory unit",
+      "id": "p285"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029201125",
+      "label": "§ 286",
+      "xml_element_sha256": "65bbfc4c3403336201c3be791092f105eef8baebcbdcd84ce66d0d70241dd956",
+      "disposition": "statutory unit",
+      "id": "p286"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029302125",
+      "label": "§ 287",
+      "xml_element_sha256": "4054009e363bfe6071f2e394503b52731569308cbcd9e2aadbc34bc24fbf382f",
+      "disposition": "statutory unit",
+      "id": "p287"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029400000",
+      "label": "§ 288",
+      "xml_element_sha256": "ce3077760c2623ee83f9d95a35300306921d766aa6372d1bbb1debb5fdb56b33",
+      "disposition": "statutory unit",
+      "id": "p288"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029501125",
+      "label": "§ 289",
+      "xml_element_sha256": "77d501519a59506fc9209da2c6a0fa5cb8410724d47fe6dad9b4e1d7e437e935",
+      "disposition": "statutory unit",
+      "id": "p289"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029601125",
+      "label": "§ 290",
+      "xml_element_sha256": "e849cd8234cb9cfbb8c26ed9555709a15610125fa521acb085e1c1a00e7aa12b",
+      "disposition": "statutory unit",
+      "id": "p290"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029701125",
+      "label": "§ 291",
+      "xml_element_sha256": "aeafe7feda5e2ad0ef0063cf2456608c16d91f87343b05df52b0a8a47f487abb",
+      "disposition": "statutory unit",
+      "id": "p291"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029803125",
+      "label": "§ 292",
+      "xml_element_sha256": "a7449983f7fce92833c8773f55de8d36972a3ed959981a92b69c36faf4caf539",
+      "disposition": "statutory unit",
+      "id": "p292"
+    },
+    {
+      "doknr": "BJNR258700008BJNE052301360",
+      "label": "§ 292a",
+      "xml_element_sha256": "2836c7f59a580e2c745e92bf34eaae0246f86b4395b70e690d6001548a9e1c36",
+      "disposition": "statutory unit",
+      "id": "p292a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE029903125",
+      "label": "§ 293",
+      "xml_element_sha256": "056d1830d1a22af3c9cf755b5badc946b18a9f214732898ecf25cc6b84cf54aa",
+      "disposition": "statutory unit",
+      "id": "p293"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030003360",
+      "label": "§ 294",
+      "xml_element_sha256": "afd343fb0459ccf218b9fd992f6b211586f67ee34cc90825198ffe101394256d",
+      "disposition": "statutory unit",
+      "id": "p294"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030102125",
+      "label": "§ 295",
+      "xml_element_sha256": "746a0d57aa4f6399bae9b4bb115ad7be5426f616b4d21ec00c4eb94015f6af20",
+      "disposition": "statutory unit",
+      "id": "p295"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030201125",
+      "label": "§ 296",
+      "xml_element_sha256": "d5f7fc4e9dc58273242291950121a0b5219b89eeb2683c92e82e5f0f53b81141",
+      "disposition": "statutory unit",
+      "id": "p296"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030301125",
+      "label": "§ 297",
+      "xml_element_sha256": "160a876232bcda2d991777cb08bd6ea11d88a6f423ad1441dbe3aeb6ee5ccae7",
+      "disposition": "statutory unit",
+      "id": "p297"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030403125",
+      "label": "§ 298",
+      "xml_element_sha256": "77061e63f94360c1369f4bf1e6f3a24c88992a7ee8fb26d4260a033b1041071c",
+      "disposition": "statutory unit",
+      "id": "p298"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030502125",
+      "label": "§ 299",
+      "xml_element_sha256": "1378767bdbcde5501a6b8bc6fc5ea0847c7051f415b173409a3c7967e4ead0ae",
+      "disposition": "statutory unit",
+      "id": "p299"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030600000",
+      "label": "§ 300",
+      "xml_element_sha256": "1a16551c986bc91f6db95a591864fc15b10697372435906aa5e089d4496c8d23",
+      "disposition": "statutory unit",
+      "id": "p300"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030701125",
+      "label": "§ 301",
+      "xml_element_sha256": "a441354dd999709915f500228ee426fb20c90d72e43ecb29d8a71ddf29f17524",
+      "disposition": "statutory unit",
+      "id": "p301"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030800000",
+      "label": "§ 302",
+      "xml_element_sha256": "486a279629a7d19911c59738adf38215a91f0f5cb87e4d99e692e22e6c889d78",
+      "disposition": "statutory unit",
+      "id": "p302"
+    },
+    {
+      "doknr": "BJNR258700008BJNE030900000",
+      "label": "§ 303",
+      "xml_element_sha256": "0a82926d7836e480810099c9e87ed8537b3a16481532b0cf1523140f78004718",
+      "disposition": "statutory unit",
+      "id": "p303"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031001125",
+      "label": "§ 304",
+      "xml_element_sha256": "62158499bcaea1b6268aa78a525b2924b42bbe67b28d88600140aa8cec198221",
+      "disposition": "statutory unit",
+      "id": "p304"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031100000",
+      "label": "§ 305",
+      "xml_element_sha256": "8039716f7b6ca1fb29d7eeff29f5e4ec6b93a6e7e7edcfc4406c57329ddf6e28",
+      "disposition": "statutory unit",
+      "id": "p305"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031200000",
+      "label": "§ 306",
+      "xml_element_sha256": "8339e5e96b9c0436687568a53c0077e365037ef60d7d77cf7b57afb2a3fc4e14",
+      "disposition": "statutory unit",
+      "id": "p306"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031301125",
+      "label": "§ 307",
+      "xml_element_sha256": "aaf4de69016b07498ab9bbed00c9166fe71139c96f07cefb3346841a32466383",
+      "disposition": "statutory unit",
+      "id": "p307"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031400000",
+      "label": "§ 308",
+      "xml_element_sha256": "ba7bfbff493f07e191cdb981f10fa9e2a7ff24f8efbcf9710ba10c3692d0fa42",
+      "disposition": "statutory unit",
+      "id": "p308"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031502125",
+      "label": "§ 309",
+      "xml_element_sha256": "fd204aadc257592851ea74f3f5bcd31cf175d77f15be2b3402d87f8ae1c975bb",
+      "disposition": "statutory unit",
+      "id": "p309"
+    },
+    {
+      "doknr": "BJNR258700008BJNE052400125",
+      "label": "§ 309a",
+      "xml_element_sha256": "074013724573344f3c4f37069bb3580dc1e295cd91c5446e82999e4baddcef74",
+      "disposition": "statutory unit",
+      "id": "p309a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031602360",
+      "label": "§ 310",
+      "xml_element_sha256": "26a5272a630ab6494889431e1430b06ed743ccc7d368c2987bfa341be91d0c6f",
+      "disposition": "statutory unit",
+      "id": "p310"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031701125",
+      "label": "§ 311",
+      "xml_element_sha256": "8a7dd049460845398f93ba8f065ae59490b41ae5db2560bc47d363254ca01894",
+      "disposition": "statutory unit",
+      "id": "p311"
+    },
+    {
+      "doknr": "BJNR258700008BJNG003900000",
+      "label": "",
+      "xml_element_sha256": "f8ad7d2919877f009dbefb4509133a3d30d44bba3fb291d27b1e894e1d0d4d3c",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 2 — Verfahren in Unterbringungssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031804125",
+      "label": "§ 312",
+      "xml_element_sha256": "f88553f342c8a9aa02fdc1fbec144f435f371b9a4fe89fb1ab7f9aee84be4f45",
+      "disposition": "statutory unit",
+      "id": "p312"
+    },
+    {
+      "doknr": "BJNR258700008BJNE031902125",
+      "label": "§ 313",
+      "xml_element_sha256": "8c2ad96d62a6dac9376d3ca6be2b18135b3a1d581dc66b212f362415a8a03c67",
+      "disposition": "statutory unit",
+      "id": "p313"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032000000",
+      "label": "§ 314",
+      "xml_element_sha256": "9d60e891a510277e1cc26228d5581d0cdeba748cadc97b782a3ba220c5dc69b6",
+      "disposition": "statutory unit",
+      "id": "p314"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032101125",
+      "label": "§ 315",
+      "xml_element_sha256": "d3d57392ee365961739f884fa9964f57952e02704bf630035f9717a3f41823f3",
+      "disposition": "statutory unit",
+      "id": "p315"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032200000",
+      "label": "§ 316",
+      "xml_element_sha256": "db6aa69de2d21d9be1fff7fa2b159814615037c4eec08ee034f886c18ae18ba0",
+      "disposition": "statutory unit",
+      "id": "p316"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032302125",
+      "label": "§ 317",
+      "xml_element_sha256": "e9d9b8c6b20439cfb8a4b7fd62aac33457b9b0e231390922b550d04029dc2ffc",
+      "disposition": "statutory unit",
+      "id": "p317"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032400000",
+      "label": "§ 318",
+      "xml_element_sha256": "b44a1ad9c8d7cd7f85560ba66d490eb3a1d6cb40d6e5d21115b41461a93ff4d7",
+      "disposition": "statutory unit",
+      "id": "p318"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032502125",
+      "label": "§ 319",
+      "xml_element_sha256": "0e8b3468ae5e9466124c0c5a77b58073c24010b34844f453bf86cafd0e55bbc5",
+      "disposition": "statutory unit",
+      "id": "p319"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032600000",
+      "label": "§ 320",
+      "xml_element_sha256": "cacd61f792958b851bd40fcf84cc756a6853647a74039ccf797309c62cd8f2eb",
+      "disposition": "statutory unit",
+      "id": "p320"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032702125",
+      "label": "§ 321",
+      "xml_element_sha256": "a0c6d6dacfa90951b8c539215e3c220aa0fbcff9a5f808e487e5efa7a9742991",
+      "disposition": "statutory unit",
+      "id": "p321"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032800000",
+      "label": "§ 322",
+      "xml_element_sha256": "05a945020f20a40e918cfa6542cd8cdb90e56554ec235c7e657e102b7bd46c05",
+      "disposition": "statutory unit",
+      "id": "p322"
+    },
+    {
+      "doknr": "BJNR258700008BJNE032901308",
+      "label": "§ 323",
+      "xml_element_sha256": "b07bb88224bf91f7c212a6bbd6e9a5b8a03d4200b22e28e5d2a5a4c0bd9fc1ac",
+      "disposition": "statutory unit",
+      "id": "p323"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033001125",
+      "label": "§ 324",
+      "xml_element_sha256": "47bc3faee8b241a08308971827c205fdcf89a557d613ff38c714979dd27d0d65",
+      "disposition": "statutory unit",
+      "id": "p324"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033100000",
+      "label": "§ 325",
+      "xml_element_sha256": "2219883d4035a270cdf2a4df601d42f93bb9848e541581eb13ac16c39b18f769",
+      "disposition": "statutory unit",
+      "id": "p325"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033203125",
+      "label": "§ 326",
+      "xml_element_sha256": "61c6c988d64f3430f4d8986b4beb8814d9f27f62a9d8e1cdd2c18949deb0f553",
+      "disposition": "statutory unit",
+      "id": "p326"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033302125",
+      "label": "§ 327",
+      "xml_element_sha256": "fe7aad440ce2c2780ed51d498c2d3036bbb2e7e7209201c61f11598c0d710005",
+      "disposition": "statutory unit",
+      "id": "p327"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033401311",
+      "label": "§ 328",
+      "xml_element_sha256": "21f78ab2513f1979225a364f48353b379c806b0930b9e6858a7d96e9da201efc",
+      "disposition": "statutory unit",
+      "id": "p328"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033502125",
+      "label": "§ 329",
+      "xml_element_sha256": "dbde7a80bd067f54d24c5922d4fe23064701b9448edc04bfce1576c26e8e19ca",
+      "disposition": "statutory unit",
+      "id": "p329"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033602125",
+      "label": "§ 330",
+      "xml_element_sha256": "8bec9bfd7ffecdd8cdbd5eca0083c69b6c8e99f5aef48992da88aebf66bc7bec",
+      "disposition": "statutory unit",
+      "id": "p330"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033703125",
+      "label": "§ 331",
+      "xml_element_sha256": "5ee23d69614a9f823b63785f97f3341ccd84285bb20d50eaac3f7015f07d5a24",
+      "disposition": "statutory unit",
+      "id": "p331"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033801125",
+      "label": "§ 332",
+      "xml_element_sha256": "28584ff3173ba3eb48a8cc16cbcd8b150659a338b9db39a0506c74824765d884",
+      "disposition": "statutory unit",
+      "id": "p332"
+    },
+    {
+      "doknr": "BJNR258700008BJNE033901308",
+      "label": "§ 333",
+      "xml_element_sha256": "29f82cbc29867158c6ea77799cbf1029c574ee045a17eb50461395cc0024953d",
+      "disposition": "statutory unit",
+      "id": "p333"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034001125",
+      "label": "§ 334",
+      "xml_element_sha256": "f1bfaf7cd6887b7c373fb752256eeb958ddd356bd353e7f269fe897dd7c1e740",
+      "disposition": "statutory unit",
+      "id": "p334"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034100000",
+      "label": "§ 335",
+      "xml_element_sha256": "71c826e09185a902f73e9b8a39c12603d922a45be12c25675ba60039233417b9",
+      "disposition": "statutory unit",
+      "id": "p335"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034200000",
+      "label": "§ 336",
+      "xml_element_sha256": "25da9c5797bc53dd5eba2c3646860250b2621362e56667f430ef5807fe515a9a",
+      "disposition": "statutory unit",
+      "id": "p336"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034302125",
+      "label": "§ 337",
+      "xml_element_sha256": "c2d27bba370414e0fad7ca4aa9de3ce6cbe3a3079d174bdedc41fd864d56da1b",
+      "disposition": "statutory unit",
+      "id": "p337"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034400000",
+      "label": "§ 338",
+      "xml_element_sha256": "c16ba0e67b9b2d8088117e59e5e585dfda38a7defa044c2cf432c4731808ee3e",
+      "disposition": "statutory unit",
+      "id": "p338"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034501125",
+      "label": "§ 339",
+      "xml_element_sha256": "845f574473a3ba61ae5e22cd420e4f378785e85f8b8e18a935c3781473ac6387",
+      "disposition": "statutory unit",
+      "id": "p339"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004000000",
+      "label": "",
+      "xml_element_sha256": "e26b8572e2be80537d3c26206451660d2ea66d2a9433c4c651998f7d837ae9c8",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 3 — Verfahren in betreuungsgerichtlichen Zuweisungssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034601125",
+      "label": "§ 340",
+      "xml_element_sha256": "25e6302f41ff56d213d3602735146716ad4bdb65e1f0f6b731d142db99136fd9",
+      "disposition": "statutory unit",
+      "id": "p340"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034700000",
+      "label": "§ 341",
+      "xml_element_sha256": "8441358e25e09570b466d8184bee6a23919d5779daa7d878518371b42a5d69f1",
+      "disposition": "statutory unit",
+      "id": "p341"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004100000",
+      "label": "",
+      "xml_element_sha256": "9968b8a3484b642a455a840e88bc7174ad622b4c793a90d06f71b5571ec32dee",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Buch 4 — Verfahren in Nachlass- und Teilungssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004200000",
+      "label": "",
+      "xml_element_sha256": "702282dd3a263ec69aff1548a70d751c49bbd9b669b20a4325b7192be5d87e61",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 1 — Begriffsbestimmung; örtliche Zuständigkeit"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034800000",
+      "label": "§ 342",
+      "xml_element_sha256": "410cf7c8d86928bf54250b60e24855beccd128e4a49962fec57f7fea3aacd078",
+      "disposition": "statutory unit",
+      "id": "p342"
+    },
+    {
+      "doknr": "BJNR258700008BJNE034901311",
+      "label": "§ 343",
+      "xml_element_sha256": "7daa0431ec953cdcb5c07affffcadcc772ce37576828829fcba585f0ddd8be68",
+      "disposition": "statutory unit",
+      "id": "p343"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035003131",
+      "label": "§ 344",
+      "xml_element_sha256": "4b2259862b66fcd271fb220ecc1ddc35cdddfb3f0d3e893eff8713d306cac1d1",
+      "disposition": "statutory unit",
+      "id": "p344"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004300000",
+      "label": "",
+      "xml_element_sha256": "d6f71b1d11f35f17244d60e63e28547f8e799bcc029235e274d2c48ba59db685",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 2 — Verfahren in Nachlasssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004400000",
+      "label": "",
+      "xml_element_sha256": "81ab4ae670074cb8aa281fe93ba2da7ecea3336296173099bce732be525fe769",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 1 — Allgemeine Bestimmungen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035100000",
+      "label": "§ 345",
+      "xml_element_sha256": "7cb1c578842117460dbcd86ae13ee5ad3b12b802dbbd26bb25ff1f24fcdc2e47",
+      "disposition": "statutory unit",
+      "id": "p345"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004500000",
+      "label": "",
+      "xml_element_sha256": "244f6325e140f6e94886e62d27244493df9a61635033e6692273ea4cea87f8ee",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 2 — Verwahrung von Verfügungen von Todes wegen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035200000",
+      "label": "§ 346",
+      "xml_element_sha256": "353610c83404cc5ba6b85bb38218ae890edfaf10d59d23aef97e9d6b468878c9",
+      "disposition": "statutory unit",
+      "id": "p346"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035303125",
+      "label": "§ 347",
+      "xml_element_sha256": "12870be5a8ca1703fc2637affee2b306aa397763f78db44e08d50d15694c0511",
+      "disposition": "statutory unit",
+      "id": "p347"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004600000",
+      "label": "",
+      "xml_element_sha256": "d7698f3cf8858d4c7d61983a9317ddf462604a783432490f37eba577b2d31ec9",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 3 — Eröffnung von Verfügungen von Todes wegen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035400000",
+      "label": "§ 348",
+      "xml_element_sha256": "961ec9371e1c8508526c98820901560b61ca13d4a7fede3e40bcb1815c7584fa",
+      "disposition": "statutory unit",
+      "id": "p348"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035500000",
+      "label": "§ 349",
+      "xml_element_sha256": "20ec9fbb4b98959b242252e075cda8fbbb56f477c6eb4fc8276e3b38e6be5236",
+      "disposition": "statutory unit",
+      "id": "p349"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035600000",
+      "label": "§ 350",
+      "xml_element_sha256": "90c1f6c0152adcfe93baf7f3ba0367a9e0378bbd64e133ef83ede508478d30d1",
+      "disposition": "statutory unit",
+      "id": "p350"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035700000",
+      "label": "§ 351",
+      "xml_element_sha256": "e2e42bebc8c87e8dbbec4102d1cd303de26889e8f464fbdba445f5ff67386914",
+      "disposition": "statutory unit",
+      "id": "p351"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004700000",
+      "label": "",
+      "xml_element_sha256": "44a048017d87e7d2161328eafc63d6616b14ff07eae6670280e15770869b27bb",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 4 — Erbscheinsverfahren; Testamentsvollstreckung"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035801311",
+      "label": "§ 352",
+      "xml_element_sha256": "86c072b7f7a72c601a0e452be7a26736514d190e4844ca86762f9f11fac1e0ed",
+      "disposition": "statutory unit",
+      "id": "p352"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050600311",
+      "label": "§ 352a",
+      "xml_element_sha256": "663833825a9c2a3fe77ec2336798ec48bd98eced94d3956a38f43144ceb1f282",
+      "disposition": "statutory unit",
+      "id": "p352a"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050700311",
+      "label": "§ 352b",
+      "xml_element_sha256": "41dd859bc8a8b641a0849442c5bfa77fa6900e01a12f6f14c270ad6b1a0977be",
+      "disposition": "statutory unit",
+      "id": "p352b"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050800311",
+      "label": "§ 352c",
+      "xml_element_sha256": "932fe150b98242d06ea140686d6bf46b8eb552d5fb63a1490e3976283db061b7",
+      "disposition": "statutory unit",
+      "id": "p352c"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050900311",
+      "label": "§ 352d",
+      "xml_element_sha256": "ba5ab641cac3483042aa70db90c85ac3f7dc6daec3f2035b8a97caa4359a69ef",
+      "disposition": "statutory unit",
+      "id": "p352d"
+    },
+    {
+      "doknr": "BJNR258700008BJNE051000311",
+      "label": "§ 352e",
+      "xml_element_sha256": "e92958851039ff7be39ff9cce8661f642550458cb01473e430d849cd3a9e0b33",
+      "disposition": "statutory unit",
+      "id": "p352e"
+    },
+    {
+      "doknr": "BJNR258700008BJNE035901311",
+      "label": "§ 353",
+      "xml_element_sha256": "5c3d9f2578cb548edfddd2e3b3939fb65392afb7e5858d641622e7036e2ce9c3",
+      "disposition": "statutory unit",
+      "id": "p353"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036001311",
+      "label": "§ 354",
+      "xml_element_sha256": "5d911c44bf5cf4a544238333403d109482ad038c65fe236bb753413ae911a465",
+      "disposition": "statutory unit",
+      "id": "p354"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036100000",
+      "label": "§ 355",
+      "xml_element_sha256": "37aedb9084d9ab1454d5ea55f5969ab9441ade1a36f4ca6c7b1cb1d32461b86d",
+      "disposition": "statutory unit",
+      "id": "p355"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004800000",
+      "label": "",
+      "xml_element_sha256": "7e46aa1cd82f1c129b24a893bc609b3d8b8b2f0d52592bd1b401c265e3d93524",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 5 — Sonstige verfahrensrechtliche Regelungen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036201125",
+      "label": "§ 356",
+      "xml_element_sha256": "49fe439c8a153ac370cc230c922abf01101561491d8c34ce2d127dfcac2e8cf3",
+      "disposition": "statutory unit",
+      "id": "p356"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036300000",
+      "label": "§ 357",
+      "xml_element_sha256": "d6c100c1d58663699b6a005409ff0ccdee3b705dcee5761cd0ab71903e83707b",
+      "disposition": "statutory unit",
+      "id": "p357"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036400000",
+      "label": "§ 358",
+      "xml_element_sha256": "09362eeff66b5a0a3a0581257188198c516aea8f39cec37d1a6d185bd2ea9a62",
+      "disposition": "statutory unit",
+      "id": "p358"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036500000",
+      "label": "§ 359",
+      "xml_element_sha256": "57959866a743b44d190ae8bfbc8e194972b707759756c478023df2ef843bd8dd",
+      "disposition": "statutory unit",
+      "id": "p359"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036600000",
+      "label": "§ 360",
+      "xml_element_sha256": "2d2503582a720035d3238a995f705297362545599094b6a3fd2c57fedc466888",
+      "disposition": "statutory unit",
+      "id": "p360"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036700000",
+      "label": "§ 361",
+      "xml_element_sha256": "32b2117156109a5313cb8872d0866617cfd2f7bbea2ae1547427dbd94d5a26f7",
+      "disposition": "statutory unit",
+      "id": "p361"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036800000",
+      "label": "§ 362",
+      "xml_element_sha256": "986ae60ae5c5dacdb0a95a978fdf97cedc1742aecb9f43d90d474af1828954fd",
+      "disposition": "statutory unit",
+      "id": "p362"
+    },
+    {
+      "doknr": "BJNR258700008BJNG004900000",
+      "label": "",
+      "xml_element_sha256": "d0e59f495010aed1a8c6aae943a9d16fc20f79d2c0672baa3addd8c86a753f78",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 3 — Verfahren in Teilungssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE036901311",
+      "label": "§ 363",
+      "xml_element_sha256": "e551fe5f754713a30e01826f84e22fec16644a625bb0947b65adee9c6d898c07",
+      "disposition": "statutory unit",
+      "id": "p363"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037001311",
+      "label": "§ 364",
+      "xml_element_sha256": "6c3cb00da092425f43dfbf5c7953347d3e0b4a611b50a4bd346f7520de3c3b28",
+      "disposition": "statutory unit",
+      "id": "p364"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037101311",
+      "label": "§ 365",
+      "xml_element_sha256": "016b427ff72a8cdde8e7aeccbec2bbc5f8b9a1471965f415b2a837fc55005ade",
+      "disposition": "statutory unit",
+      "id": "p365"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037201311",
+      "label": "§ 366",
+      "xml_element_sha256": "2bb863be041569941aa9af3fb0d30fc720f5c0d70cfc9729878a860dae00c59d",
+      "disposition": "statutory unit",
+      "id": "p366"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037300000",
+      "label": "§ 367",
+      "xml_element_sha256": "b17a9d554372c3a7af2e1958d2ff398d1b471b6baf4c2962a3d3aa874432ff74",
+      "disposition": "statutory unit",
+      "id": "p367"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037401311",
+      "label": "§ 368",
+      "xml_element_sha256": "a47384cecae6b2a3113cabb423c11c744f8e5ad52d7396c7e1b6829ab25f6689",
+      "disposition": "statutory unit",
+      "id": "p368"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037501311",
+      "label": "§ 369",
+      "xml_element_sha256": "427b42623bbff7ae2819272b049f5b420bb5ef5f2495a3d9a886c7ac0b2eaa26",
+      "disposition": "statutory unit",
+      "id": "p369"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037601311",
+      "label": "§ 370",
+      "xml_element_sha256": "861ad252f188d5d1e5463bc0b7e7494e4d08421b4595d41cb56da5eea29b9901",
+      "disposition": "statutory unit",
+      "id": "p370"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037700000",
+      "label": "§ 371",
+      "xml_element_sha256": "23fe2463b51c6034f1d5f432e6a38ddae64fcc7cf1b2f1025328c79fb80b3383",
+      "disposition": "statutory unit",
+      "id": "p371"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037800000",
+      "label": "§ 372",
+      "xml_element_sha256": "264b1f13a2a1b2d07a398c76d6653bb28e0233ff4f6c5931050788b0d100bc0f",
+      "disposition": "statutory unit",
+      "id": "p372"
+    },
+    {
+      "doknr": "BJNR258700008BJNE037901311",
+      "label": "§ 373",
+      "xml_element_sha256": "d36f3a42c21a5cd8b381b07c94ec49836b72b1b7dffb3eeed77014bf51ed3951",
+      "disposition": "statutory unit",
+      "id": "p373"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005000000",
+      "label": "",
+      "xml_element_sha256": "fc50dcd40fae958e48dad9b2e0411a4733b7bf4419b3870e6e8c89fee7358905",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Buch 5 — Verfahren in Registersachen, unternehmensrechtliche Verfahren"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005100000",
+      "label": "",
+      "xml_element_sha256": "8cf340790ec3f35ed1b1950959201c54dbed21e07877ad4370f70ae00d9cd8d5",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 1 — Begriffsbestimmung"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038003125",
+      "label": "§ 374",
+      "xml_element_sha256": "05f3982de6c7be8bf4c1a913669852ffc0a46301864950421cf4f6d827e9163f",
+      "disposition": "statutory unit",
+      "id": "p374"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038117126",
+      "label": "§ 375",
+      "xml_element_sha256": "9ec61eb1a94e122a42dbee83f19f1ac9dc181b19fb1ad5aecec0b5b7acb06df3",
+      "disposition": "statutory unit",
+      "id": "p375"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005200000",
+      "label": "",
+      "xml_element_sha256": "cbd38d5661cf315b5447c5931f2b8fd388c5b6849107a7ed637f65280b040bb1",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 2 — Zuständigkeit"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038205125",
+      "label": "§ 376",
+      "xml_element_sha256": "6d4f7676c9e3c4d218f212497fea9ba8b13a6513ca6c01b4ef3a442db5bc19a7",
+      "disposition": "statutory unit",
+      "id": "p376"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038301125",
+      "label": "§ 377",
+      "xml_element_sha256": "c51a6054f94213a23437882fefeb77a83c92f8bb255ed1788946a13715118d09",
+      "disposition": "statutory unit",
+      "id": "p377"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005300000",
+      "label": "",
+      "xml_element_sha256": "20bad63d0329651ac9b4d2457e85e4b2cd4f91678d96937aabf9b9aab26f629d",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 3 — Registersachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005400000",
+      "label": "",
+      "xml_element_sha256": "6463c1b5e6b67245d368a8244e1d3c6110945615c724d339ca8cebc10e778da2",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 1 — Verfahren"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038404125",
+      "label": "§ 378",
+      "xml_element_sha256": "cbd501fa7ffcc7d7fec1047ba7598e5eb902be3da4e2c9a76fbbdfc82c9780cc",
+      "disposition": "statutory unit",
+      "id": "p378"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038501125",
+      "label": "§ 379",
+      "xml_element_sha256": "0287598bc06e7cb896c6e1a4d06f108d45a666f1dd73eb0cc195a103cce45054",
+      "disposition": "statutory unit",
+      "id": "p379"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038601125",
+      "label": "§ 380",
+      "xml_element_sha256": "369b9d51d175712769b9059a91438c1141156dc6c21bf552f4b68a4411f410b4",
+      "disposition": "statutory unit",
+      "id": "p380"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038700000",
+      "label": "§ 381",
+      "xml_element_sha256": "c430c86102ad9877d641c9cfd32dbc6067771b6984890231f9b6a16801be8119",
+      "disposition": "statutory unit",
+      "id": "p381"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038803125",
+      "label": "§ 382",
+      "xml_element_sha256": "7b780f4d8cfcd13698e10587e682f1dd1ed9bbcf58c6c370c9739f1132f08b23",
+      "disposition": "statutory unit",
+      "id": "p382"
+    },
+    {
+      "doknr": "BJNR258700008BJNE038901308",
+      "label": "§ 383",
+      "xml_element_sha256": "991baa3855ee5c1a4313329f1b4cb565c8a1ff1668f2c59212ccd8ae0fb9d6d8",
+      "disposition": "statutory unit",
+      "id": "p383"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039000000",
+      "label": "§ 384",
+      "xml_element_sha256": "3b5cf58bf47a8945d0013751b31e730ff41d0971453eafe687b4080790751222",
+      "disposition": "statutory unit",
+      "id": "p384"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039100000",
+      "label": "§ 385",
+      "xml_element_sha256": "a9d507d250e135d59838e73bc3a2ed65aaf314754fc32379ee81b54880f9aa4a",
+      "disposition": "statutory unit",
+      "id": "p385"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039200000",
+      "label": "§ 386",
+      "xml_element_sha256": "934f52d787cb71b8e0e7637acff9352508df30d2da9512e4519d97349e489eff",
+      "disposition": "statutory unit",
+      "id": "p386"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039305125",
+      "label": "§ 387",
+      "xml_element_sha256": "1e8f7e01f113f15d6b7900ee3b3a05c71cd9ed8ae177c1c6f0791aabd5396f53",
+      "disposition": "statutory unit",
+      "id": "p387"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005500000",
+      "label": "",
+      "xml_element_sha256": "c5dcb72c1c667cf7a427957e49d3456342e1856d2cb3f454fde4bf317084d7c1",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 2 — Zwangsgeldverfahren"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039404125",
+      "label": "§ 388",
+      "xml_element_sha256": "e5e07fa50c4bb91b02700245ee77e868b94a842e0ef31cbe063e703269a95b86",
+      "disposition": "statutory unit",
+      "id": "p388"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039500000",
+      "label": "§ 389",
+      "xml_element_sha256": "c48bca2c77315d66876f4921ecb3b8cf177bc65aab58b4a137b9da42c96d07c4",
+      "disposition": "statutory unit",
+      "id": "p389"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039600000",
+      "label": "§ 390",
+      "xml_element_sha256": "4e5608437812fcedfb72c8d53511fd401f7325de74deb9a0cf41b3d0f6e05ca0",
+      "disposition": "statutory unit",
+      "id": "p390"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039700000",
+      "label": "§ 391",
+      "xml_element_sha256": "f5b82d5a4d52190ea3c9475eb1687e65939b437ef828d8e742e729e9795361fb",
+      "disposition": "statutory unit",
+      "id": "p391"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039801125",
+      "label": "§ 392",
+      "xml_element_sha256": "18984981f27a185bd4423150f11d96522fd9359cd4a983b38b368f2776c24898",
+      "disposition": "statutory unit",
+      "id": "p392"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005600000",
+      "label": "",
+      "xml_element_sha256": "72a3e36066dfdecd3dfce74f0d0543bf28a4b9cffd92f53ba0094c5ef0ba00a7",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 3 — Löschungs- und Auflösungsverfahren"
+    },
+    {
+      "doknr": "BJNR258700008BJNE039902125",
+      "label": "§ 393",
+      "xml_element_sha256": "64276fb98f7af7b234fbb80824da0f57595b4482d045df7caecd825ba29565f5",
+      "disposition": "statutory unit",
+      "id": "p393"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040002125",
+      "label": "§ 394",
+      "xml_element_sha256": "73ba68a330c3ad1be0d9ca84ee5b3d233d693662866478b58eb8e00b711b5896",
+      "disposition": "statutory unit",
+      "id": "p394"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040100000",
+      "label": "§ 395",
+      "xml_element_sha256": "8b371f5f36d3ad0cbd29eded9436d339f63eb943ef7ffb1c68db8f6606f5df1c",
+      "disposition": "statutory unit",
+      "id": "p395"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040200000",
+      "label": "§ 396",
+      "xml_element_sha256": "a4e5a34c0e0f81a18f37b2b685e4839cf52801e30bb641627b46837a8236b852",
+      "disposition": "statutory unit",
+      "id": "p396"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040300000",
+      "label": "§ 397",
+      "xml_element_sha256": "cdbd749fe2cd90b7b6405da93c44760446190fde7d9b4ad49c96708395db33c7",
+      "disposition": "statutory unit",
+      "id": "p397"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040400000",
+      "label": "§ 398",
+      "xml_element_sha256": "7f75b0024143abceaf425bd20f22c7850d962c5972019abb3682dcfc46582361",
+      "disposition": "statutory unit",
+      "id": "p398"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040500000",
+      "label": "§ 399",
+      "xml_element_sha256": "8344e6563835bcfdf47902c9f3c7320adf62de2693f859a7df575868355a8076",
+      "disposition": "statutory unit",
+      "id": "p399"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005700000",
+      "label": "",
+      "xml_element_sha256": "4f925ad1dc5bbbd1c365a2404f92a78bd5e1dc352b0c62821dd50176a30e37d7",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Unterabschnitt 4 — Ergänzende Vorschriften für das Vereinsregister"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040600000",
+      "label": "§ 400",
+      "xml_element_sha256": "f2a98180232b03f0a2541d8a14d26b8b747b520eac8d19b4fef74ea7abf74b8e",
+      "disposition": "statutory unit",
+      "id": "p400"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040700000",
+      "label": "§ 401",
+      "xml_element_sha256": "5355ff6df7abfec61b8f189f7d4c5147e04802d660db4563d206b5d616a04121",
+      "disposition": "statutory unit",
+      "id": "p401"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005800000",
+      "label": "",
+      "xml_element_sha256": "145088bd76b0d94efdc520afa24c4a525fbe6b23934dd8de79876b6893abb9c1",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 4 — Unternehmensrechtliche Verfahren"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040802311",
+      "label": "§ 402",
+      "xml_element_sha256": "cba623074c0f5e1820628a339bac0e14a2645fdfcb1c25c5ab823343cf2c55e8",
+      "disposition": "statutory unit",
+      "id": "p402"
+    },
+    {
+      "doknr": "BJNR258700008BJNE040900000",
+      "label": "§ 403",
+      "xml_element_sha256": "1be812da37f7257fd2b1dabacb2d910bc3841a62fde9db60446ba779e2f4d71a",
+      "disposition": "statutory unit",
+      "id": "p403"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041001311",
+      "label": "§ 404",
+      "xml_element_sha256": "db3f68e6a9e97018a24c1a6555b6683c22047e2049fcafd669ce96712cccfea2",
+      "disposition": "statutory unit",
+      "id": "p404"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041100000",
+      "label": "§ 405",
+      "xml_element_sha256": "191ccf1070d0b819d80619a3cb882cf465e692bf6f3ac69d67ac9f7a02b257c6",
+      "disposition": "statutory unit",
+      "id": "p405"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041200000",
+      "label": "§ 406",
+      "xml_element_sha256": "587442edfc198b02d591f956ae46651a44af168b511068de12b1c33db3de824f",
+      "disposition": "statutory unit",
+      "id": "p406"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041300000",
+      "label": "§ 407",
+      "xml_element_sha256": "890b6c95e1efffa59d263b13d7873c653dd1b0494af8301c292ff9c2c76968d7",
+      "disposition": "statutory unit",
+      "id": "p407"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041400000",
+      "label": "§ 408",
+      "xml_element_sha256": "b9fbedcaadf4afb1b8ea0c6d39ff0ee800b2d7d8e69a26851877be7b9d2367ce",
+      "disposition": "statutory unit",
+      "id": "p408"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041501311",
+      "label": "§ 409",
+      "xml_element_sha256": "f907f44c93a69b29657cea4473942706ad443444478d81748f1e14af67a9515c",
+      "disposition": "statutory unit",
+      "id": "p409"
+    },
+    {
+      "doknr": "BJNR258700008BJNG005900000",
+      "label": "",
+      "xml_element_sha256": "109fe6417bba4752ae185786931895d7c97d21e036f1d2d1ba290668aca9755a",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Buch 6 — Verfahren in weiteren Angelegenheiten der freiwilligen Gerichtsbarkeit"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041601308",
+      "label": "§ 410",
+      "xml_element_sha256": "b107be66be69711b8608f90c7d9f457c49ea81d5a19ebb88a3b1532b8c9aabfc",
+      "disposition": "statutory unit",
+      "id": "p410"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041700000",
+      "label": "§ 411",
+      "xml_element_sha256": "c6388cec73da1f95adf4d4f6f25fc19930bbd50a5466dc2e5289e86637dffff0",
+      "disposition": "statutory unit",
+      "id": "p411"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041800000",
+      "label": "§ 412",
+      "xml_element_sha256": "367747ba9d9036c93eb61fc2c6aa1542aea4996e9e81c92e36e6a894c77d50f2",
+      "disposition": "statutory unit",
+      "id": "p412"
+    },
+    {
+      "doknr": "BJNR258700008BJNE041900000",
+      "label": "§ 413",
+      "xml_element_sha256": "10269990c7d41d2cb747e1f0c66900cc71cf2a3986b4fad18ce2131985fa8f49",
+      "disposition": "statutory unit",
+      "id": "p413"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042000000",
+      "label": "§ 414",
+      "xml_element_sha256": "5e3d5d35637aba82eb0d85c42ef58c0166c7df07a7e52c0405feb1bffa59ff08",
+      "disposition": "statutory unit",
+      "id": "p414"
+    },
+    {
+      "doknr": "BJNR258700008BJNG006000000",
+      "label": "",
+      "xml_element_sha256": "3d180602b8e9c5354fd1436391b4a4f7b290a116c6c0057f0bfbd426ef840000",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Buch 7 — Verfahren in Freiheitsentziehungssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042100000",
+      "label": "§ 415",
+      "xml_element_sha256": "6bc040a4650be214355d2731f74bf43c7488e36cc0b307f0af85a8462fb68030",
+      "disposition": "statutory unit",
+      "id": "p415"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042200000",
+      "label": "§ 416",
+      "xml_element_sha256": "c6523dc4c3cefc95db175b6d2c0766ea5cb4f36188219abeb23c537d94e733b9",
+      "disposition": "statutory unit",
+      "id": "p416"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042301125",
+      "label": "§ 417",
+      "xml_element_sha256": "1b8c23b90a7619fac60721a6288a7462de12161fd6542a4a3ecbb9865c7e86e6",
+      "disposition": "statutory unit",
+      "id": "p417"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042400000",
+      "label": "§ 418",
+      "xml_element_sha256": "f1e291354cc63d4481c1adb5fac2ef3c17499b90a8729450db01b4e023dbdd42",
+      "disposition": "statutory unit",
+      "id": "p418"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042501125",
+      "label": "§ 419",
+      "xml_element_sha256": "dc73f95b84e2eca06b16a39133cea91df00f5324f116acccd3b74cebd7223500",
+      "disposition": "statutory unit",
+      "id": "p419"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042600000",
+      "label": "§ 420",
+      "xml_element_sha256": "b6ed5295cb69e57fa952d34044e5a2cc4840faeca6b521429d2cec79250f44a9",
+      "disposition": "statutory unit",
+      "id": "p420"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042700000",
+      "label": "§ 421",
+      "xml_element_sha256": "a2ed082df3da6753314f0336976375a5b51ef4f9a970ba01792fdd38a1659199",
+      "disposition": "statutory unit",
+      "id": "p421"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042802126",
+      "label": "§ 422",
+      "xml_element_sha256": "4ec1d1a8d7e5d2fdd9baee11c6f0bfbdd88da112b44c4d3ede7205c28d7b39aa",
+      "disposition": "statutory unit",
+      "id": "p422"
+    },
+    {
+      "doknr": "BJNR258700008BJNE042900000",
+      "label": "§ 423",
+      "xml_element_sha256": "c81145a04818aa336289448f64a3fecc16934ec62ea7d98270bfdf70e399c099",
+      "disposition": "statutory unit",
+      "id": "p423"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043000000",
+      "label": "§ 424",
+      "xml_element_sha256": "b465ab9f2be4e48c0be5d75f57c0bbf664079f53e399d571c872a07f8357b31c",
+      "disposition": "statutory unit",
+      "id": "p424"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043100000",
+      "label": "§ 425",
+      "xml_element_sha256": "d7a6be0b1a39b1668417886424726847ae775a8daebcfc7cca662aaeb805f5fd",
+      "disposition": "statutory unit",
+      "id": "p425"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043200000",
+      "label": "§ 426",
+      "xml_element_sha256": "45dcc1da8c862d4068dfff6d474d1993c1e8f42653f47b42ad23d61a6e6d55f1",
+      "disposition": "statutory unit",
+      "id": "p426"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043301125",
+      "label": "§ 427",
+      "xml_element_sha256": "95fdc0a695a86792734742bc95e792a00cf2eb46b31606fe3fcb26edea45bf66",
+      "disposition": "statutory unit",
+      "id": "p427"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043400000",
+      "label": "§ 428",
+      "xml_element_sha256": "79a007ec266e2008265b854cacc3b9d685d9dd046529192dacc1e5dabdcfbe09",
+      "disposition": "statutory unit",
+      "id": "p428"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043500000",
+      "label": "§ 429",
+      "xml_element_sha256": "ad5c9bc0104795db84baea244dadeac40b58b3b687f282c2542417916168bc64",
+      "disposition": "statutory unit",
+      "id": "p429"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043600000",
+      "label": "§ 430",
+      "xml_element_sha256": "d196d5dcec1aa9aa66f9ab88fe8ad728714f5f9f4cdbe8c08d6f301d6027ac9b",
+      "disposition": "statutory unit",
+      "id": "p430"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043700000",
+      "label": "§ 431",
+      "xml_element_sha256": "35d850f76d02475d4497d63b8cae065698fdd96e9c832461c0b5813f928bcfc9",
+      "disposition": "statutory unit",
+      "id": "p431"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043800000",
+      "label": "§ 432",
+      "xml_element_sha256": "5579aad560adb91c6e62a0f8bc992cee103470fa42be54b2428b7e7842957a76",
+      "disposition": "statutory unit",
+      "id": "p432"
+    },
+    {
+      "doknr": "BJNR258700008BJNG006100000",
+      "label": "",
+      "xml_element_sha256": "7374fc71dd8edd7349db3c5251107e9897714039baf9961bd1d14da9c1301e53",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Buch 8 — Verfahren in Aufgebotssachen"
+    },
+    {
+      "doknr": "BJNR258700008BJNG006200000",
+      "label": "",
+      "xml_element_sha256": "e14a038d55c5f7311bc7fbfddf184d1409afdb78f764e3b93b2506df62187e65",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 1 — Allgemeine Verfahrensvorschriften"
+    },
+    {
+      "doknr": "BJNR258700008BJNE043900000",
+      "label": "§ 433",
+      "xml_element_sha256": "452122bf26f4eb9060d564c8cfae1523281edf2d7b80db2016ab0981ebbe4e38",
+      "disposition": "statutory unit",
+      "id": "p433"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044000000",
+      "label": "§ 434",
+      "xml_element_sha256": "bb5394f38d4587dc57261a5efa4e951f4d9e9606d7e45f8d401d40926f41feb9",
+      "disposition": "statutory unit",
+      "id": "p434"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044101140",
+      "label": "§ 435",
+      "xml_element_sha256": "bc1a7447601bb425e67abc4f7eab7618e0eabacb6adfcfe42cd5adfb1b9cc3de",
+      "disposition": "statutory unit",
+      "id": "p435"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044200000",
+      "label": "§ 436",
+      "xml_element_sha256": "e5a7483ffbe2dcedbf70053346c7d6bb0255ae6e6891d65be82525c5cd1115ef",
+      "disposition": "statutory unit",
+      "id": "p436"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044301140",
+      "label": "§ 437",
+      "xml_element_sha256": "5bbf25c37db5eb8fc8160e249cce633baa6e25717b97c55a171689f4c1637cc5",
+      "disposition": "statutory unit",
+      "id": "p437"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044400000",
+      "label": "§ 438",
+      "xml_element_sha256": "1be9f712f9f0e3cc2a3e67c9dc4cd91438add310c001dd1aa7d2098290f3dd69",
+      "disposition": "statutory unit",
+      "id": "p438"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044500000",
+      "label": "§ 439",
+      "xml_element_sha256": "bb7604046c98cf1fbb86e9c21295358a0faf877f69bff6caa38cc42b353a9ee4",
+      "disposition": "statutory unit",
+      "id": "p439"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044600000",
+      "label": "§ 440",
+      "xml_element_sha256": "538721891ba2a9e326bcf256d398bd141ac0eaefb66d8247ac5c73f0e832ddc9",
+      "disposition": "statutory unit",
+      "id": "p440"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044700000",
+      "label": "§ 441",
+      "xml_element_sha256": "ab6366f966cfb5ec31a48e55e907b6e654c58d36689fe5caa70556d23a1f5344",
+      "disposition": "statutory unit",
+      "id": "p441"
+    },
+    {
+      "doknr": "BJNR258700008BJNG006300000",
+      "label": "",
+      "xml_element_sha256": "bcab639acac8e65452d06f8b5ff9e39bae813ce33eb955115578bfadb613f410",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 2 — Aufgebot des Eigentümers von Grundstücken, Schiffen und Schiffsbauwerken"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044800000",
+      "label": "§ 442",
+      "xml_element_sha256": "a50083984dcb3a0be743ad4bfe60d16bd8c4128663ad3c951daa1cf2da1240a9",
+      "disposition": "statutory unit",
+      "id": "p442"
+    },
+    {
+      "doknr": "BJNR258700008BJNE044900000",
+      "label": "§ 443",
+      "xml_element_sha256": "a9407e49c6718eac384d6a33540add9bbf00ac8ca19d9dd552c8be32bd79a587",
+      "disposition": "statutory unit",
+      "id": "p443"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045000000",
+      "label": "§ 444",
+      "xml_element_sha256": "98f0e3e1aca5781bfb660c2b4d1bbd8e352189cb5cfd8fb3fc7033e00afad1b1",
+      "disposition": "statutory unit",
+      "id": "p444"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045100000",
+      "label": "§ 445",
+      "xml_element_sha256": "4428b9d19864c0ec854ccd8989a367c343ca3cdce9cbf411b63d5c6f8891a82e",
+      "disposition": "statutory unit",
+      "id": "p445"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045200000",
+      "label": "§ 446",
+      "xml_element_sha256": "ad1432b2296d466d54114e50aad56170cc3c3c89d4d5361e234ba97a32425d1c",
+      "disposition": "statutory unit",
+      "id": "p446"
+    },
+    {
+      "doknr": "BJNR258700008BJNG006400000",
+      "label": "",
+      "xml_element_sha256": "23be2a02e184f744fe3d380c9648ee660b5c700954f8dd36ef43a97b57491e59",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 3 — Aufgebot des Gläubigers von Grund- und Schiffspfandrechten sowie des Berechtigten sonstiger dinglicher Rechte"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045300000",
+      "label": "§ 447",
+      "xml_element_sha256": "76459fa7ec181eb0524915fa0d5035a2bedf720b478ef97d696109ab7554c2c7",
+      "disposition": "statutory unit",
+      "id": "p447"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045400000",
+      "label": "§ 448",
+      "xml_element_sha256": "9e36ef0c2bc72d4168136b7b580f343ad82bf6ef309c9d630462bb593e1082e7",
+      "disposition": "statutory unit",
+      "id": "p448"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045500000",
+      "label": "§ 449",
+      "xml_element_sha256": "886a58f664982d5a371a9986fd9657e8a1d291ee1306d28da0e954cc93e8eee8",
+      "disposition": "statutory unit",
+      "id": "p449"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045600000",
+      "label": "§ 450",
+      "xml_element_sha256": "6099faec40295981b125cf08efb909d4eb07ea27a16673577873b949ed98646a",
+      "disposition": "statutory unit",
+      "id": "p450"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045700000",
+      "label": "§ 451",
+      "xml_element_sha256": "341e51293dd48bdda0ad0dfbe6e4518301930f97c92a07d4db80d551d216198b",
+      "disposition": "statutory unit",
+      "id": "p451"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045800000",
+      "label": "§ 452",
+      "xml_element_sha256": "e010586eb539ce646e6d7cc0244c851ee7c32daca103693b1bd3c5121471eb4a",
+      "disposition": "statutory unit",
+      "id": "p452"
+    },
+    {
+      "doknr": "BJNR258700008BJNE045900000",
+      "label": "§ 453",
+      "xml_element_sha256": "2aeeb8337906080ca2686c4fb52bdae0da0622f5c3eb61fa5db070fea62c2714",
+      "disposition": "statutory unit",
+      "id": "p453"
+    },
+    {
+      "doknr": "BJNR258700008BJNG006500000",
+      "label": "",
+      "xml_element_sha256": "7bdc5a3fc83c757f22c5e451fadd87ee997e7f6ddd8997668c91126854ea923d",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 4 — Aufgebot von Nachlassgläubigern"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046000000",
+      "label": "§ 454",
+      "xml_element_sha256": "c988222f52550486ccfe219ace636c796e9f36ee512be5528c7cd75b7a8f687f",
+      "disposition": "statutory unit",
+      "id": "p454"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046100000",
+      "label": "§ 455",
+      "xml_element_sha256": "b774d2bc06d6b87fcc65733896e40d4468f34e657e5aa089641442be99658ce9",
+      "disposition": "statutory unit",
+      "id": "p455"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046200000",
+      "label": "§ 456",
+      "xml_element_sha256": "5dc05355d1a5a63cc2b56bea11642a833073ae97b96e01f5bcca00dc16f7920f",
+      "disposition": "statutory unit",
+      "id": "p456"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046300000",
+      "label": "§ 457",
+      "xml_element_sha256": "57b5d927fed47c24e982b3ec66a929fc90acb2e8bc99b15d23659cf1096d63c4",
+      "disposition": "statutory unit",
+      "id": "p457"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046400000",
+      "label": "§ 458",
+      "xml_element_sha256": "8f03fa2f048d246fe8f7d378b4ae1ef69b31d5d5e1d3051824efc0c55467271b",
+      "disposition": "statutory unit",
+      "id": "p458"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046500000",
+      "label": "§ 459",
+      "xml_element_sha256": "7c3d9343749f0907e57f01dd37b941c21ad2ab665b83a44e749b59aa04284353",
+      "disposition": "statutory unit",
+      "id": "p459"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046600000",
+      "label": "§ 460",
+      "xml_element_sha256": "512b677ac9b417fd190202f441863caa4c5f75b01c50c75b2e4200a54b111a18",
+      "disposition": "statutory unit",
+      "id": "p460"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046700000",
+      "label": "§ 461",
+      "xml_element_sha256": "d5d7c5c2e91761b2f950484a20a3fc40cf200466a3ef15db8204480df152a7f8",
+      "disposition": "statutory unit",
+      "id": "p461"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046800000",
+      "label": "§ 462",
+      "xml_element_sha256": "2160bf5640fb255be2fbcfb9eb3afc5384ff7626a32e30899f893aac3879cc72",
+      "disposition": "statutory unit",
+      "id": "p462"
+    },
+    {
+      "doknr": "BJNR258700008BJNE046900000",
+      "label": "§ 463",
+      "xml_element_sha256": "014b89b11229cf74b8beba731e69ee54ae734ceb45d254b2f9be503969671d40",
+      "disposition": "statutory unit",
+      "id": "p463"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047000000",
+      "label": "§ 464",
+      "xml_element_sha256": "e0b0329cf86654ef90735f1216fe44a84bd7c8be69f0011ce9216d3cd003be33",
+      "disposition": "statutory unit",
+      "id": "p464"
+    },
+    {
+      "doknr": "BJNR258700008BJNG006600000",
+      "label": "",
+      "xml_element_sha256": "5be45b5e08471daba4512f4b673ee51bf0a66e7e56692594f51cca16a5aeab88",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 5 — Aufgebot der Schiffsgläubiger"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047100000",
+      "label": "§ 465",
+      "xml_element_sha256": "87131ad3e1e8132dc53695f55370b470823be93161fc6b75b9dec9ebb314b539",
+      "disposition": "statutory unit",
+      "id": "p465"
+    },
+    {
+      "doknr": "BJNR258700008BJNG006700000",
+      "label": "",
+      "xml_element_sha256": "843d357ab87cf720d02cc855635991725930b280061b9bf8f302dc301a75787b",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Abschnitt 6 — Aufgebot zur Kraftloserklärung von Urkunden"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047200000",
+      "label": "§ 466",
+      "xml_element_sha256": "061e768a088c7edc9d7e314d867153f8de187f52007713e37120635ae998bf7a",
+      "disposition": "statutory unit",
+      "id": "p466"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047300000",
+      "label": "§ 467",
+      "xml_element_sha256": "d787c32cbf0ff5e7580a541f1b42d14c713d42f7e729e819021e80760f8fe3c2",
+      "disposition": "statutory unit",
+      "id": "p467"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047400000",
+      "label": "§ 468",
+      "xml_element_sha256": "a9a0bb7246406f3e368aff0c7f1743f09224fe36b4f898eaab030c4a8b2baf57",
+      "disposition": "statutory unit",
+      "id": "p468"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047500000",
+      "label": "§ 469",
+      "xml_element_sha256": "b55123ba4cb4a3223c39232a205504f7b6a47911facc65caab131371f8eb95a5",
+      "disposition": "statutory unit",
+      "id": "p469"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047600000",
+      "label": "§ 470",
+      "xml_element_sha256": "117942217f06faa7221ac3389e3ed27ba9640af423a25f530eed986bf1a1b397",
+      "disposition": "statutory unit",
+      "id": "p470"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047700000",
+      "label": "§ 471",
+      "xml_element_sha256": "a8cd61f00fbc4d49c60b7571e62aa4a0c341894d5a6975a368dac0c260869cd0",
+      "disposition": "statutory unit",
+      "id": "p471"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047801311",
+      "label": "§ 472",
+      "xml_element_sha256": "ad94fa9a8ec80ba86d890346d75f91626c21bd897c08083b1f24e9b85378a1f0",
+      "disposition": "statutory unit",
+      "id": "p472"
+    },
+    {
+      "doknr": "BJNR258700008BJNE047901311",
+      "label": "§ 473",
+      "xml_element_sha256": "0af601e6199653ecac6f911127841f35483b5341351581f12df927b0321c407a",
+      "disposition": "statutory unit",
+      "id": "p473"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048000000",
+      "label": "§ 474",
+      "xml_element_sha256": "2a15e276f3892582c4b768ff01c07e4ab21569d311a1546e588d6813a44b7bee",
+      "disposition": "statutory unit",
+      "id": "p474"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048101140",
+      "label": "§ 475",
+      "xml_element_sha256": "f9f37850a59b2644bb7cf725fc1a55a6859aff6ebd01d095d9cb72c0946ca3f0",
+      "disposition": "statutory unit",
+      "id": "p475"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048200000",
+      "label": "§ 476",
+      "xml_element_sha256": "a581c65924294932e9075dc621b333c288ee08d35a0ff5652dec3f0f3585e1f2",
+      "disposition": "statutory unit",
+      "id": "p476"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048300000",
+      "label": "§ 477",
+      "xml_element_sha256": "707f5cde11b21a8bcffd7b4fff7ef22509661018acb459c849e634641432920f",
+      "disposition": "statutory unit",
+      "id": "p477"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048401140",
+      "label": "§ 478",
+      "xml_element_sha256": "8f169d7f506646a86e561d35cb44a4665221b29ff90964bf696c09aa82077013",
+      "disposition": "statutory unit",
+      "id": "p478"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048500000",
+      "label": "§ 479",
+      "xml_element_sha256": "b268209b33bf699d79c212f921c590026e49c7eb40707a154f77a15cd8672648",
+      "disposition": "statutory unit",
+      "id": "p479"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048600000",
+      "label": "§ 480",
+      "xml_element_sha256": "751a26185be14e7b016c480462f5af7869c7448760394a6fc144aad6330fea1c",
+      "disposition": "statutory unit",
+      "id": "p480"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048700000",
+      "label": "§ 481",
+      "xml_element_sha256": "24fb5a9747e3e87ca48932bfc0f72a675244fa19cf8ef33acb43808bfcc13209",
+      "disposition": "statutory unit",
+      "id": "p481"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048801140",
+      "label": "§ 482",
+      "xml_element_sha256": "6ca1c64e85489a87b4489a96ad19fd034a00e3f75bcc56c7437beceb3dbca4db",
+      "disposition": "statutory unit",
+      "id": "p482"
+    },
+    {
+      "doknr": "BJNR258700008BJNE048900000",
+      "label": "§ 483",
+      "xml_element_sha256": "7d1eea53990bd245cc59acdac55e0935593d93ee8b85749a2970e3bda5f60734",
+      "disposition": "statutory unit",
+      "id": "p483"
+    },
+    {
+      "doknr": "BJNR258700008BJNE049000000",
+      "label": "§ 484",
+      "xml_element_sha256": "24c2bb6c6e262727b5278c10cacab9ab5fae412a8c912ad59b3fa6e4f4187611",
+      "disposition": "statutory unit",
+      "id": "p484"
+    },
+    {
+      "doknr": "BJNR258700008BJNG006800000",
+      "label": "",
+      "xml_element_sha256": "93ad814cfbdfc5b2c847529abc35013544b981822791cb6c4f5143e6a61b9914",
+      "disposition": "structural heading, reproduced in statutory unit structure",
+      "heading": "Buch 9 — Schlussvorschriften"
+    },
+    {
+      "doknr": "BJNR258700008BJNE049100000",
+      "label": "§ 485",
+      "xml_element_sha256": "6778c8c5c626dc65b68d6818c6fb8e99f4d36d7eddc713dd39bc5a7e6dd239a0",
+      "disposition": "statutory unit",
+      "id": "p485"
+    },
+    {
+      "doknr": "BJNR258700008BJNE049201311",
+      "label": "§ 486",
+      "xml_element_sha256": "ba0c961491d1492bec83328ff9cc7c164c09f44a970de4cef2bf3c5c533c33f3",
+      "disposition": "statutory unit",
+      "id": "p486"
+    },
+    {
+      "doknr": "BJNR258700008BJNE049301311",
+      "label": "§ 487",
+      "xml_element_sha256": "57a8a63afe2ea4018fe65968f767278b565dd34f5f71600bf7c8493e3a56d5e3",
+      "disposition": "statutory unit",
+      "id": "p487"
+    },
+    {
+      "doknr": "BJNR258700008BJNE049401311",
+      "label": "§ 488",
+      "xml_element_sha256": "f9fce68632d234cbb5887d1146070ab74b973018fdede0f87c55893444d85746",
+      "disposition": "statutory unit",
+      "id": "p488"
+    },
+    {
+      "doknr": "BJNR258700008BJNE049500000",
+      "label": "§ 489",
+      "xml_element_sha256": "863bb958b44dafafcc450a4ea1700f5f7daaab41c5c5372e83393ee0cd030cca",
+      "disposition": "statutory unit",
+      "id": "p489"
+    },
+    {
+      "doknr": "BJNR258700008BJNE049600000",
+      "label": "§ 490",
+      "xml_element_sha256": "0c4d17c593f784d4dba616acc6983ef4a11ac1a7bdddc52f4e64078347feb750",
+      "disposition": "statutory unit",
+      "id": "p490"
+    },
+    {
+      "doknr": "BJNR258700008BJNE049700000",
+      "label": "§ 491",
+      "xml_element_sha256": "430ab39354707e1350003c7b4c4b09c95f21bb7470b20e5f854fb108c262c05d",
+      "disposition": "statutory unit",
+      "id": "p491"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050101311",
+      "label": "§ 492",
+      "xml_element_sha256": "6768dd4786fb6340c1c3f78c6d3307e3d1f45f34c66839b631332cb5cf8e433f",
+      "disposition": "statutory unit",
+      "id": "p492"
+    },
+    {
+      "doknr": "BJNR258700008BJNE050206131",
+      "label": "§ 493",
+      "xml_element_sha256": "2cc92ca697c8474ecb274f760eb346e7fb1f09c8120220549b85bd52724d677e",
+      "disposition": "statutory unit",
+      "id": "p493"
+    }
+  ],
+  "unclassified_official_units": [],
+  "unextracted_law_head_content": [],
+  "official_note_character_mismatches_ignoring_whitespace": [],
+  "official_structure_mismatches_ignoring_whitespace": [],
+  "opening_formula_disposition": {
+    "present": false,
+    "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+    "global_notes_preserved": true
+  },
+  "duplicate_official_identifiers": [],
+  "duplicate_official_doknr": [],
+  "historical_version_elements": []
 }

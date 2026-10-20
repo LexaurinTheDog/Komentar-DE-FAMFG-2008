@@ -1,0 +1,278 @@
+{
+  "verified_at": "2026-10-20T15:05:20.295085+00:00",
+  "listing_evidence": "sources/current-service-2026-10-20.html",
+  "listing_sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+  "selection": "All statutory laws (Gesetz) listed with 2026 Part I issue number >=275; includes late September acts before intake as a conservative boundary. Regulations/corrections screened by title, not treated as statute amendments. This does not claim a complete retrospective search of every federal publication.",
+  "listed_items": [
+    {
+      "number": 304,
+      "title": "BGBl. 2026 I Nr. 304 Gesetz zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung der Richtlinie 2010/75/EU über Industrieemissionen vom 13. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/304",
+      "type": "statute"
+    },
+    {
+      "number": 303,
+      "title": "BGBl. 2026 I Nr. 303 Fünfte Verordnung zur Änderung der Verordnung über die Zuweisungen an das Sondervermögen „Versorgungsfonds der Bundesagentur für Arbeit“ vom 15. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/303",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 302,
+      "title": "BGBl. 2026 I Nr. 302 Dritte Verordnung zur Änderung der EVPG-Verordnung vom 14. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/302",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 301,
+      "title": "BGBl. 2026 I Nr. 301 Verordnung über die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Einkommensteuer für die Jahre 2027, 2028 und 2029 vom 30. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/301",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 300,
+      "title": "BGBl. 2026 I Nr. 300 Dreiundzwanzigste Verordnung zur Änderung der Außenwirtschaftsverordnung vom 14. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/300",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 298,
+      "title": "BGBl. 2026 I Nr. 298 Siebte Verordnung zur Änderung der Zweihundertsechsunddreißigsten Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Barth) vom 13. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/298",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 297,
+      "title": "BGBl. 2026 I Nr. 297 Sechsundsechzigste Verordnung zur Änderung der Zweihundertfünfundfünfzigsten Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenführungen, Meldepunkten und Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) vom 13. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/297",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 296,
+      "title": "BGBl. 2026 I Nr. 296 Vierte Verordnung zur Änderung der Zweihundertsiebzehnten Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Hannover) vom 13. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/296",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 295,
+      "title": "BGBl. 2026 I Nr. 295 Siebte Verordnung zur Änderung der Sechsundneunzigsten Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln am Verkehrsflughafen Paderborn-Lippstadt) vom 13. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/295",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 294,
+      "title": "BGBl. 2026 I Nr. 294 Verordnung zur Verwendung von Kommunikationshilfen für Personen mit Hör- oder Sprachbehinderung in Gerichtsverfahren vom 09. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/294",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 293,
+      "title": "BGBl. 2026 I Nr. 293 Gesetz über den Zugang zu Schuldnerberatungsdiensten für Verbraucher vom 12. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/293",
+      "type": "statute"
+    },
+    {
+      "number": 292,
+      "title": "BGBl. 2026 I Nr. 292 Verordnung zur Modernisierung der nationalen Umsetzung von europäischen Regelungen zum Ökodesign und zur Energieverbrauchskennzeichnung vom 08. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/292",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 291,
+      "title": "BGBl. 2026 I Nr. 291 Dritte Verordnung zur Änderung der Marktstammdatenregisterverordnung vom 08. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/291",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 290,
+      "title": "BGBl. 2026 I Nr. 290 Verordnung über die Meisterprüfung in den Teilen I und II im Print- und Medientechnologen (Drucker, Siebdrucker, Flexografen)-Handwerk vom 08. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/290",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 290,
+      "title": "BGBl. 2026 I Nr. 290 Verordnung zur Neuordnung der Meisterprüfung im Print- und Medientechnologen-Handwerk vom 08. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/290",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 289,
+      "title": "BGBl. 2026 I Nr. 289 Gesetz zur Stärkung des Innovations- und Wirtschaftsstandorts Deutschland durch Erprobungsfreiräume vom 06. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/289",
+      "type": "statute"
+    },
+    {
+      "number": 289,
+      "title": "BGBl. 2026 I Nr. 289 Gesetz zur Förderung der Erprobung von Innovationen und neuer Verwaltungsverfahren in Reallaboren und zur Förderung des regulatorischen Lernens vom 06. Oktober 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/289",
+      "type": "statute"
+    },
+    {
+      "number": 288,
+      "title": "BGBl. 2026 I Nr. 288 Neunte Verordnung zur Änderung der Ukraine-Aufenthalts-Übergangsverordnung vom 30. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/288",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 286,
+      "title": "BGBl. 2026 I Nr. 286 Gesetz zur Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschriften vom 30. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/286",
+      "type": "statute"
+    },
+    {
+      "number": 285,
+      "title": "BGBl. 2026 I Nr. 285 Gesetz zur Modernisierung des Verpflichtungsgesetzes und zur Änderung des Europäische-Staatsanwaltschaft-Gesetzes vom 30. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/285",
+      "type": "statute"
+    },
+    {
+      "number": 284,
+      "title": "BGBl. 2026 I Nr. 284 Berichtigung der Verordnung für Bürokratierückbau und Vereinfachungen in der Seeschifffahrt vom 29. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/284",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 283,
+      "title": "BGBl. 2026 I Nr. 283 Erste Verordnung zur Änderung der XBasisdaten-Verordnung vom 22. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/283",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 281,
+      "title": "BGBl. 2026 I Nr. 281 Verordnung über den elektronischen Austausch zwischen Notaren und Finanzämtern im Bereich der Grunderwerbsteuer vom 29. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/281",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 279,
+      "title": "BGBl. 2026 I Nr. 279 Erste Verordnung zur Änderung der RSV-Prophylaxeverordnung vom 25. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/279",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 278,
+      "title": "BGBl. 2026 I Nr. 278 Zweite Verordnung zur Änderung der Verordnung zur Kennzeichnung der Kraftfahrzeuge mit geringem Beitrag zur Schadstoffbelastung vom 25. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/278",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 277,
+      "title": "BGBl. 2026 I Nr. 277 Siebte Verordnung zur Änderung der Zweihundertersten Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Bremen) vom 24. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/277",
+      "type": "regulation/correction"
+    },
+    {
+      "number": 276,
+      "title": "BGBl. 2026 I Nr. 276 Gesetz zur Haftung bei Unfällen mit Elektrokleinstfahrzeugen im Straßenverkehr vom 25. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/276",
+      "type": "statute"
+    },
+    {
+      "number": 275,
+      "title": "BGBl. 2026 I Nr. 275 Gesetz zur Umsetzung der Richtlinien (EU) 2025/1 und (EU) 2025/2 zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Versicherungsunternehmen sowie zur Änderung des Aufsichtsrahmens für Versicherungsunternehmen vom 25. September 2026",
+      "url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/275",
+      "type": "statute"
+    }
+  ],
+  "statutes_screened": [
+    275,
+    276,
+    285,
+    286,
+    289,
+    293,
+    304
+  ],
+  "full_text_checks": [
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/275/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:16.774644+00:00",
+      "path": "sources/bgbl-recent-275-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "071111b7ef88b1b59b56a1a462dbf45497ade657b2b06c9acbb8e065d0ffba10",
+      "bytes": 1330955,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-275-2026-10-20.txt",
+      "text_sha256": "e19d60cbaf74fcc9056e8cb274c26aa1ca9862625fb070f994cbc9c37362e805",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/276/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:18.237778+00:00",
+      "path": "sources/bgbl-recent-276-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "f3145c36ac3cdddf0a1b49e9ddda53d9fadcc2c14f08fb3fabf3331b5f391f38",
+      "bytes": 252978,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-276-2026-10-20.txt",
+      "text_sha256": "72f1a935b9100f2323b5eefb191b7e3316d792c04b845ca30683679a2dffa347",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/285/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:18.580534+00:00",
+      "path": "sources/bgbl-recent-285-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "e3c98b45bf2c762a33173e4f0d372621923a7d767ea92ecb260323582500ebb4",
+      "bytes": 258522,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-285-2026-10-20.txt",
+      "text_sha256": "af2b669030a2ade472d9cc2299678f77d5e6c085f34c8577142973f690403390",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/286/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:18.871247+00:00",
+      "path": "sources/bgbl-recent-286-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "d1cdeefc61b94bd9cc229e8efb4c0d5c86e0a75ed2b5df73e3ba2f7a23f3c389",
+      "bytes": 310766,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-286-2026-10-20.txt",
+      "text_sha256": "5536b9afe8b97db58714b8ef1e2473bcfb68322b82987cb2e6a9aff76e2ab0fc",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/289/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:19.208231+00:00",
+      "path": "sources/bgbl-recent-289-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "dc408b7d21a8b92420ce20ccc05889dbc4385d45a672c1ece73c3e4ea7adf4d9",
+      "bytes": 304447,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-289-2026-10-20.txt",
+      "text_sha256": "613a068226e24380b24e2db9f7d9d84963a39b02ed5130ceba4866a8de94f387",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/293/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:19.526852+00:00",
+      "path": "sources/bgbl-recent-293-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "ab60a3e09a2fdbccb762dbf34b1ea3959b15cfe336fefa8007da4fd77bda9e4d",
+      "bytes": 264917,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-293-2026-10-20.txt",
+      "text_sha256": "51d3125150e06a8d160f7942079987091f6acef84de82bcecc793fccd79fe596",
+      "famfg_hits": []
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/304/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T15:05:19.835875+00:00",
+      "path": "sources/bgbl-recent-304-2026-10-20.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "438548acb9dd5094d06ab20c94807d340183ddef44ef3beb5372a48aa7d38bec",
+      "bytes": 601560,
+      "format_validation": "PDF signature/trailer and pdftotext output verified",
+      "text_path": "sources/bgbl-recent-304-2026-10-20.txt",
+      "text_sha256": "c853a1c332fa798ddd1089fbcaf8638a23a14fdc8656a113dddbac97fa029975",
+      "famfg_hits": []
+    }
+  ]
+}
