@@ -175,6 +175,13 @@
     "unassigned_commentary_changes": [],
     "full_statutory_completeness": "529/529 identifiers; no missing, extra, duplicate, unclassified or mismatched operative text",
     "links_and_repetition": "technical-audit.json: zero broken local links, repeated long paragraphs or near-repeat pairs above configured threshold",
-    "full_builder": "build-result.json: rejected only the 336 unannotated units outside assignment"
+    "full_builder": "build-result.json: rejected only the 336 unannotated units outside assignment",
+    "strict_validation": {
+      "file": "validation.json",
+      "exit_code": 1,
+      "verbatim_ratio": 1.0,
+      "errors_only_outside_assigned_scope": true,
+      "unannotated_outside_scope": 336
+    }
   }
 }
