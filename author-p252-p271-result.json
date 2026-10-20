@@ -27,7 +27,7 @@
   "units_authored": 20,
   "max_units": 20,
   "baseline_commit": "cd5565605c264bb4f473f183683c98beaa1ea840",
-  "completed_at": "2026-10-20T18:28:58.437985+00:00",
+  "completed_at": "2026-10-20T18:30:44.382467+00:00",
   "decisive_date": "2026-10-19",
   "source_verified_at": "2026-10-20T18:18:32.557517+00:00",
   "source_checks": "sources/author-p252-p271-fetch.json",
@@ -147,10 +147,44 @@
   "remaining_commentary_units": 229,
   "independent_second_pass_complete_for_new_batch": false,
   "limitations": [
-    "Exactly20assignedunits authored; all280previous comments preserved.",
-    "New20units await independent second pass; no independent-review self-certification.",
-    "Whole book incomplete; unmodified full builder and strict validator expected to fail for229unassignedmissingcomments.",
-    "Selective case-law research, not exhaustive; explicit historical/open-question limits.",
-    "Technical length, equality and similarity checks are not legal quality proof."
-  ]
+    "Exactly 20 assigned units authored; all 280 previous comments preserved.",
+    "The 20 new units await a fresh independent second pass.",
+    "Whole book incomplete: 229 unassigned units remain without commentary.",
+    "Selective primary case-law research; historical and open-question limits recorded.",
+    "Technical text, length and similarity checks do not establish legal quality."
+  ],
+  "commentary_characters": 59518,
+  "validation": {
+    "assigned_batch_ok": true,
+    "all_20_assigned_units_exported": true,
+    "all_previous_280_commentary_blocks_preserved": true,
+    "all_14_previous_exported_chapters_preserved": true,
+    "unassigned_commentary_changes": [],
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 652843,
+      "errors": [
+        "krátký/chybějící komentář u 229 jednotek: ['p272(0<400)', 'p273(0<400)', 'p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "expected_intermediate_failure": "229 unannotated units from p272 outside this bounded authoring task.",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 808,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T18:30:44.382467+00:00",
+    "whole_book_complete": false
+  }
 }
