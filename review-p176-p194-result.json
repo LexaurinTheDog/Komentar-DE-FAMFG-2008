@@ -188,6 +188,59 @@
   ],
   "whole_book_complete": false,
   "validation": {
-    "state": "awaiting actual build and validation"
+    "assigned_batch_ok": true,
+    "reviewed_ids_exact": true,
+    "unassigned_commentary_changes": [],
+    "changed_units": [
+      "p178",
+      "p180",
+      "p185a",
+      "p186",
+      "p187",
+      "p188",
+      "p189",
+      "p191",
+      "p192",
+      "p193"
+    ],
+    "unchanged_after_full_review": [
+      "p176",
+      "p177",
+      "p179",
+      "p181",
+      "p182",
+      "p183",
+      "p184",
+      "p185",
+      "p190",
+      "p194"
+    ],
+    "total_expected_official_units": 529,
+    "total_parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "exported_assigned_count": 20,
+    "exported_assigned_statutory_text_agrees": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 441697,
+      "errors": [
+        "krátký/chybějící komentář u 309 jednotek: ['p195(0<400)', 'p196(0<120)', 'p196a(0<400)', 'p197(0<400)', 'p198(0<400)', 'p199(0<120)', 'p200(0<400)', 'p201(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "whole_book_complete": false,
+    "reason_for_global_failure": "309 unannotated units from195onwards outside this bounded review",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 543,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "source_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T17:20:12.648859+00:00"
   }
 }

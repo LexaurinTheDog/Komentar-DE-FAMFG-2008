@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T17:18:55.904156+00:00",
+  "updated_at": "2026-10-20T17:20:12.648859+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -37,7 +37,7 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 437391,
+      "commentary_chars": 441697,
       "errors": [
         "krátký/chybějící komentář u 309 jednotek: ['p195(0<400)', 'p196(0<120)', 'p196a(0<400)', 'p197(0<400)', 'p198(0<400)', 'p199(0<120)', 'p200(0<400)', 'p201(0<400)']"
       ],
@@ -46,12 +46,12 @@
     },
     "exit_code": 1,
     "full_build_exit_code": 1,
-    "statutory_coverage_complete": true,
-    "validated_at": "2026-10-20T17:10:28.957019+00:00",
-    "bounded_batch_ok": true,
-    "expected_intermediate_failure": "309 unannotated units outside assigned authoring batch; statutory agreement 100%.",
     "completeness_report": "completeness-report.json",
-    "technical_audit": "technical-audit.json"
+    "technical_audit": "technical-audit.json",
+    "statutory_coverage_complete": true,
+    "validated_at": "2026-10-20T17:20:12.648859+00:00",
+    "bounded_batch_ok": true,
+    "expected_intermediate_failure": "309 unannotated units outside assigned review; all20assigned units substantively reviewed;100%statutory agreement."
   },
   "remaining_limitations": [
     "309statutory units from195onwards lack commentary.",
@@ -106,7 +106,8 @@
     "archived_result": "review-p176-p194-result.json",
     "technical_audit": "review-p176-p194-audit.json",
     "unresolved_blockers": [],
-    "whole_book_complete": false
+    "whole_book_complete": false,
+    "commentary_characters": 53694
   },
   "bounded_review_history": [
     {
@@ -427,7 +428,7 @@
   ],
   "cumulative_independently_reviewed_units": 220,
   "remaining_existing_commentaries_for_review": 0,
-  "commentary_characters": 437391,
+  "commentary_characters": 441697,
   "bounded_authoring": {
     "complete": true,
     "units_written": 20,
