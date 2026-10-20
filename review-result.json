@@ -1,7 +1,7 @@
 {
   "kind": "review",
-  "complete": false,
-  "stage": "bounded_legal_review_done_technical_checks_pending",
+  "complete": true,
+  "stage": "bounded_second_pass_complete",
   "units_reviewed": 20,
   "reviewed_ids": [
     "p252",
@@ -195,5 +195,65 @@
     "Review rechecks three existing primary authorities and needed statutory references; no exhaustive new case-law discovery or historical-law reconstruction.",
     "No external professional approval. Technical checks supplement, not replace, individual legal reading."
   ],
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "completed_at": "2026-10-20T18:37:45.355338+00:00",
+  "validation": {
+    "assigned_batch_ok": true,
+    "reviewed_ids_exact": true,
+    "changed_ids": [
+      "p252",
+      "p253",
+      "p256",
+      "p263",
+      "p268",
+      "p271"
+    ],
+    "unchanged_after_full_review": [
+      "p254",
+      "p255",
+      "p257",
+      "p258",
+      "p259",
+      "p260",
+      "p261",
+      "p262",
+      "p264",
+      "p265",
+      "p266",
+      "p267",
+      "p269",
+      "p270"
+    ],
+    "unassigned_commentary_changes": [],
+    "unassigned_280_preserved": true,
+    "previous_14_exported_chapters_preserved": true,
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "exported_assigned_count": 20,
+    "exported_commentary_agrees": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 654954,
+      "errors": [
+        "krátký/chybějící komentář u 229 jednotek: ['p272(0<400)', 'p273(0<400)', 'p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "reason_for_global_failure": "229 unannotated units from p272 outside this bounded review",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 838,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T18:37:45.355338+00:00",
+    "whole_book_complete": false
+  }
 }

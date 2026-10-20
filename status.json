@@ -1,6 +1,6 @@
 {
-  "stage": "bounded_second_pass_technical_checks_pending",
-  "updated_at": "2026-10-20T18:36:15.748672+00:00",
+  "stage": "bounded_review_complete_manuscript_incomplete",
+  "updated_at": "2026-10-20T18:37:45.355338+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -46,7 +46,7 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 652843,
+      "commentary_chars": 654954,
       "errors": [
         "krátký/chybějící komentář u 229 jednotek: ['p272(0<400)', 'p273(0<400)', 'p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)']"
       ],
@@ -58,9 +58,9 @@
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "bounded_author_batch_ok": true,
-    "validated_at": "2026-10-20T18:30:44.382467+00:00",
-    "expected_intermediate_failure": "229 units outside assigned author batch remain unannotated; all20assignedunits complete;100% statutory agreement."
+    "bounded_batch_ok": true,
+    "validated_at": "2026-10-20T18:37:45.355338+00:00",
+    "expected_intermediate_failure": "229 unannotated units outside exact p252–p271 review; all 20 assigned units reviewed, 100% statutory agreement."
   },
   "remaining_limitations": [
     "Exactly p252–p271 independently reviewed by this fresh process; earlier reviewed units preserved, not substantively re-reviewed.",
@@ -77,17 +77,17 @@
     "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
-    "instructions": "Preserve all300existing comments and exact bounded review reports. Latest independent second pass covered exactlyp252–p271. Continue authoring fromp272only on assignment. Whole book remains incomplete."
+    "instructions": "Preserve all 300 existing comments and exact bounded review reports. Latest independent second pass covered exactly p252–p271. Continue authoring from p272 only on assignment. Whole book remains incomplete."
   },
   "source_preflight": {
     "complete": true,
     "result": "preflight-result.json",
-    "verified_at": "2026-10-20T18:18:32.557517+00:00",
+    "verified_at": "2026-10-20T18:33:03.518003+00:00",
     "date": "2026-10-20",
     "commentaries_changed": false
   },
   "bounded_review": {
-    "complete": false,
+    "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
       "p252",
@@ -115,7 +115,8 @@
     "archived_result": "review-p252-p271-result.json",
     "technical_audit": "review-p252-p271-audit.json",
     "unresolved_blockers": [],
-    "whole_book_complete": false
+    "whole_book_complete": false,
+    "commentary_characters": 61629
   },
   "bounded_review_history": [
     {
@@ -564,7 +565,7 @@
   ],
   "cumulative_independently_reviewed_units": 300,
   "remaining_existing_commentaries_for_review": 0,
-  "commentary_characters": 652843,
+  "commentary_characters": 654954,
   "bounded_authoring": {
     "complete": true,
     "units_written": 20,
