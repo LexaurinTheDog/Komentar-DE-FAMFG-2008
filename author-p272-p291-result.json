@@ -1,7 +1,7 @@
 {
   "kind": "author",
-  "complete": false,
-  "stage": "bounded_author_batch_written_validation_pending",
+  "complete": true,
+  "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
   "authored_ids": [
     "p272",
     "p273",
@@ -147,10 +147,47 @@
   "remaining_commentary_units": 209,
   "independent_second_pass_complete_for_new_batch": false,
   "limitations": [
-    "Exactly20assignedunits authored; all300previous commentaries preserved.",
-    "The20newunits await a fresh independent second pass.",
-    "Whole title incomplete:209unassigned units remain without commentary.",
+    "Exactly 20 assigned units authored; all 300 previous commentaries preserved.",
+    "The 20 new units await a fresh independent second pass. No external professional approval claimed.",
+    "Whole title incomplete: 209 unassigned units remain without commentary.",
     "Selective primary judicial research, not exhaustive.",
-    "Technical agreement, length and similarity screening are not legal quality proof."
-  ]
+    "Technical agreement, length and similarity screening are not proof of legal quality."
+  ],
+  "completed_at": "2026-10-20T18:51:33.853139+00:00",
+  "commentary_characters": 56119,
+  "fictional_examples": 20,
+  "thematic_checklists": 3,
+  "validation": {
+    "assigned_batch_ok": true,
+    "all_20_assigned_units_exported": true,
+    "all_previous_300_commentary_blocks_preserved": true,
+    "all_previous_15_exported_chapters_preserved": true,
+    "unassigned_commentary_changes": [],
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 711073,
+      "errors": [
+        "krátký/chybějící komentář u 209 jednotek: ['p292(0<400)', 'p292a(0<400)', 'p293(0<400)', 'p294(0<400)', 'p295(0<400)', 'p296(0<400)', 'p297(0<400)', 'p298(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "expected_intermediate_failure": "209 unassigned units remain without commentary, starting at p292.",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 885,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T18:51:33.853139+00:00",
+    "whole_book_complete": false
+  }
 }
