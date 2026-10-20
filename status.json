@@ -64,16 +64,17 @@
     "repo": "Komentar-DE-FAMFG-2008",
     "units": 529,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 972821,
+    "commentary_chars": 1005943,
     "errors": [
-      "krátký/chybějící komentář u 89 jednotek: ['p405(0<400)', 'p406(0<400)', 'p407(0<400)', 'p408(0<400)', 'p409(0<400)', 'p410(0<400)', 'p411(0<400)', 'p412(0<400)']"
+      "krátký/chybějící komentář u 69 jednotek: ['p425(0<400)', 'p426(0<400)', 'p427(0<400)', 'p428(0<400)', 'p429(0<400)', 'p430(0<400)', 'p431(0<400)', 'p432(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "remaining_limitations": [
-    "Bounded second pass of exactly p385–p404; whole manuscript incomplete (89 other comments missing).",
-    "Selective existing case authority re-read; no exhaustive case-law search or external lawyer approval."
+    "69 unassigned units remain unwritten.",
+    "Fresh independent second pass required for p405–p424.",
+    "Case-law research selective; heuristic technical audit does not establish legal quality."
   ],
   "commented_scope": "§§ 1–424 einschließlich der Buchstabenparagraphen",
   "resume": {
@@ -1015,5 +1016,6 @@
       "whole_book_complete": false,
       "commentary_characters": 56119
     }
-  ]
+  ],
+  "validation_scope_note": "Strict whole-book validation fails solely for 69 missing comments outside p405–p424. All assigned units pass statutory agreement, completeness and technical audit; independent second pass pending."
 }
