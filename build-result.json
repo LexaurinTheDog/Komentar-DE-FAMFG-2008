@@ -1,8 +1,7 @@
 {
-  "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-  "run_at": "2026-10-20T19:28:46.991497+00:00",
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 169 jednotkám, např.: ['p330', 'p331', 'p332', 'p333', 'p334', 'p335', 'p336', 'p337', 'p338', 'p339']\n",
-  "scope": "Unmodified full builder rejects169unassigned missing comments from p330; visibly incomplete partial exporter renders actual authored units only."
+  "run_at": "2026-10-20T21:42:17.597437+00:00",
+  "scope": "Full builder rejects 169 unassigned missing comments; existing partial exporter used for actual bounded output."
 }

@@ -1,0 +1,126 @@
+[
+  {
+    "purpose": "bounded independent review p310-p329",
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "accessed_at": "2026-10-20T21:40:27.024470+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p310-p329-famfg.zip",
+    "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "xml_path": "sources/review-p310-p329-famfg.xml",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
+    "stand_notices": [
+      "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+      "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+    ],
+    "same_as_authoring_start_xml": true
+  },
+  {
+    "purpose": "bounded independent review p310-p329",
+    "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "accessed_at": "2026-10-20T21:40:27.442403+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p310-p329-bgb.zip",
+    "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+    "xml_path": "sources/review-p310-p329-bgb.xml",
+    "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+    "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
+    "stand_notices": [
+      "NeufNeugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+      "Standzuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+    ]
+  },
+  {
+    "purpose": "bounded independent review p310-p329",
+    "url": "https://www.gesetze-im-internet.de/famfg/",
+    "accessed_at": "2026-10-20T21:40:27.853080+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p310-p329-index.html",
+    "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+    "format_validation": "HTML signature and expected official content"
+  },
+  {
+    "purpose": "bounded independent review p310-p329",
+    "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "accessed_at": "2026-10-20T21:40:28.035245+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p310-p329-current-service.html",
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "format_validation": "HTML signature and expected official content"
+  },
+  {
+    "purpose": "bounded independent review p310-p329",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE717062025.zip",
+    "accessed_at": "2026-10-20T21:40:28.246964+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p310-p329-XII-ZB-183-25.zip",
+    "sha256": "c1200dbcd922998bac041befacac1e2d655410c58a086059277b21bf18d37d6f",
+    "xml_path": "sources/review-p310-p329-XII-ZB-183-25.xml",
+    "xml_sha256": "1d3c3a5f50749ecd2f076d574b598c788a0130e0ad4a0d106f727c98c90f8be5",
+    "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
+    "local_corpus_path": "sources/review-p310-p329-local-KORE717062025.md",
+    "local_corpus_sha256": "74f793f1e62ee5bc9033d45932bfc090ecb8f4835e978895b3b939cc0e4b1ba4"
+  },
+  {
+    "purpose": "bounded independent review p310-p329",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE721862025.zip",
+    "accessed_at": "2026-10-20T21:40:28.457776+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p310-p329-XII-ZB-207-25.zip",
+    "sha256": "2300073bcb3f1efe7beb725add517eb6868dc526cb10c4ac11dab40b8de053ed",
+    "xml_path": "sources/review-p310-p329-XII-ZB-207-25.xml",
+    "xml_sha256": "66376376b20d5c169c744cddeab4d2f5de3a9ca2e90b50f0a25229d19f2cc949",
+    "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
+    "local_corpus_path": "sources/review-p310-p329-local-KORE721862025.md",
+    "local_corpus_sha256": "8713887a706598100627c5c016c9eef59c725e1b6928e8c3cb76a9a22b0ef9ed"
+  },
+  {
+    "purpose": "bounded independent review p310-p329",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE717402025.zip",
+    "accessed_at": "2026-10-20T21:40:28.618013+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p310-p329-XII-ZB-412-24.zip",
+    "sha256": "8e658fcb050be6032882b22743972c74dd5aa78d03e0c3e76981a48091d88a44",
+    "xml_path": "sources/review-p310-p329-XII-ZB-412-24.xml",
+    "xml_sha256": "c5adb39d9fa9fd9ff81207935b14d13bf0d2303fde28047578f777bec2b69f92",
+    "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
+    "local_corpus_path": "sources/review-p310-p329-local-KORE717402025.md",
+    "local_corpus_sha256": "25268891194c07a6fd0be8d3e5195a1d40ee4b4ed3d1a79012b0ceedeb8335e6"
+  },
+  {
+    "purpose": "bounded independent review p310-p329",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300332026.zip",
+    "accessed_at": "2026-10-20T21:40:28.766398+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p310-p329-XII-ZB-552-25.zip",
+    "sha256": "de4b348d60787f15dce530a79297b9cd9e585c4490d0af631c71295ffc4fefb3",
+    "xml_path": "sources/review-p310-p329-XII-ZB-552-25.xml",
+    "xml_sha256": "d46b3b779d5ae4cb65fdfba9aa24e67f850d5a50b50a20c744814828c27c764c",
+    "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
+    "local_corpus_path": "sources/review-p310-p329-local-KORE300332026.md",
+    "local_corpus_sha256": "c57225bdb5142859cf3680d8f7a985bbb1838d567c0c76e6e0c589d8dc859d72"
+  },
+  {
+    "purpose": "bounded independent review p310-p329",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE729272025.zip",
+    "accessed_at": "2026-10-20T21:40:28.920621+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p310-p329-XII-ZB-271-24.zip",
+    "sha256": "92b3ab687fe1962eaa9a2093ba27152058f3a1db707a2b6f4e8c897a974e3d92",
+    "xml_path": "sources/review-p310-p329-XII-ZB-271-24.xml",
+    "xml_sha256": "1517e3debb4e5718b6b70cc47ae1d43191f4168dc59ccb078acb046bf514c893",
+    "format_validation": "ZIP magic and CRC, exactly one parseable XML, correct law or judgment identity",
+    "local_corpus_path": "sources/review-p310-p329-local-KORE729272025.md",
+    "local_corpus_sha256": "217dd4feaea88035b1a8b3fdcab65e9fd36a48a1066d97815faffb1bd9edd287"
+  }
+]

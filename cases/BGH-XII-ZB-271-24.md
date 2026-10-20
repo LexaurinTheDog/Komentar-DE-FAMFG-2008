@@ -13,3 +13,6 @@ Rn. 8–10 begründen den nachträglichen Feststellungsausspruch. Die Nichtbekan
 Der Fall beruht auf der 2024 geltenden, in den hier entscheidenden Punkten mit dem gesicherten aktuellen Text übereinstimmenden Verfahrensstruktur. Die unterschiedlichen Anforderungen sind gewahrt: § 325 Absatz 1 nennt ein ärztliches Zeugnis für die Ausnahme von der Bekanntgabe der Gründe; § 319 Absatz 3 verlangt ein ärztliches Gutachten für das gesundheitsbedingte Absehen von der Anhörung. Die Entscheidung hebt diese gesetzliche Unterscheidung nicht auf.
 
 Selektive Recherche; keine erschöpfende Rechtsprechungsübersicht. Innerhalb des Beschlusses zitierte weitere Entscheidungen gelten nicht als zusätzlich vollständig recherchierte Belege. Autorenkontrolle, frische unabhängige Zweitprüfung noch ausstehend; keine externe professionelle Freigabe.
+
+
+Unabhängige begrenzte Zweitprüfung vom 20. Oktober 2026: Amtlichen Volltext vollständig erneut gelesen, Identität, tragende Aussagen, Randnummern und dargestellte Grenzen bestätigt. Der vorstehende Hinweis auf ausstehende Zweitprüfung bezeichnet den Autorenstand. [Frischer XML-Beleg](../sources/review-p310-p329-XII-ZB-271-24.xml), [Abrufdaten](../sources/review-p310-p329-fetch.json). Keine externe professionelle Billigung.

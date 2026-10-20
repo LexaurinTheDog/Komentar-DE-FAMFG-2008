@@ -1,263 +1,226 @@
 {
-  "task_kind": "review",
-  "scope": "Independent second pass exactly p292–p309a; no substantive review of unassigned units",
   "complete": true,
-  "legal_reading_complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p292",
-    "p292a",
-    "p293",
-    "p294",
-    "p295",
-    "p296",
-    "p297",
-    "p298",
-    "p299",
-    "p300",
-    "p301",
-    "p302",
-    "p303",
-    "p304",
-    "p305",
-    "p306",
-    "p307",
-    "p308",
-    "p309",
-    "p309a"
+    "p310",
+    "p311",
+    "p312",
+    "p313",
+    "p314",
+    "p315",
+    "p316",
+    "p317",
+    "p318",
+    "p319",
+    "p320",
+    "p321",
+    "p322",
+    "p323",
+    "p324",
+    "p325",
+    "p326",
+    "p327",
+    "p328",
+    "p329"
   ],
-  "verified_at": "2026-10-20T19:17:35.119201+00:00",
   "decisive_date": "2026-10-19",
-  "changed_ids": [
-    "p292",
-    "p297",
-    "p299",
-    "p300",
-    "p305"
-  ],
+  "verified_at": "2026-10-20T21:42:17.597437+00:00",
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p292",
+      "id": "p310",
+      "disposition": "confirmed",
+      "finding": "Einrichtungsleitung, Dauer, zwei einschlägige Aufgabenbereiche sowie Bestellung, Aufhebung und Personenwechsel vollständig geprüft; keine Vollmachterweiterung durch Mitteilung.",
+      "resolved": true
+    },
+    {
+      "id": "p311",
+      "disposition": "confirmed",
+      "finding": "Vorbehalte, identifizierbare Erkenntnisse, Amtswegigkeit, öffentlicher Empfängerkreis, Verfolgungszweck und Interessenabwägung sowie entsprechende Unterrichtung/Dokumentation nach §308Abs3/4 getrennt geprüft.",
+      "resolved": true
+    },
+    {
+      "id": "p312",
+      "disposition": "confirmed",
+      "finding": "Alle vier Nummern mit aktuellen BGB-Verweisungen und Abgrenzung der Landesrechtstatbestände geprüft. Fortgeltungshinweis zu BGB1832 als Quellenhinweis, keine vorgetäuschte BVerfG-Volltextprüfung.",
+      "resolved": true
+    },
+    {
+      "id": "p313",
+      "disposition": "confirmed",
+      "finding": "Vier Rangstufen, besondere Eilzuständigkeit, eigenständige Landesrechtszuständigkeit und beide Mitteilungsrichtungen geprüft; Reiseaufwand ersetzt nach XII ZB183/25 Rn7–11 nicht die eigene Anhörung.",
+      "resolved": true
+    },
+    {
+      "id": "p314",
+      "disposition": "confirmed",
+      "finding": "Gegenwärtiger Aufenthalt, Vollzugsabsicht, Übernahmebereitschaft kumulativ und Ermessen zutreffend. XII ZB183/25 Rn11 erlaubt keinen Schluss von abgelehnter Abgabe auf Rechtshilfe.",
+      "resolved": true
+    },
+    {
+      "id": "p315",
+      "disposition": "confirmed",
+      "finding": "Zwingende und optionale Beteiligte, automatische Pflegerbeteiligung, Behördenantrag, Wohnvoraussetzung bei Eltern/Kindern und Trennungsmerkmal bei Ehegatten/Lebenspartnern geprüft; bloße Anhörung von Beteiligung unterschieden.",
+      "resolved": true
+    },
+    {
+      "id": "p316",
+      "disposition": "confirmed",
+      "finding": "Unabhängigkeit von Geschäftsfähigkeit, eigene Rechtsmittelausübung und Abgrenzung zur materiellen Einwilligungsfähigkeit zutreffend; Gutachtenüberlassung gestützt durch XII ZB271/24 Rn4–9.",
+      "resolved": true
+    },
+    {
+      "id": "p317",
       "disposition": "corrected",
-      "finding": "Alle sechs Absätze geprüft. Die zwei Bezugsgrößen und beiden Rechtsfolgen der Wirtschaftlichkeitsklausel ausdrücklich ergänzt; Verordnungssubdelegation nach Absatz6Satz4 aufgenommen. Aktuelle Kann-Festsetzung, Zukunftsüberprüfung, Auszahlung, Anzeige, Behördenformulare und Inkrafttreten der Soll-Fassung erst2028 bestätigt.",
-      "source_basis": "FamFG §292; BGB §§1875,1876,1879; ZPO §118Abs2S1/2; VBVG §§14,19; BGBl2025I109 Art2Nr3,Art3,Art13",
+      "finding": "Alle acht Absätze geprüft, insbesondere obligatorischer Schutz bei Zwangsmaßnahmen, geeignete Verfahrensvertretung nach Abs5 und fehlende gesetzliche Vertretungsmacht. Satzgrenze im Abschnitt zu Abs5 korrigiert.",
       "resolved": true
     },
     {
-      "id": "p292a",
+      "id": "p318",
       "disposition": "confirmed",
-      "finding": "Rückgriff und Vergütungsfestsetzung, zweckmäßige gesonderte Entscheidung, nur begrenzte ZPO-Verweisungen ohne Vierjahresgrenze, Anpassung, wertbegrenzte Erbenhaftung, Auskunft/Nachlassverzeichnis/eidesstattliche Versicherung und vorheriges Gehör vollständig geprüft. Keine Übertragung persönlichen Schonvermögens auf Erben unterstellt.",
-      "source_basis": "FamFG §292a; BGB §§1880Abs2,1881; ZPO §§120Abs2/3,120aAbs1S1–3",
+      "finding": "Verweisung auf §277Abs1–4 einschließlich Berufsmäßigkeitsfeststellung, Pauschalvoraussetzungen, Ausschluss weitergehender Ansprüche und Staatskasse geprüft. Vergütung nicht mit Kostenauferlegung verwechselt.",
       "resolved": true
     },
     {
-      "id": "p293",
+      "id": "p319",
       "disposition": "confirmed",
-      "finding": "Vier Absätze geprüft: Erstanordnungsregeln, Behördenanhörung, alternative Sechsmonats-/Unwesentlichkeitserleichterung, wesentliche Sonderaufgaben, eigenständiger Gutachtenverzicht bei Lebensumständen und weiterer Betreuer. XII ZB130/23 vollständig gelesen; Rn15–24 tragen den Übergangs-, Willens- und Formhinweis.",
-      "source_basis": "FamFG §§278,280,281,293; BGB §§1815,1817,1829–1832; Art229§54Abs4EGBGB; BGH XII ZB130/23 Rn15–24",
+      "finding": "Alle sieben Absätze geprüft: persönliche aktuelle Anhörung, Umgebung, Gutachtenerörterung, Pflegeranwesenheit, Gutachten für Gesundheitsausnahme, eng begrenzte Rechtshilfe sowie getrennte Gewalt-/Wohnungsanordnung. XII ZB183/25 vollständig bestätigt.",
       "resolved": true
     },
     {
-      "id": "p294",
+      "id": "p320",
       "disposition": "confirmed",
-      "finding": "Gezielte Verweise statt vollständigem Erstanordnungsprogramm, Behördenverlangen, erstmalige Nachbegutachtung, Sieben-/Zweijahreskontrolle und Übergang gelesen. XII ZB145/25 trägt die beschränkte Aussage zum entscheidungserheblichen persönlichen Eindruck der ganzen Kammer; ergänzende Hinweise Rn9/10 bleiben abgegrenzt.",
-      "source_basis": "FamFG §§26,68,279,281,288,294,493Abs5; BGH XII ZB145/25 Rn4–10",
+      "finding": "Mussanhörung der Beteiligten von Sollanhörung der Behörde ohne Antrag unterschieden. Keine unzutreffende Pflicht zur persönlichen Anhörung aller Beteiligten behauptet.",
       "resolved": true
     },
     {
-      "id": "p295",
-      "disposition": "confirmed",
-      "finding": "Gutachtenverzicht nur bei kumulativem Anhörungs-/Zeugnisbefund, offensichtlich nicht verringerter Bedürftigkeit und fehlendem erklärtem Widerspruch geprüft. Aktuelle Begutachtung, Verlängerungsfristen und Altbestellungen korrekt. XII ZB473/25 vollständig gelesen; Fehlbehandlung einer Beschwerde als Aufhebungsantrag und bloß ergänzender §294-Hinweis zutreffend.",
-      "source_basis": "FamFG §§68,276,280,294,295,493Abs5; BGH XII ZB473/25 Rn4–14",
-      "resolved": true
-    },
-    {
-      "id": "p296",
-      "disposition": "confirmed",
-      "finding": "Widerspruchsfall bei Entlassung mit persönlicher Anhörung beider Personen von persönlicher Anhörung vor konkreter Neubestellung getrennt. Einverständnisausnahme, sonstige Beteiligte, nahestehende Person, gesetzlicher Vertreter, bedingte Behördenanhörung, Auswahl und gleichzeitige Erweiterung geprüft.",
-      "source_basis": "FamFG §§279Abs1/3/4,293,296; BGB §§1816,1868,1869",
-      "resolved": true
-    },
-    {
-      "id": "p297",
+      "id": "p321",
       "disposition": "corrected",
-      "finding": "Alle acht Absätze einschließlich Rechtshilfeausschluss, Vertretungsausnahme, interdisziplinären Gutachten, personeller Trennung, doppelter Bekanntgabe und zwingender Information geprüft. Materielle Voraussetzungen konkretisiert: positiver natürlicher Wille statt bloßer Widerstandslosigkeit, dauernde Unfähigkeit, Schwangerschafts-/Gefahrenprognose und Alternativen; Refertilisierungsvorrang ergänzt.",
-      "source_basis": "FamFG §297; BGB §§1817Abs2,1830",
+      "finding": "Gutachten, persönliche Exploration, Prognose, ärztliche Qualifikation und Sollabstand zum zwangsbehandelnden Arzt geprüft. Bei Zeugnis ausdrücklich Zweckmitteilung und erkennbare Gutachterrolle ergänzt: XII ZB552/25 Rn9/13. Konkludente Gutachteneinführung aus XII ZB207/25 bleibt eng fallbezogen.",
       "resolved": true
     },
     {
-      "id": "p298",
+      "id": "p322",
       "disposition": "confirmed",
-      "finding": "Vorprüfung der Genehmigungspflicht und Einvernehmen über Patientenwillen, Einwilligung/Nichteinwilligung/Widerruf, Bevollmächtigtenanforderungen, Anhörungen, zwingender Pfleger im Absatz2-Fall, Soll-Unabhängigkeit des Sachverständigen und verzögerte Wirksamkeit am Normtext geprüft. Keine Übernahme der ausdrücklichen Ausnahme aus §297Abs5.",
-      "source_basis": "FamFG §§287Abs3,297Abs5,298; BGB §§1820Abs2Nr1,1827,1829",
+      "finding": "Entsprechende Anwendung §§283/284 einschließlich Anhörung, Gewalt, Wohnung, sechs Wochen/drei Monate und ZPO-Sofortbeschwerde geprüft; Beobachtungsunterbringung kein Behandlungstitel. Anrechnung gemäß §333Abs1 bestätigt.",
       "resolved": true
     },
     {
-      "id": "p299",
+      "id": "p323",
+      "disposition": "confirmed",
+      "finding": "Nähere Maßnahmenbezeichnung und Endzeit im Tenor, zusätzliche ärztliche Durchführung/Dokumentation bei Zwangsmaßnahmen und Trennung von Bestimmtheit, Zulässigkeit und Beweis bestätigt.",
+      "resolved": true
+    },
+    {
+      "id": "p324",
       "disposition": "corrected",
-      "finding": "Pflicht- und Soll-Anhörungen geprüft. Der zuvor pauschale Wohnraumaufgabe-Verweis ist auf sämtliche vier Geschäfte des §1833Abs3BGB konkretisiert, ausdrücklich einschließlich Vermietung. Vollmachtswiderruf, SBGG-Erklärung geschäftsunfähiger Volljähriger und vermögensrechtliche Genehmigungen abgeglichen.",
-      "source_basis": "FamFG §299; BGB §§1820Abs5S2,1821Abs2–4,1833Abs3,1850–1854; SBGG §3Abs3",
+      "finding": "Rechtskraftregel und drei alternative Wirksamkeitsereignisse geprüft. Vier mögliche Empfänger der ersten Alternative ausdrücklich benannt; Übergabezweck und Zeitvermerk bleiben getrennt von Vollzugsbefugnissen.",
       "resolved": true
     },
     {
-      "id": "p300",
-      "disposition": "corrected",
-      "finding": "Vier kumulative Voraussetzungen, Rechtshilfe, Abgrenzung zur Gefahr im Verzug und eigenständiger Entlassungstatbestand geprüft. Ergänzt: §57 betrifft Familiensachen, keine allgemeine Sperre in Betreuungssachen; zweiwöchige Beschwerdefrist mit Bekanntgabe und Ausschluss der Rechtsbeschwerde nach §70Abs4.",
-      "source_basis": "FamFG §§57,63Abs2Nr1/Abs3,70Abs4,276,278Abs3,287,300–302; BGB §§1814,1815,1825,1868",
-      "resolved": true
-    },
-    {
-      "id": "p301",
+      "id": "p325",
       "disposition": "confirmed",
-      "finding": "Gesteigerte Dringlichkeit von gewöhnlichem Eilbedarf getrennt, nur Verschiebung der Anhörungen/Bestellung mit unverzüglicher Nachholung, kein Zeugnisverzicht. Auswahlabweichung genau auf §1816Abs2/3 begrenzt; Eignung und Rückkehr zu regulärer Auswahl bleiben maßgeblich.",
-      "source_basis": "FamFG §§276,300,301; BGB §1816Abs1–3",
+      "finding": "Nur Gründe können bei ärztlich belegter erheblicher Gesundheitsgefahr zurückgehalten werden. Bekanntgabe an Einrichtung und Behörde sowie entsprechende Gutachtenausnahme nach XII ZB271/24 zutreffend.",
       "resolved": true
     },
     {
-      "id": "p302",
+      "id": "p326",
       "disposition": "confirmed",
-      "finding": "Automatisches Ende nach sechs Monaten oder früherem Termin, Sachverständigenanhörung vor jeder Verlängerung, erforderliches rechtzeitiges Wirksamwerden, absolute Jahresgrenze und Verbot bloßer Umbenennung geprüft. Keine Gleichsetzung mit dem Überprüfungsdatum der Hauptsache.",
-      "source_basis": "FamFG §§286Abs3,287,294,295,300–302",
+      "finding": "Unterstützung nur auf Wunsch und für §312Nr1/3, ausdrückliche Gewaltanordnung, Polizeihilfe, Wohnungsschutz und persönliche Voranhörung mit begrenzter Eilausnahme vollständig geprüft.",
       "resolved": true
     },
     {
-      "id": "p303",
+      "id": "p327",
       "disposition": "confirmed",
-      "finding": "Alle vier Befugnisgruppen und Voraussetzungen gelesen; Angehörige/Vertrauensperson benötigen erstinstanzliche Beteiligung und Betroffeneninteresse. Eigene Pflegerbefugnis von Vertretung durch Betreuer/Bevollmächtigten und selbständigem Handeln bei Gemeinschaft getrennt. XII ZB218/25 Rn8 und XII ZB323/25 Rn3/12 tragen die bewusst begrenzten Beispiele.",
-      "source_basis": "FamFG §§7,70,276Abs3,303; BGH XII ZB218/25 Rn8; XII ZB323/25 Rn3,12",
+      "finding": "Begrenzung auf §312Nr4, Verpflichtungsantrag, Geltendmachung eigener Rechte, fehlende automatische Hemmung, gerichtliche Aussetzungsmöglichkeit und Unanfechtbarkeit geprüft; keine eigenen materiellen Vollzugsansprüche erfunden.",
       "resolved": true
     },
     {
-      "id": "p304",
+      "id": "p328",
       "disposition": "confirmed",
-      "finding": "Kasseninteresse und besondere Ablehnung der Entlassung bei vorgetragenem Abrechnungs-/Ehrenamtsgrund geprüft. Keine materielle Entlassung allein aus Ersparnis. Dreimonatige Sonderfrist, formlose Mitteilung an Kassenvertreter und Abgrenzung anderer Beschwerdeführer zutreffend.",
-      "source_basis": "FamFG §§15Abs3,63,304; BGB §§1816Abs5,1868",
+      "finding": "Nur landesrechtliche Unterbringung; Aussetzung/Aufhebung, Auflagen, sechs Monate/ein Jahr und alternative Widerrufsgründe geprüft. XII ZB412/24 Rn10/11 belegt nur kurze Unterbrechungen ohne Fristneubeginn.",
       "resolved": true
     },
     {
-      "id": "p305",
-      "disposition": "corrected",
-      "finding": "Zusätzlichen Einlegungsort sprachlich präzisiert: das Amtsgericht selbst, nicht den Amtsgerichtsbezirk. Unterbringungstatbestand, Fortbestand allgemeiner Einlegung, unveränderte Befugnis/Frist und Eingangssicherung trotz späterer Weiterleitung bestätigt.",
-      "source_basis": "FamFG §§63,64,305",
-      "resolved": true
-    },
-    {
-      "id": "p306",
+      "id": "p329",
       "disposition": "confirmed",
-      "finding": "Aufhebung als ungerechtfertigt von späterem Bedarfswegfall unterschieden. Bestand der während wirksamer Anordnung vorgenommenen eigenen und empfangenen Geschäfte, keine rückwirkende Heilung oder Vernichtung, keine Aussage über Ersatzansprüche oder Geschäftsfähigkeit zutreffend.",
-      "source_basis": "FamFG §§47,294,306; BGB §1825",
-      "resolved": true
-    },
-    {
-      "id": "p307",
-      "disposition": "confirmed",
-      "finding": "Alle vier Verfahrensausgänge, notwendige Auslagen des Betroffenen, ganze/teilweise Ermessensentscheidung und Abgrenzung von Gerichtskosten geprüft. XII ZB323/25 Rn12/Tenor trägt unmittelbare bzw entsprechende Anwendung im besonderen Fehlbelastungsfall, keinen allgemeinen Angehörigenanspruch.",
-      "source_basis": "FamFG §§62,307; BGB §§1814–1881; BGH XII ZB323/25 Rn12 und Tenor",
-      "resolved": true
-    },
-    {
-      "id": "p308",
-      "disposition": "confirmed",
-      "finding": "Vier Absätze geprüft: öffentliche Empfänger, erhebliche Gefahr, Erforderlichkeit/berechtigte Interessen, unverzügliche Vorabmitteilung, gleichzeitige Information dreier Personengruppen. Ausnahmen nur beim Betroffenen und spätere Nachholung, sämtliche Dokumentationsfelder und Abgrenzung §§309/309a zutreffend.",
-      "source_basis": "FamFG §§308–309a",
-      "resolved": true
-    },
-    {
-      "id": "p309",
-      "disposition": "confirmed",
-      "finding": "Nur auf Aufenthaltsbestimmung bezogener Einwilligungsvorbehalt löst Mitteilung aus; bloßer Aufgabenbereich reicht nicht. Angabe der Betreuungsperson, Aufhebung und Personenwechsel sowie fehlende pauschale Diagnoseübermittlungsbefugnis geprüft.",
-      "source_basis": "FamFG §§286,309",
-      "resolved": true
-    },
-    {
-      "id": "p309a",
-      "disposition": "confirmed",
-      "finding": "Todesbeendigung mit gebundener Mitteilung von Kann-Weitergabe eignungs-/zuverlässigkeitsbezogener Umstände getrennt. Verdachtskennzeichnung, gleichzeitige Betreuerinformation, zweckbedingter Aufschub nur solange erforderlich und Nachholung am Wortlaut geprüft.",
-      "source_basis": "FamFG §309a; Abgrenzung §308Abs3",
+      "finding": "Einzelhöchstfristen ein/zwei Jahre und sechs Wochen, wiederholte Erstverfahrensgarantien und vierjährige/zwölfwöchige Unabhängigkeitsschwellen geprüft. XII ZB207/25 Rn19 trägt Gutachtendatum, XII ZB412/24 Rn8–14 zeitliche Kontinuität und offene Umgehungsfrage; keine pauschale Lebenszeitaddition.",
       "resolved": true
     }
   ],
-  "case_law_sources": [
-    "cases/BGH-XII-ZB-130-23.md",
-    "cases/BGH-XII-ZB-145-25.md",
-    "cases/BGH-XII-ZB-473-25.md",
-    "cases/BGH-XII-ZB-218-25.md",
-    "cases/BGH-XII-ZB-323-25.md"
-  ],
   "limitations": [
-    "Exactly twenty units reviewed against sources; other320comments preserved and technically compared only.",
-    "Five selected full official judicial decisions reread; no exhaustive research or external professional approval.",
-    "Whole manuscript incomplete:340of529units commented,189comments missing fromp310.",
-    "Technical length, hash and repetition checks supplement actual legal reading and do not establish legal quality."
+    "Exactly twenty assigned units reviewed; no whole-book completion.",
+    "Five selected official judgments reread; no exhaustive case-law survey.",
+    "Land statutes and the constitutional judgment behind BGB1832 source note not independently reviewed.",
+    "169 unassigned units remain unannotated; technical tests do not certify legal quality."
+  ],
+  "whole_book_complete": false,
+  "changed_ids": [
+    "p317",
+    "p321",
+    "p324"
   ],
   "evidence": {
-    "preflight": "sources/review-p292-p309a-version-map.json",
-    "fetch": "sources/review-p292-p309a-fetch.json",
-    "parser": "review-p292-p309a-parser-replay.json",
-    "case_comparison": "sources/review-p292-p309a-case-corpus-check.json",
-    "search_log": "sources/review-p292-p309a-search-log.json"
+    "sources": "sources/review-p310-p329-fetch.json",
+    "preflight": "sources/review-p310-p329-version-map.json",
+    "parser": "review-p310-p329-parser-replay.json"
   },
   "stage": "bounded_second_pass_complete",
-  "whole_book_complete": false,
-  "completed_at": "2026-10-20T19:19:07.928383+00:00",
   "validation": {
-    "assigned_batch_ok": true,
-    "reviewed_ids_exact": true,
+    "ok": true,
+    "reviewed_ids": [
+      "p310",
+      "p311",
+      "p312",
+      "p313",
+      "p314",
+      "p315",
+      "p316",
+      "p317",
+      "p318",
+      "p319",
+      "p320",
+      "p321",
+      "p322",
+      "p323",
+      "p324",
+      "p325",
+      "p326",
+      "p327",
+      "p328",
+      "p329"
+    ],
     "changed_ids": [
-      "p292",
-      "p297",
-      "p299",
-      "p300",
-      "p305"
+      "p317",
+      "p321",
+      "p324"
     ],
-    "unchanged_after_full_review": [
-      "p292a",
-      "p293",
-      "p294",
-      "p295",
-      "p296",
-      "p298",
-      "p301",
-      "p302",
-      "p303",
-      "p304",
-      "p306",
-      "p307",
-      "p308",
-      "p309",
-      "p309a"
-    ],
-    "unassigned_commentary_changes": [],
-    "all_320_unassigned_comments_preserved": true,
-    "previous_16_exported_chapters_preserved": true,
+    "unassigned_340_comments_byte_identical": true,
+    "assigned_export_matches": true,
+    "statutory_agreement": 1.0,
     "expected_official_units": 529,
     "parsed_units": 529,
-    "statutory_agreement": 1.0,
-    "parser_replay_byte_identical": true,
-    "exported_assigned_count": 20,
-    "exported_commentary_agrees": true,
-    "full_builder_exit_code": 1,
-    "strict_validator": {
+    "missing": [],
+    "extra": [],
+    "duplicates": [],
+    "links_checked": 1090,
+    "broken_links": [],
+    "repetition_screen_findings": [],
+    "full_validation": {
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 769451,
+      "commentary_chars": 816950,
       "errors": [
-        "krátký/chybějící komentář u 189 jednotek: ['p310(0<400)', 'p311(0<400)', 'p312(0<400)', 'p313(0<400)', 'p314(0<400)', 'p315(0<400)', 'p316(0<120)', 'p317(0<400)']"
+        "krátký/chybějící komentář u 169 jednotek: ['p330(0<400)', 'p331(0<400)', 'p332(0<400)', 'p333(0<400)', 'p334(0<120)', 'p335(0<400)', 'p336(0<120)', 'p337(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
-    "strict_exit_code": 1,
-    "reason_for_global_failure": "189 missing commentaries from p310, all outside this exact bounded review",
-    "partial_output_rebuilt": true,
-    "local_links_checked": 1001,
-    "broken_local_links": [],
-    "repeated_substantive_paragraphs": [],
-    "near_repeated_commentary": [],
-    "captured_body_hash_mismatches": [],
-    "validated_at": "2026-10-20T19:19:07.928383+00:00",
-    "whole_book_complete": false
-  }
+    "whole_book_complete": false,
+    "baseline_work_commit": "3fe29a7773e8fc17b797fc6f17dcbb04d0814e96",
+    "baseline_output_commit": "601d07d49e723290e1187893d4ff720725a11654"
+  },
+  "completed_at": "2026-10-20T21:42:17.597437+00:00"
 }

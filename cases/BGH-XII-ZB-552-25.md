@@ -15,3 +15,6 @@ Rn. 14 ist eine zusätzliche wichtige Grenze: Das für die medizinische Notwendi
 Das bayerische Landesrecht ist Kontext der Entscheidung. Die Kommentierung übernimmt die Aussagen zu den bundesrechtlichen Verfahrensnormen; sie behauptet keine hier gesondert durchgeführte aktuelle Vollprüfung des BayPsychKHG. Aktuelle §§ 312, 321 und 329 wurden mit dem amtlichen FamFG-XML verglichen.
 
 Selektive Recherche; keine erschöpfende Rechtsprechungsübersicht. Innerhalb des Beschlusses zitierte weitere Entscheidungen gelten nicht als zusätzlich vollständig recherchierte Belege. Autorenkontrolle, frische unabhängige Zweitprüfung noch ausstehend; keine externe professionelle Freigabe.
+
+
+Unabhängige begrenzte Zweitprüfung vom 20. Oktober 2026: Amtlichen Volltext vollständig erneut gelesen, Identität, tragende Aussagen, Randnummern und dargestellte Grenzen bestätigt. Der vorstehende Hinweis auf ausstehende Zweitprüfung bezeichnet den Autorenstand. [Frischer XML-Beleg](../sources/review-p310-p329-XII-ZB-552-25.xml), [Abrufdaten](../sources/review-p310-p329-fetch.json). Keine externe professionelle Billigung.

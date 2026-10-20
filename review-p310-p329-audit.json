@@ -1,0 +1,56 @@
+{
+  "ok": true,
+  "reviewed_ids": [
+    "p310",
+    "p311",
+    "p312",
+    "p313",
+    "p314",
+    "p315",
+    "p316",
+    "p317",
+    "p318",
+    "p319",
+    "p320",
+    "p321",
+    "p322",
+    "p323",
+    "p324",
+    "p325",
+    "p326",
+    "p327",
+    "p328",
+    "p329"
+  ],
+  "changed_ids": [
+    "p317",
+    "p321",
+    "p324"
+  ],
+  "unassigned_340_comments_byte_identical": true,
+  "assigned_export_matches": true,
+  "statutory_agreement": 1.0,
+  "expected_official_units": 529,
+  "parsed_units": 529,
+  "missing": [],
+  "extra": [],
+  "duplicates": [],
+  "links_checked": 1090,
+  "broken_links": [],
+  "repetition_screen_findings": [],
+  "full_validation": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 816950,
+    "errors": [
+      "krátký/chybějící komentář u 169 jednotek: ['p330(0<400)', 'p331(0<400)', 'p332(0<400)', 'p333(0<400)', 'p334(0<120)', 'p335(0<400)', 'p336(0<120)', 'p337(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "whole_book_complete": false,
+  "baseline_work_commit": "3fe29a7773e8fc17b797fc6f17dcbb04d0814e96",
+  "baseline_output_commit": "601d07d49e723290e1187893d4ff720725a11654"
+}

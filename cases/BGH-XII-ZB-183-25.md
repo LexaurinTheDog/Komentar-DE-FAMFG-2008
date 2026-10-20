@@ -13,3 +13,6 @@ Rn. 11 betrifft Abgabe und Reiseaufwand. Die Möglichkeit des § 314 ist ein org
 Die Darstellung der amtsgerichtlichen Gründe in Rn. 9 wird nicht als Billigung übernommen. Die aktuelle Fassung der §§ 313, 314 und 319 wurde mit dem amtlichen XML abgeglichen; keine überholte Paragraphennummer wird als heutiges Recht behandelt.
 
 Selektive Recherche; keine erschöpfende Rechtsprechungsübersicht. Innerhalb des Beschlusses zitierte weitere Entscheidungen gelten nicht als zusätzlich vollständig recherchierte Belege. Autorenkontrolle, frische unabhängige Zweitprüfung noch ausstehend; keine externe professionelle Freigabe.
+
+
+Unabhängige begrenzte Zweitprüfung vom 20. Oktober 2026: Amtlichen Volltext vollständig erneut gelesen, Identität, tragende Aussagen, Randnummern und dargestellte Grenzen bestätigt. Der vorstehende Hinweis auf ausstehende Zweitprüfung bezeichnet den Autorenstand. [Frischer XML-Beleg](../sources/review-p310-p329-XII-ZB-183-25.xml), [Abrufdaten](../sources/review-p310-p329-fetch.json). Keine externe professionelle Billigung.

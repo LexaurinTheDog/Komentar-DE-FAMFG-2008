@@ -1,6 +1,6 @@
 {
-  "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T19:29:30.278328+00:00",
+  "stage": "bounded_review_complete_manuscript_incomplete",
+  "updated_at": "2026-10-20T21:42:17.597437+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -59,26 +59,24 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 816731,
+      "commentary_chars": 816950,
       "errors": [
-        "krátký/chybějící komentář u 169 jednotek: ['p330(0<400)', 'p331(0<400)', 'p332(0<400)', 'p333(0<400)', 'p334(0<120)', 'p335(0<400)', 'p336(0<120)', 'p337(0<400)']"
+        "krátký/chybějící komentář u 169 jednotek: ['p330(0<400)', 'p331(0<400)', 'p332(0<400)', 'p333(0<400)', 'p334(0<120)', 'p335(0<400)', 'p336(0<120)', 'p337(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
     "exit_code": 1,
-    "full_build_exit_code": 1,
-    "completeness_report": "completeness-report.json",
-    "technical_audit": "technical-audit.json",
-    "statutory_coverage_complete": true,
-    "bounded_author_batch_ok": true,
-    "validated_at": "2026-10-20T19:29:30.278328+00:00",
-    "expected_intermediate_failure": "169 unassigned units remain unannotated from p330. All 20 assigned units complete; 100% statutory agreement."
+    "bounded_batch_ok": true,
+    "expected_intermediate_failure": "169 unassigned missing commentaries from p330",
+    "validated_at": "2026-10-20T21:42:17.597437+00:00"
   },
   "remaining_limitations": [
-    "169 unassigned units remain without commentary from p330.",
-    "Selective case law; no current full review of Land statutes.",
-    "Author technical checks are not independent second pass or external professional approval."
+    "Exactly twenty assigned units reviewed; no whole-book completion.",
+    "Five selected official judgments reread; no exhaustive case-law survey.",
+    "Land statutes and the constitutional judgment behind BGB1832 source note not independently reviewed.",
+    "169 unassigned units remain unannotated; technical tests do not certify legal quality."
   ],
   "commented_scope": "§§ 1–329 einschließlich der Buchstabenparagraphen",
   "resume": {
@@ -105,33 +103,30 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p292",
-      "p292a",
-      "p293",
-      "p294",
-      "p295",
-      "p296",
-      "p297",
-      "p298",
-      "p299",
-      "p300",
-      "p301",
-      "p302",
-      "p303",
-      "p304",
-      "p305",
-      "p306",
-      "p307",
-      "p308",
-      "p309",
-      "p309a"
+      "p310",
+      "p311",
+      "p312",
+      "p313",
+      "p314",
+      "p315",
+      "p316",
+      "p317",
+      "p318",
+      "p319",
+      "p320",
+      "p321",
+      "p322",
+      "p323",
+      "p324",
+      "p325",
+      "p326",
+      "p327",
+      "p328",
+      "p329"
     ],
-    "result": "review-result.json",
-    "archived_result": "review-p292-p309a-result.json",
-    "technical_audit": "review-p292-p309a-audit.json",
+    "result": "review-p310-p329-result.json",
     "unresolved_blockers": [],
-    "whole_book_complete": false,
-    "commentary_characters": 56603
+    "whole_book_complete": false
   },
   "bounded_review_history": [
     {
@@ -640,9 +635,41 @@
       "unresolved_blockers": [],
       "whole_book_complete": false,
       "commentary_characters": 57894
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p292",
+        "p292a",
+        "p293",
+        "p294",
+        "p295",
+        "p296",
+        "p297",
+        "p298",
+        "p299",
+        "p300",
+        "p301",
+        "p302",
+        "p303",
+        "p304",
+        "p305",
+        "p306",
+        "p307",
+        "p308",
+        "p309",
+        "p309a"
+      ],
+      "result": "review-result.json",
+      "archived_result": "review-p292-p309a-result.json",
+      "technical_audit": "review-p292-p309a-audit.json",
+      "unresolved_blockers": [],
+      "whole_book_complete": false,
+      "commentary_characters": 56603
     }
   ],
-  "cumulative_independently_reviewed_units": 340,
+  "cumulative_independently_reviewed_units": 360,
   "remaining_existing_commentaries_for_review": 0,
   "commentary_characters": 816731,
   "bounded_authoring": {
@@ -780,7 +807,8 @@
     "units_authored": 20,
     "result": "author-p310-p329-result.json",
     "independent_second_pass_pending": true,
-    "commentary_characters": 47280
+    "commentary_characters": 47280,
+    "independent_second_pass_complete": true
   },
   "bounded_author_history": [
     {

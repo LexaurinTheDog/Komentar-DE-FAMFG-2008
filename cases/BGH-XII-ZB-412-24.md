@@ -15,3 +15,6 @@ Der Text der Rn. 12 bezeichnet den erneut beginnenden Sechswochenzeitraum als Fr
 Die Entscheidung bewertet keine allgemeine materielle Zulässigkeit jeder außerklinischen Zwangsbehandlung. Die Falldarstellung erwähnt die Wohnstätte; die hier übernommenen tragenden Aussagen betreffen die Gutachterauswahl und die zeitliche Kontinuität. Der Fortgeltungshinweis bei § 1832 BGB wird dadurch nicht ersetzt.
 
 Selektive Recherche; keine erschöpfende Rechtsprechungsübersicht. Innerhalb des Beschlusses zitierte weitere Entscheidungen gelten nicht als zusätzlich vollständig recherchierte Belege. Autorenkontrolle, frische unabhängige Zweitprüfung noch ausstehend; keine externe professionelle Freigabe.
+
+
+Unabhängige begrenzte Zweitprüfung vom 20. Oktober 2026: Amtlichen Volltext vollständig erneut gelesen, Identität, tragende Aussagen, Randnummern und dargestellte Grenzen bestätigt. Der vorstehende Hinweis auf ausstehende Zweitprüfung bezeichnet den Autorenstand. [Frischer XML-Beleg](../sources/review-p310-p329-XII-ZB-412-24.xml), [Abrufdaten](../sources/review-p310-p329-fetch.json). Keine externe professionelle Billigung.

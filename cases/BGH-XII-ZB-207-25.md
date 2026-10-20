@@ -13,3 +13,6 @@ Rn. 17–18 erläutern ergänzend die Möglichkeit, auf eine erneute Anhörung i
 Rn. 19 trägt die zeitliche Korrektur: Grundsätzlich ist die zulässige Unterbringungszeit am Gutachtendatum und nicht erst am Beschlusstag auszurichten. Ohne weitere Feststellungen trug das Gutachten vom 13. Januar 2025 die Genehmigung nur bis 13. Januar 2026. Die Entscheidung ist keine abstrakte Regel, wonach jedes Gutachten genau ein Jahr gültig wäre. Prognoseinhalt und konkrete Feststellungen bleiben maßgeblich. Der zugrunde liegende § 1831 BGB sowie §§ 321 und 329 sind in den gesicherten aktuellen Gesetzesquellen geprüft.
 
 Selektive Recherche; keine erschöpfende Rechtsprechungsübersicht. Innerhalb des Beschlusses zitierte weitere Entscheidungen gelten nicht als zusätzlich vollständig recherchierte Belege. Autorenkontrolle, frische unabhängige Zweitprüfung noch ausstehend; keine externe professionelle Freigabe.
+
+
+Unabhängige begrenzte Zweitprüfung vom 20. Oktober 2026: Amtlichen Volltext vollständig erneut gelesen, Identität, tragende Aussagen, Randnummern und dargestellte Grenzen bestätigt. Der vorstehende Hinweis auf ausstehende Zweitprüfung bezeichnet den Autorenstand. [Frischer XML-Beleg](../sources/review-p310-p329-XII-ZB-207-25.xml), [Abrufdaten](../sources/review-p310-p329-fetch.json). Keine externe professionelle Billigung.
