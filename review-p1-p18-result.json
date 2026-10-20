@@ -1,0 +1,187 @@
+{
+  "task_kind": "review",
+  "complete": true,
+  "scope": "Only assigned p1–p18 including p14a and p14b; not whole-book completion",
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T15:17:44.628814+00:00",
+  "baseline_commit": "e4b9c86c2afb6571e1c87c72454c563c7fffb0d2",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p14a",
+    "p14b",
+    "p15",
+    "p16",
+    "p17",
+    "p18"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p1",
+      "disposition": "corrected",
+      "finding_and_resolution": "§ 113 Absatz 1 schließt §§ 2–22 und 23–37 in Ehe- und Familienstreitsachen aus; Reichweite der Verfahrensweiche ausdrücklich ergänzt. Bundesgesetzliche Zuweisung, örtliche und internationale Zuständigkeit getrennt geprüft.",
+      "checked_sources": "FamFG §§ 1, 97, 111–114"
+    },
+    {
+      "id": "p2",
+      "disposition": "retained",
+      "finding_and_resolution": "Alle drei Absätze gelesen: erste Befassung nur bei konkurrierender örtlicher Zuständigkeit, Fortbestand trotz Umstandsänderung, Wirksamkeit bei örtlichem Mangel. Sachliche Mängel und § 3 zutreffend getrennt.",
+      "checked_sources": "FamFG §§ 2–4"
+    },
+    {
+      "id": "p3",
+      "disposition": "retained",
+      "finding_and_resolution": "Verweisungsvoraussetzungen, vorherige Anhörung, Wahlrecht und Auswahl im Amtsverfahren, Unanfechtbarkeit/Bindung sowie Kostenzuordnung vollständig abgeglichen. Beispiel betrifft wirklich mehrere zuständige Gerichte.",
+      "checked_sources": "FamFG §§ 3, 5"
+    },
+    {
+      "id": "p4",
+      "disposition": "retained",
+      "finding_and_resolution": "Wichtiger Grund, ausdrückliche Übernahmebereitschaft und Soll-Anhörung sowie Abgrenzung zur Unzuständigkeitsverweisung geprüft. Zusammenhang mit § 5 Absatz 1 Nummer 5 zutreffend.",
+      "checked_sources": "FamFG §§ 3–5"
+    },
+    {
+      "id": "p5",
+      "disposition": "retained",
+      "finding_and_resolution": "Fünf Bestimmungstatbestände, rechtskräftige Erklärungen bei Nummern 3/4, Ausweichregel zum OLG und Unanfechtbarkeit mit Wortlaut verglichen. Keine Verwechslung bloßer Geschäftsstellenmeinungen mit Entscheidungen.",
+      "checked_sources": "FamFG §§ 4–5"
+    },
+    {
+      "id": "p6",
+      "disposition": "retained",
+      "finding_and_resolution": "Verweisungsbereich §§ 41–49 ZPO, zusätzlicher Ausschluss wegen Verwaltungsmitwirkung und gesonderte sofortige Beschwerde nach §§ 567–572 ZPO geprüft. Beispiel betrifft gesetzlichen Ausschluss.",
+      "checked_sources": "FamFG §§ 6, 58; amtliche ZPO-XML §§ 41–49, 567–572"
+    },
+    {
+      "id": "p7",
+      "disposition": "corrected",
+      "finding_and_resolution": "Formulierung zur Beteiligtenstellung präzisiert, damit die kraft Gesetzes bestehende Antragstellerstellung keinen zusätzlichen konstitutiven Beschluss vorauszusetzen scheint. Alle sechs Absätze einschließlich Benachrichtigung, Belehrung und sofortiger Beschwerde abgeglichen.",
+      "checked_sources": "FamFG §§ 7, 13"
+    },
+    {
+      "id": "p8",
+      "disposition": "retained",
+      "finding_and_resolution": "Alle drei Gruppen mit bedingter Rechtsfähigkeit der Vereinigungen und eigener Beteiligtenfähigkeit von Behörden gelesen. Unterscheidung abstrakter Fähigkeit, konkreter Beteiligung und Handlungsfähigkeit schlüssig.",
+      "checked_sources": "FamFG §§ 7–9"
+    },
+    {
+      "id": "p9",
+      "disposition": "corrected",
+      "finding_and_resolution": "Bisher fehlenden Absatz 5 erläutert; §§ 53–58 ZPO und insbesondere amtswegige Mängelprüfung sowie Betreuerbestellung kontrolliert. Gesetzliches Vertreterverschulden von Bevollmächtigtenverschulden getrennt. Altersvoraussetzungen in Absatz 1 Nummer 3 und Sonderregel § 275 geprüft.",
+      "checked_sources": "FamFG §§ 9, 11, 275; ZPO §§ 53–58, 85 Absatz 2"
+    },
+    {
+      "id": "p10",
+      "disposition": "corrected",
+      "finding_and_resolution": "Vertretergruppen konkretisiert: bloße Unentgeltlichkeit lässt beliebige Bekannte nicht zu; maßgeblich ist fehlender Zusammenhang mit entgeltlicher Tätigkeit bei Nummer 2. Beschäftigte, Notare, Zurückweisungsschutz, BGH-Regime und Richterverbot kontrolliert.",
+      "checked_sources": "FamFG §§ 10–11, 113–114"
+    },
+    {
+      "id": "p11",
+      "disposition": "corrected",
+      "finding_and_resolution": "Verfahrensvollmacht als Legitimation zum Handeln gegenüber Gericht von internem Auftrag abgegrenzt. Schriftlicher Nachweis, Nachreichung, Rüge und Ausnahme amtswegiger Kontrolle bei Anwalt/Notar mit Wortlaut verglichen. Verweis §§ 81–87, 89 ZPO geprüft.",
+      "checked_sources": "FamFG §§ 10–11; ZPO §§ 81–87, 89"
+    },
+    {
+      "id": "p12",
+      "disposition": "retained",
+      "finding_and_resolution": "Beistand im Termin, reguläre Personen und zusätzliche gerichtliche Zulassung, enger Verweis auf § 10 Absatz 3 Sätze 1/3 und Absatz 5, sofortiger Widerruf/Berichtigung des Vortrags geprüft. Keine Gleichsetzung mit eigenständiger Bevollmächtigung.",
+      "checked_sources": "FamFG §§ 10, 12"
+    },
+    {
+      "id": "p13",
+      "disposition": "corrected",
+      "finding_and_resolution": "Ermessensentscheidung über Aktenüberlassung von ausdrücklichem Anspruchsausschluss für Beweisstücke getrennt. Beglaubigung auf Verlangen, Unanfechtbarkeit der Überlassungsentscheidung sowie Abruf/sichere Übermittlung und Verbreitungsgrenzen nach § 299 Absätze 3/4 ZPO ergänzt. Alle sieben Absätze geprüft.",
+      "checked_sources": "FamFG §§ 7, 13; ZPO § 299 Absätze 3–4"
+    },
+    {
+      "id": "p14",
+      "disposition": "corrected",
+      "finding_and_resolution": "Jahresgrenze 2026 als Grenze der erfassten Anlage/Übermittlung statt pauschalem Ende aller Papierakten erläutert. Differenz zwischen höher als VS-NfD und genau VS-NfD in Absatz 6 nachgetragen; sämtliche Absätze einschließlich 4a geprüft.",
+      "checked_sources": "FamFG §§ 14, 14b; ZPO §§ 130a, 130b, 298, 298a"
+    },
+    {
+      "id": "p14a",
+      "disposition": "corrected",
+      "finding_and_resolution": "Verordnungsgeber und Bundesratszustimmung ergänzt; zwingende Plattformbereitstellung eingeführter Formulare von fakultativer strukturierter Datenpflicht getrennt. Identifikationsabweichung und amtlichen historischen Hinweis geprüft, nicht als zusätzliche operative Vorschrift behandelt.",
+      "checked_sources": "FamFG §§ 14a–14b mit amtlicher Fußnote; ZPO § 130a Absatz 3"
+    },
+    {
+      "id": "p14b",
+      "disposition": "corrected",
+      "finding_and_resolution": "Nachreichung auf Anforderung als Pflicht präzisiert; Absätze 1/2 und Ausnahme technischer Unmöglichkeit abgeglichen. Volltext XII ZB 264/22 gelesen und geschlossene Störungsdarstellung, anwaltliche Versicherung, verspätete Nachholung sowie offen gelassene Frage in Rn. 14 korrekt zugeordnet.",
+      "checked_sources": "FamFG § 14b; BGH XII ZB 264/22, Tenor und Rn. 1–20"
+    },
+    {
+      "id": "p15",
+      "disposition": "retained",
+      "finding_and_resolution": "Vier-Tage-Fiktion für Inland, Widerlegung durch Glaubhaftmachung und Bekanntgabe/Zustellung mit § 41 verglichen; keine historische Drei-Tage-Fassung übernommen. Absatz 3 und spätere tatsächliche Zustellung im Beispiel zutreffend.",
+      "checked_sources": "FamFG §§ 15–16, 41, 63"
+    },
+    {
+      "id": "p16",
+      "disposition": "corrected",
+      "finding_and_resolution": "Konkrete Fristberechnungs-, Verlängerungs- und Verfahrensregeln aus §§ 222, 224 Absätze 2/3 und 225 ZPO ergänzt. Nicht verwiesenen § 224 Absatz 1 ausdrücklich abgegrenzt. Bekanntgabe und Sonderfristbeginn §§ 41/63 kontrolliert.",
+      "checked_sources": "FamFG §§ 15–16, 41, 63; ZPO §§ 222, 224–225"
+    },
+    {
+      "id": "p17",
+      "disposition": "corrected",
+      "finding_and_resolution": "Verschuldenszurechnung und § 113-Sonderregime konkretisiert, Ursächlichkeit trotz Vermutung erläutert. Volltext XII ZB 592/11 gelesen: hypothetische Wiedereinsetzungsprüfung von tatsächlichem Aufhebungsgrund getrennt; historische Lücke in § 233 ZPO als heute überholt gekennzeichnet.",
+      "checked_sources": "FamFG §§ 9, 11, 17–18, 113; ZPO §§ 85, 233; BGH XII ZB 592/11 Rn. 1–19 und XII ZB 264/22 Rn. 19–20"
+    },
+    {
+      "id": "p18",
+      "disposition": "corrected",
+      "finding_and_resolution": "Zweiwochenfrist, Sondermonat für Rechtsbeschwerdebegründung, Form, Glaubhaftmachung, rechtzeitige Nachholung und Jahresgrenze vollständig geprüft. Materielle Erläuterung erhalten und konkrete Themenprüfliste hinzugefügt.",
+      "checked_sources": "FamFG §§ 17–18, 113"
+    }
+  ],
+  "limitations": [
+    "Whole manuscript still has 336 unannotated units; the regular full build and strict validator are expected to reject that unrelated incompleteness.",
+    "Only these 20 commentaries were independently reviewed; reading cross-referenced statutes does not certify other commentary units.",
+    "Selective case-law research; no exhaustive search of all later or conflicting decisions. No additional sufficiently verified authority was included for the other units in this batch.",
+    "The 2012 decision is cited with express historical and hypothetical limits, not as a current statement that § 233 ZPO lacks a presumption.",
+    "No external professional approval or whole-book independent review claimed."
+  ],
+  "evidence": {
+    "official_xml": "sources/review-p1-p18-famfg.xml",
+    "official_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "statutory_preflight": "preflight-result.json",
+    "technical_batch_audit": "review-batch-audit.json",
+    "review_protocol": "REVIEW.md",
+    "case_cards": [
+      "cases/BGH-XII-ZB-264-22.md",
+      "cases/BGH-XII-ZB-592-11.md"
+    ]
+  },
+  "technical_checks": {
+    "batch_audit": "review-batch-audit.json",
+    "assigned_statutory_wording_agreement": 1.0,
+    "unassigned_commentary_changes": [],
+    "full_statutory_completeness": "529/529 identifiers; no missing, extra, duplicate, unclassified or mismatched operative text",
+    "links_and_repetition": "technical-audit.json: zero broken local links, repeated long paragraphs or near-repeat pairs above configured threshold",
+    "full_builder": "build-result.json: rejected only the 336 unannotated units outside assignment",
+    "strict_validation": {
+      "file": "validation.json",
+      "exit_code": 1,
+      "verbatim_ratio": 1.0,
+      "errors_only_outside_assigned_scope": true,
+      "unannotated_outside_scope": 336
+    }
+  }
+}

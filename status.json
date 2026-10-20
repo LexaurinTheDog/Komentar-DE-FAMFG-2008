@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T15:19:05.325795+00:00",
+  "updated_at": "2026-10-20T15:27:11.831408+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -10,26 +10,17 @@
     "cases/BGH-XII-ZB-114-21.md",
     "cases/BGH-XII-ZB-109-16.md",
     "cases/BGH-XII-ZB-264-22.md",
-    "cases/BGH-XII-ZB-592-11.md"
+    "cases/BGH-XII-ZB-592-11.md",
+    "cases/OLG-Bamberg-3-Wx-15-24.md"
   ],
   "validation": {
-    "strict_validator": {
-      "repo": "Komentar-DE-FAMFG-2008",
-      "units": 529,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 207397,
-      "errors": [
-        "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
+    "strict_validator": "Full strict validation to be refreshed after commit; previous result retained in output history.",
     "exit_code": 1,
     "full_build_exit_code": 1,
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "validated_at": "2026-10-20T15:19:05.325795+00:00",
+    "validated_at": null,
     "expected_intermediate_failure": "Only the 336 unannotated units outside this completed 20-unit independent review; full statutory text agreement and completeness pass."
   },
   "remaining_limitations": [
@@ -37,9 +28,9 @@
     "Full build and strict validation correctly fail because commentary is incomplete.",
     "Case-law research is selective; no exhaustive coverage claimed.",
     "Source preflight rechecked current delivery, relevant commencement clauses and seven recent statutory enactments; no complete historical amendment reconstruction since 2008.",
-    "Independent second-pass review complete only for assigned 20 units p1–p18 including p14a/p14b; remaining commentary not independently reviewed in this task."
+    "Two bounded second-pass batches completed: exactly 40 commentaries §§1–36a; 153 other existing commentaries not yet second-pass reviewed. This task reviewed exactly p19–p36a."
   ],
-  "commentary_characters": 207397,
+  "commentary_characters": 214881,
   "commented_scope": "§§ 1–168g",
   "resume": {
     "last_commented_id": "p168g",
@@ -62,30 +53,64 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p1",
-      "p2",
-      "p3",
-      "p4",
-      "p5",
-      "p6",
-      "p7",
-      "p8",
-      "p9",
-      "p10",
-      "p11",
-      "p12",
-      "p13",
-      "p14",
-      "p14a",
-      "p14b",
-      "p15",
-      "p16",
-      "p17",
-      "p18"
+      "p19",
+      "p20",
+      "p21",
+      "p22",
+      "p22a",
+      "p23",
+      "p24",
+      "p25",
+      "p26",
+      "p27",
+      "p28",
+      "p29",
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p34",
+      "p35",
+      "p36",
+      "p36a"
     ],
     "result": "review-result.json",
     "technical_audit": "review-batch-audit.json",
     "unresolved_blockers": [],
     "whole_book_complete": false
-  }
+  },
+  "bounded_review_history": [
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p9",
+        "p10",
+        "p11",
+        "p12",
+        "p13",
+        "p14",
+        "p14a",
+        "p14b",
+        "p15",
+        "p16",
+        "p17",
+        "p18"
+      ],
+      "result": "review-p1-p18-result.json",
+      "technical_audit": "review-p1-p18-audit.json",
+      "unresolved_blockers": [],
+      "whole_book_complete": false
+    }
+  ],
+  "cumulative_independently_reviewed_units": 40,
+  "remaining_existing_commentaries_for_review": 153
 }

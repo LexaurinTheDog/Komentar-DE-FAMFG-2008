@@ -1,0 +1,7 @@
+# OLG Bamberg, Beschluss vom 26. Februar 2025 — 3 Wx 15/24
+
+Amtliche [Entscheidungsseite](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2025-N-10484), [HTML-Snapshot](../sources/review-p31-OLG-Bamberg-3-Wx-15-24.html), [Textauszug der Seite](../sources/review-p31-OLG-Bamberg-3-Wx-15-24.txt). Abruf am 20. Oktober 2026; HTTP 200, HTML-Format und Aktenzeichen geprüft; Zeitpunkt und SHA-256 in [verification.json](../sources/verification.json). Ein ECLI ist im abgerufenen Seitentext nicht ausgewiesen.
+
+Gelesen: Tenor und vollständige Gründe Rn. 1–27. Verwendet ausschließlich für § 31. Rn. 18 erläutert überwiegende Wahrscheinlichkeit und Einzelfallwürdigung. Rn. 19–24 würdigen die Belege für den Verlust eines Grundschuldbriefs; fehlende eigene Wahrnehmung der Erbin genügt nicht zur schematischen Ablehnung. Rn. 25 weist die Durchführung des Aufgebotsverfahrens an, erklärt den Brief nicht selbst für kraftlos. Rn. 27 lässt wegen einer abweichenden Senatsentscheidung die Rechtsbeschwerde zu. Die Darstellung der Beschwerdebehauptungen in Rn. 7–9 ist vom gerichtlichen Ergebnis zu trennen.
+
+Keine Behauptung abschließender höchstrichterlicher Klärung dieser Aufgebotskonstellation; keine eigene aktuelle BGB-Kommentierung. Redaktionelle Leitsätze und Fundstellen der Website wurden nicht als gerichtliche Begründung übernommen. Solche Seitenelemente im Rohbeleg stehen nicht unter der Kommentarlizenz. Die maßgeblichen FamFG-Verweise wurden am aktuellen amtlichen XML geprüft. Selektive Recherche ohne vollständige Nachfolgesuche.

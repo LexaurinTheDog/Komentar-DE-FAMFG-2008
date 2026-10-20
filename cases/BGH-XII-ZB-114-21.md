@@ -21,3 +21,14 @@ Rn. 14: Wegen fehlender Entscheidungsreife erfolgte Aufhebung und Zurückverweis
 Unterstützte Kommentierungen: §§ 68, 74; für spätere Bearbeitung auch §§ 278, 280, 295. Der volle Entscheidungstext einschließlich Rn. 1–15 wurde gelesen; keine Übernahme kommerzieller Anmerkungen.
 
 Die Entscheidung stammt aus der Zeit vor der Betreuungsrechtsreform 2023. Sie wird hier für die verfahrensrechtliche Nachholung einer fehlerhaften Anhörung und die Unterscheidung von Rechtskontrolle und Tatsachenaufklärung verwendet. Die damals behandelten Aufgabenkreise und die konkrete Überprüfungsdauer werden nicht als eigenständige Aussage zum gesamten materiellen Betreuungsrecht 2026 übernommen. § 68 Absatz 5 enthält heute zusätzliche Sonderregeln für bestimmte Kindschaftssachen; der Betreuungsfall ersetzt deren gesonderte Prüfung nicht. Selektiver Einzelfall, keine vollständige Rechtsprechungsübersicht.
+
+
+## Prüfungsnachtrag vom 20. Oktober 2026: §§ 26 und 34
+
+In der begrenzten Zweitprüfung der §§ 19–36a wurde der gesamte amtliche Text, Tenor und Rn. 1–15, erneut gelesen. Neuer amtlicher Abruf: [ZIP](../sources/review-p19-p36a-case-XII-ZB-114-21.zip), [XML](../sources/review-p19-p36a-case-XII-ZB-114-21.xml); HTTP 200, ZIP/CRC und XML-Identität geprüft, Hashes und Zeitpunkt in [verification.json](../sources/verification.json). Der lokale nationale Korpus `rii-kore312662021.md` wurde ebenfalls vollständig gelesen; sein Text stimmt in den benutzten Aussagen mit dem neuen amtlichen Snapshot überein.
+
+**Zusätzliche Verwendung für § 26:** Rn. 10–13, insbesondere 12, belegen die Grenze des Abweichens von fachlichen Einschätzungen ohne ausreichende Begründung und Sachkunde. Die Zuordnung zum allgemeinen Amtsermittlungsgrundsatz ist eine systematische Einordnung des Kommentars; der BGH entschied konkret über die Betreuungsverlängerung und deren ärztliche Grundlage. Daraus folgt keine Pflicht zu einem Gutachten in jedem Verfahren.
+
+**Zusätzliche Verwendung für § 34:** Rn. 6–9 belegen, warum die fehlerhafte Erstanhörung im Beschwerdeverfahren nachzuholen war. Nach Ausbleiben beim erneuten Termin musste nach Rn. 9 ein weiterer Termin angesetzt und eine Vorführung nach § 278 Absatz 5 erwogen werden. Eine Beendigung unter pauschalem Hinweis auf § 34 Absatz 3 wäre keine tragfähige Umsetzung dieses besonderen Anhörungsregimes. Der BGH begründet keine allgemeine Vorführungspflicht und entscheidet nicht über die später eingeführte audiovisuelle Anhörung.
+
+Die heutigen Texte von §§ 26, 34, 68, 278, 280 und 295 wurden in der amtlichen FamFG-XML gegengelesen. § 295 wurde inzwischen materiell geändert; die damalige Jahres- beziehungsweise Siebenjahresbewertung ist deshalb kein Beleg für die heutigen Verlängerungsvoraussetzungen. Die bereits vorhandenen Verwendungen für §§ 68/74 wurden in diesem begrenzten Auftrag nicht erneut als Kommentierung geprüft. Keine vollständige Nachfolgerecherche.

@@ -746,5 +746,69 @@
       "commencement": "Art.18 Abs.1: 2026-10-01 for Art.1; Abs.3: 2027-01-01 for Art.2; Abs.4: 2027-06-01 for Art.3.",
       "scope_check": "Art.1 changes enforcement provisions from § 750 onward; future Art.2 concerns § 829 Abs.5, future Art.3 concerns TOC, § 173 Abs.2, new § 752b, § 753 Abs.4. None changes the ZPO rules substantively used in this review: §§ 41–58, 81–89, 130a–130b, 222–225, 233, 298–299, 567–572."
     }
+  },
+  "bounded_review_p19_p36a_recheck": {
+    "complete": true,
+    "verified_at": "2026-10-20T15:20:30.358871+00:00",
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "fresh_xml": "sources/review-p19-p36a-famfg.xml",
+    "fresh_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "byte_identical_to_authoring_start": true,
+    "version_evidence_read": [
+      "sources/bgbl-152.txt: Art.6 and 18",
+      "sources/bgbl-192.txt: Art.4 and 20",
+      "sources/bgbl-198.txt: Art.4 and 10"
+    ],
+    "version_result": "Authoring-start effective date 2026-10-19 retained. No listed 2026 amendment alters §§19–36a; future 2027 insertions remain excluded. Consolidation label is not used as commencement proof.",
+    "supporting_zpo": "Fresh sources/review-p19-p36a-zpo.xml byte-identical to preceding verified ZPO snapshot; video, suspension, comparison, enforcement and immediate-complaint references read. Existing commencement evidence retained.",
+    "historical_versions_checked": {
+      "one_current_text_per_id": true,
+      "duplicate_ids": [],
+      "duplicate_doknr": [],
+      "historical_version_elements": [],
+      "change_map": "sources/change-map.json"
+    },
+    "annexes_checked": {
+      "complete": true,
+      "disposition": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+      "all_xml_norm_elements_accounted_for": 599,
+      "unclassified": [],
+      "final_transitional_ids": [
+        "p486",
+        "p487",
+        "p488",
+        "p489",
+        "p490",
+        "p491",
+        "p492",
+        "p493"
+      ],
+      "repealed_slots": [
+        "p79",
+        "p190",
+        "p230",
+        "p289",
+        "p364",
+        "p396"
+      ],
+      "repealed_subparagraphs": [
+        {
+          "id": "p163",
+          "disposition": "Repealed subparagraph retained inside operative provision"
+        },
+        {
+          "id": "p368",
+          "disposition": "Repealed subparagraph retained inside operative provision"
+        }
+      ]
+    },
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "coverage": "completeness-report.json: all 529 identifiers, 599 XML norms accounted for, no text mismatch or omitted operative annex",
+    "unresolved_blockers": []
   }
 }

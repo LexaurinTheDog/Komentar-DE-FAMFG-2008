@@ -82,5 +82,34 @@
       "sources/review-case-XII-ZB-264-22.xml"
     ],
     "limits": "Selective research of actual review issues, not complete unit-by-unit judicial coverage."
+  },
+  "bounded_review_p19_p36a": {
+    "review_date": "2026-10-20",
+    "scope": "p19–p36a, exactly 20 units",
+    "firecrawl": {
+      "attempted_query": "site.rechtsprechung-im-internet.de \"§ 30 Abs. 3 FamFG\"",
+      "result": "Insufficient credits; no page content obtained; official direct retrieval used"
+    },
+    "web_search": {
+      "query": "site.rechtsprechung-im-internet.de \"§ 30 Abs. 3 FamFG\"",
+      "result": "No additional decision selected from snippets; official BGH full text already present and freshly fetched was read"
+    },
+    "local_corpus": {
+      "source_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore312662021.md",
+      "snapshot": "sources/review-p19-p36a-local-KORE312662021.md",
+      "sha256": "0b45f0d391317eb19e80a56746e662950fca5804c7a1220437d48a2e2f0783c1",
+      "read": "full text, tenor and reasons 1–15"
+    },
+    "official_full_texts_read": {
+      "KORE312662021": "Tenor and reasons 1–15, entire XML; findings in case card supplement",
+      "OLG Bamberg 3 Wx 15/24": "Tenor and complete reasons 1–27; only reasons used, not editorial headnotes"
+    },
+    "supported_units": [
+      "p26",
+      "p34",
+      "p31"
+    ],
+    "limits": "Selective issue research; no exhaustive corpus or subsequent appellate-history search. Rn.27 of OLG case expressly records divergent senate authority and admitted appeal. No additional sufficiently verified case added for other batch units.",
+    "additional_query": "site.rechtsprechung-im-internet.de \"§ 31\" \"überwiegende Wahrscheinlichkeit\"; site.bundesgerichtshof.de \"Glaubhaftmachung\" \"überwiegende Wahrscheinlichkeit\" \"FamFG\""
   }
 }

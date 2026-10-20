@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-20T15:17:59.215325+00:00",
+  "executed_at": "2026-10-20T15:26:42.522510+00:00",
   "command": [
     "python3",
     "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
@@ -8,6 +8,5 @@
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 336 jednotkám, např.: ['p169', 'p170', 'p171', 'p172', 'p173', 'p174', 'p175', 'p176', 'p177', 'p178']\n",
-  "complete": false,
-  "reason": "Bounded independent review of 20 units complete; full build still correctly rejects the 336 unannotated units outside this assignment."
+  "scope": "Full shared builder invoked unchanged; intermediate batch does not require completion of 336 unassigned missing commentaries."
 }
