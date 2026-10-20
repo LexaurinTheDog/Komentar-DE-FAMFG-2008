@@ -169,5 +169,63 @@
     "cases/BGH-XII-ZB-564-12.md",
     "cases/BGH-XII-ZB-350-15.md",
     "cases/BGH-XII-ZB-214-16.md"
-  ]
+  ],
+  "completed_at": "2026-10-20T17:56:15.109594+00:00",
+  "validation": {
+    "assigned_batch_ok": true,
+    "reviewed_ids_exact": true,
+    "changed_ids": [
+      "p214a",
+      "p219",
+      "p220",
+      "p222",
+      "p229",
+      "p231"
+    ],
+    "unchanged_after_full_review": [
+      "p214",
+      "p215",
+      "p216",
+      "p216a",
+      "p217",
+      "p218",
+      "p221",
+      "p223",
+      "p224",
+      "p225",
+      "p226",
+      "p227",
+      "p228",
+      "p230"
+    ],
+    "unassigned_commentary_changes": [],
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "exported_assigned_count": 20,
+    "exported_assigned_statutory_text_agrees": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 540656,
+      "errors": [
+        "krátký/chybějící komentář u 269 jednotek: ['p232(0<400)', 'p233(0<400)', 'p234(0<120)', 'p235(0<400)', 'p236(0<400)', 'p237(0<400)', 'p238(0<400)', 'p239(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "reason_for_global_failure": "269 unannotated units fromp232outside this bounded review",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 682,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T17:56:15.109594+00:00",
+    "whole_book_complete": false
+  }
 }
