@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T19:28:05.579086+00:00",
+  "updated_at": "2026-10-20T19:29:30.278328+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -59,9 +59,9 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 769451,
+      "commentary_chars": 816731,
       "errors": [
-        "krátký/chybějící komentář u 189 jednotek: ['p310(0<400)', 'p311(0<400)', 'p312(0<400)', 'p313(0<400)', 'p314(0<400)', 'p315(0<400)', 'p316(0<120)', 'p317(0<400)']"
+        "krátký/chybějící komentář u 169 jednotek: ['p330(0<400)', 'p331(0<400)', 'p332(0<400)', 'p333(0<400)', 'p334(0<120)', 'p335(0<400)', 'p336(0<120)', 'p337(0<400)']"
       ],
       "warnings": [],
       "ok": false
@@ -71,9 +71,9 @@
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "bounded_batch_ok": true,
-    "validated_at": "2026-10-20T19:19:07.928383+00:00",
-    "expected_intermediate_failure": "189 unannotated units from p310 outside this exact review. All20assignedunits reviewed;100%statutoryagreement."
+    "bounded_author_batch_ok": true,
+    "validated_at": "2026-10-20T19:29:30.278328+00:00",
+    "expected_intermediate_failure": "169 unassigned units remain unannotated from p330. All 20 assigned units complete; 100% statutory agreement."
   },
   "remaining_limitations": [
     "169 unassigned units remain without commentary from p330.",
@@ -98,7 +98,8 @@
     "date": "2026-10-20",
     "commentaries_changed": false,
     "latest_bounded_author_recheck": "sources/author-p292-p309a-version-map.json",
-    "latest_bounded_review_recheck": "sources/review-p292-p309a-version-map.json"
+    "latest_bounded_review_recheck": "sources/review-p292-p309a-version-map.json",
+    "latest_bounded_author": "sources/author-p310-p329-version-map.json"
   },
   "bounded_review": {
     "complete": true,
@@ -643,7 +644,7 @@
   ],
   "cumulative_independently_reviewed_units": 340,
   "remaining_existing_commentaries_for_review": 0,
-  "commentary_characters": 769451,
+  "commentary_characters": 816731,
   "bounded_authoring": {
     "complete": true,
     "units_written": 20,
@@ -753,7 +754,7 @@
     }
   ],
   "bounded_author": {
-    "complete": false,
+    "complete": true,
     "assigned_ids": [
       "p310",
       "p311",
@@ -778,7 +779,8 @@
     ],
     "units_authored": 20,
     "result": "author-p310-p329-result.json",
-    "independent_second_pass_pending": true
+    "independent_second_pass_pending": true,
+    "commentary_characters": 47280
   },
   "bounded_author_history": [
     {

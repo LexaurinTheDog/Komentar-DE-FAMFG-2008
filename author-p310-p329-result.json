@@ -1,7 +1,7 @@
 {
   "kind": "author",
-  "complete": false,
-  "stage": "bounded_author_batch_technical_checks_pending",
+  "complete": true,
+  "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
   "scope": "exactly p310–p329",
   "assigned_ids": [
     "p310",
@@ -46,5 +46,43 @@
     "169 unassigned units remain without commentary from p330.",
     "Selective case law; no current full review of Land statutes.",
     "Author technical checks are not independent second pass or external professional approval."
-  ]
+  ],
+  "completed_at": "2026-10-20T19:29:30.278328+00:00",
+  "commentary_characters": 47280,
+  "fictional_examples": 20,
+  "thematic_checklists": 2,
+  "validation": {
+    "assigned_batch_ok": true,
+    "all_20_assigned_units_exported": true,
+    "all_previous_340_commentary_blocks_preserved": true,
+    "all_previous_17_exported_chapters_preserved": true,
+    "all_49_previous_review_json_reports_preserved": true,
+    "unassigned_commentary_changes": [],
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 816731,
+      "errors": [
+        "krátký/chybějící komentář u 169 jednotek: ['p330(0<400)', 'p331(0<400)', 'p332(0<400)', 'p333(0<400)', 'p334(0<120)', 'p335(0<400)', 'p336(0<120)', 'p337(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "expected_intermediate_failure": "169 unassigned units remain without commentary, starting at p330.",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 1072,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T19:29:30.278328+00:00",
+    "whole_book_complete": false
+  }
 }
