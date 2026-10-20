@@ -248,5 +248,60 @@
       "p93"
     ],
     "limits": "Selective research, not exhaustive later-treatment check. Search snippets/third-party commentary not relied on as authority; no new verified case added for other13 units."
+  },
+  "bounded_review_p94_p112": {
+    "date": "2026-10-20",
+    "scope": [
+      "p94",
+      "p95",
+      "p96",
+      "p96a",
+      "p97",
+      "p98",
+      "p99",
+      "p100",
+      "p101",
+      "p102",
+      "p103",
+      "p104",
+      "p105",
+      "p106",
+      "p107",
+      "p108",
+      "p109",
+      "p110",
+      "p111",
+      "p112"
+    ],
+    "firecrawl": "status authenticated,0 credits; official direct downloads and web search fallback",
+    "queries": [
+      "site.rechtsprechung-im-internet.de § 109 FamFG XII ZB 463/13",
+      "site.rechtsprechung-im-internet.de § 107 FamFG Heimatstaat Entscheidung"
+    ],
+    "local_corpus_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+    "local_docket_lookup": [
+      "XII ZB224/17",
+      "XII ZB187/20",
+      "XII ZB208/23",
+      "XII ZB463/13"
+    ],
+    "selected_official_full_texts_read": {
+      "KORE304312023": "Tenor and all reasons1–19",
+      "KORE309232018": "Tenor and all reasons1–34"
+    },
+    "local_snapshots": "Two selected full local records retained and compared with official full-text paragraphs",
+    "candidates_not_used": [
+      "XII ZB187/20 of28.10.2020: preliminary reference only, not used instead of2023 final decision",
+      "XII ZB208/23: manifest lookup only; no holding used",
+      "XII ZB463/13: manifest lookup only; relied instead on fully read2018 decision"
+    ],
+    "optional_eu_lookup": "Direct EUR-Lex HTTP202 empty; web fallback robot challenge. Neither relied on. No current EU article/form rule claimed.",
+    "supported_units": [
+      "p97",
+      "p107",
+      "p108",
+      "p109"
+    ],
+    "limits": "Selective search, no exhaustive later-treatment review. Search snippets and third-party annotations are not authorities."
   }
 }

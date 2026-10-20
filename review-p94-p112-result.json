@@ -1,0 +1,174 @@
+{
+  "task_kind": "review",
+  "complete": true,
+  "scope": "Exactly assigned p94–p112 including p96a; no whole-book completion",
+  "review_date": "2026-10-20",
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T16:06:19.488752+00:00",
+  "baseline_commit": "dac4f04c8ca58c78fa5c73790898e3aaadec06bd",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p94",
+    "p95",
+    "p96",
+    "p96a",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102",
+    "p103",
+    "p104",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p112"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p94",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Versicherungsinhalt, Anpassung durch §883 Abs.3, Abnahme durch Gerichtsvollzieher und Erzwingungshaft samt Grenzen ergänzt; keine Verwechslung mit §31 oder Ordnungshaft.",
+      "checked_sources": "FamFG §§31,91,94; ZPO §§883 Abs.2–3,802e–802j"
+    },
+    {
+      "id": "p95",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle fünf Absätze gelesen. §113/§120-Anwendungsweiche, fünf Pflichtgruppen, zwingender Nachteilsschutz gegenüber Einstellung, begrenzte Zwangsmittelauswahl und konkrete Verfahrens-/Geldempfangsvollmachtsversicherung ergänzt. Wirksamkeit des Absatzes5 seit1.10.2026 aus Verkündung nachgelesen.",
+      "checked_sources": "FamFG §§10,95,113,120; ZPO §§707,719,752a,753a,883,885–888,894; BGBl152 Art.6/18"
+    },
+    {
+      "id": "p96",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Fortdauernde Störung von abgeschlossener Zuwiderhandlung getrennt; Widerstands-/Zeugenregeln, gesonderte Ordnungsmittel, genaue einstweilige Titel und Geltungsdauer ergänzt. Erst2027 geltenden Absatz3 ausdrücklich ausgeschlossen.",
+      "checked_sources": "FamFG §96; ZPO §§757a,758 Abs.3,759,885 Abs.1,890,891; BGBl198 Art.4 Nr.4/6 und Art.10 Abs.2"
+    },
+    {
+      "id": "p96a",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Titelrechtskraft und gerichtlichen Vergleich, Trennung von Einwilligungsersetzung/Duldung/Status und Kindeswohl-Aussetzung nach BGB geprüft. Konkrete Zumutbarkeit und wiederholte unberechtigte Weigerung gesondert; Prüfliste ergänzt.",
+      "checked_sources": "FamFG §§96a,169; BGB §1598a"
+    },
+    {
+      "id": "p97",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Vorrang unmittelbar anwendbarer Vertragsregeln, Unionsrecht und nationales Ausführungsrecht erläutert. Tatsächlich gelesenen BGH-Volltext als begrenzte Fallillustration mit ausdrücklicher Brüssel-IIa-Übergangsgrenze ergänzt; keine alte Formularnummer als heutige Anleitung.",
+      "checked_sources": "FamFG §97; BGH XII ZB187/20 Rn.12–19"
+    },
+    {
+      "id": "p98",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Vier alternative Anknüpfungen und enger Anerkennungsvorbehalt erläutert. Absatz2 nun exakt: antragstellende unter16-Person/gewöhnlicher Aufenthalt einer Person versus Aufenthalt des bei Eheschließung16–17-Jährigen. Absatz3 nur nachAbsatz1 und wirklicher Verbund.",
+      "checked_sources": "FamFG §§97,98; EGBGB Art.13 Abs.3"
+    },
+    {
+      "id": "p99",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle vier Absätze geprüft. §151 Nr.7 vonNr.6 getrennt; noch nicht angeordnete Vormundschaft versus Abgabe bestehender Vormundschaft mit allen Bedingungen; Zustimmung mehrerer Vormünder, übergeordnetes Gericht/Unanfechtbarkeit und sachlicher Umfang desAbsatz4 ergänzt.",
+      "checked_sources": "FamFG §§97,99,151"
+    },
+    {
+      "id": "p100",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle vier Personen und beide Anknüpfungen geprüft. Beiwohnung unter eidesstattlicher Versicherung von Vaterschaftsbeweis getrennt, eigenes Antragsrecht/örtliche Zuständigkeit und Statusänderung nicht aus Zuständigkeitsnorm abgeleitet.",
+      "checked_sources": "FamFG §§97,100,169; BGB §1598a"
+    },
+    {
+      "id": "p101",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Personenkreis, alternative Anknüpfungen und fehlende Altersbegrenzung im§101 gelesen. Neues Adoptionsverfahren von Anerkennung vorhandener Entscheidung getrennt; aktuelle AdWirkG-Ausnahme mit Alter bei Annahme und gesetzlicher Anerkennung geprüft.",
+      "checked_sources": "FamFG §§97,101,108,186; AdWirkG §1"
+    },
+    {
+      "id": "p102",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Drei Alternativen ausdrücklich abgegrenzt, insbesondere fortwirkende Anknüpfung früherer deutscher Scheidung gegenüber Verbund§98 Abs.3. Inländisches Anrecht nicht mit deutschem Sachrecht/gesamtem Ausgleichsumfang gleichgesetzt.",
+      "checked_sources": "FamFG §§97,98 Abs.3,102,217"
+    },
+    {
+      "id": "p103",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Drei Absätze vollständig: begrenzter Statusgegenstand, alternative Staatsangehörigkeits-/Aufenthalts-/Begründungsanknüpfungen, wirklicher Verbund und exakter Verweis auf§§99,101,102,105. Beispiel zwischen Aufhebung und selbständigem Ausgleich differenziert.",
+      "checked_sources": "FamFG §§97,99,101–105,269"
+    },
+    {
+      "id": "p104",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Beide Anknüpfungen/Fürsorgebedarf, entsprechend anzupassende Koordinierung nach§99 und vollständige Ausnahme für§312 Nr.4 geprüft. Öffentliche Unterbringung von familiengerichtlicher Genehmigung unterschieden.",
+      "checked_sources": "FamFG §§97,99 Abs.2–3,104,312"
+    },
+    {
+      "id": "p105",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Auffangfunktion, konkrete örtliche Norm und §97-Vorrang geprüft; kein unbezeichneter Vermögensgerichtsstand und kein Umgehen spezieller internationaler Regel. Beispiel sachgebietsneutral präzisiert.",
+      "checked_sources": "FamFG §§97–105"
+    },
+    {
+      "id": "p106",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Nichtausschließlichkeit nur internationaler Unterabschnitt, keine eigene fremdstaatliche Zuständigkeit. Ausschließliche örtliche Zuständigkeit§108 Abs.3 und eigenständige Anerkennungsprüfung sauber unterschieden.",
+      "checked_sources": "FamFG §§97,106,108 Abs.3,109 Abs.1 Nr.1"
+    },
+    {
+      "id": "p107",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle zehn Absätze geprüft und erheblich vertieft. Heimatstaatsausnahme bei deutschem Mehrstaater anhandBGH, gestufte Landeszuständigkeit/Übertragung, unterschiedlicher gerichtlicher Zugang, Monatsfrist, Wirksamkeitsaufschub versus fehlender Suspensiveffekt, Bindung beider Feststellungen und Stichtag1.11.1941 ergänzt.",
+      "checked_sources": "FamFG §§14,48 Abs.2,63,70,97,107,109; BGH XII ZB187/20 Rn.12–19"
+    },
+    {
+      "id": "p108",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Automatische Wirkung und fakultative Feststellung getrennt. AdWirkG§1Abs.2-Ausnahme nicht auf jede Adoption verallgemeinert; Alter zur Annahme, nicht heutiges Alter. Örtliche Stufenfolge und Antragstellungszeitpunkt ergänzt. BGH-Fall keine neue Adoption.",
+      "checked_sources": "FamFG §§97,107 Abs.9,108–110; AdWirkG§1; BGH XII ZB224/17 Rn.14,30"
+    },
+    {
+      "id": "p109",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle fünf Absätze und Listen gelesen. Anerkennungszuständigkeit, kumulative Voraussetzungen der Gehörsrüge, drei Unvereinbarkeitsfälle, ergebnisbezogener ordre public, zwei Ehe-Ausnahmen, Registerstaat und begrenzte Gegenseitigkeitsgruppen präzisiert. BGH-Rn.7–12 als verworfene Vorinstanz; genetisch völlig unverbundene Eltern ausdrücklich offengelassen.",
+      "checked_sources": "FamFG §§97–109; BGH XII ZB224/17 Rn.7–34, besonders15–21/28"
+    },
+    {
+      "id": "p110",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle drei Absätze geprüft: zwingende Anerkennungsfähigkeit versus eigener begründeter Vollstreckbarkeitsbeschluss; alle§95-Pflichten; gestufte AG-Zuständigkeit und echte Rechtskraft nach Ursprungsrecht statt vorläufiger Vollstreckbarkeit. Prüfliste ergänzt.",
+      "checked_sources": "FamFG §§95 Abs.1,97,108–110; ZPO§23"
+    },
+    {
+      "id": "p111",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Elf Kategorien gegen besondere Definitionen gelesen; familiäre Beziehung allein unzureichend, Dritte nicht immer ausgeschlossen. Ehesachen nicht zu Familienstreitsachen erklärt, aber gemeinsame§113-Weiche; jeden Antrag gesondert eingeordnet.",
+      "checked_sources": "FamFG §§111–114,117,120,121,151,169,186,200,210,217,231,261,266,269"
+    },
+    {
+      "id": "p112",
+      "disposition": "corrected_or_expanded",
+      "finding_and_resolution": "Alle drei Gruppen und genau verwiesene Absätze/Nummern geprüft. Nicht erfasste Unterhaltsbestimmungs-, Genehmigungs- und Gestaltungsverfahren konkret abgegrenzt; §113-Verfahrensregime, Vertretung/Beschwerde/Vollstreckung und Prüfcheckliste ergänzt.",
+      "checked_sources": "FamFG §§112–114,117,120,231,261,266,269"
+    }
+  ],
+  "limitations": [
+    "Only these20 commentaries reviewed; every other existing commentary preserved.",
+    "193 of529 units authored;336 missing commentaries outside this bounded assignment.",
+    "Two selectively researched official BGH full texts; no exhaustive later-treatment search. No new verified case added for the other16 units, not a finding that none exists.",
+    "Optional direct EUR-Lex lookup returned empty HTTP202 and web fallback a robot challenge; neither is treated as statutory evidence. No new direct commentary on current EU article/form requirements is supplied; historical application is reported from the fully read BGH decision.",
+    "No external professional approval or whole-book completion."
+  ],
+  "evidence": {
+    "fresh_official_xml": "sources/review-p94-p112-famfg.xml",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "source_preflight": "preflight-result.json",
+    "batch_audit": "review-p94-p112-audit.json",
+    "parser_replay": "review-p94-p112-parser-replay.json",
+    "case_cards": [
+      "cases/BGH-XII-ZB-187-20.md",
+      "cases/BGH-XII-ZB-224-17.md"
+    ],
+    "previous_review": "review-p75-p93-result.json"
+  }
+}

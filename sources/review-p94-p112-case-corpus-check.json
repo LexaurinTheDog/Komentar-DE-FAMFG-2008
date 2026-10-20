@@ -1,0 +1,230 @@
+[
+  {
+    "doknr": "KORE304312023",
+    "xml_sha256": "5fcd33b5d4250fba4cf21f9d7c68cd915d19a44aafb4c72f852eab0d8741ca2b",
+    "local_sha256": "5145af412b8176a4f7f7f6787e9d7d881738bf619fc9dd77d5abc486cb5031e2",
+    "reasons": [
+      {
+        "rn": 1,
+        "found": true
+      },
+      {
+        "rn": 2,
+        "found": true
+      },
+      {
+        "rn": 3,
+        "found": true
+      },
+      {
+        "rn": 4,
+        "found": true
+      },
+      {
+        "rn": 5,
+        "found": true
+      },
+      {
+        "rn": 6,
+        "found": true
+      },
+      {
+        "rn": 7,
+        "found": true
+      },
+      {
+        "rn": 8,
+        "found": true
+      },
+      {
+        "rn": 9,
+        "found": true
+      },
+      {
+        "rn": 10,
+        "found": true
+      },
+      {
+        "rn": 11,
+        "found": true
+      },
+      {
+        "rn": 12,
+        "found": true
+      },
+      {
+        "rn": 13,
+        "found": true
+      },
+      {
+        "rn": 14,
+        "found": true
+      },
+      {
+        "rn": 15,
+        "found": true
+      },
+      {
+        "rn": 16,
+        "found": true
+      },
+      {
+        "rn": 17,
+        "found": true
+      },
+      {
+        "rn": 18,
+        "found": true
+      },
+      {
+        "rn": 19,
+        "found": true
+      }
+    ],
+    "all_reasons_found": true
+  },
+  {
+    "doknr": "KORE309232018",
+    "xml_sha256": "a19037c1721474ffd9f94f161401b0c561328b7cb455adafe07b7f526a17148f",
+    "local_sha256": "d982cbdcce7986d3c8814c480c2baa6ff04abd6a095017732c303ea4f777b9ec",
+    "reasons": [
+      {
+        "rn": 1,
+        "found": true
+      },
+      {
+        "rn": 2,
+        "found": true
+      },
+      {
+        "rn": 3,
+        "found": true
+      },
+      {
+        "rn": 4,
+        "found": true
+      },
+      {
+        "rn": 5,
+        "found": true
+      },
+      {
+        "rn": 6,
+        "found": true
+      },
+      {
+        "rn": 7,
+        "found": true
+      },
+      {
+        "rn": 8,
+        "found": true
+      },
+      {
+        "rn": 9,
+        "found": true
+      },
+      {
+        "rn": 10,
+        "found": true
+      },
+      {
+        "rn": 11,
+        "found": true
+      },
+      {
+        "rn": 12,
+        "found": true
+      },
+      {
+        "rn": 13,
+        "found": true
+      },
+      {
+        "rn": 14,
+        "found": true
+      },
+      {
+        "rn": 15,
+        "found": true
+      },
+      {
+        "rn": 16,
+        "found": true
+      },
+      {
+        "rn": 17,
+        "found": true
+      },
+      {
+        "rn": 18,
+        "found": true
+      },
+      {
+        "rn": 19,
+        "found": true
+      },
+      {
+        "rn": 20,
+        "found": true
+      },
+      {
+        "rn": 21,
+        "found": true
+      },
+      {
+        "rn": 22,
+        "found": true
+      },
+      {
+        "rn": 23,
+        "found": true
+      },
+      {
+        "rn": 24,
+        "found": true
+      },
+      {
+        "rn": 25,
+        "found": true
+      },
+      {
+        "rn": 26,
+        "found": true
+      },
+      {
+        "rn": 27,
+        "found": true
+      },
+      {
+        "rn": 28,
+        "found": true
+      },
+      {
+        "rn": 29,
+        "found": true
+      },
+      {
+        "rn": 30,
+        "found": true
+      },
+      {
+        "rn": 31,
+        "found": true
+      },
+      {
+        "rn": 32,
+        "found": true
+      },
+      {
+        "rn": 33,
+        "found": true
+      },
+      {
+        "rn": 34,
+        "found": true
+      }
+    ],
+    "all_reasons_found": true
+  }
+]

@@ -872,6 +872,224 @@
       "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
       "xml_builddate": null,
       "full_text_read": "Tenor and all reasons; details and supported units in separate case card; historical passages distinguished"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T15:57:57.662492+00:00",
+      "path": "sources/review-p94-p112-famfg.zip",
+      "purpose": "bounded second pass p94–p112",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783,
+      "xml_path": "sources/review-p94-p112-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": "20261008215512",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "official_stand_notices": [
+          {
+            "type": "Stand",
+            "text": "Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Sonst",
+            "text": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+          }
+        ],
+        "assessment": "preflight-result.json#bounded_review_p94_p112; selected cross-references checked, not a separate external-statute commentary"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T15:57:58.043801+00:00",
+      "path": "sources/review-p94-p112-index.html",
+      "purpose": "bounded second pass p94–p112",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/famfg/",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117,
+      "format_validation": "HTML with expected FamFG title and final provision"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "accessed_at": "2026-10-20T15:57:58.227430+00:00",
+      "path": "sources/review-p94-p112-zpo.zip",
+      "purpose": "bounded second pass p94–p112",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324,
+      "xml_path": "sources/review-p94-p112-zpo.xml",
+      "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": "20260930215513",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "official_stand_notices": [
+          {
+            "type": "Neuf",
+            "text": "Neugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;"
+          },
+          {
+            "type": "Stand",
+            "text": "zuletzt geändert Art. 2 G v. 22.12.2025 I Nr. 349"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 1 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 2 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Hinweis",
+            "text": "Änderung durch Art. 3 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+          },
+          {
+            "type": "Sonst",
+            "text": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+          }
+        ],
+        "assessment": "preflight-result.json#bounded_review_p94_p112; selected cross-references checked, not a separate external-statute commentary"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "accessed_at": "2026-10-20T15:57:58.506205+00:00",
+      "path": "sources/review-p94-p112-bgb.zip",
+      "purpose": "bounded second pass p94–p112",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "bytes": 467286,
+      "xml_path": "sources/review-p94-p112-bgb.xml",
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": "20260926215507",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "official_stand_notices": [
+          {
+            "type": "Neuf",
+            "text": "Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;"
+          },
+          {
+            "type": "Stand",
+            "text": "zuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+          }
+        ],
+        "assessment": "preflight-result.json#bounded_review_p94_p112; selected cross-references checked, not a separate external-statute commentary"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+      "accessed_at": "2026-10-20T15:57:58.929829+00:00",
+      "path": "sources/review-p94-p112-bgbeg.zip",
+      "purpose": "bounded second pass p94–p112",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+      "sha256": "ce71acfa170c0393285a12eaf96cf6ae518ee5b2ac74ccc67d4c50aae2b93b9b",
+      "bytes": 176700,
+      "xml_path": "sources/review-p94-p112-bgbeg.xml",
+      "xml_sha256": "b494eb13d589b65cef649cf41f1123f0bd7e526a03e2a55c4d2776740367df18",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": "20260926215514",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "official_stand_notices": [
+          {
+            "type": "Neuf",
+            "text": "Neugefasst durch Bek. v. 21.9.1994 I 2494; 1997, 1061;"
+          },
+          {
+            "type": "Stand",
+            "text": "zuletzt geändert durch Art. 2 G v. 16.7.2026 I Nr. 212"
+          }
+        ],
+        "assessment": "preflight-result.json#bounded_review_p94_p112; selected cross-references checked, not a separate external-statute commentary"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/adwirkg/xml.zip",
+      "accessed_at": "2026-10-20T15:57:59.182034+00:00",
+      "path": "sources/review-p94-p112-adwirkg.zip",
+      "purpose": "bounded second pass p94–p112",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/adwirkg/xml.zip",
+      "sha256": "395729489c64f6db367da3e71ada3a2538444972bc1374bb7021a636d3d3852d",
+      "bytes": 3922,
+      "xml_path": "sources/review-p94-p112-adwirkg.xml",
+      "xml_sha256": "d0338fe5fa89ae5048c9dc8a65a39229f799479c066d91970ea287bbb11cfce6",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": "20260506175902",
+      "version_evidence": {
+        "decisive_date": "2026-10-19",
+        "official_stand_notices": [
+          {
+            "type": "Stand",
+            "text": "Zuletzt geändert durch Art. 3 G v. 12.2.2021 I 226"
+          }
+        ],
+        "assessment": "preflight-result.json#bounded_review_p94_p112; selected cross-references checked, not a separate external-statute commentary"
+      }
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304312023.zip",
+      "accessed_at": "2026-10-20T15:58:26.793115+00:00",
+      "path": "sources/review-p94-p112-XII-ZB-187-20.zip",
+      "purpose": "bounded second pass p94–p112",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304312023.zip",
+      "sha256": "a107331019e96f1c067c63624c09a59937bab63466ababb20d136a2f155e7c2e",
+      "bytes": 6035,
+      "xml_path": "sources/review-p94-p112-XII-ZB-187-20.xml",
+      "xml_sha256": "5fcd33b5d4250fba4cf21f9d7c68cd915d19a44aafb4c72f852eab0d8741ca2b",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": null,
+      "full_text_read": "Tenor and all reasons; precise range and uses in case card"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE309232018.zip",
+      "accessed_at": "2026-10-20T15:58:26.980700+00:00",
+      "path": "sources/review-p94-p112-XII-ZB-224-17.zip",
+      "purpose": "bounded second pass p94–p112",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE309232018.zip",
+      "sha256": "a7b1bce8fa49f378d8fd6d1a7818efadfbdf8badb94c6c76c7c468e293e011dd",
+      "bytes": 11576,
+      "xml_path": "sources/review-p94-p112-XII-ZB-224-17.xml",
+      "xml_sha256": "a19037c1721474ffd9f94f161401b0c561328b7cb455adafe07b7f526a17148f",
+      "format_validation": "ZIP signature, CRC, single XML parsed and identity checked",
+      "xml_builddate": null,
+      "full_text_read": "Tenor and all reasons; precise range and uses in case card"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32019R1111",
+      "accessed_at": "2026-10-20T15:59:06.792859+00:00",
+      "path": "sources/review-p94-p112-eu-2019-1111.html",
+      "purpose": "bounded second pass p94–p112",
+      "http_status": 202,
+      "content_type": "text/html; charset=UTF-8",
+      "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32019R1111",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "error": "Expected German regulation body unavailable: HTTP202 empty response",
+      "disposition": "Optional failed lookup excluded from relied-on evidence; empty body is not the regulation; BGH historical application alone is reported"
     }
   ],
   "version_assessment": {

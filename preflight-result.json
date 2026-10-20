@@ -922,5 +922,46 @@
       "parser_replay": "review-p75-p93-parser-replay.json"
     },
     "unresolved_blockers": []
+  },
+  "bounded_review_p94_p112": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T16:06:19.488752+00:00",
+    "version_evidence": {
+      "fresh_xml": "sources/review-p94-p112-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "delivery_equals_authoring_start": true,
+      "builddate": "20261008215512",
+      "commencement_assessment": "Existing detailed BGBl152/192/198 and recent-enactment checks retained. Actually re-read BGBl152 Art.6/18 and BGBl198 Art.4 Nr.4/6 and Art.10. §95Abs.5 effective1.10.2026; §§94a–94d and §96 replacement effective1.7.2027, excluded. Retrieval/builddate is not commencement evidence.",
+      "p95_abs5_present": true,
+      "p96_future_abs3_absent": true,
+      "cross_reference_evidence": "Fresh official ZPO/BGB/EGBGB/AdWirkG XML. Selected relevant clauses read, including EGBGB Art13 stored as gliederungseinheit with operative content. These external books are not parsed as additional FamFG units. ZPO752a/753a inserted by BGBl152 Art.1 effective1.10.2026; later replacement text in Art.2/3 excluded. AdWirkG stand2021; no later change shown. BGB1598a and EGBGB13 agree with linked FamFG rules; no extrapolation of later substantive law."
+    },
+    "historical_versions_checked": {
+      "duplicate_official_identifiers": [],
+      "duplicate_official_doknr": [],
+      "historical_or_version_elements": [],
+      "intake_change_map": "sources/change-map.json",
+      "selection": "Single operative text per unit; no concatenated histories; no currently operative94a–d gap"
+    },
+    "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "parser_coverage": {
+      "fresh_metadata_count": 529,
+      "fresh_toc_count": 529,
+      "fresh_html_index_count": 529,
+      "parsed_count": 529,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "all599_norm_nodes_accounted_for": true,
+      "parser_replay": "review-p94-p112-parser-replay.json"
+    },
+    "unresolved_blockers": []
   }
 }
