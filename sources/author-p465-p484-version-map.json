@@ -1,0 +1,28 @@
+{
+  "scope": [
+    "§ 465",
+    "§ 466",
+    "§ 467",
+    "§ 468",
+    "§ 469",
+    "§ 470",
+    "§ 471",
+    "§ 472",
+    "§ 473",
+    "§ 474",
+    "§ 475",
+    "§ 476",
+    "§ 477",
+    "§ 478",
+    "§ 479",
+    "§ 480",
+    "§ 481",
+    "§ 482",
+    "§ 483",
+    "§ 484"
+  ],
+  "all_assigned_wording_unchanged": true,
+  "baseline": "preflight-result.json",
+  "fresh_xml": "sources/author-p465-p484-famfg.xml",
+  "scope_note": "Existing commencement checks retained; fresh delivery compared per norm, not assumed effective merely from retrieval."
+}

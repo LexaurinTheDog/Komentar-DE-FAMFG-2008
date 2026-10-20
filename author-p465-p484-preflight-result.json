@@ -1,0 +1,32 @@
+{
+  "complete": true,
+  "scope": [
+    "p465",
+    "p466",
+    "p467",
+    "p468",
+    "p469",
+    "p470",
+    "p471",
+    "p472",
+    "p473",
+    "p474",
+    "p475",
+    "p476",
+    "p477",
+    "p478",
+    "p479",
+    "p480",
+    "p481",
+    "p482",
+    "p483",
+    "p484"
+  ],
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/famfg/",
+  "verified_at": "2026-10-20T22:48:12.778187+00:00",
+  "version_evidence": "sources/author-p465-p484-version-map.json; preflight-result.json commencement checks retained",
+  "historical_versions_checked": "Existing intake/current comparison retained; all 20 official norm textdaten unchanged on fresh fetch. No historical duplicates in official completeness report.",
+  "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+  "unresolved_blockers": []
+}

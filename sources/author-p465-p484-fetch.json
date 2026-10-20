@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/FamFG.xml",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/index.html",
+    "http": 200,
+    "path": "sources/author-p465-p484-bgb.html",
+    "sha256": "9df07aaded7e8d559337f147f6d3fe9908ae88dd207d701e0dfda5691e4a71ef",
+    "accessed_at": "2026-10-20T22:47:59.955974+00:00"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/binschprg/index.html",
+    "http": 200,
+    "path": "sources/author-p465-p484-binschprg.html",
+    "sha256": "8333a4f3a98a69ad0922893a3c8f41318e49c00f4709a78994c5878e604510b0",
+    "accessed_at": "2026-10-20T22:48:00.070596+00:00"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "http": 200,
+    "path": "sources/author-p465-p484-famfg.xml",
+    "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "response_sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "accessed_at": "2026-10-20T22:48:12.778187+00:00"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "http": 200,
+    "path": "sources/author-p465-p484-bgb.xml",
+    "sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+    "response_sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+    "accessed_at": "2026-10-20T22:48:13.160247+00:00"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/binschprg/xml.zip",
+    "http": 200,
+    "path": "sources/author-p465-p484-binschprg.xml",
+    "sha256": "a77ee9e3935b5badfd2ce29df3221ecd41bff0fe19071779f078d516c58c06ed",
+    "response_sha256": "d0421bb9361fe9662fb72cc82eaabf310cbd01be696c576ff70eee12d1851652",
+    "accessed_at": "2026-10-20T22:48:13.262571+00:00"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE621012017.zip",
+    "http": 200,
+    "accessed_at": "2026-10-20T22:52:45.280254+00:00",
+    "path": "sources/author-p465-p484-case.zip",
+    "sha256": "150e46d9f208db048a10fe42ec5e1f3ce380d5085a861203f45145ca2e4b5cd6",
+    "xml_sha256": "925e170f67b13321fe12b9c60f6251e8638b501758cca783898aa14535bf2d57",
+    "format_validation": "ZIP opened, XML parsed"
+  }
+]

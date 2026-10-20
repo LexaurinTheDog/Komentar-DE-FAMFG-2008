@@ -1,0 +1,48 @@
+{
+  "kind": "author",
+  "scope": [
+    "p465",
+    "p466",
+    "p467",
+    "p468",
+    "p469",
+    "p470",
+    "p471",
+    "p472",
+    "p473",
+    "p474",
+    "p475",
+    "p476",
+    "p477",
+    "p478",
+    "p479",
+    "p480",
+    "p481",
+    "p482",
+    "p483",
+    "p484"
+  ],
+  "completed_units": 20,
+  "total_assigned_units": 20,
+  "commentary_chars": 32224,
+  "minimum_commentary_chars": 1208,
+  "exact_assigned_delimiters": true,
+  "repeated_substantial_paragraphs": 0,
+  "broken_local_links": [],
+  "statutory_agreement": 1.0,
+  "coverage_report": "completeness-report.json",
+  "source_checks": "sources/author-p465-p484-version-map.json",
+  "case_law_sources": [
+    "KORE621012017"
+  ],
+  "case_card": "cases/BGH-XI-ZB-1-16.md",
+  "build": "Full build attempted and stopped for nine unassigned missing commentaries. Assigned chapter built using unmodified builder through _build_p465_p484.py.",
+  "whole_book_complete": false,
+  "stage": "assigned_batch_drafted_technical_validation",
+  "limitations": [
+    "Independent second pass pending.",
+    "Selective case-law research only.",
+    "No specific state-law deviations researched; commentary identifies need for case-specific check.",
+    "Global validator remains false solely for missing p485–p493 outside assignment."
+  ]
+}
