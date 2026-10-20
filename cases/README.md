@@ -1,6 +1,6 @@
 # Selektive Fallkarten
 
-Dreizehn amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
+Vierzehn amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
 
 - [BGH, 27.10.2021, XII ZB 114/21](BGH-XII-ZB-114-21.md): Nachholung fehlerhafter Anhörung, Fachkunde und Zurückverweisung; §§ 68 und 74; begrenzter Prüfungsnachtrag zu §§ 26 und 34.
 - [BGH, 15.03.2017, XII ZB 109/16](BGH-XII-ZB-109-16.md): bestimmter Sachantrag aus rechtzeitigem Gesamtvorbringen; § 117.
@@ -23,3 +23,5 @@ Die Recherche ist selektiv. Die zusätzlich gesicherten Volltexte XII ZB 601/15 
 
 - [BGH, 26.04.2023, XII ZB 187/20](BGH-XII-ZB-187-20.md): Vorrang europäischer Anerkennung und Grenzen der Heimatstaatenausnahme; §§ 97 und 107, ausdrücklich historischer Brüssel-IIa-Anwendungsfall.
 - [BGH, 05.09.2018, XII ZB 224/17](BGH-XII-ZB-224-17.md): fakultative Feststellung und ergebnisbezogener ordre public bei ausländischer Elternschaft; §§ 108 und 109. Keine Aussage für jede genetisch unverbundene Elternschaft.
+
+- [BGH, 27.05.2020, XII ZB 102/20](BGH-XII-ZB-102-20-2020.md): rechtzeitiger Antrag auf Vollstreckungsschutz; § 120, ausdrücklich vom besonderen AUG-Auslandskontext des entschiedenen Falls abgegrenzt. Anderer Beschluss vom 31.03.2021 mit gleichem Aktenzeichen nicht verwendet.

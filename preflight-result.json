@@ -963,5 +963,47 @@
       "parser_replay": "review-p94-p112-parser-replay.json"
     },
     "unresolved_blockers": []
+  },
+  "bounded_review_p113_p131": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T16:17:07.559561+00:00",
+    "version_evidence": {
+      "fresh_xml": "sources/review-p113-p131-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "delivery_equals_authoring_start": true,
+      "builddate": "20261008215512",
+      "commencement_assessment": "Read official BGBl2026 I Nr192 Art4 Nr4 and Art20 Abs1–5: §113 revised exclusion effective1.10.2026. Current §46 Abs1 Sätze3/4 retained. Existing detailed Nr152/198 and recent-enactment checks retained. Future2027 inserted units not treated as current gaps. Retrieval/builddate alone not commencement proof.",
+      "amending_evidence": "sources/bgbl-192.pdf",
+      "amending_evidence_sha256": "15fcf268bd8ec91b2c27933d163d5ffbad40ac7dc6af37ba6a70300b112d0ce2",
+      "p113_exact_current_reference": "46 Absatz 1 Satz 1 und 2 und Absatz 2",
+      "cross_reference_evidence": "Fresh official ZPO, BGB and VersAusglG XML. Relevant procedural, §1568, §§1306/1316 and selected VersAusglG clauses actually read. BGB/ZPO byte-identical to preceding same-date snapshots; VersAusglG official stand2021. External texts used only for specified cross-references, not additional FamFG units."
+    },
+    "historical_versions_checked": {
+      "duplicate_official_identifiers": [],
+      "duplicate_official_doknr": [],
+      "historical_or_version_elements": [],
+      "intake_change_map": "sources/change-map.json",
+      "selection": "One operative copy per official provision; future2027 changes excluded by commencement, not concatenated into current text"
+    },
+    "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+    "opening_formula_checked": {
+      "present": false,
+      "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+      "global_notes_preserved": true
+    },
+    "parser_coverage": {
+      "fresh_metadata_count": 529,
+      "fresh_toc_count": 529,
+      "fresh_html_index_count": 529,
+      "parsed_count": 529,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "all599_norm_nodes_accounted_for": true,
+      "parser_replay": "review-p113-p131-parser-replay.json"
+    },
+    "unresolved_blockers": []
   }
 }

@@ -303,5 +303,58 @@
       "p109"
     ],
     "limits": "Selective search, no exhaustive later-treatment review. Search snippets and third-party annotations are not authorities."
+  },
+  "bounded_review_p113_p131": {
+    "date": "2026-10-20",
+    "scope": [
+      "p113",
+      "p114",
+      "p115",
+      "p116",
+      "p117",
+      "p118",
+      "p119",
+      "p120",
+      "p121",
+      "p122",
+      "p123",
+      "p124",
+      "p125",
+      "p126",
+      "p127",
+      "p128",
+      "p129",
+      "p129a",
+      "p130",
+      "p131"
+    ],
+    "firecrawl": "status checked: authenticated,0 credits; no install or credential action; official direct downloads and web-search fallback used",
+    "queries": [
+      "site.rechtsprechung-im-internet.de \"§ 120\" \"nicht zu ersetzenden\" FamFG",
+      "site.rechtsprechung-im-internet.de \"§ 130\" \"Säumnis\" FamFG",
+      "site.rechtsprechung-im-internet.de \"FamFG\" \"Vollstreckung\" \"ersetzenden Nachteil\" BGH",
+      "site.rechtsprechung-im-internet.de \"FamFG\" \"§ 128\" \"persönlichen\" BGH Anhörung"
+    ],
+    "local_corpus_manifest": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+    "local_docket_lookup": [
+      "XII ZB109/16",
+      "XII ZB102/20",
+      "XII ZB191/12",
+      "XII ZB67/17"
+    ],
+    "selected_official_full_texts_read": {
+      "KORE303072017": "Tenor and all reasons1–46; existing2017 card rechecked",
+      "KORE307792020": "Tenor and all reasons1–15; one additional2020 decision"
+    },
+    "candidates_not_used": [
+      "Other docket XII ZB102/20 decision31.3.2021: manifest metadata only; not confused with27.5.2020 interlocutory protection ruling.",
+      "OLG Schleswig15 UF75/24 and OLG München12 UF268/23e: search discovery only; no holding imported.",
+      "Commercial annotations and third-party pages returned in search: not used as authorities."
+    ],
+    "supported_units": [
+      "p117",
+      "p120"
+    ],
+    "limits": "Selective research. No new fully verified case for remaining18 units; no exhaustive later-treatment claim."
   }
 }

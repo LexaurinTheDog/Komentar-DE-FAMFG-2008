@@ -19,3 +19,7 @@ Die Darstellung der Auffassung des Oberlandesgerichts in Rn. 17 ist nicht selbst
 ## Verwendung und zeitliche Grenzen
 
 Unterstützte Kommentierung: § 117. Die Formulierung der hier behandelten Anforderung eines bestimmten Sachantrags besteht auch im amtlichen Text vom 19. Oktober 2026. Daraus wird keine unveränderte Geltung jeder Einzelheit des gesamten damaligen Verfahrens- oder materiellen Rechts abgeleitet. Die Aussagen zu Ehevertrag und materiellen Scheidungsfolgen werden in diesem Manuskript nicht als aktuelle BGB-Kommentierung verwendet. Keine vollständige Auswertung späterer Rechtsprechung zu allen Randfragen.
+
+## Begrenzte Zweitprüfung vom 20. Oktober 2026
+
+Der amtliche [ZIP-Abruf](../sources/review-p113-p131-XII-ZB-109-16.zip) vom 20. Oktober 2026, 16:11:01 UTC, HTTP 200, liefert dasselbe [XML](../sources/review-p113-p131-XII-ZB-109-16.xml) wie der bisherige Snapshot. Tenor und alle Gründe Rn. 1–46 wurden erneut vollständig gelesen. Die Aussage zu § 117 bleibt auf Rn. 24–27 begrenzt; Rn. 17 berichtet zunächst die Auffassung der Vorinstanz. Die weitergehende Ehevertragsprüfung wurde nicht in eine aktuelle materielle Kommentierung übernommen. Jede nummerierte Begründung und der Tenor stimmen mit der [gesicherten nationalen Korpusfassung](../sources/review-p113-p131-local-KORE303072017.md) überein; [reproduzierbarer Vergleich](../sources/review-p113-p131-case-corpus-check.json). Die Passage des § 117 Absatz 1 über den bestimmten Sachantrag wurde gegen den neuen amtlichen FamFG-Abruf geprüft. Keine vollständige Nachfolgerechtsprechungsrecherche.

@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T16:08:32.806021+00:00",
+  "updated_at": "2026-10-20T16:20:03.323715+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -8,6 +8,7 @@
   "remaining_units": 336,
   "case_law_sources": [
     "cases/BGH-IV-ZB-35-15.md",
+    "cases/BGH-XII-ZB-102-20-2020.md",
     "cases/BGH-XII-ZB-109-16.md",
     "cases/BGH-XII-ZB-114-21.md",
     "cases/BGH-XII-ZB-187-20.md",
@@ -26,7 +27,7 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 285931,
+      "commentary_chars": 306737,
       "errors": [
         "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
       ],
@@ -38,15 +39,15 @@
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "validated_at": "2026-10-20T16:08:32.806021+00:00",
-    "expected_intermediate_failure": "Only336 unannotated units outside p94–p112 review; all20 assigned units present and reviewed; statutory coverage and100% text agreement pass."
+    "validated_at": "2026-10-20T16:20:03.323715+00:00",
+    "expected_intermediate_failure": "Only336 unannotated units outside p113–p131 review; all20 assigned units present and reviewed; statutory coverage and100% text agreement pass."
   },
   "remaining_limitations": [
     "336 statutory units from § 169 onward still lack original commentary.",
     "Full build and strict validation correctly fail because commentary is incomplete.",
     "Case-law research is selective; no exhaustive coverage claimed.",
     "Source preflight rechecked current delivery, relevant commencement clauses and seven recent statutory enactments; no complete historical amendment reconstruction since 2008.",
-    "Six bounded review batches:120 existing comments §§1–112 reviewed;73 other existing comments remain unreviewed. This task reviewed exactly p94–p112 including p96a."
+    "Seven bounded review batches document140 existing comments §§1–131;53 other existing comments remain outside documented review. This task reviewed exactly p113–p131 including p129a."
   ],
   "commented_scope": "§§ 1–168g",
   "resume": {
@@ -70,33 +71,33 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p94",
-      "p95",
-      "p96",
-      "p96a",
-      "p97",
-      "p98",
-      "p99",
-      "p100",
-      "p101",
-      "p102",
-      "p103",
-      "p104",
-      "p105",
-      "p106",
-      "p107",
-      "p108",
-      "p109",
-      "p110",
-      "p111",
-      "p112"
+      "p113",
+      "p114",
+      "p115",
+      "p116",
+      "p117",
+      "p118",
+      "p119",
+      "p120",
+      "p121",
+      "p122",
+      "p123",
+      "p124",
+      "p125",
+      "p126",
+      "p127",
+      "p128",
+      "p129",
+      "p129a",
+      "p130",
+      "p131"
     ],
     "result": "review-result.json",
-    "archived_result": "review-p94-p112-result.json",
-    "technical_audit": "review-p94-p112-audit.json",
+    "archived_result": "review-p113-p131-result.json",
+    "technical_audit": "review-p113-p131-audit.json",
     "unresolved_blockers": [],
     "whole_book_complete": false,
-    "commentary_characters": 47428
+    "commentary_characters": 41753
   },
   "bounded_review_history": [
     {
@@ -253,9 +254,41 @@
       "unresolved_blockers": [],
       "whole_book_complete": false,
       "commentary_characters": 40354
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p94",
+        "p95",
+        "p96",
+        "p96a",
+        "p97",
+        "p98",
+        "p99",
+        "p100",
+        "p101",
+        "p102",
+        "p103",
+        "p104",
+        "p105",
+        "p106",
+        "p107",
+        "p108",
+        "p109",
+        "p110",
+        "p111",
+        "p112"
+      ],
+      "result": "review-p94-p112-result.json",
+      "archived_result": "review-p94-p112-result.json",
+      "technical_audit": "review-p94-p112-audit.json",
+      "unresolved_blockers": [],
+      "whole_book_complete": false,
+      "commentary_characters": 47428
     }
   ],
-  "cumulative_independently_reviewed_units": 120,
-  "remaining_existing_commentaries_for_review": 73,
-  "commentary_characters": 285931
+  "cumulative_independently_reviewed_units": 140,
+  "remaining_existing_commentaries_for_review": 53,
+  "commentary_characters": 306737
 }

@@ -2,6 +2,6 @@
   "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
   "exit_code": 1,
   "stdout": "",
-  "stderr": "CHYB\u00cd koment\u00e1\u0159 k 336 jednotk\u00e1m, nap\u0159.: ['p169', 'p170', 'p171', 'p172', 'p173', 'p174', 'p175', 'p176', 'p177', 'p178']\n",
-  "scope": "Full-book build intentionally attempted; no validator weakening or placeholders. Assigned bounded review can complete despite missing outside commentary."
+  "stderr": "CHYBÍ komentář k 336 jednotkám, např.: ['p169', 'p170', 'p171', 'p172', 'p173', 'p174', 'p175', 'p176', 'p177', 'p178']\n",
+  "interpretation": "Full builder correctly rejects336 absent commentaries outside assigned20-unit review; units not narrowed, validator unchanged."
 }
