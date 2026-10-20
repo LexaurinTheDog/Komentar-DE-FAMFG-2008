@@ -1,0 +1,666 @@
+{
+  "scope": "authoring and technical self-check of exactly 20 assigned units; not independent review",
+  "baseline_commit": "04927e36b28cee4d3ba056f0faf0c2934e7dfb12",
+  "verified_at": "2026-10-20T17:09:48.169088+00:00",
+  "assigned_ids": [
+    "p176",
+    "p177",
+    "p178",
+    "p179",
+    "p180",
+    "p181",
+    "p182",
+    "p183",
+    "p184",
+    "p185",
+    "p185a",
+    "p186",
+    "p187",
+    "p188",
+    "p189",
+    "p190",
+    "p191",
+    "p192",
+    "p193",
+    "p194"
+  ],
+  "changed_ids": [
+    "p176",
+    "p177",
+    "p178",
+    "p179",
+    "p180",
+    "p181",
+    "p182",
+    "p183",
+    "p184",
+    "p185",
+    "p185a",
+    "p186",
+    "p187",
+    "p188",
+    "p189",
+    "p190",
+    "p191",
+    "p192",
+    "p193",
+    "p194"
+  ],
+  "unassigned_commentary_changes": [],
+  "source_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "checks": [
+    {
+      "id": "p176",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2281,
+      "commentary_sha256": "a07394e0d18634a5bd9b94e4bcd5819ead71233485ed0899bed2d60be7942861",
+      "official_doknr": "BJNR258700008BJNE018102126"
+    },
+    {
+      "id": "p177",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2632,
+      "commentary_sha256": "1c34a3a013511a952dba3dd5ce00b2e69146ebb95ca0d77829ab85cbb57ea9f6",
+      "official_doknr": "BJNR258700008BJNE018200000"
+    },
+    {
+      "id": "p178",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2714,
+      "commentary_sha256": "4917570565b83ddb6a2e1a34c8210b02961b60cae69316b4c5bbf1e1cae9f4da",
+      "official_doknr": "BJNR258700008BJNE018300000"
+    },
+    {
+      "id": "p179",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2163,
+      "commentary_sha256": "c6f2545f08944536be6c1ddeafdfce35169e1b9880ea424884f4873b697688e7",
+      "official_doknr": "BJNR258700008BJNE018400000"
+    },
+    {
+      "id": "p180",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2580,
+      "commentary_sha256": "f3904eb27b178d8a9bef0cd2ab7a456841b191c0c3105d274920041279f8706f",
+      "official_doknr": "BJNR258700008BJNE018501126"
+    },
+    {
+      "id": "p181",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2226,
+      "commentary_sha256": "be85f2b47c18ba76327b013436d3586ffbf0c26d3e3ea7b6ef9e7d1a52e711f2",
+      "official_doknr": "BJNR258700008BJNE018600000"
+    },
+    {
+      "id": "p182",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2313,
+      "commentary_sha256": "6854d27fdf0a89911a51a76905479a0f3f535867effb99b08955e43745ad5f6c",
+      "official_doknr": "BJNR258700008BJNE018701126"
+    },
+    {
+      "id": "p183",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2283,
+      "commentary_sha256": "53c831d3554f4b83b43fdd7507d20e7d63a4f0d939d043fddd69f17a379fab0d",
+      "official_doknr": "BJNR258700008BJNE018800000"
+    },
+    {
+      "id": "p184",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2344,
+      "commentary_sha256": "e06f32c8d7e310555a964b8451bf40f899fe9cafaeb9672b0e9429e9b9c7c4a6",
+      "official_doknr": "BJNR258700008BJNE018900000"
+    },
+    {
+      "id": "p185",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2625,
+      "commentary_sha256": "1175e154d771db71e8643a9a90d9a0ed7a018735c1e1d81c4fa103ead28ffc57",
+      "official_doknr": "BJNR258700008BJNE019000000"
+    },
+    {
+      "id": "p185a",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 3802,
+      "commentary_sha256": "6dc46a324691ec1946f1da7dd9d22af78a9b3b8bda70e74b99924e67839e0d95",
+      "official_doknr": "BJNR258700008BJNE053400126"
+    },
+    {
+      "id": "p186",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2296,
+      "commentary_sha256": "d6901935c34acfd48855a4b2f97317fce91ef85e1dc9f687def0a7cf06f98887",
+      "official_doknr": "BJNR258700008BJNE019100000"
+    },
+    {
+      "id": "p187",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2688,
+      "commentary_sha256": "7e03c8f044de5027df926df38019ec4c59823c23065ba4127a80996ca01d69bd",
+      "official_doknr": "BJNR258700008BJNE019203125"
+    },
+    {
+      "id": "p188",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2852,
+      "commentary_sha256": "3005e5d6ce4e13086b86df9464101384dd97ef19f03a6d24cce03825f3bc5f2a",
+      "official_doknr": "BJNR258700008BJNE019302311"
+    },
+    {
+      "id": "p189",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2258,
+      "commentary_sha256": "8a0ea855dd44ddd6d5b8f181de68713bfe4a220dbc30e0ab4f51effee69b881c",
+      "official_doknr": "BJNR258700008BJNE019401125"
+    },
+    {
+      "id": "p190",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 979,
+      "commentary_sha256": "7c255e9af94552137fc9527fd31aeee3a11aa7ab4bdf63d3d0991cc87cfe2dfb",
+      "official_doknr": "BJNR258700008BJNE019501125"
+    },
+    {
+      "id": "p191",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2368,
+      "commentary_sha256": "dbffb4d388135d168236c22aa75a9fb8615917efb6bfae8319b33e0aad6d6424",
+      "official_doknr": "BJNR258700008BJNE019602125"
+    },
+    {
+      "id": "p192",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2297,
+      "commentary_sha256": "2bff887f771ec1f0cc5ae774a940230bc3ca36aea0fde59f3497d5ac8773ee36",
+      "official_doknr": "BJNR258700008BJNE019700000"
+    },
+    {
+      "id": "p193",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2555,
+      "commentary_sha256": "902fe433f13a062a8a8d5d21a4227b22d9d3d16b391ff4cf702f2ac9335afb00",
+      "official_doknr": "BJNR258700008BJNE019800000"
+    },
+    {
+      "id": "p194",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 3132,
+      "commentary_sha256": "a00fbca5452067d500ddb0eeffeb68803092c29a66a83cadf0be23d79b023849",
+      "official_doknr": "BJNR258700008BJNE019900000"
+    }
+  ],
+  "case_corpus_checks": [
+    {
+      "doknr": "KORE311642014",
+      "local_path": "sources/author-p176-p194-local-KORE311642014.md",
+      "local_sha256": "07e99bf6b0164044c37618aaa49c450744595c2e1fb5091861069b631c840fe0",
+      "numbered_reasons": [
+        {
+          "rn": 1,
+          "found": true
+        },
+        {
+          "rn": 2,
+          "found": true
+        },
+        {
+          "rn": 3,
+          "found": true
+        },
+        {
+          "rn": 4,
+          "found": true
+        },
+        {
+          "rn": 5,
+          "found": true
+        },
+        {
+          "rn": 6,
+          "found": true
+        },
+        {
+          "rn": 7,
+          "found": true
+        },
+        {
+          "rn": 8,
+          "found": true
+        },
+        {
+          "rn": 9,
+          "found": true
+        },
+        {
+          "rn": 10,
+          "found": true
+        },
+        {
+          "rn": 11,
+          "found": true
+        },
+        {
+          "rn": 12,
+          "found": true
+        },
+        {
+          "rn": 13,
+          "found": true
+        },
+        {
+          "rn": 14,
+          "found": true
+        },
+        {
+          "rn": 15,
+          "found": true
+        },
+        {
+          "rn": 16,
+          "found": true
+        },
+        {
+          "rn": 17,
+          "found": true
+        },
+        {
+          "rn": 18,
+          "found": true
+        },
+        {
+          "rn": 19,
+          "found": true
+        },
+        {
+          "rn": 20,
+          "found": true
+        },
+        {
+          "rn": 21,
+          "found": true
+        },
+        {
+          "rn": 22,
+          "found": true
+        },
+        {
+          "rn": 23,
+          "found": true
+        },
+        {
+          "rn": 24,
+          "found": true
+        },
+        {
+          "rn": 25,
+          "found": true
+        },
+        {
+          "rn": 26,
+          "found": true
+        },
+        {
+          "rn": 27,
+          "found": true
+        },
+        {
+          "rn": 28,
+          "found": true
+        },
+        {
+          "rn": 29,
+          "found": true
+        },
+        {
+          "rn": 30,
+          "found": true
+        },
+        {
+          "rn": 31,
+          "found": true
+        },
+        {
+          "rn": 32,
+          "found": true
+        },
+        {
+          "rn": 33,
+          "found": true
+        },
+        {
+          "rn": 34,
+          "found": true
+        },
+        {
+          "rn": 35,
+          "found": true
+        },
+        {
+          "rn": 36,
+          "found": true
+        },
+        {
+          "rn": 37,
+          "found": true
+        },
+        {
+          "rn": 38,
+          "found": true
+        },
+        {
+          "rn": 39,
+          "found": true
+        },
+        {
+          "rn": 40,
+          "found": true
+        },
+        {
+          "rn": 41,
+          "found": true
+        },
+        {
+          "rn": 42,
+          "found": true
+        }
+      ],
+      "tenor_matches": true
+    },
+    {
+      "doknr": "KORE301422020",
+      "local_path": "sources/author-p176-p194-local-KORE301422020.md",
+      "local_sha256": "67edbdce86caa7caae77fed6c713c14509d0148162a166dfa2e3d3f6655f97d2",
+      "numbered_reasons": [
+        {
+          "rn": 1,
+          "found": true
+        },
+        {
+          "rn": 2,
+          "found": true
+        },
+        {
+          "rn": 3,
+          "found": true
+        },
+        {
+          "rn": 4,
+          "found": true
+        },
+        {
+          "rn": 5,
+          "found": true
+        },
+        {
+          "rn": 6,
+          "found": true
+        },
+        {
+          "rn": 7,
+          "found": true
+        },
+        {
+          "rn": 8,
+          "found": true
+        },
+        {
+          "rn": 9,
+          "found": true
+        },
+        {
+          "rn": 10,
+          "found": true
+        },
+        {
+          "rn": 11,
+          "found": true
+        },
+        {
+          "rn": 12,
+          "found": true
+        },
+        {
+          "rn": 13,
+          "found": true
+        },
+        {
+          "rn": 14,
+          "found": true
+        },
+        {
+          "rn": 15,
+          "found": true
+        },
+        {
+          "rn": 16,
+          "found": true
+        },
+        {
+          "rn": 17,
+          "found": true
+        },
+        {
+          "rn": 18,
+          "found": true
+        },
+        {
+          "rn": 19,
+          "found": true
+        },
+        {
+          "rn": 20,
+          "found": true
+        },
+        {
+          "rn": 21,
+          "found": true
+        },
+        {
+          "rn": 22,
+          "found": true
+        },
+        {
+          "rn": 23,
+          "found": true
+        },
+        {
+          "rn": 24,
+          "found": true
+        },
+        {
+          "rn": 25,
+          "found": true
+        },
+        {
+          "rn": 26,
+          "found": true
+        },
+        {
+          "rn": 27,
+          "found": true
+        },
+        {
+          "rn": 28,
+          "found": true
+        },
+        {
+          "rn": 29,
+          "found": true
+        },
+        {
+          "rn": 30,
+          "found": true
+        },
+        {
+          "rn": 31,
+          "found": true
+        },
+        {
+          "rn": 32,
+          "found": true
+        },
+        {
+          "rn": 33,
+          "found": true
+        },
+        {
+          "rn": 34,
+          "found": true
+        },
+        {
+          "rn": 35,
+          "found": true
+        },
+        {
+          "rn": 36,
+          "found": true
+        },
+        {
+          "rn": 37,
+          "found": true
+        },
+        {
+          "rn": 38,
+          "found": true
+        },
+        {
+          "rn": 39,
+          "found": true
+        },
+        {
+          "rn": 40,
+          "found": true
+        },
+        {
+          "rn": 41,
+          "found": true
+        },
+        {
+          "rn": 42,
+          "found": true
+        },
+        {
+          "rn": 43,
+          "found": true
+        },
+        {
+          "rn": 44,
+          "found": true
+        },
+        {
+          "rn": 45,
+          "found": true
+        },
+        {
+          "rn": 46,
+          "found": true
+        },
+        {
+          "rn": 47,
+          "found": true
+        },
+        {
+          "rn": 48,
+          "found": true
+        },
+        {
+          "rn": 49,
+          "found": true
+        },
+        {
+          "rn": 50,
+          "found": true
+        },
+        {
+          "rn": 51,
+          "found": true
+        },
+        {
+          "rn": 52,
+          "found": true
+        },
+        {
+          "rn": 53,
+          "found": true
+        },
+        {
+          "rn": 54,
+          "found": true
+        },
+        {
+          "rn": 55,
+          "found": true
+        },
+        {
+          "rn": 56,
+          "found": true
+        },
+        {
+          "rn": 57,
+          "found": true
+        },
+        {
+          "rn": 58,
+          "found": true
+        },
+        {
+          "rn": 59,
+          "found": true
+        },
+        {
+          "rn": 60,
+          "found": true
+        },
+        {
+          "rn": 61,
+          "found": true
+        },
+        {
+          "rn": 62,
+          "found": true
+        },
+        {
+          "rn": 63,
+          "found": true
+        },
+        {
+          "rn": 64,
+          "found": true
+        },
+        {
+          "rn": 65,
+          "found": true
+        },
+        {
+          "rn": 66,
+          "found": true
+        },
+        {
+          "rn": 67,
+          "found": true
+        },
+        {
+          "rn": 68,
+          "found": true
+        },
+        {
+          "rn": 69,
+          "found": true
+        },
+        {
+          "rn": 70,
+          "found": true
+        },
+        {
+          "rn": 71,
+          "found": true
+        }
+      ],
+      "tenor_matches": true
+    }
+  ],
+  "exported_assigned_statutory_text_agrees": true,
+  "errors": [],
+  "ok": true
+}

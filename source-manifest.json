@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:57:46.279295+00:00",
+  "generated_at": "2026-10-20T17:09:46.247808+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -83,6 +83,111 @@
       "path": "sources/author-p169-p175-local-KORE307712016.md",
       "sha256": "1d9f8b9078d551e33089ddfe486a04c9c80eb38f0fcf2ec6918c8a988cdc819d",
       "bytes": 11903
+    },
+    {
+      "path": "sources/author-p176-p194-XII-ZB-20-14.txt",
+      "sha256": "c2dde6fc2c2fb5bb04b5c05317aacf1d8e1050cb1099c5f0bf12a0aab50e917c",
+      "bytes": 33041
+    },
+    {
+      "path": "sources/author-p176-p194-XII-ZB-20-14.xml",
+      "sha256": "9a7e7351848b11e8e04a7a09bc8d23c424599f87a3dbdf7e995d0064fa723067",
+      "bytes": 40098
+    },
+    {
+      "path": "sources/author-p176-p194-XII-ZB-20-14.zip",
+      "sha256": "07c8963c141b3240c9b4b80328138b4e52717f80cbb040baf25147e499323d12",
+      "bytes": 9810
+    },
+    {
+      "path": "sources/author-p176-p194-XII-ZB-54-18.txt",
+      "sha256": "03f5b9ab69c2956f9a5dbb7c0a391bd086fa0cf195c2a979a18d4374a0d12599",
+      "bytes": 79455
+    },
+    {
+      "path": "sources/author-p176-p194-XII-ZB-54-18.xml",
+      "sha256": "64b5ec5d33d0b6bafc0a04a9f933872c07e8159097ade52e52550d1347c652e4",
+      "bytes": 91373
+    },
+    {
+      "path": "sources/author-p176-p194-XII-ZB-54-18.zip",
+      "sha256": "575fe77f0fc0e02d50eaa1f4739399bd7399528dcd1a845726f0121db2bdee7c",
+      "bytes": 21855
+    },
+    {
+      "path": "sources/author-p176-p194-advermig.xml",
+      "sha256": "5ae2dc4c00f478e7d23d7e7a9f860b71758454215b003177518a4b36cde567d5",
+      "bytes": 63975
+    },
+    {
+      "path": "sources/author-p176-p194-advermig.zip",
+      "sha256": "9145f6034d4b23ea94ae2bdac1aa17208ca4d16d6978a1a3dfbac40aeff9f3a4",
+      "bytes": 13667
+    },
+    {
+      "path": "sources/author-p176-p194-adwirkg.xml",
+      "sha256": "d0338fe5fa89ae5048c9dc8a65a39229f799479c066d91970ea287bbb11cfce6",
+      "bytes": 13022
+    },
+    {
+      "path": "sources/author-p176-p194-adwirkg.zip",
+      "sha256": "395729489c64f6db367da3e71ada3a2538444972bc1374bb7021a636d3d3852d",
+      "bytes": 3922
+    },
+    {
+      "path": "sources/author-p176-p194-bgb.xml",
+      "sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "bytes": 2519002
+    },
+    {
+      "path": "sources/author-p176-p194-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "bytes": 467286
+    },
+    {
+      "path": "sources/author-p176-p194-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/author-p176-p194-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/author-p176-p194-fetch.json",
+      "sha256": "01ef706edd0cc7f8e19e5bd9150fdcf79b3a60fc7da6890cbbbc245c4a14e068",
+      "bytes": 7588
+    },
+    {
+      "path": "sources/author-p176-p194-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/author-p176-p194-local-KORE301422020.md",
+      "sha256": "67edbdce86caa7caae77fed6c713c14509d0148162a166dfa2e3d3f6655f97d2",
+      "bytes": 66428
+    },
+    {
+      "path": "sources/author-p176-p194-local-KORE311642014.md",
+      "sha256": "07e99bf6b0164044c37618aaa49c450744595c2e1fb5091861069b631c840fe0",
+      "bytes": 25780
+    },
+    {
+      "path": "sources/author-p176-p194-version-map.json",
+      "sha256": "744c210797fdeaeaa58412a684aebc22c5989323acfbf9e758ba7f3ecb1e9018",
+      "bytes": 4227
+    },
+    {
+      "path": "sources/author-p176-p194-zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/author-p176-p194-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
     },
     {
       "path": "sources/bgbl-152-2026-10-20.pdf",
@@ -1121,8 +1226,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "eb02efeb1fbda3e7ab03e2779b974b75c447cf2b7a86aa1fdce9c459018a8df7",
-      "bytes": 18654
+      "sha256": "5dfd7103131ecc1b236e5afd57503d74357d9b068a77da191b6998b4a8729803",
+      "bytes": 20571
     },
     {
       "path": "sources/urhg-5.html",
@@ -1131,8 +1236,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "7a55d5fdc6893196e9abbc64fe37604b508bdce387d8c1ac423048c427c2094e",
-      "bytes": 98472
+      "sha256": "78e0b27820791b2fb162c5653c0a6ae8e1a03bf9618f1f90ee1119f6a9ea179b",
+      "bytes": 106345
     }
   ]
 }

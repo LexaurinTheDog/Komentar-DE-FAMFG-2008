@@ -36,3 +36,6 @@ Die Autorencharge §§ 169–175 ergänzt [BGH, 28. Juli 2015, XII ZB 670/14](BG
 
 
 Die zehnte Prüfung ergänzt [BGH, 5. Oktober 2016 — XII ZB 280/15](BGH-XII-ZB-280-15.md) zu § 167a: eng begrenzte Ausnahme beim Zulässigkeitserfordernis der Versicherung und keine automatische neue Begutachtung. Tenor und sämtliche Gründe wurden vollständig gelesen. Die vorhandenen Karten zu XII ZB 639/14 und XII ZB 670/14 wurden anhand der erneut vollständig gelesenen amtlichen Texte bestätigt. Die heutigen Anhörungs- und materiellen Anfechtungsregeln werden nicht aus älteren Fassungen abgeleitet.
+
+
+Die Autorencharge §§ 176–194 ergänzt [BGH, 29. Oktober 2014 — XII ZB 20/14](BGH-XII-ZB-20-14.md) zu förmlichem Beweis und Untersuchungsduldung einschließlich Exhumierung (§§ 177–178) sowie [BGH, 27. Mai 2020 — XII ZB 54/18](BGH-XII-ZB-54-18.md) zu Annahme/Anerkennung und zur Unterscheidung von Beteiligung und wirksamer Anhörung (§§ 186, 188, 193). Beide Volltexte wurden vollständig gelesen. Die historische Verweisung auf § 5 AdWirkG wird nicht als heutige Rechtslage ausgegeben. Keine erschöpfende Rechtsprechungsabdeckung; für die neue Sonderwiederaufnahme nach § 185a wurde keine aktuelle einschlägige Entscheidung ausgewählt.

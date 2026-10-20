@@ -1854,6 +1854,150 @@
       "xml_path": "sources/review-p165-p175-XII-ZB-280-15.xml",
       "xml_sha256": "44c8fa5d56ef521d171b2042d516e53419ec48b18751e3aa73b8556a96574c00",
       "version_evidence": "sources/review-p165-p175-version-map.json"
+    },
+    {
+      "purpose": "bounded authoring p176-p194",
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T17:00:06.136191+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p176-p194-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "xml_path": "sources/author-p176-p194-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP magic, CRC, one parseable XML member; metadata checked",
+      "official_abbreviation": "FamFG",
+      "stand_notices": [
+        "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+        "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ]
+    },
+    {
+      "purpose": "bounded authoring p176-p194",
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "actual_url": "https://www.gesetze-im-internet.de/famfg/",
+      "accessed_at": "2026-10-20T17:00:06.441864+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/author-p176-p194-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "format_validation": "HTML with expected FamFG identifier"
+    },
+    {
+      "purpose": "bounded authoring p176-p194",
+      "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "accessed_at": "2026-10-20T17:00:06.601731+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p176-p194-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "xml_path": "sources/author-p176-p194-bgb.xml",
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "format_validation": "ZIP magic, CRC, one parseable XML member; metadata checked",
+      "official_abbreviation": "BGB",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+        "Standzuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+      ]
+    },
+    {
+      "purpose": "bounded authoring p176-p194",
+      "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "accessed_at": "2026-10-20T17:00:06.941398+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p176-p194-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "xml_path": "sources/author-p176-p194-zpo.xml",
+      "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "format_validation": "ZIP magic, CRC, one parseable XML member; metadata checked",
+      "official_abbreviation": "ZPO",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;",
+        "Standzuletzt geändert Art. 2 G v. 22.12.2025 I Nr. 349",
+        "HinweisÄnderung durch Art. 1 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "HinweisÄnderung durch Art. 2 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "HinweisÄnderung durch Art. 3 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ]
+    },
+    {
+      "purpose": "bounded authoring p176-p194",
+      "url": "https://www.gesetze-im-internet.de/adwirkg/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/adwirkg/xml.zip",
+      "accessed_at": "2026-10-20T17:00:07.852039+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p176-p194-adwirkg.zip",
+      "sha256": "395729489c64f6db367da3e71ada3a2538444972bc1374bb7021a636d3d3852d",
+      "xml_path": "sources/author-p176-p194-adwirkg.xml",
+      "xml_sha256": "d0338fe5fa89ae5048c9dc8a65a39229f799479c066d91970ea287bbb11cfce6",
+      "format_validation": "ZIP magic, CRC, one parseable XML member; metadata checked",
+      "official_abbreviation": "AdWirkG",
+      "stand_notices": [
+        "StandZuletzt geändert durch Art. 3 G v. 12.2.2021 I 226"
+      ]
+    },
+    {
+      "purpose": "bounded authoring p176-p194",
+      "url": "https://www.gesetze-im-internet.de/advermig_1976/xml.zip",
+      "actual_url": "https://www.gesetze-im-internet.de/advermig_1976/xml.zip",
+      "accessed_at": "2026-10-20T17:00:07.950452+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p176-p194-advermig.zip",
+      "sha256": "9145f6034d4b23ea94ae2bdac1aa17208ca4d16d6978a1a3dfbac40aeff9f3a4",
+      "xml_path": "sources/author-p176-p194-advermig.xml",
+      "xml_sha256": "5ae2dc4c00f478e7d23d7e7a9f860b71758454215b003177518a4b36cde567d5",
+      "format_validation": "ZIP magic, CRC, one parseable XML member; metadata checked",
+      "official_abbreviation": "AdVermiG 1976",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 21.6.2021 I 2010"
+      ]
+    },
+    {
+      "purpose": "bounded authoring p176-p194",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301422020.zip",
+      "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301422020.zip",
+      "accessed_at": "2026-10-20T17:00:08.050945+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p176-p194-XII-ZB-54-18.zip",
+      "sha256": "575fe77f0fc0e02d50eaa1f4739399bd7399528dcd1a845726f0121db2bdee7c",
+      "xml_path": "sources/author-p176-p194-XII-ZB-54-18.xml",
+      "xml_sha256": "64b5ec5d33d0b6bafc0a04a9f933872c07e8159097ade52e52550d1347c652e4",
+      "format_validation": "ZIP magic, CRC, one parseable XML member; metadata checked",
+      "case_metadata": {
+        "doknr": "KORE301422020",
+        "gertyp": "BGH",
+        "entsch-datum": "20200527",
+        "aktenzeichen": "XII ZB 54/18",
+        "ecli": "ECLI:DE:BGH:2020:270520BXIIZB54.18.0"
+      }
+    },
+    {
+      "purpose": "bounded authoring p176-p194",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE311642014.zip",
+      "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE311642014.zip",
+      "accessed_at": "2026-10-20T17:00:08.810746+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p176-p194-XII-ZB-20-14.zip",
+      "sha256": "07c8963c141b3240c9b4b80328138b4e52717f80cbb040baf25147e499323d12",
+      "xml_path": "sources/author-p176-p194-XII-ZB-20-14.xml",
+      "xml_sha256": "9a7e7351848b11e8e04a7a09bc8d23c424599f87a3dbdf7e995d0064fa723067",
+      "format_validation": "ZIP magic, CRC, one parseable XML member; metadata checked",
+      "case_metadata": {
+        "doknr": "KORE311642014",
+        "gertyp": "BGH",
+        "entsch-datum": "20141029",
+        "aktenzeichen": "XII ZB 20/14",
+        "ecli": ""
+      }
     }
   ],
   "version_assessment": {

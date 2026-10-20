@@ -1,0 +1,77 @@
+{
+  "kind": "author",
+  "complete": false,
+  "bounded_scope_only": true,
+  "stage": "bounded_technical_checks_pending",
+  "decisive_date": "2026-10-19",
+  "written_at": "2026-10-20T17:09:46.187040+00:00",
+  "assigned_ids": [
+    "p176",
+    "p177",
+    "p178",
+    "p179",
+    "p180",
+    "p181",
+    "p182",
+    "p183",
+    "p184",
+    "p185",
+    "p185a",
+    "p186",
+    "p187",
+    "p188",
+    "p189",
+    "p190",
+    "p191",
+    "p192",
+    "p193",
+    "p194"
+  ],
+  "units_written": 20,
+  "commentary_file": "commentary/part-12-abstammung-adoption-176-194.md",
+  "source_verification": "sources/author-p176-p194-fetch.json",
+  "version_evidence": "sources/author-p176-p194-version-map.json",
+  "technical_audit": "author-p176-p194-audit.json",
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-20-14.md",
+    "cases/BGH-XII-ZB-54-18.md"
+  ],
+  "manual_content_checks": [
+    "§§ 176–180: hearing, restricted investigation, formal proof, examination, permissible consolidation and current judicial recognition requirements separated.",
+    "§§ 181–185a: death/continuation, status formula, successful-contestation costs, finality, new expert evidence and relationship-ended restitution distinguished; current age bands, waiting periods and historical cross-reference checked.",
+    "§§ 186–194: scope, concentration, participation/hearing, expert statement, empty slot, guardian, personal hearing and youth-office notification distinguished; § 197 appeal exclusion retained."
+  ],
+  "unassigned_commentary_changes": null,
+  "total_units": 529,
+  "total_commented": 220,
+  "remaining_units": 309,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "validation": {
+    "assigned_batch_ok": false,
+    "statutory_agreement": 1.0,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 388003,
+      "errors": [
+        "krátký/chybějící komentář u 329 jednotek: ['p176(0<400)', 'p177(0<400)', 'p178(0<400)', 'p179(0<400)', 'p180(0<400)', 'p181(0<400)', 'p182(0<400)', 'p183(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "full_build_result": "build-result.json",
+    "partial_output_rebuilt": true
+  },
+  "unresolved_blockers": [
+    "technical checkpoint verification pending"
+  ],
+  "limitations": [
+    "Independent second-pass review of these 20 newly authored units remains outstanding.",
+    "The entire book remains incomplete: 309 units from § 195 onward lack commentary.",
+    "Case-law research is selective; no on-point verified case selected for § 185a.",
+    "Auxiliary statutes checked for cited provisions; specific state jurisdiction concentration ordinances require case-specific verification.",
+    "Length and repetition checks do not establish legal quality."
+  ]
+}

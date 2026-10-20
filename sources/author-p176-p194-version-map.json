@@ -1,0 +1,104 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T17:08:21.419653+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/famfg/",
+  "fresh_xml": "sources/author-p176-p194-famfg.xml",
+  "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "same_as_authoring_start": true,
+  "fresh_html_index_agrees": true,
+  "effective_reform": {
+    "act": "BGBl. 2026 I Nr. 83",
+    "amending_clauses": "Artikel 4 Nummern 4–7: §§ 176, 180, 182, 185a; Artikel 1: § 1594 Absatz 5 und § 1600 BGB",
+    "commencement": "Artikel 6: Tag nach Verkündung; Ausgabe 31. März 2026, daher 1. April 2026",
+    "evidence": "sources/author-p169-p175-bgbl-2026-83.pdf",
+    "sha256": "0f0447e6a9c93f1300ade5cd46e3d3c35caef59137542f58d2c1c7894b3023a9",
+    "text_evidence": "sources/author-p169-p175-bgbl-2026-83.txt"
+  },
+  "later_and_future_amendments": [
+    {
+      "act": "BGBl. 2026 I Nr.152",
+      "amending_clause": "Art.6",
+      "effective_clause": "Art.18 Abs.1; exceptions in Abs.2–4 do not cover Art.6",
+      "effective_date": "2026-10-01",
+      "units": [
+        "p95"
+      ],
+      "evidence": "sources/bgbl-152.pdf",
+      "fresh_identical_evidence": "sources/bgbl-152-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.192",
+      "amending_clause": "Art.4 Nr.1–4",
+      "effective_clause": "Art.20 Abs.1; exceptions in Abs.2–5 do not cover Art.4",
+      "effective_date": "2026-10-01",
+      "units": [
+        "p41a",
+        "p46",
+        "p113"
+      ],
+      "evidence": "sources/bgbl-192.pdf",
+      "fresh_identical_evidence": "sources/bgbl-192-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.198",
+      "amending_clause": "Art.4 Nr.8",
+      "effective_clause": "Art.10 Abs.1 Nr.2; publication on 2026-07-09",
+      "effective_date": "2026-07-10",
+      "units": [
+        "p214"
+      ],
+      "evidence": "sources/bgbl-198.pdf",
+      "fresh_identical_evidence": "sources/bgbl-198-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.198",
+      "amending_clause": "Art.4 Nr.1–7,9",
+      "effective_clause": "Art.10 Abs.2",
+      "effective_date": "2027-07-01",
+      "excluded_future_ids": [
+        "p94a",
+        "p94b",
+        "p94c",
+        "p94d",
+        "p167c",
+        "p216b"
+      ],
+      "other_excluded_changes": [
+        "p57",
+        "p88",
+        "p96",
+        "TOC and subsection renumbering"
+      ],
+      "evidence": "sources/bgbl-198.pdf"
+    }
+  ],
+  "intake_comparison": "sources/change-map.json; six resolved presentation/source-note differences, no substantive body changes",
+  "historical_check": "Fresh XML has one unit per identifier; § 185a expressly refers to historical § 1600 Absatz 2 BGB without importing that version into current law. Case XII ZB 54/18 uses old § 5 AdWirkG; current § 6 checked separately.",
+  "annexes": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+  "opening_formula": {
+    "present": false,
+    "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+    "global_notes_preserved": true
+  },
+  "coverage": {
+    "expected": 529,
+    "parsed": 529,
+    "missing": [],
+    "extra": [],
+    "duplicates": [],
+    "empty_assigned_slots": [
+      "p190"
+    ]
+  },
+  "auxiliary_sources": [
+    "sources/author-p176-p194-bgb.xml",
+    "sources/author-p176-p194-zpo.xml",
+    "sources/author-p176-p194-adwirkg.xml",
+    "sources/author-p176-p194-advermig.xml"
+  ],
+  "limits": [
+    "Same-day prior official gazette screening reused; no exhaustive reconstruction of all amendments since 2008.",
+    "Auxiliary statutes inspected for cited provisions only; state concentration ordinance left to the concrete court district.",
+    "Selective case-law research; no newly verified on-point decision selected for the 2026 § 185a."
+  ]
+}

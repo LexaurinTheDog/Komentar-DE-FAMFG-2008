@@ -506,5 +506,77 @@
       ],
       "limits": "Selective research, no exhaustive treatment/citator search; no verified case for17other assigned units."
     }
+  ],
+  "bounded_authoring": [
+    {
+      "ids": [
+        "p176",
+        "p177",
+        "p178",
+        "p179",
+        "p180",
+        "p181",
+        "p182",
+        "p183",
+        "p184",
+        "p185",
+        "p185a",
+        "p186",
+        "p187",
+        "p188",
+        "p189",
+        "p190",
+        "p191",
+        "p192",
+        "p193",
+        "p194"
+      ],
+      "accessed_at": "2026-10-20T17:08:21.419653+00:00",
+      "method": "web discovery, local national manifest, official RII ZIP/XML full texts",
+      "queries": [
+        "site.rechtsprechung-im-internet.de \"178\" \"633/13\"",
+        "site.rechtsprechung-im-internet.de \"193\" \"Anhörung\" \"Adoption\"",
+        "BGH XII ZB 633/13 Exhumierung 29 Oktober 2014 rechtsprechung im internet"
+      ],
+      "discovery_correction": "Exhumation docket verified as XII ZB 20/14, not the initial search conjecture 633/13.",
+      "firecrawl": "CLI status checked: authenticated, zero available credits; direct primary-source fetch used without changing settings.",
+      "full_text_read": [
+        {
+          "doknr": "KORE311642014",
+          "reasons": "1–42",
+          "supported_ids": [
+            "p177",
+            "p178"
+          ]
+        },
+        {
+          "doknr": "KORE301422020",
+          "reasons": "1–71",
+          "supported_ids": [
+            "p186",
+            "p188",
+            "p193"
+          ]
+        }
+      ],
+      "no_case_selected_ids": [
+        "p176",
+        "p179",
+        "p180",
+        "p181",
+        "p182",
+        "p183",
+        "p184",
+        "p185",
+        "p185a",
+        "p187",
+        "p189",
+        "p190",
+        "p191",
+        "p192",
+        "p194"
+      ],
+      "limits": "No assertion that no case exists for uncited units; § 185a explained from effective legislation. Foreign law and authorities quoted inside the cases not independently adopted."
+    }
   ]
 }

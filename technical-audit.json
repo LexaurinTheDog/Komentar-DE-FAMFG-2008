@@ -1,10 +1,31 @@
 {
-  "commented_units": 200,
+  "commented_units": 220,
   "total_units": 529,
-  "commentary_characters": 388003,
-  "missing_commentary_count": 329,
-  "local_links_checked": 466,
-  "broken_local_links": [],
+  "commentary_characters": 437391,
+  "missing_commentary_count": 309,
+  "local_links_checked": 499,
+  "broken_local_links": [
+    {
+      "file": "README.md",
+      "target": "author-p176-p194-result.json"
+    },
+    {
+      "file": "README.md",
+      "target": "author-p176-p194-audit.json"
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "author-p176-p194-result.json"
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "author-p176-p194-audit.json"
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "author-p176-p194-audit.json"
+    }
+  ],
   "exact_repeated_substantive_paragraphs": [],
   "near_repeated_commentary_above_0_8_token_jaccard": [],
   "xml_character_disagreements_ignoring_whitespace": [],
@@ -210,11 +231,31 @@
     "p172": 3061,
     "p173": 2211,
     "p174": 2779,
-    "p175": 3630
+    "p175": 3630,
+    "p176": 2281,
+    "p177": 2632,
+    "p178": 2714,
+    "p179": 2163,
+    "p180": 2580,
+    "p181": 2226,
+    "p182": 2313,
+    "p183": 2283,
+    "p184": 2344,
+    "p185": 2625,
+    "p185a": 3802,
+    "p186": 2296,
+    "p187": 2688,
+    "p188": 2852,
+    "p189": 2258,
+    "p190": 979,
+    "p191": 2368,
+    "p192": 2297,
+    "p193": 2555,
+    "p194": 3132
   },
   "limits": [
     "Similarity screening is heuristic and does not establish legal quality.",
-    "Remaining 329 units are not authored.",
+    "Remaining 309 units are not authored.",
     "Independent second-pass review is bounded by review-result.json; no whole-book review claimed."
   ]
 }
