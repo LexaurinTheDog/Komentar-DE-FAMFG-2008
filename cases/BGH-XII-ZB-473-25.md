@@ -1,0 +1,13 @@
+# BGH, Beschluss vom 4. Februar 2026 — XII ZB 473/25
+
+Bundesgerichtshof, XII. Zivilsenat. ECLI:DE:BGH:2026:040226BXIIZB473.25.0; amtliche Kennung KORE703462026. Vollständig gelesen am 20. Oktober 2026: Tenor und Rn. 1–15. Verwendung: § 295 FamFG; Abgrenzung zu § 294.
+
+[Amtlicher Volltextdatensatz](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE703462026), [ZIP](../sources/author-p292-p309a-XII-ZB-473-25.zip), [XML](../sources/author-p292-p309a-XII-ZB-473-25.xml), [Lesefassung](../sources/author-p292-p309a-XII-ZB-473-25.txt), [nationaler Korpus](../sources/author-p292-p309a-local-KORE703462026.md), [Abruf](../sources/author-p292-p309a-fetch.json), [Korpusprüfung](../sources/author-p292-p309a-case-corpus-check.json).
+
+Das Amtsgericht hatte die Betreuung auf Grundlage eines älteren Gutachtens und eines Attests verlängert. Die Betroffene wandte sich wenige Tage später schriftlich dagegen. Das Amtsgericht behandelte ihr Schreiben als neuen Aufhebungsantrag und lehnte ihn ohne weitere Ermittlungen ab; das Landgericht bestätigte dies. Der BGH gewährte Wiedereinsetzung, hob beide Beschlüsse auf und verwies an das Amtsgericht zurück.
+
+Rn. 4–9 legen die Eingabe nach ihrem Gesamtinhalt und der recht verstandenen Interessenlage als Beschwerde gegen die Verlängerung aus. Ein ausdrückliches Wort „Beschwerde“ war nicht erforderlich. Entscheidend waren unter anderem der enge zeitliche Zusammenhang, die Bezugnahme auf die Anhörung und die Auseinandersetzung mit der Gutachtengrundlage. Der Fall ist keine Erlaubnis, jedes spätere Änderungsbegehren stets als Beschwerde zu behandeln.
+
+Die falsche Auslegung entzog der Betroffenen die Sicherungen des Verlängerungsverfahrens (Rn. 10–12): Abhilfeprüfung, grundsätzlich aktuelles Gutachten nach §§ 295, 280 und erforderlicher Verfahrenspfleger. Ein Gutachtenverzicht schied jedenfalls wegen ihrer ausdrücklich ablehnenden Haltung aus. Die Entscheidung bezieht sich ausdrücklich auf die seit 2023 geltende Fassung. Für die Kommentierung wird deren genauer Gesetzeswortlaut „offensichtlich nicht verringert“ zugrunde gelegt; die etwas anders formulierte gerichtliche Zusammenfassung ersetzt den Normtext nicht.
+
+Rn. 13 weist lediglich ergänzend darauf hin, dass ein tatsächliches Aufhebungsverfahren nach der speziellen Norm des § 294 und nicht nach § 48 Absatz 1 Satz 1 zu behandeln wäre. Daraus folgt keine Abschwächung des hier notwendigen Verlängerungsverfahrens. Rn. 14 begründet die Zurückverweisung gerade an das Amtsgericht. Keine materielle Entscheidung darüber, ob die Betreuung nach neuer Prüfung fortbestehen darf. Die zitierten älteren Fälle sind nicht als gesondert verifizierte Autoritäten übernommen. Selektive Autorenrecherche; unabhängige Zweitprüfung steht aus.

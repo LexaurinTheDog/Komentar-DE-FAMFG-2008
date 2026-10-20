@@ -5,7 +5,7 @@
   "decisive_date": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/famfg/",
-  "verified_at": "2026-10-20T18:55:35.619997+00:00",
+  "verified_at": "2026-10-20T19:08:56.765544+00:00",
   "version_evidence": {
     "decisive_date": "2026-10-19",
     "rechecked_at": "2026-10-20T16:26:21.879451+00:00",
@@ -124,7 +124,7 @@
       "Selective case cards retained; this source preflight does not re-review case law or the commentary."
     ],
     "latest_bounded_recheck": "sources/review-p272-p291-version-map.json",
-    "latest_bounded_author_recheck": "sources/author-p272-p291-version-map.json"
+    "latest_bounded_author_recheck": "sources/author-p292-p309a-version-map.json"
   },
   "historical_versions_checked": {
     "intake": {
@@ -8142,6 +8142,33 @@
       "p289",
       "p290",
       "p291"
+    ],
+    "unresolved_blockers": []
+  },
+  "bounded_author_recheck_p292_p309a": {
+    "complete": true,
+    "evidence": "sources/author-p292-p309a-version-map.json",
+    "assigned_ids": [
+      "p292",
+      "p292a",
+      "p293",
+      "p294",
+      "p295",
+      "p296",
+      "p297",
+      "p298",
+      "p299",
+      "p300",
+      "p301",
+      "p302",
+      "p303",
+      "p304",
+      "p305",
+      "p306",
+      "p307",
+      "p308",
+      "p309",
+      "p309a"
     ],
     "unresolved_blockers": []
   }

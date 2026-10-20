@@ -1,0 +1,158 @@
+{
+  "kind": "author",
+  "complete": false,
+  "stage": "bounded_author_batch_written_validation_pending",
+  "authored_ids": [
+    "p292",
+    "p292a",
+    "p293",
+    "p294",
+    "p295",
+    "p296",
+    "p297",
+    "p298",
+    "p299",
+    "p300",
+    "p301",
+    "p302",
+    "p303",
+    "p304",
+    "p305",
+    "p306",
+    "p307",
+    "p308",
+    "p309",
+    "p309a"
+  ],
+  "units_authored": 20,
+  "max_units": 20,
+  "baseline_work_commit": "367e3c5dc08718afa58943efa511438cdac8cf8b",
+  "baseline_output_commit": "f2dd32ebbbdb33b61f556f88bf2319a6919226f7",
+  "decisive_date": "2026-10-19",
+  "author_batch_date": "2026-10-20",
+  "source_verified_at": "2026-10-20T19:08:56.765544+00:00",
+  "source_checks": "sources/author-p292-p309a-fetch.json",
+  "source_version_evidence": "sources/author-p292-p309a-version-map.json",
+  "parser_replay": "author-p292-p309a-parser-replay.json",
+  "author_self_check": [
+    {
+      "id": "p292",
+      "finding": "Alle sechs Absätze: Anspruchsgruppen, Zukunftsfestsetzung, VBVG-Verweisung, Auszahlung, Änderungen, Landesformulare und erst 2028 geltende Soll-Fassung getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p292a",
+      "finding": "Staatskassenrückgriff, genaue ZPO-Teilverweisung, begrenzte Erbenhaftung, Verzeichnis, Versicherung und Anhörung erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p293",
+      "finding": "Erstanordnungsgrundsatz, sechsmonatige Erkenntnisse, wesentliche Aufgaben, beschränkte Beweiserleichterung und weitere Betreuer sowie BGH 130/23 mit Übergangsgrenzen.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p294",
+      "finding": "Aufhebung und Einschränkung, erforderliche Aufklärung, Nachholung des Gutachtens, sieben und zwei Jahre sowie Übergang nach § 493 geprüft.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p295",
+      "finding": "Aktueller Verlängerungsbedarf, kumulative Gutachtenverzichtsvoraussetzungen, erklärter Wille, Verfahrenswahl und äußerste Überprüfungsfristen behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p296",
+      "finding": "Entlassung und Neubestellung, Widerspruchsanhörung beider Personen, Einverständnis mit konkretem Wechsel, weitere Beteiligte und zusätzliche Erweiterung getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p297",
+      "finding": "Alle acht Absätze: besonderer Betreuer, fünf Gutachtensperspektiven, persönlicher Kontakt, Operateurtrennung, Bekanntgaben und Wartezeit berücksichtigt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p298",
+      "finding": "Genehmigungspflicht vorab, Patientenwille, Vollmacht, besondere Pflegerpflicht, Sachverständiger und Wirksamkeitsfrist differenziert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p299",
+      "finding": "Drei Pflichtfälle einschließlich SBGG sowie Soll-Anhörung in den bezeichneten Vermögensgenehmigungen erklärt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p300",
+      "finding": "Vier kumulative Eilvoraussetzungen, dringlicher Aufgabenbedarf, Rechtshilfe, Abgrenzung zu § 301 und vorläufige Entlassung behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p301",
+      "finding": "Gefahr im Verzug zusätzlich zur Eilbedürftigkeit, verschobene Schutzhandlungen, unverzügliche Nachholung und begrenzte Auswahlausnahme geprüft.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p302",
+      "finding": "Sechsmonatsende, kürzerer Tenor, Sachverständigenanhörung bei jeder Verlängerung, Jahresgrenze und Umgehungsverbot erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p303",
+      "finding": "Alle vier Absätze: Behördenrecht, Angehörigenkreis, Beteiligung und Interesse, Pflegerrecht und Vertretung sowie begrenzte BGH-Anwendungen getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p304",
+      "finding": "Kasseninteresse, besondere Entlassungskontrolle, materielle Grenzen und Dreimonatsfrist ab formloser Mitteilung geprüft.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p305",
+      "finding": "Zusätzlicher Einlegungsort, unveränderte Befugnis und Frist, Eingangsdatum und Weiterleitung erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p306",
+      "finding": "Bestandsschutz beider Geschäftsrichtungen, keine Heilung anderer Mängel und Abgrenzung zur später veranlassten Aufhebung behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p307",
+      "finding": "Auslagenermessen, Verfahrensausgänge, Notwendigkeit und direkte beziehungsweise entsprechende BGH-Anwendung getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p308",
+      "finding": "Alle vier Absätze: erhebliche Gefahr, öffentliche Empfänger, vorgezogene Mitteilung, Unterrichtungsausnahmen, Nachholung und Dokumentation erklärt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p309",
+      "finding": "Aufenthaltsbezogener Einwilligungsvorbehalt, Betreuerangabe sowie Aktualisierung bei Aufhebung und Wechsel abgegrenzt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p309a",
+      "finding": "Todesmitteilung als Pflicht, Eignungsmitteilung als Ermessen, offener Verdacht, Betreuerinformation und zeitlich begrenzte Ausnahme erläutert.",
+      "material_blocker_found": false
+    }
+  ],
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-130-23.md",
+    "cases/BGH-XII-ZB-145-25.md",
+    "cases/BGH-XII-ZB-473-25.md",
+    "cases/BGH-XII-ZB-218-25.md",
+    "cases/BGH-XII-ZB-323-25.md"
+  ],
+  "unresolved_blockers": [],
+  "whole_book_complete": false,
+  "total_statutory_units": 529,
+  "completed_commentary_units": 340,
+  "remaining_commentary_units": 189,
+  "independent_second_pass_complete_for_new_batch": false,
+  "limitations": [
+    "Exactly 20 assigned units authored; all 320 previous commentaries preserved.",
+    "A fresh independent second pass is pending for these 20 units.",
+    "Whole book incomplete: 189 unassigned comments missing from p310.",
+    "Selective case-law research; technical tests do not prove legal quality."
+  ]
+}

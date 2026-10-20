@@ -2,7 +2,7 @@
 
 Das FamFG verbindet sehr unterschiedliche gerichtliche Aufgaben: familienrechtliche Status- und Leistungsstreitigkeiten, Schutzverfahren, Nachlass- und Registersachen sowie weitere Angelegenheiten der freiwilligen Gerichtsbarkeit. Die gemeinsame Gesetzesüberschrift darf nicht darüber hinwegtäuschen, dass diese Gegenstände unterschiedliche Beteiligungs-, Ermittlungs-, Entscheidungs- und Vollstreckungsmodelle verlangen. Der erste praktische Schritt besteht deshalb in der gesetzlichen Einordnung des konkreten Begehrens.
 
-Diese Ausgabe enthält die Kommentierung der §§ 1–291 einschließlich der Buchstabenparagraphen, insgesamt 320 Paragrapheneinheiten. Der gesamte amtliche Quellenbestand umfasst 529 Einheiten; die Kommentierung ab § 292 fehlt. Der Teilstand ist in README, INDEX und Vollständigkeitsbericht ausdrücklich ausgewiesen. Aus der vollständigen Erfassung des Gesetzeswortlauts wird keine vollständige Kommentierung abgeleitet.
+Diese Ausgabe enthält die Kommentierung der §§ 1–309a einschließlich der Buchstabenparagraphen, insgesamt 340 Paragrapheneinheiten. Der gesamte amtliche Quellenbestand umfasst 529 Einheiten; die Kommentierung ab § 310 fehlt. Der Teilstand ist in README, INDEX und Vollständigkeitsbericht ausdrücklich ausgewiesen. Aus der vollständigen Erfassung des Gesetzeswortlauts wird keine vollständige Kommentierung abgeleitet.
 
 ## Verfahrensart vor Einzelproblem
 
@@ -39,3 +39,6 @@ Die Autorencharge §§ 252–271 ergänzt die Verfahrensfolgen zulässiger und v
 
 
 Die Autorencharge §§ 272–291 behandelt den eigenständigen Verfahrensschutz in Betreuungssachen: Der Betroffene bleibt unabhängig von der Geschäftsfähigkeit verfahrensfähig; Verfahrenspfleger, Betreuer und Angehörige haben unterschiedliche Funktionen. Medizinische Erkenntnisgewinnung und gerichtliche Rechtsentscheidung sind zu trennen. Die Kommentierung stellt gerichtliche Anhörung, Datenverwendung, Vorführung und diagnostische Unterbringung mit ihren jeweils besonderen Voraussetzungen dar und grenzt Beschlusswirksamkeit, Überprüfungstermin und Bestellungsurkunde voneinander ab. Drei neue amtliche Entscheidungen dienen als selektive Belege. Die Charge wurde in einem frischen Prozess auf genau diese 20 Einheiten begrenzt zweitgeprüft; sechs Präzisierungen, die erneute Volltextprüfung der drei Entscheidungen und die Grenzen der Prüfung sind im sechzehnten Chargenbericht dokumentiert.
+
+
+Die Autorencharge §§ 292–309a trennt Betreueranspruch und Staatskassenrückgriff, aktuelle Erweiterung und Verlängerung, besondere Genehmigung und vorläufige Betreuung sowie eigene Beschwerde und Vertretung. Unterschiedliche Anhörungspflichten, Gutachtenerleichterungen und automatische Eilfristen werden jeweils am Normtatbestand erklärt. Der amtlich verifizierte Zukunftswechsel des § 292 im Juli 2028 wird nicht vorgezogen. Die fünf neuen Fallkarten belegen gezielte Aussagen, keine erschöpfende Rechtsprechungsübersicht. Der neue Text unterliegt bislang nur der Autorenkontrolle; eine unabhängige Zweitprüfung steht aus.

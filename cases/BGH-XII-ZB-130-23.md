@@ -1,0 +1,15 @@
+# BGH, Beschluss vom 7. Februar 2024 — XII ZB 130/23
+
+Bundesgerichtshof, XII. Zivilsenat. ECLI:DE:BGH:2024:070224BXIIZB130.23.0; amtliche Kennung KORE310472024. Vollständig gelesen am 20. Oktober 2026: Leitsätze, Tenor und Gründe Rn. 1–26. Verwendung: § 293 FamFG.
+
+[Amtlicher Datensatz](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE310472024), [ZIP](../sources/author-p292-p309a-XII-ZB-130-23.zip), [XML](../sources/author-p292-p309a-XII-ZB-130-23.xml), [Lesetext](../sources/author-p292-p309a-XII-ZB-130-23.txt), [nationaler Korpus](../sources/author-p292-p309a-local-KORE310472024.md), [Abruf und Hashes](../sources/author-p292-p309a-fetch.json), [Korpusvergleich](../sources/author-p292-p309a-case-corpus-check.json).
+
+Der Betroffene wandte sich gegen die inzwischen abgelaufene Unterbringungsgenehmigung und gegen die nach der Reform erfolgte ausdrückliche Erweiterung seiner Betreuungsaufgaben. Der BGH stellte die Rechtsverletzung durch die Unterbringung fest und verwies die Betreuungssache nach Aufhebung zurück. Die Genehmigung der Freiheitsentziehung und die Neubestimmung des Aufgabenkreises waren getrennte Entscheidungsgegenstände.
+
+Rn. 15–16 wenden § 293 entsprechend auf die Anpassung nach Artikel 229 § 54 Absatz 4 EGBGB an. Die ausdrückliche Zuweisung der freiheitsentziehenden Aufgaben ist trotz übergangsweise fortbestehender alter Befugnisse verfahrensrechtlich bedeutsam. Rn. 19 ordnet sie als wesentlich ein. Rn. 20 beschreibt die mögliche Gutachtenerleichterung nach § 293 Absatz 3; sie ist keine allgemeine Entbindung von Anhörung oder Willensprüfung.
+
+Im konkreten Fall kam ein Gutachtenverzicht dennoch nicht in Betracht: Nach anfänglich einvernehmlicher Betreuung hatte der Betroffene die Aufgabenbestimmung angegriffen, sodass der Ausschluss freier Willensbestimmung sachverständig belegt werden musste (Rn. 21). Ein gleichwohl herangezogenes Gutachten muss unabhängig von einer denkbaren Beweiserleichterung die formalen Anforderungen des § 280 erfüllen (Rn. 22–23). Rn. 24 erläutert ergänzend die gehörswahrende Einführung eines Gutachtens aus einem anderen Verfahren.
+
+Rn. 7–13 betreffen daneben die fehlende Offenlegung der gerichtlichen Gutachterrolle behandelnder Ärztinnen im Unterbringungsverfahren. Der Beschluss verbietet nicht allgemein die Begutachtung durch einen behandelnden Arzt. Seine Aussagen zu dieser besonderen Konstellation werden nicht als allgemeines Verbot in § 293 übertragen.
+
+Die seit 2023 geltenden Vorschriften sind mit dem aktuellen FamFG und BGB abgeglichen. Artikel 229 § 54 Absatz 4 EGBGB ist im [gesicherten amtlichen EGBGB](../sources/author-p292-p309a-bgbeg.xml) enthalten; die Übergangsfrist reicht bis 1. Januar 2028, wobei die genannten vorherigen Gerichtsentscheidungen die Anpassung auslösen. Kein Schluss, dass die Übergangsfrist bereits 2026 abgelaufen wäre. Die im Beschluss zitierten weiteren Entscheidungen gelten hier nicht als zusätzlich vollständig recherchierte Autoritäten. Selektive Recherche und Autorenkontrolle, keine unabhängige Zweitprüfung.

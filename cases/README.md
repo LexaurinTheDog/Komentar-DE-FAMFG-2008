@@ -1,6 +1,6 @@
 # Selektive Fallkarten
 
-Vierundzwanzig amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
+Einundvierzig amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
 
 - [BGH, 27.10.2021, XII ZB 114/21](BGH-XII-ZB-114-21.md): Nachholung fehlerhafter Anhörung, Fachkunde und Zurückverweisung; §§ 68 und 74; begrenzter Prüfungsnachtrag zu §§ 26 und 34.
 - [BGH, 15.03.2017, XII ZB 109/16](BGH-XII-ZB-109-16.md): bestimmter Sachantrag aus rechtzeitigem Gesamtvorbringen; § 117.
@@ -63,3 +63,6 @@ Autorencharge §§ 252–271: drei weitere vollständig gelesene amtliche BGH-Vo
 
 
 Autorencharge §§ 272–291: drei weitere vollständig gelesene amtliche BGH-Texte, insgesamt 36 selektive Fallkarten. [5. Juni 2024 — XII ZB 521/23](BGH-XII-ZB-521-23.md), [13. August 2025 — XII ZB 140/25](BGH-XII-ZB-140-25.md) und [15. April 2026 — XII ZB 457/25](BGH-XII-ZB-457-25.md). Gelesen sind sämtliche 12, 16 und 15 Randnummern, die Tenöre und bei XII ZB 457/25 der Berichtigungsbeschluss vom 27. Mai 2026. Verfahrenspflegerbestellung, Angehörigenbeteiligung, erneute Anhörung und Vollmachtsakzeptanz sind mit präzisen Aussagegrenzen belegt. Keine erschöpfende Übersicht oder unabhängige Zweitprüfung der neuen Kommentierung.
+
+
+Autorencharge §§ 292–309a: fünf neue vollständig gelesene amtliche Entscheidungen, insgesamt 41 Fallkarten. [XII ZB 130/23](BGH-XII-ZB-130-23.md), [XII ZB 145/25](BGH-XII-ZB-145-25.md), [XII ZB 473/25](BGH-XII-ZB-473-25.md), [XII ZB 218/25](BGH-XII-ZB-218-25.md), [XII ZB 323/25](BGH-XII-ZB-323-25.md). Sämtliche 26, 11, 15, 29 und 13 Randnummern sowie Tenöre und vorhandene Leitsätze gelesen. Originaldatensätze, Korpusspiegel und präzise Verwendungsgrenzen sind verlinkt. Neue Charge noch ohne unabhängige Zweitprüfung.

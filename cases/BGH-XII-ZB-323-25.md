@@ -1,0 +1,15 @@
+# BGH, Beschluss vom 5. August 2026 — XII ZB 323/25
+
+Bundesgerichtshof, XII. Zivilsenat. ECLI:DE:BGH:2026:050826BXIIZB323.25.0; amtliche Kennung KORE616742026. Vollständig gelesen am 20. Oktober 2026: Tenor und Rn. 1–13. Verwendung in §§ 303 und 307 FamFG.
+
+[Amtliche Quelle](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE616742026), [ZIP-Sicherung](../sources/author-p292-p309a-XII-ZB-323-25.zip), [XML](../sources/author-p292-p309a-XII-ZB-323-25.xml), [Extraktion](../sources/author-p292-p309a-XII-ZB-323-25.txt), [nationaler Korpus](../sources/author-p292-p309a-local-KORE616742026.md), [Abrufnachweise](../sources/author-p292-p309a-fetch.json), [Korpusvergleich](../sources/author-p292-p309a-case-corpus-check.json).
+
+Eine Betroffene hatte selbst anwaltlich Beschwerde gegen ihre Kontrollbetreuung eingelegt. Das Landgericht behandelte diese Erklärung irrig als eigene Beschwerde ihres bevollmächtigten Ehemanns und belastete ihn mit Kosten. Nach späterer Aufhebung der Kontrollbetreuung verfolgte die Betroffene die Feststellung der Rechtsverletzung, der Ehemann die Beseitigung seiner Kostenbelastung. Beide Rechtsbeschwerden hatten Erfolg.
+
+Rn. 3 begründet anhand der ausdrücklichen Verfahrenserklärungen, dass nur die Betroffene Beschwerdeführerin gewesen war. Das ist für § 303 als Beispiel der notwendigen Unterscheidung zwischen eigener Beschwerde und Vertretung bedeutsam; der Beschluss prüft nicht sämtliche Tatbestandsvarianten des § 303.
+
+Rn. 5–11 tragen die Rechtswidrigkeitsfeststellung. Die Betroffene hatte ihr ursprüngliches Einverständnis nicht aufrechterhalten. Das Beschwerdegericht hätte sie erneut persönlich anhören und die Frage freier Willensbestimmung prüfen müssen. Die Verletzung dieses grundlegenden Verfahrensrechts war nach der Erledigung nicht rückwirkend heilbar und rechtfertigte die Feststellung nach § 62.
+
+Rn. 12 hebt die Kostenentscheidung auf, weil der Ehemann in der Beschwerdeinstanz gar kein eigenes Rechtsmittel geführt hatte. Die notwendigen außergerichtlichen Kosten der Betroffenen und des Ehemanns in beiden Rechtsmittelinstanzen legt der BGH der Staatskasse gemäß beziehungsweise entsprechend § 307 auf. Damit ist die unmittelbare Anwendung auf die Betroffene von der entsprechenden Anwendung in der besonderen Fehlbelastung des Ehemanns zu unterscheiden. Die Gerichtskostenfreiheit begründet der Tenor eigenständig mit § 25 Absatz 2 GNotKG; sie wird nicht als unmittelbare Rechtsfolge des Auslagenrechts aus § 307 ausgegeben.
+
+Der Beschluss verwendet das seit 2023 geltende materielle Betreuungsrecht. Die herangezogenen aktuellen Verfahrensvorschriften sind im gesicherten FamFG geprüft. Keine allgemeine Garantie voller Auslagenerstattung nach jeder Erledigung, kein direkter gesetzlicher Auslagenanspruch jedes Angehörigen. Ältere im Text zitierte Entscheidungen werden nicht als zusätzlich selbst gelesene Autoritäten ausgewiesen. Selektive Recherche, keine externe Freigabe oder unabhängige Zweitprüfung.

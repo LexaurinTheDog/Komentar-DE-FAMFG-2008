@@ -1,0 +1,13 @@
+# BGH, Beschluss vom 22. April 2026 — XII ZB 218/25
+
+Bundesgerichtshof, XII. Zivilsenat. ECLI:DE:BGH:2026:220426BXIIZB218.25.0; amtliche Kennung KORE303572026. Vollständig gelesen am 20. Oktober 2026: Leitsatz, Tenor und Rn. 1–29. Eng begrenzte Verwendung in § 303 FamFG, insbesondere Rn. 8.
+
+[Amtlicher Datensatz](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE303572026), [ZIP](../sources/author-p292-p309a-XII-ZB-218-25.zip), [XML](../sources/author-p292-p309a-XII-ZB-218-25.xml), [Lesetext](../sources/author-p292-p309a-XII-ZB-218-25.txt), [nationaler Korpus](../sources/author-p292-p309a-local-KORE303572026.md), [Abrufprotokoll](../sources/author-p292-p309a-fetch.json), [Korpusabgleich](../sources/author-p292-p309a-case-corpus-check.json).
+
+Nach einer umfangreichen Vermögensübertragung an eine bevollmächtigte Tochter hatte das Amtsgericht eine Kontrollbetreuung eingerichtet. Das Landgericht hob sie auf die Beschwerde der Tochter auf. Ein anderer erstinstanzlich beteiligter Sohn verfolgte mit der Rechtsbeschwerde die Wiederherstellung der Betreuung. Der BGH hob die Beschwerdeentscheidung auf und wies die Erstbeschwerde zurück.
+
+Rn. 8 trennt Statthaftigkeit und Befugnis. Die Rechtsbeschwerde war nach § 70 Absatz 3 Satz 1 Nummer 1 statthaft. Die Befugnis des Sohnes ergab sich nach Abänderung der erstinstanzlichen Entscheidung entsprechend § 303 Absatz 2 Nummer 1, weil er im ersten Rechtszug beteiligt gewesen war und das Rechtsmittel dem objektiven Interesse der Betroffenen diente. Nur diese Aussage stützt die Kommentierung des § 303. Keine allgemeine Rechtsmittelbefugnis sämtlicher Angehöriger unabhängig von Beteiligung und Interesse.
+
+Die umfangreichen materiellen Ausführungen in Rn. 12–28 betreffen die Kontrollbetreuung und mögliche Rückforderungsansprüche gegenüber einer Bevollmächtigten. Rn. 10–11 referieren zunächst die Erwägungen der Vorinstanz; sie sind keine Zustimmung des BGH. Der BGH hielt die Verneinung eines Kontrollbedarfs für fehlerhaft und sah konkrete Zweifel sowie einen Interessenkonflikt als hinreichenden Anlass zur Prüfung möglicher Ansprüche an. Er entschied nicht abschließend über die Wirksamkeit der Grundstücksübertragung oder einen zivilrechtlichen Rückgewähranspruch.
+
+Die aktuelle Fassung des § 303 ist mit dem Entscheidungsbezug abgeglichen. Der amtliche Text enthält Unterschiede in einzelnen Datumsangaben zur Vollmacht und zum amtsgerichtlichen Beschluss; daraus werden in der Kommentierung keine zeitabhängigen materiellen Aussagen gewonnen. Der für die Verwendung ausschlaggebende Rn. 8 ist davon nicht betroffen. Keine kommerzielle Redaktion übernommen, keine erschöpfende Recherche und keine unabhängige Zweitprüfung.
