@@ -49,5 +49,16 @@
     "Independent second pass pending.",
     "Historical statutory texts and concrete state laws must be obtained before applying their details to a specific case."
   ],
-  "validation": "Strict validator pending local output checkpoint; first run showed 1.0 agreement and only uncommitted-output error."
+  "validation": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1128892,
+    "errors": [
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "validation_limitation": "Strict validator remains false solely because output chapters outside assigned scope and INDEX have uncommitted rebuild differences. Assigned output and source checkpoint committed; unrelated work not committed."
 }
