@@ -1,8 +1,8 @@
 {
   "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-  "run_at": "2026-10-20T18:50:21.682864+00:00",
+  "run_at": "2026-10-20T18:57:54.349914+00:00",
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 209 jednotkám, např.: ['p292', 'p292a', 'p293', 'p294', 'p295', 'p296', 'p297', 'p298', 'p299', 'p300']\n",
-  "scope": "Unmodified full builder correctly rejects209missingcomments fromp292outsideexact bounded authoringtask. Existing partial exporter renders only real completed commentaries, visibly incomplete."
+  "scope": "Unmodified full builder rejects209missingcomments fromp292outside exact bounded review. Existing partial exporter rebuilds real completed commentaries only, visibly incomplete."
 }

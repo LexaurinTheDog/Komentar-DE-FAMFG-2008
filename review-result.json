@@ -1,259 +1,202 @@
 {
-  "kind": "review",
-  "complete": true,
-  "stage": "bounded_second_pass_complete",
+  "task_kind": "review",
+  "scope": "Independent second pass exactly p272–p291, no other units substantively re-reviewed",
+  "complete": false,
+  "legal_reading_complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p252",
-    "p253",
-    "p254",
-    "p255",
-    "p256",
-    "p257",
-    "p258",
-    "p259",
-    "p260",
-    "p261",
-    "p262",
-    "p263",
-    "p264",
-    "p265",
-    "p266",
-    "p267",
-    "p268",
-    "p269",
-    "p270",
-    "p271"
+    "p272",
+    "p273",
+    "p274",
+    "p275",
+    "p276",
+    "p277",
+    "p278",
+    "p279",
+    "p280",
+    "p281",
+    "p282",
+    "p283",
+    "p284",
+    "p285",
+    "p286",
+    "p287",
+    "p288",
+    "p289",
+    "p290",
+    "p291"
   ],
-  "max_units": 20,
-  "baseline_commit": "232752b57801ba3ad077ad0c4806197bacc66e47",
+  "verified_at": "2026-10-20T18:57:06.184979+00:00",
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T18:35:25.786271+00:00",
-  "source_verification": "sources/review-p252-p271-fetch.json",
-  "version_evidence": "sources/review-p252-p271-version-map.json",
-  "parser_replay": "review-p252-p271-parser-replay.json",
-  "findings": [
-    {
-      "id": "p252",
-      "disposition": "clarified",
-      "finding": "Alle fünf Absätze gegen die amtliche XML gelesen. Zulässigkeitseinwände, Bereitschaft und Verpflichtung, Erfüllungsbelege sowie Vermögensauskunft und12Monatsbelege einschließlich besonderer Einkunftsarten getrennt. Kein materieller Leistungsfähigkeitsentscheid aus bloßer Zulässigkeit abgeleitet. Im Beispiel Absendung/Eingang präzisiert: Eingang vor Erlass ersetzt fehlende Substanz nicht; Absendung vor Erlass ist ihrerseits nicht ausreichend. BGH450/21Rn13–21 und84/26Rn11–17 tragen Erlassgrenze und tatsächlich praktiziertes Betreuungsmodell.",
-      "sources_read": "FamFG249–253;BGH450/21Rn13–21;BGH84/26Rn11–17",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p253",
-      "disposition": "clarified",
-      "finding": "Beide Absätze mit allen Sätzen geprüft. Fristablauf, unstreitiger Sockel, Zahlungsausspruch und nur ohne Weiteres ermittelbare erstattungsfähige Kosten zutreffend. Für den Abänderungshinweis verdeutlicht, dass240 keine erst später wesentlich veränderten Umstände verlangt; Rückwirkungsgrenzen bleiben. BGH450/21Rn41 ausdrücklich mit aktueller240Fassung abgeglichen. Beispiel wahrt255Abs4 und verhindert Doppeltitulierung.",
-      "sources_read": "FamFG240,251–256;BGH450/21Rn14–21,41",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p254",
-      "disposition": "retained",
-      "finding": "Einzigen Satz vollständig gelesen. Mitteilung erst bei zulässigen252Abs2–4Einwendungen; keine materielle Bestätigung, kein automatischer Verfahrenswechsel. Zugang zum Antragsteller als Beginn der255Abs6Sechsmonatsregel zutreffend, bereits gedeckter Teil abgegrenzt. Beispiel zeigt reale prozessuale Folge fehlenden Fortführungsantrags.",
-      "sources_read": "FamFG252Abs2–4,254,255Abs1/6",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p255",
-      "disposition": "retained",
-      "finding": "Alle sechs Absätze geprüft. Fortgang auf Antrag jedes Beteiligten, Einwendungen als Erwiderung und rückbezogene Rechtshängigkeit richtig.113/114Vertretungsregime samt Ausnahmen nicht ungeprüft fortgeschrieben. Gesamtbetrag und Aufhebung nur insoweit bei künftigen wiederkehrenden Leistungen; Kostenintegration und Rücknahmefiktion für ungedeckten Rest getrennt. Beispiel500/320/440Euro erzeugt keine doppelte Forderung.",
-      "sources_read": "FamFG113,114,235,236,240Abs1,251,253–255",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p256",
-      "disposition": "clarified",
-      "finding": "Beide Sätze und alle zugelassenen Angriffskategorien geprüft. Präklusion betrifft252Abs2–4; Beschwerde nicht als freie materielle Neuberechnung beschrieben. Beide Unterhaltsvolltexte vollständig gelesen; offene117Abs1S1–3Frage und begrenzte Erinnerungsaussage korrekt. Fehlenden Hinweis auf zulassungsfreie Statthaftigkeit der Rechtsbeschwerde nach Verwerfung ergänzt, strikt von574Abs2ZPOZulässigkeit getrennt. Kostenfestsetzung und Kostengrund bleiben getrennt.",
-      "sources_read": "FamFG117Abs1S4,240,252,256;ZPO522Abs1,574;BGH450/21Rn5–8,13–42;BGH84/26Rn4,7–18",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p257",
-      "disposition": "retained",
-      "finding": "Beide Sätze mit259und260gelesen. Zugang zur Geschäftsstelle umfasst beide Seiten, eingeführte Formulare sind auszufüllen, Gericht und Datum zu vermerken. Aufnahme ersetzt weder fehlende Pflichtangaben noch Belege und begründet keine instanzübergreifende Vertretungsbefreiung. Beispiel zur fehlenden zeitlichen Antragsbestimmung richtig.",
-      "sources_read": "FamFG250,252,255,257,259,260",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p258",
-      "disposition": "retained",
-      "finding": "Beide Absätze und702Abs2ZPOvollständig geprüft. Genau Sätze1,3,4 einbezogen, professionelle Maschinenpflicht desSatz2 nicht übernommen. Identitätsnachweis, willentliche Übermittlung und gerichtliches Eignungsurteil zutreffend. Gerichtssiegel statt Unterschrift nur im maschinellen Anwendungsbereich; kein materieller Entscheidungsautomatismus.",
-      "sources_read": "FamFG249–253,258;ZPO702Abs2",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p259",
-      "disposition": "retained",
-      "finding": "Beide Absätze und aktuelleKindUFV1,3,4 samt Anlagenbestand gelesen. Ministerium/Bundesrat/Verordnung richtig, Bindung nur soweit eingeführt. Keine erfundene allgemeine Pflicht zu einem Einwendungsformular. Ausnahmen insbesondere übergegangene Ansprüche und strukturierte Behördenübermittlung; technische Anpassungen und alte Verfahren zutreffend. BGBl107Art11Abs6und12Abs1 bestätigt Wirksamkeit01.07.2026.",
-      "sources_read": "FamFG250Abs2,252,257,259;KindUFV1,3,4;BGBl2026I107Art11Abs6/12",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p260",
-      "disposition": "retained",
-      "finding": "Beide Absätze samt Delegation gelesen. Konzentration bedarf Landesverordnung und bleibt auf vereinfachte Minderjährigenunterhaltsverfahren begrenzt. Einreichungswirkung beim sonst zuständigen Gericht nur für das ausdrücklich bezeichnete Kind; kein beliebiger Wohnortgerichtsstand für beide Seiten. Prüfliste gegen249–260abgeglichen.",
-      "sources_read": "FamFG232,249–260",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p261",
-      "disposition": "retained",
-      "finding": "Beide Absätze und alle genannten BGBVerfahren gelesen. Anspruchssache auch mit Drittbeteiligung von Zustimmungsersetzung/Stundung/Gegenstandsübertragung unterschieden. NurAbs1ist112Nr2Familienstreitsache. Verweisung1519und ausdrücklicher Wahlgüterstandskatalog als Zuordnung belassen, ohne ungeprüfte Vertragsinhalte zu erfinden. Beispiel trennt Ausgleichs- und Stundungsantrag.",
-      "sources_read": "FamFG112Nr2,113,137,261,264,265;BGB1365,1369,1382,1383,1426,1430,1452,1519",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p262",
-      "disposition": "retained",
-      "finding": "Beide Absätze und Konkurrenzsatz geprüft. Eheanhängigkeit auch im Rechtsmittelzug hält erstinstanzliches Ehegericht fest; Ende für neue Anträge von Fortbestand begründeter Zuständigkeit getrennt. Gewöhnlicher Aufenthalt ersetzt Wohnsitz nur im allgemeinen Gerichtsstand. Internationale Zuständigkeit und Verbund nicht aus Ortskonzentration fingiert.",
-      "sources_read": "FamFG137,261–263;ZPO281",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p263",
-      "disposition": "clarified",
-      "finding": "Vollständigen Satz und281Abs2/3S1ZPOgelesen. Abgabe von Amts wegen setzt Rechtshängigkeit der Ehe- und erstinstanzliche Anhängigkeit der Güterrechtssache voraus. Keine automatische Verbundfähigkeit. Bisher fehlenden Aspekt281Abs2S1zu Protokollerklärungen über Zuständigkeit ergänzt; nur begrenzte Formhilfe. Unanfechtbarkeit, Bindung, Akteneingang und Kostenintegration korrekt, keine Mehrkostenregel ausAbs3S2.",
-      "sources_read": "FamFG137Abs4,262,263;ZPO281Abs2/3S1",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p264",
-      "disposition": "retained",
-      "finding": "Beide Absätze mit1382/1383BGBgelesen. Rechtskraftwirkung und Ausschluss allgemeiner Abänderung/Wiederaufnahme zutreffend. Spezifischer materieller Änderungsweg1382Abs6bei wesentlich später veränderten Verhältnissen bleibt gesondert; nicht pauschal auf1383übertragen. Antragsrollen, unbestrittener Umfang und Zahlungsantrag desGläubigers nachAbs2getrennt. Keine ungesicherte gerichtliche Autorität behauptet.",
-      "sources_read": "FamFG48,261Abs2,264,265;BGB1382Abs1–6,1383,1519",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p265",
-      "disposition": "retained",
-      "finding": "Einzigen Satz mit1382Abs5und1383Abs3BGBgeprüft. Einheitlicher Beschluss betrifft anhängigen Ausgleichsstreit plus Modalitätsantrag, nicht automatisch Scheidungsverbund. Antragsrollen und Grenzen materieller Stundung/Übertragung bleiben. Beispiel60000Euro mit Stundung unbestrittenen Teilbetrags richtig; Prüfliste berücksichtigt Rechtskraft und spezielle spätere Änderung.",
-      "sources_read": "FamFG137,264,265;BGB1382Abs5/6,1383Abs1–3",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p266",
-      "disposition": "retained",
-      "finding": "Beide Absätze, alle fünf Anspruchsgruppen und Schlussklausel gelesen. Personenkreis, Trennungsbezug und Spezialausschlüsse eigenständig; kein materieller Anspruch aus Verfahrensnorm.348ZPOKatalog am amtlichen Text geprüft. BGH25/24Rn1–19vollständig gelesen: Parteivortrag als solcher kenntlich, Insolvenzverwalter als Partei kraftAmtes abgegrenzt und offene aktuelle Anfechtungsausnahme wegen historischer Übergangsregel ausdrücklich bewahrt. Abs2nicht112Nr3unterstellt.",
-      "sources_read": "FamFG112Nr3,113,266–268;BGB1357Abs2;ZPO348Abs1S2Nr2;BGH25/24Rn9–19",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p267",
-      "disposition": "retained",
-      "finding": "Alle Sätze beider Absätze geprüft. Erst Gegenstandszuordnung266, dann örtliche Konzentration bei Eheanhängigkeit. ist/war erhält Erstgericht bei Rechtsmittelzug, aber keine ewige Bindung nach Eheabschluss. Gewöhnlicher Aufenthalt nur allgemeiner Gerichtsstand; internationale Regeln und Sondergerichtsstände getrennt. Beispiel zeigt richtigen zeitlichen Wechsel.",
-      "sources_read": "FamFG137,266–268",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p268",
-      "disposition": "clarified",
-      "finding": "Satz und281Abs2/3S1ZPOgelesen. Spätere Rechtshängigkeit der Ehesache von bloßer Antragseinreichung unterschieden; nur erstinstanzliche sonstige Familiensache abzugeben. Protokollmöglichkeit zur Zuständigkeit aus281Abs2S1ergänzt und Vertretungsgrenze erklärt. Keine neue Klage, keine besondere Mehrkostenfolge, kein automatischer Verbund. Thematische Prüfliste zutreffend.",
-      "sources_read": "FamFG137,266–268;ZPO281Abs2/3S1",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p269",
-      "disposition": "retained",
-      "finding": "Alle drei Absätze mit12Nummern desAbs1und3Nummern desAbs2gelesen. AktuellerLPartG1und20aStatus, Fortbestand älterer/erfasster ausländischer Partnerschaften und Umwandlung korrekt. Historische Verweisung aufFassungbis21.12.2018als heutiger Norminhalt erhalten; nicht als zweite operative Textfassung ausgegeben.112Auswahl der Familienstreitsachen und Auffangausschlüsse zutreffend. Kein eigenständiges materielles Recht aus Zuordnung.",
-      "sources_read": "FamFG111,112,269,270;LPartG1,8Abs2,20a;BGB1357Abs2,1519",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p270",
-      "disposition": "retained",
-      "finding": "Beide Absätze mit269und111/112abgeglichen. Aufhebung versus Statusfeststellung und gegenstandsbezogenes jeweils fürNr3–12getrennt. Sonstige LebenspartnerschaftssachenAbs2/3nicht unterschiedslos Familienstreitsache;112nennt nur269Abs2. Ortskonzentration und Abgabe vermittelt, Umwandlung nicht fingiert. Darlehens-/Unterhaltsbeispiel und Prüfliste tragen.",
-      "sources_read": "FamFG111,112,267–270;LPartG20a",
-      "material_blocker_remaining": false
-    },
-    {
-      "id": "p271",
-      "disposition": "clarified",
-      "finding": "Alle drei Nummern und Abgrenzung zu312gelesen. Bestellung/Aufhebung, Einwilligungsvorbehalt und sonstige Betreuungssachen getrennt; keine Vertretungs- oder Unterbringungsermächtigung aus Definitionsnorm.1814/1825BGBmit freiemWillen, Erforderlichkeit und Vorlauf ab17Jahren geprüft. Antragsbesonderheit bei lediglich körperlicher Krankheit/Behinderung aus1814Abs4ergänzt; Angehörigenanregung ersetzt Antrag nicht.275/276/278als Folgevorschriften richtig eingeordnet.",
-      "sources_read": "FamFG271,272,275,276,278,312;BGB1814,1825",
-      "material_blocker_remaining": false
-    }
-  ],
   "changed_ids": [
-    "p252",
-    "p253",
-    "p256",
-    "p263",
-    "p268",
-    "p271"
+    "p272",
+    "p274",
+    "p277",
+    "p278",
+    "p284",
+    "p287"
   ],
   "unresolved_blockers": [],
-  "case_law_sources": [
-    "cases/BGH-XII-ZB-450-21.md",
-    "cases/BGH-XII-ZB-84-26.md",
-    "cases/BGH-XII-ZB-25-24.md"
-  ],
-  "case_full_text_recheck": "sources/review-p252-p271-case-corpus-check.json",
-  "limitations": [
-    "Exactly p252–p271 independently reviewed by this fresh process; earlier reviewed units preserved, not substantively re-reviewed.",
-    "300 of529units commented.229uncommented units fromp272outside this assignment; no whole-book completion.",
-    "Review rechecks three existing primary authorities and needed statutory references; no exhaustive new case-law discovery or historical-law reconstruction.",
-    "No external professional approval. Technical checks supplement, not replace, individual legal reading."
-  ],
-  "whole_book_complete": false,
-  "completed_at": "2026-10-20T18:37:45.355338+00:00",
-  "validation": {
-    "assigned_batch_ok": true,
-    "reviewed_ids_exact": true,
-    "changed_ids": [
-      "p252",
-      "p253",
-      "p256",
-      "p263",
-      "p268",
-      "p271"
-    ],
-    "unchanged_after_full_review": [
-      "p254",
-      "p255",
-      "p257",
-      "p258",
-      "p259",
-      "p260",
-      "p261",
-      "p262",
-      "p264",
-      "p265",
-      "p266",
-      "p267",
-      "p269",
-      "p270"
-    ],
-    "unassigned_commentary_changes": [],
-    "unassigned_280_preserved": true,
-    "previous_14_exported_chapters_preserved": true,
-    "expected_official_units": 529,
-    "parsed_units": 529,
-    "statutory_agreement": 1.0,
-    "parser_replay_byte_identical": true,
-    "exported_assigned_count": 20,
-    "exported_commentary_agrees": true,
-    "full_builder_exit_code": 1,
-    "strict_validator": {
-      "repo": "Komentar-DE-FAMFG-2008",
-      "units": 529,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 654954,
-      "errors": [
-        "krátký/chybějící komentář u 229 jednotek: ['p272(0<400)', 'p273(0<400)', 'p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
+  "findings": [
+    {
+      "id": "p272",
+      "disposition": "corrected",
+      "finding": "Die internationale Sonderzuständigkeit nach §104 und der Vorrang nach §97 ersetzen die zuvor missverständliche gleichrangige Nennung der Auffangnorm §105. Rangfolge, bestehende Bestellung, Umzug und örtlicher Eilgerichtsstand geprüft.",
+      "source_basis": "FamFG §§97,104,105,272; §§4,273,300",
+      "resolved": true
     },
-    "strict_exit_code": 1,
-    "reason_for_global_failure": "229 unannotated units from p272 outside this bounded review",
-    "partial_output_rebuilt": true,
-    "local_links_checked": 838,
-    "broken_local_links": [],
-    "repeated_substantive_paragraphs": [],
-    "near_repeated_commentary": [],
-    "captured_body_hash_mismatches": [],
-    "validated_at": "2026-10-20T18:37:45.355338+00:00",
-    "whole_book_complete": false
-  }
+    {
+      "id": "p273",
+      "disposition": "confirmed",
+      "finding": "Beide Voraussetzungen der Regelabgabe und Gleichstellung eines tatsächlichen Aufenthalts von mehr als einem Jahr geprüft. Keine automatische Verlagerung; Übernahmebereitschaft und Soll-Anhörung aus §4 zutreffend.",
+      "source_basis": "FamFG §§4,272,273",
+      "resolved": true
+    },
+    {
+      "id": "p274",
+      "disposition": "corrected",
+      "finding": "Die Angehörigen-Kann-Beteiligung ausdrücklich auf die Verfahren des Absatzes3 begrenzt. Notwendige Beteiligte, Aufgabenbezug, Behördenantrag, Verfahrenspflegerstatus und bloße Anhörung unterschieden. XII ZB457/25 Rn10 trägt den verfahrensbezogenen Hinweis.",
+      "source_basis": "FamFG §§7,274,276,279,303; BGB §1814Abs3S2Nr1; BGH XII ZB457/25 Rn10",
+      "resolved": true
+    },
+    {
+      "id": "p275",
+      "disposition": "confirmed",
+      "finding": "Besondere Verfahrensfähigkeit von materieller Geschäftsfähigkeit und Betreuungsvoraussetzungen getrennt. Eigene Anträge, Rechtsbehelfe und adressatengerechte frühe Unterrichtung sind am Wortlaut geprüft.",
+      "source_basis": "FamFG §§275,276,278",
+      "resolved": true
+    },
+    {
+      "id": "p276",
+      "disposition": "confirmed",
+      "finding": "Alle acht Absätze geprüft: Regelbedarf gegen erklärten Willen, begründete Ausnahme, Wünsche und mutmaßlicher Wille, natürliche Person/Ehrenamt, bestehende Vertretung, Amtsende, fehlende selbständige Anfechtbarkeit und Kosten. Beide BGH-Belege tragen ihre begrenzten Aussagen; Hilfs-Personenwunsch ist keine Zustimmung zur Betreuung.",
+      "source_basis": "FamFG §§276,295; BGB §§1814Abs2,1825Abs1; BGH XII ZB521/23 Rn6–10, XII ZB457/25 Rn6–10",
+      "resolved": true
+    },
+    {
+      "id": "p277",
+      "disposition": "corrected",
+      "finding": "Aktuelle Stundensätze und ihre Kenntnisvoraussetzung ergänzt; berufliche Fünfzehnmonatsfrist aus genau §2Abs2S1VBVG von nicht übernommenem Satz2 abgegrenzt. Unentgeltlichkeit, Aufwendungen, Berufsmäßigkeitsfeststellung, Zeit-Zuschlag, Übergang, Pauschalabgeltung und Staatskassenzahlung geprüft. Änderung und Inkrafttreten nicht aus Abrufdatum abgeleitet.",
+      "source_basis": "FamFG §§277,292Abs1/5; BGB §1877; VBVG §§2Abs2S1,3–5,16,19; BGBl2025I109 Art1Nr1/12/16,Art2Nr2,Art13",
+      "resolved": true
+    },
+    {
+      "id": "p278",
+      "disposition": "corrected",
+      "finding": "Gesundheitsbedingtes Absehen von Anhörung und persönlichem Eindruck von offensichtlicher Unfähigkeit zur Willenskundgabe nach §34Abs2 getrennt; Regelbedarf für Verfahrenspfleger ergänzt. Anhörungsinhalt, Umgebung, Rechtshilfe, Gewalt und Wohnungszugriff geprüft. BGH-Fälle tragen Teilnahmegelegenheit und erneutes Gehör bei neuen Ermittlungen.",
+      "source_basis": "FamFG §§34,68,276Abs1S2Nr1,278; BNotO §78aAbs2; BGH XII ZB140/25 Rn7–15, XII ZB457/25 Rn11–14",
+      "resolved": true
+    },
+    {
+      "id": "p279",
+      "disposition": "confirmed",
+      "finding": "Anhörung sonstiger Beteiligter und Behörde, Soll-Reihenfolge vor Gutachten, vier Informationsfelder, nahestehende Person auf Verlangen und gesetzlicher Vertreter bei Minderjährigen vollständig geprüft. Keine Gleichsetzung mit förmlicher Beteiligung.",
+      "source_basis": "FamFG §§7,274,279,280; BGB §§1814Abs3/5,1816,1825Abs4",
+      "resolved": true
+    },
+    {
+      "id": "p280",
+      "disposition": "confirmed",
+      "finding": "Förmlicher Beweis und ärztliche Qualifikation, persönliche Untersuchung/Befragung, behördliche Vorinformation und alle fünf Gutachtenfelder geprüft. Medizinische Befundgrundlage und gerichtliche Entscheidung über Erforderlichkeit, Aufgabenbereiche und freien Willen zutreffend getrennt.",
+      "source_basis": "FamFG §§278–282; BGB §§1814,1815,1825",
+      "resolved": true
+    },
+    {
+      "id": "p281",
+      "disposition": "confirmed",
+      "finding": "Kumulativer Eigenantrag, Verzicht und Unverhältnismäßigkeit geprüft; entsprechende Geltung des §280Abs2 und spätere Nachholpflicht genau erfasst. Erleichterung nicht pauschal auf zusätzlichen Einwilligungsvorbehalt übertragen.",
+      "source_basis": "FamFG §§275,278,280Abs2,281,294Abs2; BGB §1814",
+      "resolved": true
+    },
+    {
+      "id": "p282",
+      "disposition": "confirmed",
+      "finding": "Ärztliches Pflegegutachten und betreuungsrechtliche Eignung, zweckgebundene Anforderung, Löschung, Einwilligung vor weiterer Verwendung und nur bei Überzeugung vollständiger Gutachtenverzicht geprüft. Pflegegrad nicht als Betreuungsgrund behandelt.",
+      "source_basis": "FamFG §§280,282; SGBXI §18b",
+      "resolved": true
+    },
+    {
+      "id": "p283",
+      "disposition": "confirmed",
+      "finding": "Untersuchung und Vorführung von Behandlung sowie Vorführung zur gerichtlichen Anhörung getrennt. Soll-Anhörung, ausdrückliche Gewalterlaubnis, Wohnungseingriff und eng begrenzte behördliche Eilkompetenz am Wortlaut geprüft.",
+      "source_basis": "FamFG §§278Abs5–7,283",
+      "resolved": true
+    },
+    {
+      "id": "p284",
+      "disposition": "corrected",
+      "finding": "Zusätzlich klargestellt: sofortige Beschwerde beim Ausgangs- oder Beschwerdegericht, keine automatische Vollziehungshemmung, gesonderter Eilschutz nach §570Abs2/3ZPO. Sachverständigen- und Betroffenenanhörung, sechs Wochen, Verlängerungsbeschluss, drei Monate insgesamt und Verweis auf Wohnungsregeln geprüft.",
+      "source_basis": "FamFG §§283,284; ZPO §§567–572,insb569/570",
+      "resolved": true
+    },
+    {
+      "id": "p285",
+      "disposition": "confirmed",
+      "finding": "Registerauskunft und Nachholung bei Gefahr im Verzug sowie Beschlussform für Abschrift, Urkundenherausgabe/Rückgabe und Betreuungsverfügung gegen die BGB-Verweisungen gelesen. Familiärer Konflikt ersetzt keine Feststellungen zur Vollmachtsakzeptanz; Rn15 als ergänzender Hinweis abgegrenzt.",
+      "source_basis": "FamFG §285; BGB §§1816Abs2S4,1820; BGH XII ZB457/25 Rn15",
+      "resolved": true
+    },
+    {
+      "id": "p286",
+      "disposition": "confirmed",
+      "finding": "Individuelle Aufgabenbereiche, Vereins-/Behörden-/Berufsstatus, eigenständiger Einwilligungsvorbehalt und Überprüfungszeitpunkt geprüft. Kein automatisches Ende unterstellt; aktueller Bedarf auch bei Verlängerung. Rn11 des BGH-Beschlusses ist in der Fallkarte als ergänzender Hinweis eingeordnet.",
+      "source_basis": "FamFG §§286,294,295,302; BGB §§1815,1818,1825; BGH XII ZB521/23 Rn11",
+      "resolved": true
+    },
+    {
+      "id": "p287",
+      "disposition": "corrected",
+      "finding": "Für den Sonderaufschub ausdrücklich zwingende Verfahrenspflegschaft nach §298Abs2 ergänzt. Bekanntgabe an Betreuer, angeordnete sofortige Wirksamkeit und ihre Ereignisse, Vermerk, zweiwöchiger Aufschub nach §1829Abs2BGB sowie Bekanntgabe an beide Stellen geprüft. Keine allgemeine Gleichsetzung mit Rechtsmittelfristen.",
+      "source_basis": "FamFG §§287,298Abs2,300; BGB §1829Abs1/2/5",
+      "resolved": true
+    },
+    {
+      "id": "p288",
+      "disposition": "confirmed",
+      "finding": "Vorenthalten nur der Gründe bei erheblicher Gesundheitsgefahr auf ärztlichem Zeugnis geprüft; Unterschied zum Gutachten nach §278Abs4 zutreffend. Obligatorische Behördenbekanntgabe und Anhörungsfolge anderer Beschlüsse bleiben von Beteiligung/Wirksamkeit getrennt.",
+      "source_basis": "FamFG §§278Abs4,287,288",
+      "resolved": true
+    },
+    {
+      "id": "p289",
+      "disposition": "confirmed",
+      "finding": "Amtlichen Leerstand (weggefallen) überprüft; Kennung erhalten, keine frühere Regel als aktuelles Recht ergänzt. Historische Fälle ausdrücklich gesondertem Versionsrecht zugeordnet.",
+      "source_basis": "FamFG §289; amtliche Metadaten/titel und leeres Content",
+      "resolved": true
+    },
+    {
+      "id": "p290",
+      "disposition": "confirmed",
+      "finding": "Urkunde als Nachweis statt konstitutiver Bestellung, sechs Soll-Angaben, Befreiungsgrenzen, weitere beschränkte Urkunde auf Antrag bei Schutz des Rechtsverkehrs und Rückgabe sämtlicher Urkunden geprüft.",
+      "source_basis": "FamFG §§287,290; BGB §§1859,1860",
+      "resolved": true
+    },
+    {
+      "id": "p291",
+      "disposition": "confirmed",
+      "finding": "Institutionelle Betreuung von Bestellung natürlicher Vereinsbetreuer getrennt. Zwei alternative Kontrollgründe, Neuauswahl statt eigener Personalbestellung und ausdrücklicher Ausschluss des §35 geprüft.",
+      "source_basis": "FamFG §§35,291; BGB §1818Abs2/4",
+      "resolved": true
+    }
+  ],
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-521-23.md",
+    "cases/BGH-XII-ZB-140-25.md",
+    "cases/BGH-XII-ZB-457-25.md"
+  ],
+  "limitations": [
+    "Exactly twenty units legally reviewed; other existing commentary preserved, compared technically only.",
+    "Case law is selective; three full official decisions re-read, including correction in XII ZB457/25. No exhaustive judicial coverage.",
+    "Whole book incomplete: 320 of529 units commented,209 outside-scope units remain fromp292.",
+    "This fresh-process review is not external professional approval. Technical thresholds do not prove legal quality."
+  ],
+  "evidence": {
+    "preflight": "sources/review-p272-p291-version-map.json",
+    "fetch": "sources/review-p272-p291-fetch.json",
+    "parser": "review-p272-p291-parser-replay.json",
+    "case_comparison": "sources/review-p272-p291-case-corpus-check.json",
+    "search_log": "sources/review-p272-p291-search-log.json"
+  },
+  "stage": "bounded_second_pass_legal_reading_complete_pending_technical_checks",
+  "whole_book_complete": false
 }

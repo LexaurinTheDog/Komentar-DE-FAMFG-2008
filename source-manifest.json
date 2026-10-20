@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:50:21.739421+00:00",
+  "generated_at": "2026-10-20T18:57:54.375713+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -2220,6 +2220,126 @@
       "bytes": 245324
     },
     {
+      "path": "sources/review-p272-p291-XII-ZB-140-25.xml",
+      "sha256": "4bfd5b646c3256669ba2f5eef62e1ba0b0326a383cf39a3d93fbb797740d296b",
+      "bytes": 17179
+    },
+    {
+      "path": "sources/review-p272-p291-XII-ZB-140-25.zip",
+      "sha256": "c0c1bec3987951608310437cdeb5a031a0bfe6565370fe1cc91c0cfab94ed0a2",
+      "bytes": 5143
+    },
+    {
+      "path": "sources/review-p272-p291-XII-ZB-457-25.xml",
+      "sha256": "fadb72a98e72dd182986ef78e9585735798f0368c744c4b88b0ff62f5ebe2b80",
+      "bytes": 23093
+    },
+    {
+      "path": "sources/review-p272-p291-XII-ZB-457-25.zip",
+      "sha256": "ec4dffe95ead129c12600f1e8b944dd8c9d91b4ca35282cf4e9358af585766d9",
+      "bytes": 4995
+    },
+    {
+      "path": "sources/review-p272-p291-XII-ZB-521-23.xml",
+      "sha256": "34be69ad94565830f655112dfa6043094621f6298b5e63bc377fdec31fbd666a",
+      "bytes": 13417
+    },
+    {
+      "path": "sources/review-p272-p291-XII-ZB-521-23.zip",
+      "sha256": "639b16e54d73c66a848a902e22563d01e779d37b140cd14788785bd10205e56d",
+      "bytes": 3938
+    },
+    {
+      "path": "sources/review-p272-p291-bgb.xml",
+      "sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "bytes": 2519002
+    },
+    {
+      "path": "sources/review-p272-p291-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "bytes": 467286
+    },
+    {
+      "path": "sources/review-p272-p291-bnoto.xml",
+      "sha256": "536e58a9803a662b0d3f7d8b59dcc59263faed8c666dcbd07bf1ff55286a13a4",
+      "bytes": 347021
+    },
+    {
+      "path": "sources/review-p272-p291-bnoto.zip",
+      "sha256": "686f0170a75873e99a532b8792f36729f362a8aaf38efccb56e268b8c9a7c654",
+      "bytes": 71320
+    },
+    {
+      "path": "sources/review-p272-p291-case-corpus-check.json",
+      "sha256": "4f7d3d52a9d97b5920ad4ec734511d535f1faf951d629f8c4d47c74b54b1d8da",
+      "bytes": 2871
+    },
+    {
+      "path": "sources/review-p272-p291-current-service.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210
+    },
+    {
+      "path": "sources/review-p272-p291-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/review-p272-p291-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/review-p272-p291-fetch.json",
+      "sha256": "01e5b250c456e913553fd71b4667456dafc2ed1749064d4bc65f9212ecc2d3f2",
+      "bytes": 8817
+    },
+    {
+      "path": "sources/review-p272-p291-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/review-p272-p291-search-log.json",
+      "sha256": "97a7eb8894fea4f5f801747bc73df97fb31efe4f9b8b7104c033264cf02bbe4a",
+      "bytes": 4063
+    },
+    {
+      "path": "sources/review-p272-p291-sgb_11.xml",
+      "sha256": "3ea35ac49ff03b68a865d16303a7a95995f5e3ade770873f17e9d43496108965",
+      "bytes": 969609
+    },
+    {
+      "path": "sources/review-p272-p291-sgb_11.zip",
+      "sha256": "6845aec3a1fe8ff6ee7c73754883d17a17fc89c60caba5634c0783ac81fa929d",
+      "bytes": 197813
+    },
+    {
+      "path": "sources/review-p272-p291-vbvg_2023.xml",
+      "sha256": "a6931069f631d27b3fd51d8db3ee693bf282e3579b2bbbfaa3d2d8a5ec26260a",
+      "bytes": 35031
+    },
+    {
+      "path": "sources/review-p272-p291-vbvg_2023.zip",
+      "sha256": "a6f8536f2543084ef38d5ac1f115fc14782aaca40dc279c206e3e776ac8c7164",
+      "bytes": 7120
+    },
+    {
+      "path": "sources/review-p272-p291-version-map.json",
+      "sha256": "94d9e6fc316f2602d1ec0fd2a91193ea63d898368caabb6b896a829ddcbb7e74",
+      "bytes": 42181
+    },
+    {
+      "path": "sources/review-p272-p291-zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/review-p272-p291-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
       "path": "sources/review-p31-OLG-Bamberg-3-Wx-15-24.html",
       "sha256": "63ef2c68388e4cea0f6a24e90d7f104128cd216c95b6ba1d57fcc946a862e72e",
       "bytes": 29629
@@ -2586,8 +2706,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "e047bbac26b42e0a39e3d288246f8f4223bb7c0348fb861dbdb179a90936b913",
-      "bytes": 205362
+      "sha256": "f89a5847bbf607fefd7b30b9157e1708e3c3c4d22298a50b79ac8bb5ce55409a",
+      "bytes": 214506
     }
   ]
 }

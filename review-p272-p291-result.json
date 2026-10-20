@@ -1,0 +1,202 @@
+{
+  "task_kind": "review",
+  "scope": "Independent second pass exactly p272–p291, no other units substantively re-reviewed",
+  "complete": false,
+  "legal_reading_complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p272",
+    "p273",
+    "p274",
+    "p275",
+    "p276",
+    "p277",
+    "p278",
+    "p279",
+    "p280",
+    "p281",
+    "p282",
+    "p283",
+    "p284",
+    "p285",
+    "p286",
+    "p287",
+    "p288",
+    "p289",
+    "p290",
+    "p291"
+  ],
+  "verified_at": "2026-10-20T18:57:06.184979+00:00",
+  "decisive_date": "2026-10-19",
+  "changed_ids": [
+    "p272",
+    "p274",
+    "p277",
+    "p278",
+    "p284",
+    "p287"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p272",
+      "disposition": "corrected",
+      "finding": "Die internationale Sonderzuständigkeit nach §104 und der Vorrang nach §97 ersetzen die zuvor missverständliche gleichrangige Nennung der Auffangnorm §105. Rangfolge, bestehende Bestellung, Umzug und örtlicher Eilgerichtsstand geprüft.",
+      "source_basis": "FamFG §§97,104,105,272; §§4,273,300",
+      "resolved": true
+    },
+    {
+      "id": "p273",
+      "disposition": "confirmed",
+      "finding": "Beide Voraussetzungen der Regelabgabe und Gleichstellung eines tatsächlichen Aufenthalts von mehr als einem Jahr geprüft. Keine automatische Verlagerung; Übernahmebereitschaft und Soll-Anhörung aus §4 zutreffend.",
+      "source_basis": "FamFG §§4,272,273",
+      "resolved": true
+    },
+    {
+      "id": "p274",
+      "disposition": "corrected",
+      "finding": "Die Angehörigen-Kann-Beteiligung ausdrücklich auf die Verfahren des Absatzes3 begrenzt. Notwendige Beteiligte, Aufgabenbezug, Behördenantrag, Verfahrenspflegerstatus und bloße Anhörung unterschieden. XII ZB457/25 Rn10 trägt den verfahrensbezogenen Hinweis.",
+      "source_basis": "FamFG §§7,274,276,279,303; BGB §1814Abs3S2Nr1; BGH XII ZB457/25 Rn10",
+      "resolved": true
+    },
+    {
+      "id": "p275",
+      "disposition": "confirmed",
+      "finding": "Besondere Verfahrensfähigkeit von materieller Geschäftsfähigkeit und Betreuungsvoraussetzungen getrennt. Eigene Anträge, Rechtsbehelfe und adressatengerechte frühe Unterrichtung sind am Wortlaut geprüft.",
+      "source_basis": "FamFG §§275,276,278",
+      "resolved": true
+    },
+    {
+      "id": "p276",
+      "disposition": "confirmed",
+      "finding": "Alle acht Absätze geprüft: Regelbedarf gegen erklärten Willen, begründete Ausnahme, Wünsche und mutmaßlicher Wille, natürliche Person/Ehrenamt, bestehende Vertretung, Amtsende, fehlende selbständige Anfechtbarkeit und Kosten. Beide BGH-Belege tragen ihre begrenzten Aussagen; Hilfs-Personenwunsch ist keine Zustimmung zur Betreuung.",
+      "source_basis": "FamFG §§276,295; BGB §§1814Abs2,1825Abs1; BGH XII ZB521/23 Rn6–10, XII ZB457/25 Rn6–10",
+      "resolved": true
+    },
+    {
+      "id": "p277",
+      "disposition": "corrected",
+      "finding": "Aktuelle Stundensätze und ihre Kenntnisvoraussetzung ergänzt; berufliche Fünfzehnmonatsfrist aus genau §2Abs2S1VBVG von nicht übernommenem Satz2 abgegrenzt. Unentgeltlichkeit, Aufwendungen, Berufsmäßigkeitsfeststellung, Zeit-Zuschlag, Übergang, Pauschalabgeltung und Staatskassenzahlung geprüft. Änderung und Inkrafttreten nicht aus Abrufdatum abgeleitet.",
+      "source_basis": "FamFG §§277,292Abs1/5; BGB §1877; VBVG §§2Abs2S1,3–5,16,19; BGBl2025I109 Art1Nr1/12/16,Art2Nr2,Art13",
+      "resolved": true
+    },
+    {
+      "id": "p278",
+      "disposition": "corrected",
+      "finding": "Gesundheitsbedingtes Absehen von Anhörung und persönlichem Eindruck von offensichtlicher Unfähigkeit zur Willenskundgabe nach §34Abs2 getrennt; Regelbedarf für Verfahrenspfleger ergänzt. Anhörungsinhalt, Umgebung, Rechtshilfe, Gewalt und Wohnungszugriff geprüft. BGH-Fälle tragen Teilnahmegelegenheit und erneutes Gehör bei neuen Ermittlungen.",
+      "source_basis": "FamFG §§34,68,276Abs1S2Nr1,278; BNotO §78aAbs2; BGH XII ZB140/25 Rn7–15, XII ZB457/25 Rn11–14",
+      "resolved": true
+    },
+    {
+      "id": "p279",
+      "disposition": "confirmed",
+      "finding": "Anhörung sonstiger Beteiligter und Behörde, Soll-Reihenfolge vor Gutachten, vier Informationsfelder, nahestehende Person auf Verlangen und gesetzlicher Vertreter bei Minderjährigen vollständig geprüft. Keine Gleichsetzung mit förmlicher Beteiligung.",
+      "source_basis": "FamFG §§7,274,279,280; BGB §§1814Abs3/5,1816,1825Abs4",
+      "resolved": true
+    },
+    {
+      "id": "p280",
+      "disposition": "confirmed",
+      "finding": "Förmlicher Beweis und ärztliche Qualifikation, persönliche Untersuchung/Befragung, behördliche Vorinformation und alle fünf Gutachtenfelder geprüft. Medizinische Befundgrundlage und gerichtliche Entscheidung über Erforderlichkeit, Aufgabenbereiche und freien Willen zutreffend getrennt.",
+      "source_basis": "FamFG §§278–282; BGB §§1814,1815,1825",
+      "resolved": true
+    },
+    {
+      "id": "p281",
+      "disposition": "confirmed",
+      "finding": "Kumulativer Eigenantrag, Verzicht und Unverhältnismäßigkeit geprüft; entsprechende Geltung des §280Abs2 und spätere Nachholpflicht genau erfasst. Erleichterung nicht pauschal auf zusätzlichen Einwilligungsvorbehalt übertragen.",
+      "source_basis": "FamFG §§275,278,280Abs2,281,294Abs2; BGB §1814",
+      "resolved": true
+    },
+    {
+      "id": "p282",
+      "disposition": "confirmed",
+      "finding": "Ärztliches Pflegegutachten und betreuungsrechtliche Eignung, zweckgebundene Anforderung, Löschung, Einwilligung vor weiterer Verwendung und nur bei Überzeugung vollständiger Gutachtenverzicht geprüft. Pflegegrad nicht als Betreuungsgrund behandelt.",
+      "source_basis": "FamFG §§280,282; SGBXI §18b",
+      "resolved": true
+    },
+    {
+      "id": "p283",
+      "disposition": "confirmed",
+      "finding": "Untersuchung und Vorführung von Behandlung sowie Vorführung zur gerichtlichen Anhörung getrennt. Soll-Anhörung, ausdrückliche Gewalterlaubnis, Wohnungseingriff und eng begrenzte behördliche Eilkompetenz am Wortlaut geprüft.",
+      "source_basis": "FamFG §§278Abs5–7,283",
+      "resolved": true
+    },
+    {
+      "id": "p284",
+      "disposition": "corrected",
+      "finding": "Zusätzlich klargestellt: sofortige Beschwerde beim Ausgangs- oder Beschwerdegericht, keine automatische Vollziehungshemmung, gesonderter Eilschutz nach §570Abs2/3ZPO. Sachverständigen- und Betroffenenanhörung, sechs Wochen, Verlängerungsbeschluss, drei Monate insgesamt und Verweis auf Wohnungsregeln geprüft.",
+      "source_basis": "FamFG §§283,284; ZPO §§567–572,insb569/570",
+      "resolved": true
+    },
+    {
+      "id": "p285",
+      "disposition": "confirmed",
+      "finding": "Registerauskunft und Nachholung bei Gefahr im Verzug sowie Beschlussform für Abschrift, Urkundenherausgabe/Rückgabe und Betreuungsverfügung gegen die BGB-Verweisungen gelesen. Familiärer Konflikt ersetzt keine Feststellungen zur Vollmachtsakzeptanz; Rn15 als ergänzender Hinweis abgegrenzt.",
+      "source_basis": "FamFG §285; BGB §§1816Abs2S4,1820; BGH XII ZB457/25 Rn15",
+      "resolved": true
+    },
+    {
+      "id": "p286",
+      "disposition": "confirmed",
+      "finding": "Individuelle Aufgabenbereiche, Vereins-/Behörden-/Berufsstatus, eigenständiger Einwilligungsvorbehalt und Überprüfungszeitpunkt geprüft. Kein automatisches Ende unterstellt; aktueller Bedarf auch bei Verlängerung. Rn11 des BGH-Beschlusses ist in der Fallkarte als ergänzender Hinweis eingeordnet.",
+      "source_basis": "FamFG §§286,294,295,302; BGB §§1815,1818,1825; BGH XII ZB521/23 Rn11",
+      "resolved": true
+    },
+    {
+      "id": "p287",
+      "disposition": "corrected",
+      "finding": "Für den Sonderaufschub ausdrücklich zwingende Verfahrenspflegschaft nach §298Abs2 ergänzt. Bekanntgabe an Betreuer, angeordnete sofortige Wirksamkeit und ihre Ereignisse, Vermerk, zweiwöchiger Aufschub nach §1829Abs2BGB sowie Bekanntgabe an beide Stellen geprüft. Keine allgemeine Gleichsetzung mit Rechtsmittelfristen.",
+      "source_basis": "FamFG §§287,298Abs2,300; BGB §1829Abs1/2/5",
+      "resolved": true
+    },
+    {
+      "id": "p288",
+      "disposition": "confirmed",
+      "finding": "Vorenthalten nur der Gründe bei erheblicher Gesundheitsgefahr auf ärztlichem Zeugnis geprüft; Unterschied zum Gutachten nach §278Abs4 zutreffend. Obligatorische Behördenbekanntgabe und Anhörungsfolge anderer Beschlüsse bleiben von Beteiligung/Wirksamkeit getrennt.",
+      "source_basis": "FamFG §§278Abs4,287,288",
+      "resolved": true
+    },
+    {
+      "id": "p289",
+      "disposition": "confirmed",
+      "finding": "Amtlichen Leerstand (weggefallen) überprüft; Kennung erhalten, keine frühere Regel als aktuelles Recht ergänzt. Historische Fälle ausdrücklich gesondertem Versionsrecht zugeordnet.",
+      "source_basis": "FamFG §289; amtliche Metadaten/titel und leeres Content",
+      "resolved": true
+    },
+    {
+      "id": "p290",
+      "disposition": "confirmed",
+      "finding": "Urkunde als Nachweis statt konstitutiver Bestellung, sechs Soll-Angaben, Befreiungsgrenzen, weitere beschränkte Urkunde auf Antrag bei Schutz des Rechtsverkehrs und Rückgabe sämtlicher Urkunden geprüft.",
+      "source_basis": "FamFG §§287,290; BGB §§1859,1860",
+      "resolved": true
+    },
+    {
+      "id": "p291",
+      "disposition": "confirmed",
+      "finding": "Institutionelle Betreuung von Bestellung natürlicher Vereinsbetreuer getrennt. Zwei alternative Kontrollgründe, Neuauswahl statt eigener Personalbestellung und ausdrücklicher Ausschluss des §35 geprüft.",
+      "source_basis": "FamFG §§35,291; BGB §1818Abs2/4",
+      "resolved": true
+    }
+  ],
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-521-23.md",
+    "cases/BGH-XII-ZB-140-25.md",
+    "cases/BGH-XII-ZB-457-25.md"
+  ],
+  "limitations": [
+    "Exactly twenty units legally reviewed; other existing commentary preserved, compared technically only.",
+    "Case law is selective; three full official decisions re-read, including correction in XII ZB457/25. No exhaustive judicial coverage.",
+    "Whole book incomplete: 320 of529 units commented,209 outside-scope units remain fromp292.",
+    "This fresh-process review is not external professional approval. Technical thresholds do not prove legal quality."
+  ],
+  "evidence": {
+    "preflight": "sources/review-p272-p291-version-map.json",
+    "fetch": "sources/review-p272-p291-fetch.json",
+    "parser": "review-p272-p291-parser-replay.json",
+    "case_comparison": "sources/review-p272-p291-case-corpus-check.json",
+    "search_log": "sources/review-p272-p291-search-log.json"
+  },
+  "stage": "bounded_second_pass_legal_reading_complete_pending_technical_checks",
+  "whole_book_complete": false
+}
