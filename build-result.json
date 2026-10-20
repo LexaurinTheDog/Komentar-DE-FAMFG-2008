@@ -1,8 +1,8 @@
 {
   "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-  "run_at": "2026-10-20T18:14:06.464954+00:00",
+  "run_at": "2026-10-20T18:30:03.404479+00:00",
   "exit_code": 1,
   "stdout": "",
-  "stderr": "CHYBÍ komentář k 249 jednotkám, např.: ['p252', 'p253', 'p254', 'p255', 'p256', 'p257', 'p258', 'p259', 'p260', 'p261']\n",
-  "scope": "Unmodified full builder correctly rejects 249 missing comments outside assigned p232–p251. Separate partial export retains all 529 canonical statutory units and visibly incomplete scope."
+  "stderr": "CHYBÍ komentář k 229 jednotkám, např.: ['p272', 'p273', 'p274', 'p275', 'p276', 'p277', 'p278', 'p279', 'p280', 'p281']\n",
+  "scope": "Unmodified full builder correctly rejects229missingcomments fromp272outsideboundedauthoringtask. Existing partial exporter renders only actually authored units, visibly incomplete."
 }

@@ -1,11 +1,11 @@
 {
-  "stage": "bounded_review_complete_manuscript_incomplete",
-  "updated_at": "2026-10-20T18:14:38.639514+00:00",
+  "stage": "authoring_incomplete",
+  "updated_at": "2026-10-20T18:28:58.437985+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
-  "completed_units": 280,
-  "remaining_units": 249,
+  "completed_units": 300,
+  "remaining_units": 229,
   "case_law_sources": [
     "cases/BGH-IV-ZB-35-15.md",
     "cases/BGH-XII-ZB-102-20-2020.md",
@@ -21,6 +21,7 @@
     "cases/BGH-XII-ZB-224-17.md",
     "cases/BGH-XII-ZB-232-09.md",
     "cases/BGH-XII-ZB-237-23.md",
+    "cases/BGH-XII-ZB-25-24.md",
     "cases/BGH-XII-ZB-264-22.md",
     "cases/BGH-XII-ZB-280-15.md",
     "cases/BGH-XII-ZB-350-15.md",
@@ -28,6 +29,7 @@
     "cases/BGH-XII-ZB-422-15.md",
     "cases/BGH-XII-ZB-442-18.md",
     "cases/BGH-XII-ZB-447-10.md",
+    "cases/BGH-XII-ZB-450-21.md",
     "cases/BGH-XII-ZB-476-25.md",
     "cases/BGH-XII-ZB-54-18.md",
     "cases/BGH-XII-ZB-564-12.md",
@@ -35,6 +37,7 @@
     "cases/BGH-XII-ZB-639-14.md",
     "cases/BGH-XII-ZB-670-14.md",
     "cases/BGH-XII-ZB-674-14.md",
+    "cases/BGH-XII-ZB-84-26.md",
     "cases/BGH-XII-ZR-80-11.md",
     "cases/OLG-Bamberg-3-Wx-15-24.md"
   ],
@@ -60,26 +63,27 @@
     "expected_intermediate_failure": "249 unannotated units outside this exact p232–p251 review; all 20 assigned units reviewed, 100% statutory agreement."
   },
   "remaining_limitations": [
-    "Exactly p232–p251 independently reviewed in this process; earlier ledger-reviewed units preserved and not re-reviewed.",
-    "Whole book remains incomplete: 280 of 529 units commented; 249 units from p252 outside this assignment remain unannotated.",
-    "Selective primary case research and limited amendment screening, no exhaustive subsequent-case or historical-law reconstruction.",
-    "No external professional approval; technical checks do not establish legal quality."
+    "Exactly20assignedunits authored; all280previous comments preserved.",
+    "New20units await independent second pass; no independent-review self-certification.",
+    "Whole book incomplete; unmodified full builder and strict validator expected to fail for229unassignedmissingcomments.",
+    "Selective case-law research, not exhaustive; explicit historical/open-question limits.",
+    "Technical length, equality and similarity checks are not legal quality proof."
   ],
-  "commented_scope": "§§ 1–251 einschließlich der Buchstabenparagraphen",
+  "commented_scope": "§§ 1–271 einschließlich der Buchstabenparagraphen",
   "resume": {
-    "last_commented_id": "p251",
-    "next_uncommented_id": "p252",
+    "last_commented_id": "p271",
+    "next_uncommented_id": "p272",
     "missing_identifiers": "completeness-report.json#missing_commentary",
     "full_parser": "_parse.py",
     "full_builder": "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "partial_exporter": "_export_draft.py",
     "strict_validator": "/Volumes/LaCie/open-commentary/_tools/validate.py",
-    "instructions": "Preserve all 280 existing comments and bounded review reports. Latest independent second pass covered exactly p232–p251. Continue authoring from p252 only on assignment; whole book incomplete."
+    "instructions": "Preserve300existingcommentaries. Fresh independent second pass needed for exactlyp252–p271; previous280units reviewed in bounded reports. Continue fromp272onlyonassignment. Wholebookincomplete."
   },
   "source_preflight": {
     "complete": true,
     "result": "preflight-result.json",
-    "verified_at": "2026-10-20T18:11:19.788031+00:00",
+    "verified_at": "2026-10-20T18:18:32.557517+00:00",
     "date": "2026-10-20",
     "commentaries_changed": false
   },
@@ -528,8 +532,8 @@
       "commentary_characters": 50218
     }
   ],
-  "cumulative_independently_reviewed_units": 260,
-  "remaining_existing_commentaries_for_review": 0,
+  "cumulative_independently_reviewed_units": 280,
+  "remaining_existing_commentaries_for_review": 20,
   "commentary_characters": 593325,
   "bounded_authoring": {
     "complete": true,
@@ -642,33 +646,32 @@
   "bounded_author": {
     "complete": true,
     "authored_ids": [
-      "p232",
-      "p233",
-      "p234",
-      "p235",
-      "p236",
-      "p237",
-      "p238",
-      "p239",
-      "p240",
-      "p241",
-      "p242",
-      "p243",
-      "p244",
-      "p245",
-      "p246",
-      "p247",
-      "p248",
-      "p249",
-      "p250",
-      "p251"
+      "p252",
+      "p253",
+      "p254",
+      "p255",
+      "p256",
+      "p257",
+      "p258",
+      "p259",
+      "p260",
+      "p261",
+      "p262",
+      "p263",
+      "p264",
+      "p265",
+      "p266",
+      "p267",
+      "p268",
+      "p269",
+      "p270",
+      "p271"
     ],
     "units_authored": 20,
-    "result": "author-p232-p251-result.json",
-    "audit": "author-p232-p251-audit.json",
-    "independent_second_pass_complete": true,
+    "result": "author-p252-p271-result.json",
+    "audit": "author-p252-p271-audit.json",
+    "independent_second_pass_complete": false,
     "unresolved_blockers": [],
-    "whole_book_complete": false,
-    "commentary_characters": 50633
+    "whole_book_complete": false
   }
 }

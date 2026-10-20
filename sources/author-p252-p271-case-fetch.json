@@ -1,0 +1,44 @@
+[
+  {
+    "purpose": "bounded author p252-p271 primary authority",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE302472022.zip",
+    "accessed_at": "2026-10-20T18:16:36.116294+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p252-p271-XII-ZB-450-21.zip",
+    "sha256": "98f4bed99b42047c2b72c3c99de1c0624e80947af229fd45d565e90e780b2cd9",
+    "xml_path": "sources/author-p252-p271-XII-ZB-450-21.xml",
+    "xml_sha256": "7587c3a245ab09e506839dad11f0862ba2dfff68f3a0f4285f09eda53da984ee",
+    "local_corpus_path": "sources/author-p252-p271-local-KORE302472022.md",
+    "local_corpus_sha256": "9972e53acef6ad247abf171b1c22acfdc0b1989206a124c17fc21ec146bd118b",
+    "format_validation": "ZIP magic, CRC, one parseable XML, expected official case identity"
+  },
+  {
+    "purpose": "bounded author p252-p271 primary authority",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307162026.zip",
+    "accessed_at": "2026-10-20T18:16:36.358821+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p252-p271-XII-ZB-84-26.zip",
+    "sha256": "f34764f39d0bcc0120eec95abd2c43471010702d55dbb6e5fa463de184dd534e",
+    "xml_path": "sources/author-p252-p271-XII-ZB-84-26.xml",
+    "xml_sha256": "28aebd2f6263b3f93ac3d45d7cb8612e31af6979a73b5d5b79d780dee8a13aec",
+    "local_corpus_path": "sources/author-p252-p271-local-KORE307162026.md",
+    "local_corpus_sha256": "5315919909745c3b44bfa78c966efd9f90b696a748fe5724946c02b4f8587ff1",
+    "format_validation": "ZIP magic, CRC, one parseable XML, expected official case identity"
+  },
+  {
+    "purpose": "bounded author p252-p271 primary authority",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE707672024.zip",
+    "accessed_at": "2026-10-20T18:16:36.460826+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/author-p252-p271-XII-ZB-25-24.zip",
+    "sha256": "c069f791ebca165fc4a3180166d7b4b33b14453fb7f2cc9a5c05d1fbe758b60d",
+    "xml_path": "sources/author-p252-p271-XII-ZB-25-24.xml",
+    "xml_sha256": "5aacdc83928b236f4deae78e1ffc35bc2a2a0cb3b3565eae4f07a25a23738d08",
+    "local_corpus_path": "sources/author-p252-p271-local-KORE707672024.md",
+    "local_corpus_sha256": "0c74888eebbc31b6850213cfc3da7c252f23e54f187817eaf2b0a8043246e882",
+    "format_validation": "ZIP magic, CRC, one parseable XML, expected official case identity"
+  }
+]

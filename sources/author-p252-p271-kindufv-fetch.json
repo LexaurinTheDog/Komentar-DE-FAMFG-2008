@@ -1,0 +1,15 @@
+{
+  "purpose": "bounded author p252-p271 form scope",
+  "url": "https://www.gesetze-im-internet.de/kinduvv/xml.zip",
+  "accessed_at": "2026-10-20T18:17:32.745585+00:00",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "path": "sources/author-p252-p271-kindufv.zip",
+  "sha256": "8cff75af3d23ccbbf06b902b52cad28e1f096c02afc2b0813c97e7adf0a14cf4",
+  "xml_path": "sources/author-p252-p271-kindufv.xml",
+  "xml_sha256": "bc8e37907e885b5404f4f8b41e1113e8eb538865649d99076f7cf5e22a956d15",
+  "format_validation": "ZIP magic, CRC, parsed XML; jurabk KindUVV, amtabk KindUFV, doknr BJNR136410998",
+  "stand_notices": [
+    "StandZuletzt geändert durch Art. 11 Abs. 6 G v. 16.4.2026 I Nr. 107"
+  ]
+}

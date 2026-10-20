@@ -1,0 +1,245 @@
+{
+  "verified_at": "2026-10-20T18:30:04.124205+00:00",
+  "scope": "author technical self-check, exactly p252–p271",
+  "baseline_commit": "cd5565605c264bb4f473f183683c98beaa1ea840",
+  "authored_ids": [
+    "p252",
+    "p253",
+    "p254",
+    "p255",
+    "p256",
+    "p257",
+    "p258",
+    "p259",
+    "p260",
+    "p261",
+    "p262",
+    "p263",
+    "p264",
+    "p265",
+    "p266",
+    "p267",
+    "p268",
+    "p269",
+    "p270",
+    "p271"
+  ],
+  "assigned_units": 20,
+  "added_commentary_ids": [
+    "p252",
+    "p253",
+    "p254",
+    "p255",
+    "p256",
+    "p257",
+    "p258",
+    "p259",
+    "p260",
+    "p261",
+    "p262",
+    "p263",
+    "p264",
+    "p265",
+    "p266",
+    "p267",
+    "p268",
+    "p269",
+    "p270",
+    "p271"
+  ],
+  "unassigned_commentary_changes": [],
+  "all_previous_280_commentary_blocks_byte_identical": true,
+  "all_529_statutory_units_retained": true,
+  "checks": [
+    {
+      "id": "p252",
+      "commentary_chars": 3999,
+      "commentary_sha256": "4644ae238996502f8ad9c6123a668507fdb546c7d29bc4f21a1bd5f53fd27649",
+      "statutory_text_sha256": "4af4caab8f927610673dfe03b3a784524e1cc6cfeef98a54243edce08b93e457",
+      "official_doknr": "BJNR258700008BJNE025801311",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p253",
+      "commentary_chars": 2876,
+      "commentary_sha256": "d7a90e8923fd31bf3db985b520dc873facf3acdb67a49313399d5362aab269d2",
+      "statutory_text_sha256": "73dcb14eae64e1c46f730460d00a55d6a385656f0cebcbce43db92554faa4cad",
+      "official_doknr": "BJNR258700008BJNE025902311",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p254",
+      "commentary_chars": 2228,
+      "commentary_sha256": "8bab2f65d632be032bc8a0dcd8c1046dff7432ffe73da35a9caf2da3fe774f8d",
+      "statutory_text_sha256": "5f845d9333e27da2da32ce5f24e17e832dbbc5cd58ea6532bfe8983b395c17e1",
+      "official_doknr": "BJNR258700008BJNE026001311",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p255",
+      "commentary_chars": 3798,
+      "commentary_sha256": "be9d4c7e855fc70d6e84dd7d18145c08e109616545178c3aef20103ce9f50908",
+      "statutory_text_sha256": "476602d6ac1f580b62172f6bafff99cf24d33e9e63d351d90253f8dc55c639c0",
+      "official_doknr": "BJNR258700008BJNE026102311",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p256",
+      "commentary_chars": 3432,
+      "commentary_sha256": "ae80e37f1320c51da8d4189edc4e9d7d70eb68f050cec75ea4fa088e6d116353",
+      "statutory_text_sha256": "208b07c611445c2c1446d38ea1123b7e65403456f7ff0ab91b30a67892924c62",
+      "official_doknr": "BJNR258700008BJNE026201311",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p257",
+      "commentary_chars": 2028,
+      "commentary_sha256": "69fee03e3a81982ed5b9ca72fa4c71b096f5eecf0ef7a3f0bbdd9e104f1a4130",
+      "statutory_text_sha256": "9284e12b77d38dbe140bf525935def18efb221b78e60a602ca9a73acf99083c6",
+      "official_doknr": "BJNR258700008BJNE026300000",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p258",
+      "commentary_chars": 2268,
+      "commentary_sha256": "edee292df8146de5cfc7a83502f587359e5e9a4fbe0887fc0fd110af7d22579b",
+      "statutory_text_sha256": "0c386d417724c6404321b27100fac630e23384880df5b8387726790ea525087e",
+      "official_doknr": "BJNR258700008BJNE026401311",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p259",
+      "commentary_chars": 2708,
+      "commentary_sha256": "29666eff6c72a63758a1630b2a393a04887ce75c65a58dcfc537f0265491f3ce",
+      "statutory_text_sha256": "5a0197848189e6d898ba13ff92937ff690770a804c5cbdbc196c43fbc65c4c37",
+      "official_doknr": "BJNR258700008BJNE026502125",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p260",
+      "commentary_chars": 3031,
+      "commentary_sha256": "e4dd63a884cda85715f3ee56330a9302cae3a3b3e5bbe762ed837878c9a5df44",
+      "statutory_text_sha256": "fa3a9d786a1610724a5aeea414dd405c78ab7bd94c153f49ba0f1d51623ef819",
+      "official_doknr": "BJNR258700008BJNE026600000",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p261",
+      "commentary_chars": 2674,
+      "commentary_sha256": "1635baa86d5c463b70aea659e49e8df4dd4dca06ec72e8ef01aec305f370c66d",
+      "statutory_text_sha256": "2c42d63ee3819aada6f59df7cc9f9052b2cb805839a355110d58483472d6a572",
+      "official_doknr": "BJNR258700008BJNE026701308",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p262",
+      "commentary_chars": 2282,
+      "commentary_sha256": "c98d642051114373cb3ca9146379432bf3702fca9c5db13fa047077e187682d9",
+      "statutory_text_sha256": "0bfdef0a5adc01f47cee4c934ee51f18b25df99c0908a73eca32e6441d0b0ff0",
+      "official_doknr": "BJNR258700008BJNE026800000",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p263",
+      "commentary_chars": 2033,
+      "commentary_sha256": "7903c29ebbd1aee7cf8afa89ee8c95b721a82f0a09003b6ac9e5489aa10a758a",
+      "statutory_text_sha256": "0f60ae066a27559e8bc589aad7b4e2303878fae9a950fd2eb5b8c9112d164ed6",
+      "official_doknr": "BJNR258700008BJNE026900000",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p264",
+      "commentary_chars": 3364,
+      "commentary_sha256": "c26d6212866983f8b602a69bd49525ffeed52de77ff7a2cd64360c4a91b6bb23",
+      "statutory_text_sha256": "a6255c0cdd783dee13d5174d587c4f85cf5d9e16bf64f2f79daadaf2668dd781",
+      "official_doknr": "BJNR258700008BJNE027001308",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p265",
+      "commentary_chars": 2766,
+      "commentary_sha256": "3064a8189c5b8bd6168342f35af939ec37ac3867a5a3e11aefffeccb3d5e944a",
+      "statutory_text_sha256": "b2f855bf9af8591e9c8b16363399a50372318ed5e82b7b9d1c549857d2db9637",
+      "official_doknr": "BJNR258700008BJNE027100000",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p266",
+      "commentary_chars": 4374,
+      "commentary_sha256": "7f2ef872482a3ca90628a3fcf461876ed59493a7e2cbfc30f7d2a55bd13a67d4",
+      "statutory_text_sha256": "828a69c182dfcd5be0736a5fa0fea76c4ad5ed8c3c3f91d0b4322cd2af2bbc0f",
+      "official_doknr": "BJNR258700008BJNE027200000",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p267",
+      "commentary_chars": 2213,
+      "commentary_sha256": "562a7d0a1962281735d982055b3818aca95a0f94cf9994a8e28b2216d5060783",
+      "statutory_text_sha256": "0bfdef0a5adc01f47cee4c934ee51f18b25df99c0908a73eca32e6441d0b0ff0",
+      "official_doknr": "BJNR258700008BJNE027300000",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p268",
+      "commentary_chars": 2668,
+      "commentary_sha256": "6e9478b1665975692ffc36a674ce2e5b0cf5fa65004784b516c320b99ad1931a",
+      "statutory_text_sha256": "f76853f4c991337fab53b0f7c6946d4c8a7dac6c97ada821b9a2fb9ce1cd4547",
+      "official_doknr": "BJNR258700008BJNE027400000",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p269",
+      "commentary_chars": 3579,
+      "commentary_sha256": "2f6883b9f777be63dca4aff73867b2b6f26c93a3bd6b5a7b9d807eaa3f04dca5",
+      "statutory_text_sha256": "65a1c215ca3635f77d27b5ebb96c87b77a99afb27652a62abb1036dd1e4de69d",
+      "official_doknr": "BJNR258700008BJNE027504125",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p270",
+      "commentary_chars": 3472,
+      "commentary_sha256": "6b3069025811652363db2fdd435328cd85718da7d801382fb7548b2eccac7197",
+      "statutory_text_sha256": "76ce7f9b0d881824c09a95687109d34ce0a345b569c954376608bb78502dd487",
+      "official_doknr": "BJNR258700008BJNE027601160",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    },
+    {
+      "id": "p271",
+      "commentary_chars": 3725,
+      "commentary_sha256": "b4cb25e862789495f25927916437e7481576f21a146f693be850160d4c000437",
+      "statutory_text_sha256": "bd2581434f0361028443a1f6deb3aecd1e735389356c442391d99f4ceeac416f",
+      "official_doknr": "BJNR258700008BJNE027701125",
+      "statutory_characters_agree_ignoring_whitespace": true,
+      "fictional_example_present": true
+    }
+  ],
+  "commentary_chars": 59518,
+  "exported_assigned_units": 20,
+  "exported_statutory_text_agrees": true,
+  "source_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "ok": true,
+  "limits": [
+    "Length and text agreement are technical checks, not legal quality proof.",
+    "New20units require a fresh independent second pass; no review-result overwritten.",
+    "Whole title remains incomplete."
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "kind": "author",
+  "complete": true,
+  "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
+  "authored_ids": [
+    "p252",
+    "p253",
+    "p254",
+    "p255",
+    "p256",
+    "p257",
+    "p258",
+    "p259",
+    "p260",
+    "p261",
+    "p262",
+    "p263",
+    "p264",
+    "p265",
+    "p266",
+    "p267",
+    "p268",
+    "p269",
+    "p270",
+    "p271"
+  ],
+  "units_authored": 20,
+  "max_units": 20,
+  "baseline_commit": "cd5565605c264bb4f473f183683c98beaa1ea840",
+  "completed_at": "2026-10-20T18:28:58.437985+00:00",
+  "decisive_date": "2026-10-19",
+  "source_verified_at": "2026-10-20T18:18:32.557517+00:00",
+  "source_checks": "sources/author-p252-p271-fetch.json",
+  "source_version_evidence": "sources/author-p252-p271-version-map.json",
+  "parser_replay": "author-p252-p271-parser-replay.json",
+  "author_self_check": [
+    {
+      "id": "p252",
+      "finding": "Alle fünf Absätze: Verfahrenszulässigkeit von materiellen Einwänden, Verpflichtungserklärung, Zahlungsbelege, Auskunft/Belege und Erlassgrenze getrennt; beide BGH-Beschlüsse begrenzt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p253",
+      "finding": "Zulässiger Antrag, Fristablauf, qualifizierte Einwendungen, Sockeltitel, Zahlungstenor, Kostenbezifferung und Hinweise behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p254",
+      "finding": "Mitteilung über zulässige Einwendungen, kein automatischer Übergang, Zugang als Ausgangspunkt der sechs Monate erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p255",
+      "finding": "Alle sechs Absätze einschließlich Erwiderungswirkung, Vertretungswechsel, Rechtshängigkeitsfiktion, künftiger Gesamttitel, Kosten und Teilrücknahmefiktion erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p256",
+      "finding": "Geschlossene Angriffskategorien, Präklusion, Kostenrechtsbehelf, Erinnerung und §240 abgegrenzt; offene §117-Frage nicht entschieden dargestellt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p257",
+      "finding": "Aufnahmemöglichkeit, Formularbindung, Vermerk und Grenzen der Hilfe; keine allgemeine spätere Vertretungsbefreiung behauptet.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p258",
+      "finding": "ZPO702Abs2 genau Sätze1,3,4, ausgelassener Satz2 und gerichtliche Siegel-/Unterschriftsregel getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p259",
+      "finding": "Ermächtigung von eingeführtem Formularzwang getrennt; aktuelle KindUFV, Ausnahmen, Übergang und fehlende allgemeine Einwendungsformularpflicht erläutert.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p260",
+      "finding": "Landesverordnung und Delegation, sachliche Grenze und ausdrücklich kindbezogener örtlicher Einreichungsschutz behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p261",
+      "finding": "Beide Absätze und sämtliche Verweisungsgruppen behandelt; nur Abs1 als Familienstreitsache, kein automatischer Verbund.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p262",
+      "finding": "Anhängigkeitsbindung zum erstinstanzlichen Ehegericht, Vorrang und subsidiäre ZPO-Modifikation erklärt; internationale Zuständigkeit/Verbund getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p263",
+      "finding": "Verschiedene Anhängigkeits-/Rechtshängigkeitsschwellen, Amtsabgabe, begrenzter ZPO-Verweis und Kostenfolgen erklärt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p264",
+      "finding": "Rechtskraftwirkung und Änderungsausschluss mit besonderem BGB1382Abs6 abgeglichen; Stundung, Übertragung und zusätzlicher Gläubiger-Leistungsantrag getrennt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p265",
+      "finding": "Beide BGB-Anknüpfungen, Einheitlichkeit, materiell verschiedene Anträge und keine automatische Verbundwirkung behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p266",
+      "finding": "Alle fünf Nummern, Personenkreis, Spezialausschlüsse, Auffangcharakter und Abs2 behandelt; BGH25/24 historische Grenze ausdrücklich gewahrt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p267",
+      "finding": "Familiensachen-Einordnung vor Zuständigkeit, Ehekonzentration und subsidiärer gewöhnlicher Aufenthalt; kein ewiger Scheidungsgerichtsstand.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p268",
+      "finding": "Nachträgliche Rechtshängigkeit, erstinstanzliche Sache, Amtsabgabe, Kosten und fehlender automatischer Verbund erklärt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p269",
+      "finding": "Alle zwölf Nummern und sonstige Kategorien zugeordnet; fortbestehender Status, Umwandlung, historische Verweisung und §112-Abgrenzung behandelt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p270",
+      "finding": "Alle Sätze gegenstandsbezogen; Statusverfahren, jeweilige Fachverfahren und sonstige Sachen samt Streit-/Fürsorgeunterschied erklärt.",
+      "material_blocker_found": false
+    },
+    {
+      "id": "p271",
+      "finding": "Alle drei Kategorien, materielle Erforderlichkeit/freier Wille, vorbereitende Bestellung ab17, eigenständiger Einwilligungsvorbehalt und Unterbringungsgrenze erläutert.",
+      "material_blocker_found": false
+    }
+  ],
+  "case_law_sources": [
+    "cases/BGH-XII-ZB-450-21.md",
+    "cases/BGH-XII-ZB-84-26.md",
+    "cases/BGH-XII-ZB-25-24.md"
+  ],
+  "unresolved_blockers": [],
+  "whole_book_complete": false,
+  "total_statutory_units": 529,
+  "completed_commentary_units": 300,
+  "remaining_commentary_units": 229,
+  "independent_second_pass_complete_for_new_batch": false,
+  "limitations": [
+    "Exactly20assignedunits authored; all280previous comments preserved.",
+    "New20units await independent second pass; no independent-review self-certification.",
+    "Whole book incomplete; unmodified full builder and strict validator expected to fail for229unassignedmissingcomments.",
+    "Selective case-law research, not exhaustive; explicit historical/open-question limits.",
+    "Technical length, equality and similarity checks are not legal quality proof."
+  ]
+}
