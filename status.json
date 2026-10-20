@@ -1,13 +1,14 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T22:12:59.189179+00:00",
+  "updated_at": "2026-10-20T22:19:06.171385+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
-  "completed_units": 420,
-  "remaining_units": 109,
+  "completed_units": 440,
+  "remaining_units": 89,
   "case_law_sources": [
     "cases/BGH-2023-09-19-II-ZB-15-22.md",
+    "cases/BGH-II-ZB-20-21.md",
     "cases/BGH-IV-ZB-11-22.md",
     "cases/BGH-IV-ZB-35-15.md",
     "cases/BGH-XII-ZB-102-20-2020.md",
@@ -62,17 +63,17 @@
     "repo": "Komentar-DE-FAMFG-2008",
     "units": 529,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 941255,
+    "commentary_chars": 972517,
     "errors": [
-      "krátký/chybějící komentář u 109 jednotek: ['p385(0<400)', 'p386(0<400)', 'p387(0<400)', 'p388(0<400)', 'p389(0<400)', 'p390(0<400)', 'p391(0<400)', 'p392(0<400)']"
+      "krátký/chybějící komentář u 89 jednotek: ['p405(0<400)', 'p406(0<400)', 'p407(0<400)', 'p408(0<400)', 'p409(0<400)', 'p410(0<400)', 'p411(0<400)', 'p412(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "remaining_limitations": [
-    "109 unassigned comments absent ab § 385.",
-    "This review covers exactly p365–p384; no whole-book review or external legal approval.",
-    "Selective case-law coverage."
+    "89 unassigned comments missing from p405.",
+    "Independent second pass pending for p385–p404.",
+    "Case-law research selective."
   ],
   "commented_scope": "§§ 1–364 einschließlich der Buchstabenparagraphen",
   "resume": {
@@ -971,184 +972,61 @@
     }
   ],
   "bounded_author": {
-    "complete": true,
     "kind": "bounded_author",
-    "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
+    "complete": true,
     "authored_ids": [
-      "p365",
-      "p366",
-      "p367",
-      "p368",
-      "p369",
-      "p370",
-      "p371",
-      "p372",
-      "p373",
-      "p374",
-      "p375",
-      "p376",
-      "p377",
-      "p378",
-      "p379",
-      "p380",
-      "p381",
-      "p382",
-      "p383",
-      "p384"
+      "p385",
+      "p386",
+      "p387",
+      "p388",
+      "p389",
+      "p390",
+      "p391",
+      "p392",
+      "p393",
+      "p394",
+      "p395",
+      "p396",
+      "p397",
+      "p398",
+      "p399",
+      "p400",
+      "p401",
+      "p402",
+      "p403",
+      "p404"
     ],
     "units_authored": 20,
-    "checks": [
-      {
-        "id": "p365",
-        "commentary_characters": 2079,
-        "commentary_sha256": "693bdae0771780891acf85649baa370eeb3c054901319bb89b727e2175d806e1",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p366",
-        "commentary_characters": 2260,
-        "commentary_sha256": "d72379273d22fa8bf0c0c8844598b03727427c21ad14a83644cd064ce6fb4118",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p367",
-        "commentary_characters": 2059,
-        "commentary_sha256": "96dfcd2ce65dec1d1ea1aa2f44ea5006b603cff0103b099cfe370d35a8ceff8e",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p368",
-        "commentary_characters": 2188,
-        "commentary_sha256": "52c0d509d5d775aec59f5ca21cb37b3b654db859536fac2985310055d487df2d",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p369",
-        "commentary_characters": 1742,
-        "commentary_sha256": "bfb5119d2bcf33bd6184f7c4af5d95171a6af595d3f68eae8bec5603e1a923ef",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p370",
-        "commentary_characters": 1851,
-        "commentary_sha256": "92567891bee1df9e83b784c89e42b850982f3835a32f3461246c4020922698ba",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p371",
-        "commentary_characters": 1857,
-        "commentary_sha256": "b2d1fa6f0f6e01dbc94cd955630e22c3f22dca55ca8f08a25eb7cf75bd104c57",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p372",
-        "commentary_characters": 1966,
-        "commentary_sha256": "37017b61fa4dd377e3a7f828f9366f3342170ffb7a2c71798bc37a2ce2e48b5a",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p373",
-        "commentary_characters": 2378,
-        "commentary_sha256": "3add07224833b1741a605bb3f6bb889287628c0fda855060d8b753f12eabbd2c",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p374",
-        "commentary_characters": 1798,
-        "commentary_sha256": "71f07569e12cc1aa2abcdc9ef8ff85f437e7039b2dcaa81b11dc346546fbdeb5",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p375",
-        "commentary_characters": 2436,
-        "commentary_sha256": "a02931688f6d71f13f623de5bf2412f0c19e23d94fbecfb48eb361d194df8d37",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p376",
-        "commentary_characters": 2165,
-        "commentary_sha256": "93ee7cc8e7eccee54838b3571251f36c761197f2784956919d093f347a10e7e7",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p377",
-        "commentary_characters": 2009,
-        "commentary_sha256": "6ac2f15c00e96bd5bda4e7eb999311fdb27f8de4628e95b081fcf27e3ae2dbd9",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p378",
-        "commentary_characters": 2337,
-        "commentary_sha256": "c5a8745acff473d76c83b2aa00e15f946fafc0212f6871e973bc13bf75cab6f2",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p379",
-        "commentary_characters": 2272,
-        "commentary_sha256": "8f61ba584b6dc7d0bed8e411d4a89c9fe95da7a0c5a3cae9a563b9b5c9f7e53d",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p380",
-        "commentary_characters": 2392,
-        "commentary_sha256": "bae791c85e862b502eea1cf59c7b2bd2d85abbfeb6c53046ca339fe8fa193b95",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p381",
-        "commentary_characters": 2015,
-        "commentary_sha256": "2e56cc4a0390be9370e5df7dbff308448c7c4e126f330bf521727502733eec4c",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p382",
-        "commentary_characters": 2450,
-        "commentary_sha256": "975d7afd0eb980586fb92e31fe2d94811b3d40262079c0c246ae62d201e7aa13",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p383",
-        "commentary_characters": 1958,
-        "commentary_sha256": "699e4495d0a823bd2d047a76efa7a13549ae4d329afd77ad60cea0a5b9d5a9d2",
-        "statutory_agreement": true
-      },
-      {
-        "id": "p384",
-        "commentary_characters": 2452,
-        "commentary_sha256": "ef009221709d3ef56bb5bf23a8f439d63491cfb4feafc0e78ebdabd049f6adf0",
-        "statutory_agreement": true
-      }
-    ],
-    "commentary_characters": 42664,
-    "previous_400_commentary_blocks_unchanged": true,
+    "commentary_characters": 31262,
+    "previous_420_comments_unchanged": true,
     "whole_book_complete": false,
     "total_units": 529,
-    "completed_units": 420,
-    "remaining_units": 109,
+    "completed_units": 440,
+    "remaining_units": 89,
     "statutory_agreement": 1.0,
     "parser_reproducible": true,
+    "independent_second_pass_complete": false,
     "case_law_sources": [
-      "cases/BGH-2023-09-19-II-ZB-15-22.md"
+      "cases/BGH-II-ZB-20-21.md"
     ],
     "unresolved_batch_blockers": [],
     "limitations": [
       "Independent second pass pending.",
-      "Selective case-law research; one additional fully read official decision.",
-      "109 unassigned comments absent; full builder and strict full validator cannot pass yet.",
-      "Length and similarity checks do not establish legal quality."
+      "Selective case-law coverage.",
+      "89 unassigned comments absent; full build and full strict validation remain unsuccessful.",
+      "Length and repetition checks do not prove substantive legal quality."
     ],
-    "completed_at": "2026-10-20T22:09:57.521913+00:00",
-    "local_links_checked": 1167,
+    "local_links_checked": 1190,
     "broken_local_links": [],
-    "previous_20_exported_chapters_unchanged": true,
-    "all_20_assigned_units_exported": true,
+    "all_20_assigned_exported": true,
+    "previous_21_chapters_unchanged": true,
     "strict_validation": {
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 940402,
+      "commentary_chars": 972517,
       "errors": [
-        "krátký/chybějící komentář u 109 jednotek: ['p385(0<400)', 'p386(0<400)', 'p387(0<400)', 'p388(0<400)', 'p389(0<400)', 'p390(0<400)', 'p391(0<400)', 'p392(0<400)']"
+        "krátký/chybějící komentář u 89 jednotek: ['p405(0<400)', 'p406(0<400)', 'p407(0<400)', 'p408(0<400)', 'p409(0<400)', 'p410(0<400)', 'p411(0<400)', 'p412(0<400)']"
       ],
       "warnings": [],
       "ok": false

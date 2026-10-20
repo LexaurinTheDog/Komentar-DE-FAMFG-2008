@@ -1,0 +1,10 @@
+{
+  "scope": "p385–p404",
+  "method": "Websuche als Fundstellensuche; Aussagen ausschließlich aus anschließend abgerufenem amtlichem Volltext und Gesetzes-XML",
+  "queries": ["site.rechtsprechung-im-internet.de 394 Vermögenslosigkeit II ZB", "site.rechtsprechung-im-internet.de 387 Geburtsdatum", "site.rechtsprechung-im-internet.de II ZB 20/21", "site.rechtsprechung-im-internet.de II ZB 7/23", "site.juris.bundesgerichtshof.de II ZB 20/21"],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": "rg -l 'II ZB 20/21' --glob '*.md' --glob '*.jsonl'",
+  "selected": "KORE302032022; official full text read, reasons 1–18; local complete numbered reasoning agrees",
+  "not_used": "Other search results and third-party annotations not used as substantive authorities",
+  "limitations": "Selective search only. No sufficiently relevant full-text verified authority added for the remaining technical/procedural units in this bounded batch. No claim that none exists."
+}

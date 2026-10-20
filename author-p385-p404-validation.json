@@ -1,0 +1,16 @@
+{
+  "exit_code": 1,
+  "result": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 972517,
+    "errors": [
+      "krátký/chybějící komentář u 89 jednotek: ['p405(0<400)', 'p406(0<400)', 'p407(0<400)', 'p408(0<400)', 'p409(0<400)', 'p410(0<400)', 'p411(0<400)', 'p412(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "scope": "Whole-book validation fails solely on 89 unassigned missing comments. Assigned twenty-unit technical checks passed.",
+  "whole_book_complete": false
+}

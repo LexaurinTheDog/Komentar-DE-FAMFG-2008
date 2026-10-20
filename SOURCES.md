@@ -217,3 +217,6 @@ Begrenzte unabhängige Zweitprüfung §§ 350–364 einschließlich §§ 352a–
 
 
 Autorencharge §§ 365–384: [frische amtliche Abrufe mit UTC-Zeiten, HTTP-Ergebnis und SHA-256](sources/author-p365-p384-fetch.json); [Fassung, historische Abgrenzung und unabhängige XML-Abdeckung](sources/author-p365-p384-version-map.json); [selektive Recherche](sources/author-p365-p384-search-log.json); [BGH II ZB 15/22](cases/BGH-2023-09-19-II-ZB-15-22.md). Maßgeblich bleibt der Beginn des Titels am 19. Oktober 2026. Die frische amtliche XML-Lieferung ist bytegleich; die dokumentierten Inkrafttretensklauseln grenzen Zukunftsrecht ab. Keine vollständige Rechtsprechungsabdeckung.
+
+
+Amtlicher FamFG-ZIP/XML- und Indexabruf für §§ 385–404: [Abrufprotokoll](sources/author-p385-p404-fetch.json), [Wortlaut- und Fassungsabgleich](sources/author-p385-p404-checks.json). Amtliche Lieferung weiterhin bytegleich mit der auf Inkrafttreten geprüften Grundlage. [Selektive Recherche](sources/author-p385-p404-search-log.json) und [BGH II ZB 20/21](cases/BGH-II-ZB-20-21.md); Tenor und Gründe 1–18 vollständig gelesen, alle 18 nummerierten Begründungsabschnitte mit dem nationalen Korpus abgeglichen.

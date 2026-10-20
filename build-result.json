@@ -1,7 +1,6 @@
 {
-  "run_at": "2026-10-20T22:12:59.189179+00:00",
   "exit_code": 1,
   "stdout": "",
-  "stderr": "CHYBÍ komentář k 109 jednotkám, např.: ['p385', 'p386', 'p387', 'p388', 'p389', 'p390', 'p391', 'p392', 'p393', 'p394']\n",
-  "scope": "Bounded review p365–p384; full builder unchanged, incomplete book."
+  "stderr": "CHYBÍ komentář k 89 jednotkám, např.: ['p405', 'p406', 'p407', 'p408', 'p409', 'p410', 'p411', 'p412', 'p413', 'p414']\n",
+  "scope": "Full builder correctly refuses 89 unassigned missing comments. Existing explicit draft exporter used."
 }

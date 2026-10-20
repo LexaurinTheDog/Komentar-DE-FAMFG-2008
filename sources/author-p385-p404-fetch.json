@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "accessed_at": "2026-10-20T22:14:54.175217+00:00",
+    "http_status": 200,
+    "path": "sources/author-p385-p404-famfg.zip",
+    "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "xml_path": "sources/author-p385-p404-famfg.xml",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "format_validation": "ZIP opened and XML parsed"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/",
+    "accessed_at": "2026-10-20T22:14:54.458827+00:00",
+    "http_status": 200,
+    "path": "sources/author-p385-p404-index.html",
+    "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+    "format_validation": "FamFG HTML index"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE302032022.zip",
+    "accessed_at": "2026-10-20T22:14:54.656179+00:00",
+    "http_status": 200,
+    "path": "sources/author-p385-p404-II-ZB-20-21.zip",
+    "sha256": "e22d2ccce2c22c993394156b5a6d9f9a34abcba641879e02f2e4919928133177",
+    "xml_path": "sources/author-p385-p404-II-ZB-20-21.xml",
+    "xml_sha256": "51e6bccc6305cc2765c5fb1e67bc5a3f5be18d078123c18a383826c1eee2961f",
+    "format_validation": "ZIP opened and XML parsed"
+  }
+]

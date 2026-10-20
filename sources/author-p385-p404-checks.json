@@ -1,0 +1,190 @@
+{
+  "scope": [
+    "p385",
+    "p386",
+    "p387",
+    "p388",
+    "p389",
+    "p390",
+    "p391",
+    "p392",
+    "p393",
+    "p394",
+    "p395",
+    "p396",
+    "p397",
+    "p398",
+    "p399",
+    "p400",
+    "p401",
+    "p402",
+    "p403",
+    "p404"
+  ],
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T22:18:01.674101+00:00",
+  "fetch_evidence": "sources/author-p385-p404-fetch.json",
+  "xml_identical_to_verified_canonical_xml": true,
+  "unit_checks": [
+    {
+      "id": "p385",
+      "official_agreement": true
+    },
+    {
+      "id": "p386",
+      "official_agreement": true
+    },
+    {
+      "id": "p387",
+      "official_agreement": true
+    },
+    {
+      "id": "p388",
+      "official_agreement": true
+    },
+    {
+      "id": "p389",
+      "official_agreement": true
+    },
+    {
+      "id": "p390",
+      "official_agreement": true
+    },
+    {
+      "id": "p391",
+      "official_agreement": true
+    },
+    {
+      "id": "p392",
+      "official_agreement": true
+    },
+    {
+      "id": "p393",
+      "official_agreement": true
+    },
+    {
+      "id": "p394",
+      "official_agreement": true
+    },
+    {
+      "id": "p395",
+      "official_agreement": true
+    },
+    {
+      "id": "p396",
+      "official_agreement": true
+    },
+    {
+      "id": "p397",
+      "official_agreement": true
+    },
+    {
+      "id": "p398",
+      "official_agreement": true
+    },
+    {
+      "id": "p399",
+      "official_agreement": true
+    },
+    {
+      "id": "p400",
+      "official_agreement": true
+    },
+    {
+      "id": "p401",
+      "official_agreement": true
+    },
+    {
+      "id": "p402",
+      "official_agreement": true
+    },
+    {
+      "id": "p403",
+      "official_agreement": true
+    },
+    {
+      "id": "p404",
+      "official_agreement": true
+    }
+  ],
+  "version_basis": "preflight-result.json; official delivery unchanged; commencement checks there retained, no historical versions concatenated",
+  "annexes": "No operative annex in official XML; existing complete inventory in completeness-report.json",
+  "case_local_source": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore302032022.md",
+  "case_local_snapshot": "sources/author-p385-p404-local-KORE302032022.md",
+  "case_local_sha256": "eeca42809439b66f9d5040cacfdfdd26af3aba826161f4b336d8969f6082e3cb",
+  "case_reasoning_comparison": [
+    {
+      "rn": "1",
+      "present_in_local": true
+    },
+    {
+      "rn": "2",
+      "present_in_local": true
+    },
+    {
+      "rn": "3",
+      "present_in_local": true
+    },
+    {
+      "rn": "4",
+      "present_in_local": true
+    },
+    {
+      "rn": "5",
+      "present_in_local": true
+    },
+    {
+      "rn": "6",
+      "present_in_local": true
+    },
+    {
+      "rn": "7",
+      "present_in_local": true
+    },
+    {
+      "rn": "8",
+      "present_in_local": true
+    },
+    {
+      "rn": "9",
+      "present_in_local": true
+    },
+    {
+      "rn": "10",
+      "present_in_local": true
+    },
+    {
+      "rn": "11",
+      "present_in_local": true
+    },
+    {
+      "rn": "12",
+      "present_in_local": true
+    },
+    {
+      "rn": "13",
+      "present_in_local": true
+    },
+    {
+      "rn": "14",
+      "present_in_local": true
+    },
+    {
+      "rn": "15",
+      "present_in_local": true
+    },
+    {
+      "rn": "16",
+      "present_in_local": true
+    },
+    {
+      "rn": "17",
+      "present_in_local": true
+    },
+    {
+      "rn": "18",
+      "present_in_local": true
+    }
+  ],
+  "limitations": "Bounded authoring batch. Selective authority research, no exhaustive case-law survey; independent substantive second pass pending."
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:13:00.008701+00:00",
+  "generated_at": "2026-10-20T22:19:07.961365+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -1323,6 +1323,51 @@
       "path": "sources/author-p365-p384-version-map.json",
       "sha256": "2a8263ce4646b4a3eb1601bd845de74c98231ea10f34e51415223087e79cb908",
       "bytes": 27658
+    },
+    {
+      "path": "sources/author-p385-p404-II-ZB-20-21.xml",
+      "sha256": "51e6bccc6305cc2765c5fb1e67bc5a3f5be18d078123c18a383826c1eee2961f",
+      "bytes": 22183
+    },
+    {
+      "path": "sources/author-p385-p404-II-ZB-20-21.zip",
+      "sha256": "e22d2ccce2c22c993394156b5a6d9f9a34abcba641879e02f2e4919928133177",
+      "bytes": 5665
+    },
+    {
+      "path": "sources/author-p385-p404-checks.json",
+      "sha256": "d3532986568968ea1b3124d8344c0caa5eb7c58e4998f5db249cdc99c210cfd7",
+      "bytes": 3597
+    },
+    {
+      "path": "sources/author-p385-p404-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/author-p385-p404-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/author-p385-p404-fetch.json",
+      "sha256": "b9f10ec8aad820d7906e4ef52d371b0e970caeacc3039ef0aaf1f4a3aac387ca",
+      "bytes": 1320
+    },
+    {
+      "path": "sources/author-p385-p404-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/author-p385-p404-local-KORE302032022.md",
+      "sha256": "eeca42809439b66f9d5040cacfdfdd26af3aba826161f4b336d8969f6082e3cb",
+      "bytes": 13385
+    },
+    {
+      "path": "sources/author-p385-p404-search-log.json",
+      "sha256": "a40426a2146510ac1c6a6d75f942bd5fb9ea508324a5c23e8cfa8003b5b01480",
+      "bytes": 993
     },
     {
       "path": "sources/bgbl-152-2026-10-20.pdf",
@@ -3706,8 +3751,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "5882ae519e3adfd2b0019a6e61f9fc53eb530dfa4a564dc718b44d64530822fd",
-      "bytes": 265933
+      "sha256": "f43ebbb87992beb99ea936e6ee437217fb7f5dfdd88d74f97829b7c45c1b0bc6",
+      "bytes": 267307
     }
   ]
 }
