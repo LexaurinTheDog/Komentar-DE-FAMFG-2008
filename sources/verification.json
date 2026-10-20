@@ -2600,6 +2600,197 @@
       "xml_sha256": "3033cf1166c4e728fa07d28d3a7bd38f2f4e62bcdd1e1aad4e429208c7861075",
       "same_as_author_snapshot": true,
       "version_evidence": "sources/review-p195-p213-version-map.json"
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "accessed_at": "2026-10-20T17:41:08.111927+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "xml_path": "sources/author-p214-p231-famfg.xml",
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "official_abbreviation": "FamFG",
+      "stand_notices": [
+        "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+        "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ]
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.gesetze-im-internet.de/versausglg/xml.zip",
+      "accessed_at": "2026-10-20T17:41:08.466091+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.gesetze-im-internet.de/versausglg/xml.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-versausglg.zip",
+      "sha256": "11b5964b0b9d6d75e16ef88626bdbec5022fb652aca40edc3eb74216750c875e",
+      "xml_path": "sources/author-p214-p231-versausglg.xml",
+      "xml_sha256": "b3b278f690226ba1419b2038a126a9581726121d4cff0d922a60f914fe333866",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "official_abbreviation": "VersAusglG",
+      "stand_notices": [
+        "StandZuletzt geändert durch Art. 1 G v. 12.5.2021 I 1085"
+      ]
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.gesetze-im-internet.de/gewschg/xml.zip",
+      "accessed_at": "2026-10-20T17:41:08.597095+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.gesetze-im-internet.de/gewschg/xml.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-gewschg.zip",
+      "sha256": "f65565f798c091183d14c6554ec4cbf256ac72271c5f97648f2dcff89e1395e7",
+      "xml_path": "sources/author-p214-p231-gewschg.xml",
+      "xml_sha256": "02ad54be753d6fb5b28156cf3a50e973fa710bc1c8170931007580812a769f7e",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "official_abbreviation": "GewSchG",
+      "stand_notices": [
+        "StandZuletzt geändert durch Art. 1 G v. 2.7.2026 I Nr. 198"
+      ]
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "accessed_at": "2026-10-20T17:41:08.701596+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "xml_path": "sources/author-p214-p231-bgb.xml",
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "official_abbreviation": "BGB",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+        "Standzuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+      ]
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "accessed_at": "2026-10-20T17:41:09.564307+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "xml_path": "sources/author-p214-p231-zpo.xml",
+      "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "official_abbreviation": "ZPO",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;",
+        "Standzuletzt geändert Art. 2 G v. 22.12.2025 I Nr. 349",
+        "HinweisÄnderung durch Art. 1 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "HinweisÄnderung durch Art. 2 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "HinweisÄnderung durch Art. 3 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ]
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.gesetze-im-internet.de/sgb_4/xml.zip",
+      "accessed_at": "2026-10-20T17:41:09.828567+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.gesetze-im-internet.de/sgb_4/xml.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-sgb4.zip",
+      "sha256": "c0dbda08d0c7f045077cc3c66b39003c850db217731b3b7120f7d0ec3f960d33",
+      "xml_path": "sources/author-p214-p231-sgb4.xml",
+      "xml_sha256": "ec8703c7a8601dc8a2597ee35d7d024b4466848cb83d43ac1f8a137c21b13793",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "official_abbreviation": "SGB 4",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;",
+        "Standzuletzt geändert durch Art. 2 G v. 24.7.2026 I Nr. 228"
+      ]
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.gesetze-im-internet.de/bkgg_1996/xml.zip",
+      "accessed_at": "2026-10-20T17:41:10.113228+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.gesetze-im-internet.de/bkgg_1996/xml.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-bkkg.zip",
+      "sha256": "20e5e76375188b74e385a3b2596156afb82d5e631296548b29708b7f0b32063a",
+      "xml_path": "sources/author-p214-p231-bkkg.xml",
+      "xml_sha256": "5df8172355832dfd4b418f8bb1ef4848aff29bd5b0135cba60b6fd663a2be8b8",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "official_abbreviation": "BKGG 1996",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 28.1.2009 I 142, 3177;",
+        "Standzuletzt geändert durch Art. 10 G v. 16.4.2026 I Nr. 107"
+      ]
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.gesetze-im-internet.de/estg/xml.zip",
+      "accessed_at": "2026-10-20T17:41:10.237023+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.gesetze-im-internet.de/estg/xml.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-estg.zip",
+      "sha256": "8e2128a7711647882233235be1985cdafbac658e6fc119a06bf716422b8f1da6",
+      "xml_path": "sources/author-p214-p231-estg.xml",
+      "xml_sha256": "13ff1917a1080a63f1dddb8900a14ba1624f516fa7eb7a547e8bb0f910e2fd5c",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "official_abbreviation": "EStG",
+      "stand_notices": [
+        "NeufNeugefasst durch Bek. v. 8.10.2009 I 3366, 3862;",
+        "Standzuletzt geändert durch Art. 7 G v. 29.6.2026 I Nr. 197"
+      ]
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303652015.zip",
+      "accessed_at": "2026-10-20T17:41:10.601881+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303652015.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-XII-ZB-564-12.zip",
+      "sha256": "bf92d808612614f5630e3dbff90730b6494bd4a68bb6205b8929f59717d94707",
+      "xml_path": "sources/author-p214-p231-XII-ZB-564-12.xml",
+      "xml_sha256": "86ba13a63d1dfa1c611fe4bf1abdd05b7f8dcfa42ee1d36452e1fec4bb44ea7e",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "case_metadata": {
+        "doknr": "KORE303652015",
+        "gertyp": "BGH",
+        "entsch-datum": "20150527",
+        "aktenzeichen": "XII ZB 564/12",
+        "ecli": ""
+      },
+      "local_corpus_path": "sources/author-p214-p231-local-KORE303652015.md",
+      "local_corpus_sha256": "78fcb42ff16ea0a31ef008e67e9f2405f652338019eee85430beec1d461a8b00"
+    },
+    {
+      "purpose": "bounded author p214-p231",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304572016.zip",
+      "accessed_at": "2026-10-20T17:41:10.720856+00:00",
+      "http_status": 200,
+      "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304572016.zip",
+      "content_type": "application/zip",
+      "path": "sources/author-p214-p231-XII-ZB-350-15.zip",
+      "sha256": "ecb0eb5b856fdae75bd2d04271c36c752bb30654e11e7e8208f2b1e48bd4629f",
+      "xml_path": "sources/author-p214-p231-XII-ZB-350-15.xml",
+      "xml_sha256": "24cf875391b369f60b2c1a88f9b070696f5deecc3a7a4a33fb565892e8c33e8b",
+      "format_validation": "ZIP magic, CRC, single parseable XML, expected statute or case identity",
+      "case_metadata": {
+        "doknr": "KORE304572016",
+        "gertyp": "BGH",
+        "entsch-datum": "20160622",
+        "aktenzeichen": "XII ZB 350/15",
+        "ecli": "ECLI:DE:BGH:2016:220616BXIIZB350.15.0"
+      },
+      "local_corpus_path": "sources/author-p214-p231-local-KORE304572016.md",
+      "local_corpus_sha256": "01cb3b17c8943078a0934810545a86bbf2d671e094bd46c7fc16282019f66d64"
     }
   ],
   "version_assessment": {

@@ -1,13 +1,8 @@
 {
-  "command": [
-    "python3",
-    "-B",
-    "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
-    "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-FAMFG-2008"
-  ],
+  "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+  "run_at": "2026-10-20T17:47:08.437926+00:00",
   "exit_code": 1,
   "stdout": "",
-  "stderr": "CHYBÍ komentář k 289 jednotkám, např.: ['p214', 'p214a', 'p215', 'p216', 'p216a', 'p217', 'p218', 'p219', 'p220', 'p221']\n",
-  "scope": "regular whole-book build; intermediate failure for289missing unassigned comments",
-  "recorded_at": "2026-10-20T17:35:27.170559+00:00"
+  "stderr": "CHYBÍ komentář k 269 jednotkám, např.: ['p232', 'p233', 'p234', 'p235', 'p236', 'p237', 'p238', 'p239', 'p240', 'p241']\n",
+  "scope": "Actual full builder; expected intermediate failure because269 units outside batch not yet authored; partial exporter used separately."
 }

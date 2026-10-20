@@ -1,9 +1,9 @@
 {
-  "commented_units": 240,
+  "commented_units": 260,
   "total_units": 529,
-  "commentary_characters": 490438,
-  "missing_commentary_count": 289,
-  "local_links_checked": 597,
+  "commentary_characters": 538584,
+  "missing_commentary_count": 269,
+  "local_links_checked": 634,
   "broken_local_links": [],
   "exact_repeated_substantive_paragraphs": [],
   "near_repeated_commentary_above_0_8_token_jaccard": [],
@@ -250,11 +250,31 @@
     "p210": 2385,
     "p211": 2130,
     "p212": 2186,
-    "p213": 2457
+    "p213": 2457,
+    "p214": 2683,
+    "p214a": 2404,
+    "p215": 2006,
+    "p216": 2214,
+    "p216a": 2876,
+    "p217": 2345,
+    "p218": 2249,
+    "p219": 2239,
+    "p220": 2513,
+    "p221": 2328,
+    "p222": 2535,
+    "p223": 2203,
+    "p224": 2465,
+    "p225": 2980,
+    "p226": 2626,
+    "p227": 2358,
+    "p228": 2047,
+    "p229": 2603,
+    "p230": 1784,
+    "p231": 2688
   },
   "limits": [
     "Similarity screening is heuristic and does not establish legal quality.",
-    "Remaining 289 units are not authored.",
+    "Remaining 269 units are not authored.",
     "Independent second-pass review is bounded by review-result.json; no whole-book review claimed."
   ]
 }

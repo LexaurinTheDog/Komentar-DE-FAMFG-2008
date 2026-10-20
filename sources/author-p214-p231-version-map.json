@@ -1,0 +1,220 @@
+{
+  "decisive_date": "2026-10-19",
+  "batch_authored_on": "2026-10-20",
+  "verified_at": "2026-10-20T17:46:12.475552+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/famfg/",
+  "fresh_xml": "sources/author-p214-p231-famfg.xml",
+  "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "same_as_authoring_start": true,
+  "effective_version_evidence": {
+    "decisive_date": "2026-10-19",
+    "rechecked_at": "2026-10-20T16:26:21.879451+00:00",
+    "consolidation_delivery_unchanged": true,
+    "xml_builddate": "20261008215512",
+    "official_stand_notices": [
+      {
+        "type": "Stand",
+        "text": "Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192"
+      },
+      {
+        "type": "Hinweis",
+        "text": "Änderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+      },
+      {
+        "type": "Sonst",
+        "text": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      }
+    ],
+    "citation_notice_distinction": "HTML Vollzitat cites Art. 4 G 2.7.2026 I Nr.198; XML Stand cites Art.4 G 22.6.2026 I Nr.192 plus a documentary-pending notice for Nr.198. Effectiveness resolved by commencement clauses, not these labels.",
+    "commencement_checks": [
+      {
+        "act": "BGBl. 2026 I Nr.152",
+        "amending_clause": "Art.6",
+        "effective_clause": "Art.18 Abs.1; exceptions in Abs.2–4 do not cover Art.6",
+        "effective_date": "2026-10-01",
+        "units": [
+          "p95"
+        ],
+        "evidence": "sources/bgbl-152.pdf",
+        "fresh_identical_evidence": "sources/bgbl-152-2026-10-20.pdf"
+      },
+      {
+        "act": "BGBl. 2026 I Nr.192",
+        "amending_clause": "Art.4 Nr.1–4",
+        "effective_clause": "Art.20 Abs.1; exceptions in Abs.2–5 do not cover Art.4",
+        "effective_date": "2026-10-01",
+        "units": [
+          "p41a",
+          "p46",
+          "p113"
+        ],
+        "evidence": "sources/bgbl-192.pdf",
+        "fresh_identical_evidence": "sources/bgbl-192-2026-10-20.pdf"
+      },
+      {
+        "act": "BGBl. 2026 I Nr.198",
+        "amending_clause": "Art.4 Nr.8",
+        "effective_clause": "Art.10 Abs.1 Nr.2; publication on 2026-07-09",
+        "effective_date": "2026-07-10",
+        "units": [
+          "p214"
+        ],
+        "evidence": "sources/bgbl-198.pdf",
+        "fresh_identical_evidence": "sources/bgbl-198-2026-10-20.pdf"
+      },
+      {
+        "act": "BGBl. 2026 I Nr.198",
+        "amending_clause": "Art.4 Nr.1–7,9",
+        "effective_clause": "Art.10 Abs.2",
+        "effective_date": "2027-07-01",
+        "excluded_future_ids": [
+          "p94a",
+          "p94b",
+          "p94c",
+          "p94d",
+          "p167c",
+          "p216b"
+        ],
+        "other_excluded_changes": [
+          "p57",
+          "p88",
+          "p96",
+          "TOC and subsection renumbering"
+        ],
+        "evidence": "sources/bgbl-198.pdf"
+      }
+    ],
+    "actual_text_checks": {
+      "p41a_new_electronic_notice": true,
+      "p46_new_abs2": true,
+      "p113_updated_reference": true,
+      "p95_new_abs5": true,
+      "p214_effective_sentence": true,
+      "future_insertions_absent": true,
+      "future_p88_abs4_absent": true,
+      "future_p96_abs3_absent": true,
+      "future_p57_item4a_absent": true
+    },
+    "recent_enactments_check": "sources/recent-enactments-check.json",
+    "recent_statutes_screened": [
+      275,
+      276,
+      285,
+      286,
+      289,
+      293,
+      304
+    ],
+    "recent_scan_result": "No FamFG / Familiensachen / freiwilligen Gerichtsbarkeit occurrence in seven full official PDFs; conservative late-September boundary includes acts preceding intake.",
+    "intake_comparison": "Six presentation/source-note differences resolved individually in change-map.json; no substantive paragraph wording change identified.",
+    "limits": [
+      "No complete reconstruction of every amendment since 2008.",
+      "Current-service regulations and corrections screened by title; full-text statutory search is limited to the seven selected listed acts.",
+      "Selective case cards retained; this source preflight does not re-review case law or the commentary."
+    ]
+  },
+  "historical_versions_checked": {
+    "intake": {
+      "path": "sources/intake-2026-10-01.md",
+      "sha256": "a686a8c41e007439a469a7e7377b20c6b7d7e6c5fb33e6a3e0b039b34500c218",
+      "comparison": "sources/change-map.json"
+    },
+    "authoring_start_snapshot": {
+      "path": "sources/famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "access_date": "2026-10-19"
+    },
+    "fresh_snapshot": {
+      "path": "sources/famfg-2026-10-20.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "access_date": "2026-10-20"
+    },
+    "duplicate_identifiers": [],
+    "duplicate_doknr": [],
+    "historical_or_version_elements": [],
+    "selection": "One current text per numbered provision; no historical versions concatenated. Future 2027 amendments excluded by verified commencement, not treated as gaps."
+  },
+  "assigned_ids": [
+    "p214",
+    "p214a",
+    "p215",
+    "p216",
+    "p216a",
+    "p217",
+    "p218",
+    "p219",
+    "p220",
+    "p221",
+    "p222",
+    "p223",
+    "p224",
+    "p225",
+    "p226",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231"
+  ],
+  "assigned_version_selection": "One effective current norm per assigned identifier, including explicit repealed slot p230; no historical texts concatenated. No p216b: commencement in 2027, not a missing unit.",
+  "annexes_checked": "Keine Anlage und kein operativer Anhang im amtlichen XML vorhanden; sämtliche 599 norm-Elemente sind als 529 Paragraphen, 68 Gliederungselemente, Gesetzeskopf und Inhaltsübersicht erfasst. Schluss- und Übergangsbestimmungen §§ 486–493 sind Paragrapheneinheiten.",
+  "opening_formula_checked": {
+    "present": false,
+    "evidence": "sources/famfg.xml: law-head has only metadaten and textdaten/fussnoten, no text content; no enbez Eingangsformel exists. FamFG is Article 1 of FGG-RG; the parent act is not an additional FamFG unit. The full official HTML likewise has no Eingangsformel.",
+    "global_notes_preserved": true
+  },
+  "coverage": {
+    "expected_count": 529,
+    "parsed_count": 529,
+    "missing": [],
+    "extra": [],
+    "duplicates": [],
+    "official_norm_elements": 599,
+    "unclassified": []
+  },
+  "specific_effectiveness_check": {
+    "p214": {
+      "act": "BGBl.2026 I Nr.198",
+      "amendment": "Art.4 Nr.8",
+      "commencement": "Art.10 Abs.1 Nr.2, day after publication 2026-07-09 = 2026-07-10",
+      "evidence": "sources/bgbl-198.pdf",
+      "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+      "text_read": "sources/bgbl-198.txt, amendment at lines374ff and commencement at521ff"
+    },
+    "future_boundary": "Art.10 Abs.2: remaining FamFG changes including p216b only 2027-07-01.",
+    "p226": "Current official XML explicitly twelve months; historical six-month language of XII ZB350/15 not used as current law. No new commencement date for the 2021 reform is asserted in the commentary."
+  },
+  "auxiliary_provisions_read": {
+    "VersAusglG": [
+      "§§3,5,6,14–16,18–27,31,32,43,51,52"
+    ],
+    "GewSchG": [
+      "§§1–4; future provisions distinguished by source footnotes and BGBl198"
+    ],
+    "BGB": [
+      "§§1305,1615l,1615m"
+    ],
+    "ZPO": [
+      "§§168,172,173; structure of174–183"
+    ],
+    "SGB IV": [
+      "§18; statutory quotation retains source cross-reference to Absatz1 without silently correcting it"
+    ],
+    "BKGG": [
+      "§3"
+    ],
+    "EStG": [
+      "§64"
+    ],
+    "FamFG": [
+      "all assigned units",
+      "§§48,51,53,54,57,59,61,63,64,112,113,137,493"
+    ]
+  },
+  "limitations": [
+    "Fresh FamFG XML is byte-identical to the authoring-start snapshot and same-day completed preflight; no new full historical reconstruction.",
+    "Auxiliary sources checked for cited provisions and version notes, not exhaustively commented as separate laws.",
+    "Selective case-law research, no independent second-pass review of this new batch."
+  ],
+  "unresolved_blockers": []
+}

@@ -628,6 +628,57 @@
         }
       ],
       "unit_disposition": "One verified relevant authority added for §197. No additional sufficiently relevant fully verified case selected for remaining 19 assigned units; their explanation is based on captured statutes. No exhaustive case-law coverage claimed."
+    },
+    {
+      "accessed_at": "2026-10-20T17:46:12.475552+00:00",
+      "scope": "bounded author p214-p231",
+      "firecrawl": "firecrawl --status: authenticated, 0 credits; no scrape or search submitted.",
+      "queries": [
+        "site.rechtsprechung-im-internet.de \"225\" \"Wertänderung\" FamFG",
+        "site.rechtsprechung-im-internet.de \"214a\" FamFG",
+        "site.bundesgerichtshof.de \"222\" \"Wahlrecht\" \"Versorgungsausgleich\"",
+        "\"§226\" \"zwölf\" \"2025\" Gesetz",
+        "\"Versorgungsausgleichsrechts\" \"2021\" \"zwölf\""
+      ],
+      "local_corpus": "rg references to §§214a,219,220,225,226 FamFG; manifest filtered for XII ZB564/12,350/15,54/22; selected official snapshots compared with national corpus paragraph by paragraph.",
+      "selected_cases": [
+        {
+          "docket": "XII ZB564/12",
+          "doknr": "KORE303652015",
+          "read": "Tenor, leitsatz and all Rn1–21",
+          "used_for": [
+            "p225"
+          ],
+          "limits": "Prior error alone insufficient; no general total revision."
+        },
+        {
+          "docket": "XII ZB350/15",
+          "doknr": "KORE304572016",
+          "read": "Tenor, leitsatz and all Rn1–25",
+          "used_for": [
+            "p225",
+            "p226 (historical period distinction only)"
+          ],
+          "limits": "Current twelve-month period separately checked; historic amounts not current general thresholds."
+        }
+      ],
+      "not_used": [
+        {
+          "docket": "XII ZB54/22",
+          "reason": "Manifest candidate only, not read or cited."
+        },
+        {
+          "docket": "OLG Hamm 2ORs37/26",
+          "reason": "Search result only; full official text not read; no holding adopted."
+        }
+      ],
+      "failed_discovery": [
+        "Initial misspelled BKGG path bkkg_1996/xml.zip returned HTTP404; corrected to bkgg_1996 and statute identity validated as BKGG1996.",
+        "Initial statute identity assertion expected BKGG rather than actual BKGG1996; corrected before evidence was accepted.",
+        "dejure external redirect to historic BGBl2021 I1085 returned HTTP403; not relied on as an official enactment snapshot."
+      ],
+      "unit_disposition": "Two verified full cases selectively support p225; historical period distinguished at p226. No sufficiently relevant additional fully verified authority selected for the remaining18 units. This does not assert absence of case law.",
+      "reform_proposal_boundary": "Search also discovered Bundestag draft21/6510 proposing24 months; no proposed wording adopted. Current official FamFG retains12 months."
     }
   ]
 }

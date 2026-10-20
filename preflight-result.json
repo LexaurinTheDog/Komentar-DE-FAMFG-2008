@@ -1214,6 +1214,39 @@
       "source_version_report": "sources/author-p195-p213-version-map.json",
       "new_xml_identical": true,
       "unresolved_blockers": []
+    },
+    {
+      "scope": [
+        "p214",
+        "p214a",
+        "p215",
+        "p216",
+        "p216a",
+        "p217",
+        "p218",
+        "p219",
+        "p220",
+        "p221",
+        "p222",
+        "p223",
+        "p224",
+        "p225",
+        "p226",
+        "p227",
+        "p228",
+        "p229",
+        "p230",
+        "p231"
+      ],
+      "verified_at": "2026-10-20T17:46:12.475552+00:00",
+      "fresh_xml": "sources/author-p214-p231-famfg.xml",
+      "source_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "same_effective_version": true,
+      "historical_versions_checked": true,
+      "annexes_and_opening_formula_checked": true,
+      "coverage_complete": true,
+      "version_map": "sources/author-p214-p231-version-map.json",
+      "unresolved_blockers": []
     }
   ],
   "bounded_review_p195_p213": {

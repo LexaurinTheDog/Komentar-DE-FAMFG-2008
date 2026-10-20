@@ -1,0 +1,400 @@
+{
+  "scope": "authoring and technical self-check of exactly20 assigned units; not independent review",
+  "baseline_commit": "de70d61525406c2d2ca7c214a78a988ebfed3b45",
+  "verified_at": "2026-10-20T17:47:09.274689+00:00",
+  "assigned_ids": [
+    "p214",
+    "p214a",
+    "p215",
+    "p216",
+    "p216a",
+    "p217",
+    "p218",
+    "p219",
+    "p220",
+    "p221",
+    "p222",
+    "p223",
+    "p224",
+    "p225",
+    "p226",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231"
+  ],
+  "changed_ids": [
+    "p214",
+    "p214a",
+    "p215",
+    "p216",
+    "p216a",
+    "p217",
+    "p218",
+    "p219",
+    "p220",
+    "p221",
+    "p222",
+    "p223",
+    "p224",
+    "p225",
+    "p226",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231"
+  ],
+  "unassigned_commentary_changes": [],
+  "preserved_existing_commentaries": 240,
+  "source_xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "checks": [
+    {
+      "id": "p214",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2683,
+      "commentary_sha256": "21ca66340b3310ad863613ace98747d31c8b8d3be19645e8d3c0944f7760a591",
+      "official_doknr": "BJNR258700008BJNE021902126"
+    },
+    {
+      "id": "p214a",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2404,
+      "commentary_sha256": "f23e5713365817450e542790f9a16c1efe34d688e9c7611117ea8499db0eed50",
+      "official_doknr": "BJNR258700008BJNE051400311"
+    },
+    {
+      "id": "p215",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2006,
+      "commentary_sha256": "ae6b1cf97fe3c6cb6b5c5d6b1c97eee0f14f44c70e3ad189172a81468b503884",
+      "official_doknr": "BJNR258700008BJNE022000000"
+    },
+    {
+      "id": "p216",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2214,
+      "commentary_sha256": "2c84d4aeec8e4bf3ce8dc33aa5ff8a86f0ed47f510b2df10a2d8e3b64f96e532",
+      "official_doknr": "BJNR258700008BJNE022100000"
+    },
+    {
+      "id": "p216a",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2876,
+      "commentary_sha256": "eb4531cdb465c31de26cbd962a584543d76620f45e3b4a2259acb3dd3c71c929",
+      "official_doknr": "BJNR258700008BJNE022201311"
+    },
+    {
+      "id": "p217",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2345,
+      "commentary_sha256": "9de7231f2d93d45c8e55624f1f54f1c72d8bd87889b855e559f59a0aa58cc3e7",
+      "official_doknr": "BJNR258700008BJNE022300000"
+    },
+    {
+      "id": "p218",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2249,
+      "commentary_sha256": "41830a6d992869627f526ce38afb60ed11074122eb34ff36fdf26a3f390bbb96",
+      "official_doknr": "BJNR258700008BJNE022400000"
+    },
+    {
+      "id": "p219",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2239,
+      "commentary_sha256": "e89590912646438421973174dcc211bf2e4d9c6941ba9368fcec7a01105d3ce2",
+      "official_doknr": "BJNR258700008BJNE022501160"
+    },
+    {
+      "id": "p220",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2513,
+      "commentary_sha256": "cfdb2c4c66735482d70df12d5c2caf052228634d71f4a9c6556d4a55b54dd16c",
+      "official_doknr": "BJNR258700008BJNE022601160"
+    },
+    {
+      "id": "p221",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2328,
+      "commentary_sha256": "0da7b1fdb870d43bb051d66286e1e3958089a896b110748f11f06375e9c01529",
+      "official_doknr": "BJNR258700008BJNE022701160"
+    },
+    {
+      "id": "p222",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2535,
+      "commentary_sha256": "76270452cb28c8cdc6bf697de241d5108bf811e5f29a27442afb8154718e0d89",
+      "official_doknr": "BJNR258700008BJNE022802125"
+    },
+    {
+      "id": "p223",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2203,
+      "commentary_sha256": "d77e3a69b007a7162ecd098031ba33add2af919fb2985a6a3b8c91981450289a",
+      "official_doknr": "BJNR258700008BJNE022901160"
+    },
+    {
+      "id": "p224",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2465,
+      "commentary_sha256": "1815153d59c4b9cf054c870f8bf51a6efe7bac155a954f3d09089d4648ec456a",
+      "official_doknr": "BJNR258700008BJNE023001160"
+    },
+    {
+      "id": "p225",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2980,
+      "commentary_sha256": "494659bbfd8c9b39a186c214733afd66604f42724eb48f02c8d5365cedb75f0b",
+      "official_doknr": "BJNR258700008BJNE023101160"
+    },
+    {
+      "id": "p226",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2626,
+      "commentary_sha256": "39e1b090ab95acfaf91e22d4c4184b91b52dd97f2e2a91db069696ee847413c2",
+      "official_doknr": "BJNR258700008BJNE023202125"
+    },
+    {
+      "id": "p227",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2358,
+      "commentary_sha256": "7aaf7cf40576cbe707fa674abcc2158e4a8b58eb5517efd91f8fbf1c5dc280b2",
+      "official_doknr": "BJNR258700008BJNE023301160"
+    },
+    {
+      "id": "p228",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2047,
+      "commentary_sha256": "82ced7fce6f6ec7cf5cd6353df84ccf296a93c050d8da4fa20c941e3a67ac22e",
+      "official_doknr": "BJNR258700008BJNE023401160"
+    },
+    {
+      "id": "p229",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2603,
+      "commentary_sha256": "6391988514e7f1a58ab29cbe68d11e82fd63d6d3674148cf4220b61f3aea9f2d",
+      "official_doknr": "BJNR258700008BJNE023502311"
+    },
+    {
+      "id": "p230",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 1784,
+      "commentary_sha256": "0eb65e6af2bfacb00b4de691b9b69eb75ed99faae1bea81a041e239eb78cacf8",
+      "official_doknr": "BJNR258700008BJNE023601160"
+    },
+    {
+      "id": "p231",
+      "statutory_text_agrees_ignoring_whitespace": true,
+      "commentary_chars": 2688,
+      "commentary_sha256": "e7847c2ce3f8a3cc1a54c92b455427f66eb291837651be22aa5ab1f8f5fde342",
+      "official_doknr": "BJNR258700008BJNE023701125"
+    }
+  ],
+  "case_corpus_checks": [
+    {
+      "doknr": "KORE303652015",
+      "local_path": "sources/author-p214-p231-local-KORE303652015.md",
+      "local_sha256": "78fcb42ff16ea0a31ef008e67e9f2405f652338019eee85430beec1d461a8b00",
+      "numbered_reasons": [
+        {
+          "rn": 1,
+          "found": true
+        },
+        {
+          "rn": 2,
+          "found": true
+        },
+        {
+          "rn": 3,
+          "found": true
+        },
+        {
+          "rn": 4,
+          "found": true
+        },
+        {
+          "rn": 5,
+          "found": true
+        },
+        {
+          "rn": 6,
+          "found": true
+        },
+        {
+          "rn": 7,
+          "found": true
+        },
+        {
+          "rn": 8,
+          "found": true
+        },
+        {
+          "rn": 9,
+          "found": true
+        },
+        {
+          "rn": 10,
+          "found": true
+        },
+        {
+          "rn": 11,
+          "found": true
+        },
+        {
+          "rn": 12,
+          "found": true
+        },
+        {
+          "rn": 13,
+          "found": true
+        },
+        {
+          "rn": 14,
+          "found": true
+        },
+        {
+          "rn": 15,
+          "found": true
+        },
+        {
+          "rn": 16,
+          "found": true
+        },
+        {
+          "rn": 17,
+          "found": true
+        },
+        {
+          "rn": 18,
+          "found": true
+        },
+        {
+          "rn": 19,
+          "found": true
+        },
+        {
+          "rn": 20,
+          "found": true
+        },
+        {
+          "rn": 21,
+          "found": true
+        }
+      ],
+      "tenor_matches": true
+    },
+    {
+      "doknr": "KORE304572016",
+      "local_path": "sources/author-p214-p231-local-KORE304572016.md",
+      "local_sha256": "01cb3b17c8943078a0934810545a86bbf2d671e094bd46c7fc16282019f66d64",
+      "numbered_reasons": [
+        {
+          "rn": 1,
+          "found": true
+        },
+        {
+          "rn": 2,
+          "found": true
+        },
+        {
+          "rn": 3,
+          "found": true
+        },
+        {
+          "rn": 4,
+          "found": true
+        },
+        {
+          "rn": 5,
+          "found": true
+        },
+        {
+          "rn": 6,
+          "found": true
+        },
+        {
+          "rn": 7,
+          "found": true
+        },
+        {
+          "rn": 8,
+          "found": true
+        },
+        {
+          "rn": 9,
+          "found": true
+        },
+        {
+          "rn": 10,
+          "found": true
+        },
+        {
+          "rn": 11,
+          "found": true
+        },
+        {
+          "rn": 12,
+          "found": true
+        },
+        {
+          "rn": 13,
+          "found": true
+        },
+        {
+          "rn": 14,
+          "found": true
+        },
+        {
+          "rn": 15,
+          "found": true
+        },
+        {
+          "rn": 16,
+          "found": true
+        },
+        {
+          "rn": 17,
+          "found": true
+        },
+        {
+          "rn": 18,
+          "found": true
+        },
+        {
+          "rn": 19,
+          "found": true
+        },
+        {
+          "rn": 20,
+          "found": true
+        },
+        {
+          "rn": 21,
+          "found": true
+        },
+        {
+          "rn": 22,
+          "found": true
+        },
+        {
+          "rn": 23,
+          "found": true
+        },
+        {
+          "rn": 24,
+          "found": true
+        },
+        {
+          "rn": 25,
+          "found": true
+        }
+      ],
+      "tenor_matches": true
+    }
+  ],
+  "exported_assigned_count": 20,
+  "exported_assigned_statutory_text_agrees": true,
+  "errors": [],
+  "ok": true
+}

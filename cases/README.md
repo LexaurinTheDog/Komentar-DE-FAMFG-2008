@@ -45,3 +45,6 @@ Die elfte begrenzte Zweitprüfung ergänzt [BGH, 25. August 2021 — XII ZB 442/
 
 
 Die Autorencharge §§ 195–213 ergänzt [BGH, 27. März 2024 — XII ZB 237/23](BGH-XII-ZB-237-23.md) zur Beschwerdebefugnis gegen einen Berichtigungsbeschluss. Der vollständige Text einschließlich amtlicher Berichtigung vom 10. Juli 2024 wurde gelesen. Die ausdrücklich offengelassene Zulässigkeit der konkreten Berichtigung wird nicht als entschieden behandelt. Der Fallkartenbestand umfasst nun 25 selektiv ausgewertete Entscheidungen; für die übrigen technischen Vorschriften dieser Charge wird keine ungesicherte Einzelfallautorität ergänzt.
+
+
+Die Autorencharge §§ 214–231 ergänzt [BGH, 27. Mai 2015 — XII ZB 564/12](BGH-XII-ZB-564-12.md) zur fehlenden selbständigen Fehlerkorrektur nach § 225 und [BGH, 22. Juni 2016 — XII ZB 350/15](BGH-XII-ZB-350-15.md) zu beiden Wesentlichkeitsgrenzen und Kapitalwertmaßstab. Sämtliche 21 beziehungsweise 25 Gründe und Tenor wurden gelesen. Historische Sechsmonatsfrist, Beträge und unzutreffende Gesetzesabkürzungen werden nicht als heutiger Gesetzestext übernommen.27 Fallkarten, weiterhin selektive Abdeckung.

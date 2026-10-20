@@ -1,0 +1,81 @@
+{
+  "kind": "author",
+  "complete": true,
+  "assigned_ids": [
+    "p214",
+    "p214a",
+    "p215",
+    "p216",
+    "p216a",
+    "p217",
+    "p218",
+    "p219",
+    "p220",
+    "p221",
+    "p222",
+    "p223",
+    "p224",
+    "p225",
+    "p226",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231"
+  ],
+  "units_written": 20,
+  "commentary_characters": 48146,
+  "completed_at": "2026-10-20T17:47:08.437926+00:00",
+  "baseline_commit": "de70d61525406c2d2ca7c214a78a988ebfed3b45",
+  "decisive_date": "2026-10-19",
+  "authored_on": "2026-10-20",
+  "source_checks": "sources/author-p214-p231-fetch.json",
+  "version_evidence": "sources/author-p214-p231-version-map.json",
+  "case_cards": [
+    "cases/BGH-XII-ZB-564-12.md",
+    "cases/BGH-XII-ZB-350-15.md"
+  ],
+  "independent_review": false,
+  "whole_book_complete": false,
+  "whole_book_commentary": {
+    "total": 529,
+    "completed": 260,
+    "remaining": 269,
+    "first_missing": "p232"
+  },
+  "validation": {
+    "full_build_exit_code": 1,
+    "statutory_coverage_complete": true,
+    "strict_validator": "Run after committing the export",
+    "technical_audit": "author-p214-p231-audit.json"
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "The 20 new units await an independent second pass.",
+    "Whole manuscript incomplete: 269 additional units remain outside assignment.",
+    "Case-law research selective: two official full decisions; no additional verified authority selected for 18 other units.",
+    "Length and similarity screening do not establish legal quality."
+  ],
+  "unit_specific_self_check": {
+    "p214": "Application, statutory urgency presumption, 2026 alternative service, enforcement-order distinction, §§51/53/54/57.",
+    "p214a": "Confirmable scope only; §1 vs §2 GewSchG; mandatory legal test, partial scope, unappealable confirmation, limited criminal consequences.",
+    "p215": "Final housing order, necessary implementation, proportionality, no autonomous property transfer or immediate effect.",
+    "p216": "Finality default, should-order immediate effect, discretionary enforcement before service, operative handover timestamp.",
+    "p216a": "Police and actually affected public bodies, modification/revocation, balancing, participant notice, confirmed comparison.",
+    "p217": "Scope across original and later claims; classification vs initiation; no general ZPO litigation model.",
+    "p218": "All five exclusive ranks, pending appeal vs completed divorce, ordinary residence, fallback not international jurisdiction.",
+    "p219": "Spouses, source and target providers, survivors/heirs, distinction from substantive entitlement and special death rules.",
+    "p220": "All five paragraphs: sources, mandatory forms and automation exception, participation orders, explainable calculations, binding requests.",
+    "p221": "Should-discuss, mandatory stay for pending preliminary rights dispute, discretionary stay and action deadline otherwise, limited exclusion.",
+    "p222": "All three choices including §19(2)5, same-period provider consent, payment amount, complete §16 exception.",
+    "p223": "Application for all §§20–26 claims, contrast with ex officio divorce balance, maturity and named outstanding rights.",
+    "p224": "Finality and reasons, precisely listed negative operative rulings, outstanding rights named only in reasons.",
+    "p225": "§32 systems, independent later change vs error; relative >=5% and absolute strictly greater; pension/capital distinction; waiting time; beneficiary; old-law boundary.",
+    "p226": "Applicants, current12 months vs historic6, §27 fairness, month-after-filing effect, two different death/continuation rules.",
+    "p227": "§48(1) for ongoing postdivorce claims; no automatic §225 numerical thresholds; corresponding §§225/226 for agreements without exclusion.",
+    "p228": "Merits free of §61 amount threshold; costs exception; other admissibility and §493(6) remain.",
+    "p229": "Joint system participation; all three security conditions; data vs service; automatically generated receipt timestamp.",
+    "p230": "Explicit repealed unit retained; no present operative power; no historical wording introduced as current.",
+    "p231": "All statutory claim groups, §1305 and §§1615l/m BGB, special child-benefit designation, exclusions235–245, §112 scope only paragraph1."
+  }
+}
