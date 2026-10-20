@@ -505,6 +505,26 @@
         "KORE304302015"
       ],
       "limits": "Selective research, no exhaustive treatment/citator search; no verified case for17other assigned units."
+    },
+    {
+      "date": "2026-10-20T17:17:48.197009+00:00",
+      "scope": "bounded second-pass review p176–p194",
+      "queries": [
+        "site.rechtsprechung-im-internet.de \"185a\" \"FamFG\"",
+        "site.bundesgerichtshof.de \"§ 193\" \"XII ZB\" \"2025\" Adoption",
+        "site.rechtsprechung-im-internet.de \"193\" \"sittliche Rechtfertigung\" \"verneint\"",
+        "site.bundesgerichtshof.de \"193\" \"Anhörung\" \"237/23\"",
+        "site.rechtsprechung-im-internet.de \"XII ZB 442/18\"",
+        "rg -l XII ZB442/18 and Anhörung/sittliche in local national rii corpus"
+      ],
+      "method": "Web discovery identified442/18and local KORE311362021; official ZIP/XML fetched, all53reasons/tenor/official summary read. Existing20/14(42reasons)and54/18(71reasons)officially refetched and re-read. Each compared to local national corpus. Discovery snippets and third-party annotations not used as authorities.",
+      "selected": [
+        "KORE311642014",
+        "KORE301422020",
+        "KORE311362021"
+      ],
+      "not_selected": "Other discovered docket237/23and128/24not used as authority; no sufficiently relevant verified185adecision found by these searches.",
+      "limits": "Selective discovery, not exhaustive. Firecrawl authenticated but zero credits, direct official HTTP used."
     }
   ],
   "bounded_authoring": [

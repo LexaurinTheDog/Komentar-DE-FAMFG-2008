@@ -1,6 +1,6 @@
 # Prüfprotokoll und ausstehende Bearbeitung
 
-**Kein externes fachliches Freigabeurteil.** Der erste Teil dokumentiert die frühere Eigenkontrolle vom 19. Oktober 2026 und die Quellenvorprüfung. Die anschließend dokumentierten zehn getrennten Zweitprüfungen vom 20. Oktober sind jeweils auf genau 20 Einheiten beschränkt.
+**Kein externes fachliches Freigabeurteil.** Der erste Teil dokumentiert die frühere Eigenkontrolle vom 19. Oktober 2026 und die Quellenvorprüfung. Die anschließend dokumentierten elf getrennten Zweitprüfungen vom 20. Oktober sind jeweils auf genau 20 Einheiten beschränkt.
 
 ## Vorhandener Bestand
 
@@ -20,7 +20,7 @@ Die Ausgangs- und Aktualitätsquellen sowie drei relevante Verkündungsakte sind
 
 Der vollständige Kommentar ab § 195, darunter der Abschluss der Adoptionssachen, weitere Familiensachen, Betreuung und Unterbringung, Nachlass und Teilung, Register, Freiheitsentziehung, Aufgebot und Schlussrecht, fehlt noch. Die Wortlautdatei ist hierfür vorhanden; sie ist kein Ersatz für originäre Erläuterungen.
 
-Die Rechtsprechungsrecherche bleibt selektiv und muss für die noch fehlenden Sachgebiete fortgesetzt werden. Ein vorhandener, nicht ausgewerteter Download darf nicht ohne tatsächliche Lektüre als geprüft gelten. Auch der vorhandene Kommentar benötigt eine frische unabhängige zweite Prüfung auf Auslegung, Verweise, Anwendungsgrenzen und Aktualität vor einer Kennzeichnung als vollständig geprüft.
+Die Rechtsprechungsrecherche bleibt selektiv und muss für die noch fehlenden Sachgebiete fortgesetzt werden. Ein vorhandener, nicht ausgewerteter Download darf nicht ohne tatsächliche Lektüre als geprüft gelten. Für die vorhandenen 220 Kommentare liegen inzwischen die nachstehenden begrenzten Zweitprüfungsberichte vor. Die noch fehlenden Kommentare benötigen nach ihrer Ausarbeitung ebenfalls eine frische Zweitprüfung; eine Gesamtprüfung wird hier nicht behauptet.
 
 ## Buildzustand
 
@@ -219,3 +219,18 @@ Dies ist Autorenselbstkontrolle, keine unabhängige Zweitprüfung der neuen Char
 
 
 Technischer Abschluss dieser Autorencharge: 20/20 zugewiesene Einheiten sind geschrieben und mit dem amtlichen Wortlaut abgeglichen; keine andere Kommentierung wurde geändert. Die Parserwiederholung ließ Einheiten, Metadaten und kanonische Quelle bytegleich ([Reproduktionsnachweis](author-p176-p194-parser-replay.json)). Alle 529 gesetzlichen Kennungen sind vollständig und eindeutig erfasst. Im exportierten elften Kapitel stimmen die 20 Gesetzestexte mit den Quelldaten überein. 500 lokale Belegverknüpfungen wurden geprüft; keine defekte Verknüpfung, kein Hashfehler und keine auffällige exakte oder nahe Wiederholung wurden festgestellt. Die neue Kommentierung umfasst 49.388 Zeichen; diese Zahl ist kein Qualitätsnachweis. Der reguläre Vollbuild und die strenge Gesamtvalidierung bleiben ausschließlich wegen der 309 ausstehenden Kommentare ab § 195 negativ. Die Teil-Ausgabe wurde neu erstellt und lokal versioniert. Die unabhängige zweite Prüfung der neuen 20 Einheiten steht aus.
+
+
+## Elfte begrenzte Zweitprüfung: §§ 176–194 am 20. Oktober 2026
+
+Die frische Prozessprüfung erfasst ausschließlich p176, p177, p178, p179, p180, p181, p182, p183, p184, p185, p185a, p186, p187, p188, p189, p190, p191, p192, p193 und p194. Jede Vorschrift wurde mit allen Absätzen und Aufzählungen gegen das frisch abgerufene amtliche XML gelesen. Vollständig geprüft wurden außerdem die vorhandenen Erläuterungen, Fallbezüge, Beispiele, Konsequenzen und Querverweise. Zehn Kommentare erhielten gezielte Ergänzungen oder Klarstellungen, zehn konnten nach der Quellenprüfung unverändert erhalten bleiben. Keine andere Kommentierung wurde bearbeitet. [Einzelfeststellungen](review-p176-p194-result.json).
+
+Wesentliche Änderungen betreffen die Glaubhaftmachung von Untersuchungsweigerungsgründen, die seit April 2026 geltende Zustimmung des Kindes mit altersabhängiger Erklärung und gesetzlicher Zustimmungsfiktion, die erneute Wartefrist und den Eintritt der Volljährigkeit bei Wiederaufnahme. Die Anerkennung ausländischer Erwachsenenadoptionen wird ausdrücklich vom Anwendungsbereich des AdWirkG getrennt. Die besondere Zuständigkeit Schönebergs im Kammergerichtsbezirk wird von der allgemeinen Auffangzuständigkeit unterschieden. Elternbeteiligung, anonyme Einwilligung, fachliche Äußerung, Beratungsschein und eigenständige Beteiligtenrechte des Verfahrensbeistands bleiben getrennte Fragen.
+
+Neu vollständig gelesen wurden Leitsätze, Tenor und Rn. 1–53 von [BGH XII ZB 442/18](cases/BGH-XII-ZB-442-18.md). Die Ergänzung zu § 193 ist auf Rn. 46–48 beschränkt: Wird eine Volljährigenadoption bereits wegen fehlender sittlicher Rechtfertigung abgelehnt, verlangt der Schutz vorhandener Kinder keine Anhörung zu deren entgegenstehenden Interessen. Vor einer stattgebenden Entscheidung bleibt der Anhörungsstandard bestehen. Die gesonderte Amtsermittlung nach Rn. 49–51 wird nicht durch diese Ausnahme beseitigt. Die Entscheidung ersetzt keine heutige Prüfung fremden Rechts oder des Aufenthaltsrechts.
+
+[BGH XII ZB 20/14](cases/BGH-XII-ZB-20-14.md), Rn. 1–42, und [BGH XII ZB 54/18](cases/BGH-XII-ZB-54-18.md), Rn. 1–71, wurden vollständig erneut gelesen. Vorinstanzreferate und eigene BGH-Aussagen sind getrennt; die Verweise auf das frühere AdWirkG werden nicht als heutige Paragraphenfolge behandelt. Alle nummerierten Gründe und der Tenor stimmen mit dem [lokalen nationalen Korpus](sources/review-p176-p194-case-corpus-check.json) überein. Für § 185a wurde keine hinreichend relevante verifizierte Entscheidung ausgewählt; die Erläuterung stützt sich auf den geltenden Text. Die Fallauswahl bleibt selektiv.
+
+Die erneute amtliche FamFG-Lieferung ist zur Grundlage vom Bearbeitungsbeginn bytegleich. Das Gesetz gilt hier zum unveränderten Stichtag 19. Oktober 2026. Artikel 4 Nummern 4–7 und Artikel 6 BGBl. 2026 I Nr. 83 wurden im frisch geladenen Verkündungsakt gelesen; die Reform gilt seit 1. April 2026. Spätere geltende und erst 2027 wirksame Änderungen wurden anhand der gesicherten Verkündungsregeln abgegrenzt. Alle 599 Normelemente und 529 Paragrapheneinheiten einschließlich der leeren Kennung § 190 sind erfasst. Es gibt keine übergangene Eingangsformel oder operative Anlage. Parserwiederholung, XML-Metadaten, Inhaltsübersicht und frischer HTML-Index stimmen überein. [Vorprüfung](preflight-result.json), [Versionskarte](sources/review-p176-p194-version-map.json), [Parserlauf](review-p176-p194-parser-replay.json).
+
+Im zugewiesenen Umfang bestehen keine ungelösten materiellen Blocker. Alle vorhandenen 220 Kommentare besitzen nun begrenzte Zweitprüfungsberichte; dieser Durchgang prüfte genau die genannten 20. 309 Vorschriften ab § 195 sind weiterhin unkommentiert. Historische Chargenberichte beschreiben ihren jeweiligen damaligen Stand. Keine externe fachliche Freigabe, Veröffentlichung oder Übermittlung.

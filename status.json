@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T17:10:28.957019+00:00",
+  "updated_at": "2026-10-20T17:18:55.904156+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -21,6 +21,7 @@
     "cases/BGH-XII-ZB-232-09.md",
     "cases/BGH-XII-ZB-264-22.md",
     "cases/BGH-XII-ZB-280-15.md",
+    "cases/BGH-XII-ZB-442-18.md",
     "cases/BGH-XII-ZB-447-10.md",
     "cases/BGH-XII-ZB-476-25.md",
     "cases/BGH-XII-ZB-54-18.md",
@@ -53,11 +54,10 @@
     "technical_audit": "technical-audit.json"
   },
   "remaining_limitations": [
-    "Independent second-pass review of these 20 newly authored units remains outstanding.",
-    "The entire book remains incomplete: 309 units from § 195 onward lack commentary.",
-    "Case-law research is selective; no on-point verified case selected for § 185a.",
-    "Auxiliary statutes checked for cited provisions; specific state jurisdiction concentration ordinances require case-specific verification.",
-    "Length and repetition checks do not establish legal quality."
+    "309statutory units from195onwards lack commentary.",
+    "Whole-book build and strict validation remain negative for missing commentary outside this assigned review.",
+    "All220existing comments have bounded second-pass reports; this process reviewed only20assigned units.",
+    "Selective case-law coverage, no verified on-point185acase, auxiliary-statute and state-venue limits as documented."
   ],
   "commented_scope": "§§ 1–194 einschließlich § 185a",
   "resume": {
@@ -73,7 +73,7 @@
   "source_preflight": {
     "complete": true,
     "result": "preflight-result.json",
-    "verified_at": "2026-10-20T16:56:46.850441+00:00",
+    "verified_at": "2026-10-20T17:17:48.197009+00:00",
     "date": "2026-10-20",
     "commentaries_changed": false
   },
@@ -81,33 +81,32 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p165",
-      "p166",
-      "p167",
-      "p167a",
-      "p167b",
-      "p168",
-      "p168a",
-      "p168b",
-      "p168c",
-      "p168d",
-      "p168e",
-      "p168f",
-      "p168g",
-      "p169",
-      "p170",
-      "p171",
-      "p172",
-      "p173",
-      "p174",
-      "p175"
+      "p176",
+      "p177",
+      "p178",
+      "p179",
+      "p180",
+      "p181",
+      "p182",
+      "p183",
+      "p184",
+      "p185",
+      "p185a",
+      "p186",
+      "p187",
+      "p188",
+      "p189",
+      "p190",
+      "p191",
+      "p192",
+      "p193",
+      "p194"
     ],
     "result": "review-result.json",
-    "archived_result": "review-p165-p175-result.json",
-    "technical_audit": "review-p165-p175-audit.json",
+    "archived_result": "review-p176-p194-result.json",
+    "technical_audit": "review-p176-p194-audit.json",
     "unresolved_blockers": [],
-    "whole_book_complete": false,
-    "commentary_characters": 50836
+    "whole_book_complete": false
   },
   "bounded_review_history": [
     {
@@ -392,10 +391,42 @@
       "unresolved_blockers": [],
       "whole_book_complete": false,
       "commentary_characters": 46297
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "p165",
+        "p166",
+        "p167",
+        "p167a",
+        "p167b",
+        "p168",
+        "p168a",
+        "p168b",
+        "p168c",
+        "p168d",
+        "p168e",
+        "p168f",
+        "p168g",
+        "p169",
+        "p170",
+        "p171",
+        "p172",
+        "p173",
+        "p174",
+        "p175"
+      ],
+      "result": "review-p165-p175-result.json",
+      "archived_result": "review-p165-p175-result.json",
+      "technical_audit": "review-p165-p175-audit.json",
+      "unresolved_blockers": [],
+      "whole_book_complete": false,
+      "commentary_characters": 50836
     }
   ],
-  "cumulative_independently_reviewed_units": 200,
-  "remaining_existing_commentaries_for_review": 20,
+  "cumulative_independently_reviewed_units": 220,
+  "remaining_existing_commentaries_for_review": 0,
   "commentary_characters": 437391,
   "bounded_authoring": {
     "complete": true,

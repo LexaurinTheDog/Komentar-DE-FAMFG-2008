@@ -1,0 +1,207 @@
+[
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "actual_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "accessed_at": "2026-10-20T17:12:52.957243+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p176-p194-famfg.zip",
+    "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+    "members": [
+      "BJNR258700008.xml"
+    ],
+    "xml_path": "sources/review-p176-p194-famfg.xml",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.gesetze-im-internet.de/famfg/",
+    "actual_url": "https://www.gesetze-im-internet.de/famfg/",
+    "accessed_at": "2026-10-20T17:12:53.234555+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p176-p194-index.html",
+    "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+    "format_validation": "HTML signature and FamFG identity"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "actual_url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "accessed_at": "2026-10-20T17:12:53.396725+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p176-p194-bgb.zip",
+    "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+    "stand_notices": [
+      "NeufNeugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+      "Standzuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+    ],
+    "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+    "members": [
+      "BJNR001950896.xml"
+    ],
+    "xml_path": "sources/review-p176-p194-bgb.xml",
+    "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+    "actual_url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+    "accessed_at": "2026-10-20T17:12:53.967384+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p176-p194-zpo.zip",
+    "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+    "stand_notices": [
+      "NeufNeugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;",
+      "Standzuletzt geändert Art. 2 G v. 22.12.2025 I Nr. 349",
+      "HinweisÄnderung durch Art. 1 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "HinweisÄnderung durch Art. 2 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "HinweisÄnderung durch Art. 3 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+    ],
+    "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+    "members": [
+      "BJNR005330950.xml"
+    ],
+    "xml_path": "sources/review-p176-p194-zpo.xml",
+    "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.gesetze-im-internet.de/adwirkg/xml.zip",
+    "actual_url": "https://www.gesetze-im-internet.de/adwirkg/xml.zip",
+    "accessed_at": "2026-10-20T17:12:54.472991+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p176-p194-adwirkg.zip",
+    "sha256": "395729489c64f6db367da3e71ada3a2538444972bc1374bb7021a636d3d3852d",
+    "stand_notices": [
+      "StandZuletzt geändert durch Art. 3 G v. 12.2.2021 I 226"
+    ],
+    "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+    "members": [
+      "BJNR295300001.xml"
+    ],
+    "xml_path": "sources/review-p176-p194-adwirkg.xml",
+    "xml_sha256": "d0338fe5fa89ae5048c9dc8a65a39229f799479c066d91970ea287bbb11cfce6"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.gesetze-im-internet.de/advermig_1976/xml.zip",
+    "actual_url": "https://www.gesetze-im-internet.de/advermig_1976/xml.zip",
+    "accessed_at": "2026-10-20T17:12:54.597182+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p176-p194-advermig.zip",
+    "sha256": "9145f6034d4b23ea94ae2bdac1aa17208ca4d16d6978a1a3dfbac40aeff9f3a4",
+    "stand_notices": [
+      "NeufNeugefasst durch Bek. v. 21.6.2021 I 2010"
+    ],
+    "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+    "members": [
+      "BJNR017620976.xml"
+    ],
+    "xml_path": "sources/review-p176-p194-advermig.xml",
+    "xml_sha256": "5ae2dc4c00f478e7d23d7e7a9f860b71758454215b003177518a4b36cde567d5"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.gesetze-im-internet.de/gendg/xml.zip",
+    "actual_url": "https://www.gesetze-im-internet.de/gendg/xml.zip",
+    "accessed_at": "2026-10-20T17:12:54.745025+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p176-p194-gendg.zip",
+    "sha256": "eff05819b5f9e7af80646ec72a0f8fac6238a8d8c4c8b65b945da35cf6b0737a",
+    "stand_notices": [
+      "StandZuletzt geändert durch Art. 15 Abs. 4 G v. 4.5.2021 I 882"
+    ],
+    "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+    "members": [
+      "BJNR252900009.xml"
+    ],
+    "xml_path": "sources/review-p176-p194-gendg.xml",
+    "xml_sha256": "c915e5a0c62c3a1a3800381e309c9218b8687450018361026e7887c3d8eafdf8"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE311642014.zip",
+    "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE311642014.zip",
+    "accessed_at": "2026-10-20T17:12:54.869038+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p176-p194-XII-ZB-20-14.zip",
+    "sha256": "07c8963c141b3240c9b4b80328138b4e52717f80cbb040baf25147e499323d12",
+    "case_metadata": {
+      "doknr": "KORE311642014",
+      "gertyp": "BGH",
+      "entsch-datum": "20141029",
+      "aktenzeichen": "XII ZB 20/14",
+      "ecli": ""
+    },
+    "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+    "members": [
+      "jb-KORE311642014.xml"
+    ],
+    "xml_path": "sources/review-p176-p194-XII-ZB-20-14.xml",
+    "xml_sha256": "9a7e7351848b11e8e04a7a09bc8d23c424599f87a3dbdf7e995d0064fa723067"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301422020.zip",
+    "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301422020.zip",
+    "accessed_at": "2026-10-20T17:12:55.132351+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p176-p194-XII-ZB-54-18.zip",
+    "sha256": "575fe77f0fc0e02d50eaa1f4739399bd7399528dcd1a845726f0121db2bdee7c",
+    "case_metadata": {
+      "doknr": "KORE301422020",
+      "gertyp": "BGH",
+      "entsch-datum": "20200527",
+      "aktenzeichen": "XII ZB 54/18",
+      "ecli": "ECLI:DE:BGH:2020:270520BXIIZB54.18.0"
+    },
+    "format_validation": "ZIP signature and CRC, unique parsed XML, expected statute/case identity checked",
+    "members": [
+      "jb-KORE301422020.xml"
+    ],
+    "xml_path": "sources/review-p176-p194-XII-ZB-54-18.xml",
+    "xml_sha256": "64b5ec5d33d0b6bafc0a04a9f933872c07e8159097ade52e52550d1347c652e4"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.recht.bund.de/bgbl/1/2026/83/regelungstext.pdf?__blob=publicationFile&v=2",
+    "actual_url": "https://www.recht.bund.de/bgbl/1/2026/83/regelungstext.pdf?__blob=publicationFile&v=2",
+    "accessed_at": "2026-10-20T17:13:49.555033+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p176-p194-bgbl-2026-83.pdf",
+    "sha256": "0f0447e6a9c93f1300ade5cd46e3d3c35caef59137542f58d2c1c7894b3023a9",
+    "format_validation": "PDF signature, byte-identical to earlier PDF; pdftotext and six pages read"
+  },
+  {
+    "purpose": "bounded review p176-p194",
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE311362021.zip",
+    "actual_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE311362021.zip",
+    "accessed_at": "2026-10-20T17:14:28.666829+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p176-p194-XII-ZB-442-18.zip",
+    "sha256": "9e5ccb52990f2e3faebe3ba857f6914427b5a7fd1502b0555ea307c248d417ef",
+    "xml_path": "sources/review-p176-p194-XII-ZB-442-18.xml",
+    "xml_sha256": "61efd50198c1bc497ef3fb3b65fc8c229855802e2879c82a7fc5f9d3122b25ab",
+    "format_validation": "ZIP signature, CRC, unique parseable XML, case number and date checked",
+    "case_metadata": {
+      "doknr": "KORE311362021",
+      "gertyp": "BGH",
+      "entsch-datum": "20210825",
+      "aktenzeichen": "XII ZB 442/18",
+      "ecli": "ECLI:DE:BGH:2021:250821BXIIZB442.18.0"
+    }
+  }
+]

@@ -1,6 +1,6 @@
 # Selektive Fallkarten
 
-Einundzwanzig amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
+Vierundzwanzig amtliche Volltexte wurden vollständig gelesen und für abgegrenzte verfahrensrechtliche Aussagen verwendet:
 
 - [BGH, 27.10.2021, XII ZB 114/21](BGH-XII-ZB-114-21.md): Nachholung fehlerhafter Anhörung, Fachkunde und Zurückverweisung; §§ 68 und 74; begrenzter Prüfungsnachtrag zu §§ 26 und 34.
 - [BGH, 15.03.2017, XII ZB 109/16](BGH-XII-ZB-109-16.md): bestimmter Sachantrag aus rechtzeitigem Gesamtvorbringen; § 117.
@@ -39,3 +39,6 @@ Die zehnte Prüfung ergänzt [BGH, 5. Oktober 2016 — XII ZB 280/15](BGH-XII-ZB
 
 
 Die Autorencharge §§ 176–194 ergänzt [BGH, 29. Oktober 2014 — XII ZB 20/14](BGH-XII-ZB-20-14.md) zu förmlichem Beweis und Untersuchungsduldung einschließlich Exhumierung (§§ 177–178) sowie [BGH, 27. Mai 2020 — XII ZB 54/18](BGH-XII-ZB-54-18.md) zu Annahme/Anerkennung und zur Unterscheidung von Beteiligung und wirksamer Anhörung (§§ 186, 188, 193). Beide Volltexte wurden vollständig gelesen. Die historische Verweisung auf § 5 AdWirkG wird nicht als heutige Rechtslage ausgegeben. Keine erschöpfende Rechtsprechungsabdeckung; für die neue Sonderwiederaufnahme nach § 185a wurde keine aktuelle einschlägige Entscheidung ausgewählt.
+
+
+Die elfte begrenzte Zweitprüfung ergänzt [BGH, 25. August 2021 — XII ZB 442/18](BGH-XII-ZB-442-18.md): Ausnahme von § 193 bei bereits wegen fehlender sittlicher Rechtfertigung abgelehnter Volljährigenadoption, Rn. 46–48; getrennte Amtsermittlung Rn. 49–51. Alle 53 Gründe wurden gelesen. Die beiden vorhandenen Karten zu XII ZB 20/14 und XII ZB 54/18 wurden nach erneutem Volltextabruf bestätigt beziehungsweise beim heutigen Anwendungsbereich des AdWirkG präzisiert. Die Gesamtzahl 24 bezeichnet den bisherigen Fallkartenbestand; dieser Durchgang prüfte genau diese drei Entscheidungen.

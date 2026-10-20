@@ -1,0 +1,17 @@
+{
+  "command": "python3 -I _parse.py",
+  "exit_code": 0,
+  "before": {
+    "units.jsonl": "5b3ca3bcedaf3d83855f06ddf240a6366e13613fd891e50d2c09877b0aa3955f",
+    "meta.json": "d75fcd7c989af31be2e27a5036f23e2f5ec491da64bb3c89336cf874c0b40782",
+    "sources/famfg-canonical.md": "c29df3a6e371307fe8bcc3231f928af92379828240c2fdab8b8fb18153eeca34",
+    "sources/change-map.json": "79ba8053c51070d01468a8151f188e7e037c78ca949302e0e4a02d95897a63bb"
+  },
+  "after": {
+    "units.jsonl": "5b3ca3bcedaf3d83855f06ddf240a6366e13613fd891e50d2c09877b0aa3955f",
+    "meta.json": "d75fcd7c989af31be2e27a5036f23e2f5ec491da64bb3c89336cf874c0b40782",
+    "sources/famfg-canonical.md": "c29df3a6e371307fe8bcc3231f928af92379828240c2fdab8b8fb18153eeca34",
+    "sources/change-map.json": "79ba8053c51070d01468a8151f188e7e037c78ca949302e0e4a02d95897a63bb"
+  },
+  "byte_identical": true
+}

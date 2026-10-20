@@ -1,0 +1,101 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T17:17:48.197009+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/famfg/",
+  "fresh_xml": "sources/review-p176-p194-famfg.xml",
+  "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+  "same_as_authoring_start": true,
+  "fresh_html_index": "sources/review-p176-p194-index.html",
+  "fresh_html_index_agrees": true,
+  "xml_builddate": "20261008215512",
+  "official_stand_notices": [
+    "StandZuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+    "HinweisÄnderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+    "SonstMittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+  ],
+  "effective_reform": {
+    "act": "BGBl. 2026 I Nr.83",
+    "amending_clauses": "Article4Nr4–7:176,180,182,185a; Article1:1594Abs5,1595–1597,1600BGB",
+    "commencement": "Article6:day after promulgation, issued31March2026",
+    "effective_date": "2026-04-01",
+    "evidence": "sources/review-p176-p194-bgbl-2026-83.pdf",
+    "sha256": "0f0447e6a9c93f1300ade5cd46e3d3c35caef59137542f58d2c1c7894b3023a9",
+    "text_evidence": "sources/review-p176-p194-bgbl-2026-83.txt",
+    "byte_identical_to_existing_evidence": true
+  },
+  "later_and_future_amendments": [
+    {
+      "act": "BGBl. 2026 I Nr.152",
+      "amending_clause": "Art.6",
+      "effective_clause": "Art.18 Abs.1; exceptions in Abs.2–4 do not cover Art.6",
+      "effective_date": "2026-10-01",
+      "units": [
+        "p95"
+      ],
+      "evidence": "sources/bgbl-152.pdf",
+      "fresh_identical_evidence": "sources/bgbl-152-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.192",
+      "amending_clause": "Art.4 Nr.1–4",
+      "effective_clause": "Art.20 Abs.1; exceptions in Abs.2–5 do not cover Art.4",
+      "effective_date": "2026-10-01",
+      "units": [
+        "p41a",
+        "p46",
+        "p113"
+      ],
+      "evidence": "sources/bgbl-192.pdf",
+      "fresh_identical_evidence": "sources/bgbl-192-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.198",
+      "amending_clause": "Art.4 Nr.8",
+      "effective_clause": "Art.10 Abs.1 Nr.2; publication on 2026-07-09",
+      "effective_date": "2026-07-10",
+      "units": [
+        "p214"
+      ],
+      "evidence": "sources/bgbl-198.pdf",
+      "fresh_identical_evidence": "sources/bgbl-198-2026-10-20.pdf"
+    },
+    {
+      "act": "BGBl. 2026 I Nr.198",
+      "amending_clause": "Art.4 Nr.1–7,9",
+      "effective_clause": "Art.10 Abs.2",
+      "effective_date": "2027-07-01",
+      "excluded_future_ids": [
+        "p94a",
+        "p94b",
+        "p94c",
+        "p94d",
+        "p167c",
+        "p216b"
+      ],
+      "other_excluded_changes": [
+        "p57",
+        "p88",
+        "p96",
+        "TOC and subsection renumbering"
+      ],
+      "evidence": "sources/bgbl-198.pdf"
+    }
+  ],
+  "later_clauses_re_read": "Relevant FamFG amendments and commencement clauses of152Art6/18,192Art4/20and198Art4/10 read; no changes to assigned176–194. Future167c excluded.",
+  "intake_comparison": "sources/change-map.json: six resolved presentation/note differences; no substantive paragraph wording change",
+  "historical_check": "Single text per current identifier;185aAbs1S2 historical1600Abs2 reference retained as historical. XII ZB54/18 old AdWirkG5 distinguished from current6and adult exclusion1Abs1S2.",
+  "recent_gazette": "sources/recent-enactments-check.json: same-day selected seven statutory full-text checks reused; no exhaustive retrospective survey",
+  "auxiliary_sources": [
+    "sources/review-p176-p194-bgb.xml",
+    "sources/review-p176-p194-zpo.xml",
+    "sources/review-p176-p194-adwirkg.xml",
+    "sources/review-p176-p194-advermig.xml",
+    "sources/review-p176-p194-gendg.xml"
+  ],
+  "limits": [
+    "Auxiliary statutes inspected for the cited clauses only, no complete independent legislative history of those statutes.",
+    "State concentration ordinances are case-specific; no particular Land or district selected.",
+    "No complete reconstruction of FamFG amendments since2008; late-gazette screening has the limits in recent-enactments-check.json.",
+    "Selective case-law review, no exhaustive later-treatment or citator search."
+  ]
+}
