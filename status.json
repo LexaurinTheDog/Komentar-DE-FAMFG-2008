@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T19:10:05.657582+00:00",
+  "updated_at": "2026-10-20T19:12:01.438166+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -54,9 +54,9 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 712848,
+      "commentary_chars": 767944,
       "errors": [
-        "krátký/chybějící komentář u 209 jednotek: ['p292(0<400)', 'p292a(0<400)', 'p293(0<400)', 'p294(0<400)', 'p295(0<400)', 'p296(0<400)', 'p297(0<400)', 'p298(0<400)']"
+        "krátký/chybějící komentář u 189 jednotek: ['p310(0<400)', 'p311(0<400)', 'p312(0<400)', 'p313(0<400)', 'p314(0<400)', 'p315(0<400)', 'p316(0<120)', 'p317(0<400)']"
       ],
       "warnings": [],
       "ok": false
@@ -66,9 +66,9 @@
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "bounded_batch_ok": true,
-    "validated_at": "2026-10-20T18:59:21.661529+00:00",
-    "expected_intermediate_failure": "209 unannotated units outside exact p272–p291 review; all20assignedunits reviewed,100%statutoryagreement."
+    "bounded_author_batch_ok": true,
+    "validated_at": "2026-10-20T19:12:01.438166+00:00",
+    "expected_intermediate_failure": "189 unassigned units remain unannotated from p310. All 20 assigned units complete; 100% statutory agreement."
   },
   "remaining_limitations": [
     "Exactly 20 assigned units authored; all 320 previous commentaries preserved.",
@@ -607,7 +607,7 @@
   ],
   "cumulative_independently_reviewed_units": 320,
   "remaining_existing_commentaries_for_review": 20,
-  "commentary_characters": 712848,
+  "commentary_characters": 767944,
   "bounded_authoring": {
     "complete": true,
     "units_written": 20,
@@ -717,7 +717,7 @@
     }
   ],
   "bounded_author": {
-    "complete": false,
+    "complete": true,
     "authored_ids": [
       "p292",
       "p292a",
@@ -745,7 +745,8 @@
     "audit": "author-p292-p309a-audit.json",
     "independent_second_pass_complete": false,
     "unresolved_blockers": [],
-    "whole_book_complete": false
+    "whole_book_complete": false,
+    "commentary_characters": 55096
   },
   "bounded_author_history": [
     {

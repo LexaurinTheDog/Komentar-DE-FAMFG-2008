@@ -2,9 +2,9 @@
   "repo": "Komentar-DE-FAMFG-2008",
   "units": 529,
   "verbatim_ratio": 1.0,
-  "commentary_chars": 712848,
+  "commentary_chars": 767944,
   "errors": [
-    "krátký/chybějící komentář u 209 jednotek: ['p292(0<400)', 'p292a(0<400)', 'p293(0<400)', 'p294(0<400)', 'p295(0<400)', 'p296(0<400)', 'p297(0<400)', 'p298(0<400)']"
+    "krátký/chybějící komentář u 189 jednotek: ['p310(0<400)', 'p311(0<400)', 'p312(0<400)', 'p313(0<400)', 'p314(0<400)', 'p315(0<400)', 'p316(0<120)', 'p317(0<400)']"
   ],
   "warnings": [],
   "ok": false

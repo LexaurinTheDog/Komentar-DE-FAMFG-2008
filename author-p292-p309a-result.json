@@ -1,7 +1,7 @@
 {
   "kind": "author",
-  "complete": false,
-  "stage": "bounded_author_batch_written_validation_pending",
+  "complete": true,
+  "stage": "bounded_author_batch_complete_awaiting_independent_second_pass",
   "authored_ids": [
     "p292",
     "p292a",
@@ -154,5 +154,43 @@
     "A fresh independent second pass is pending for these 20 units.",
     "Whole book incomplete: 189 unassigned comments missing from p310.",
     "Selective case-law research; technical tests do not prove legal quality."
-  ]
+  ],
+  "completed_at": "2026-10-20T19:12:01.438166+00:00",
+  "commentary_characters": 55096,
+  "fictional_examples": 20,
+  "thematic_checklists": 3,
+  "validation": {
+    "assigned_batch_ok": true,
+    "all_20_assigned_units_exported": true,
+    "all_previous_320_commentary_blocks_preserved": true,
+    "all_previous_16_exported_chapters_preserved": true,
+    "previous_independent_review_artifacts_preserved": true,
+    "unassigned_commentary_changes": [],
+    "expected_official_units": 529,
+    "parsed_units": 529,
+    "statutory_agreement": 1.0,
+    "parser_replay_byte_identical": true,
+    "full_builder_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-DE-FAMFG-2008",
+      "units": 529,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 767944,
+      "errors": [
+        "krátký/chybějící komentář u 189 jednotek: ['p310(0<400)', 'p311(0<400)', 'p312(0<400)', 'p313(0<400)', 'p314(0<400)', 'p315(0<400)', 'p316(0<120)', 'p317(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_exit_code": 1,
+    "expected_intermediate_failure": "189 unassigned units remain without commentary, starting at p310.",
+    "partial_output_rebuilt": true,
+    "local_links_checked": 970,
+    "broken_local_links": [],
+    "repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "captured_body_hash_mismatches": [],
+    "validated_at": "2026-10-20T19:12:01.438166+00:00",
+    "whole_book_complete": false
+  }
 }
