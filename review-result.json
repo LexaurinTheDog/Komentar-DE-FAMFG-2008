@@ -169,5 +169,20 @@
       "review-p1-p18-result.json",
       "review-p19-p36a-result.json"
     ]
+  },
+  "verification": {
+    "batch_audit_ok": true,
+    "statutory_text_agreement": 1.0,
+    "statutory_expected": 529,
+    "statutory_extracted": 529,
+    "all_commentaries_present": 193,
+    "all_commentaries_missing": 336,
+    "local_links_checked": 143,
+    "broken_local_links": [],
+    "exact_repeated_substantive_paragraphs": [],
+    "near_repeated_commentary": [],
+    "whole_book_full_build_exit_code": 1,
+    "whole_book_strict_validation_ok": false,
+    "only_whole_book_validation_error": "336 missing commentaries outside assigned batch"
   }
 }

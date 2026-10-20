@@ -1,6 +1,6 @@
 {
   "stage": "authoring_incomplete",
-  "updated_at": "2026-10-20T15:35:23.515864+00:00",
+  "updated_at": "2026-10-20T15:35:52.100195+00:00",
   "decisive_date": "2026-10-19",
   "source_checks": "sources/verification.json",
   "total_units": 529,
@@ -19,7 +19,7 @@
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 214881,
+      "commentary_chars": 225810,
       "errors": [
         "krátký/chybějící komentář u 336 jednotek: ['p169(0<400)', 'p170(0<400)', 'p171(0<400)', 'p172(0<120)', 'p173(0<120)', 'p174(0<400)', 'p175(0<400)', 'p176(0<400)']"
       ],
@@ -31,7 +31,7 @@
     "completeness_report": "completeness-report.json",
     "technical_audit": "technical-audit.json",
     "statutory_coverage_complete": true,
-    "validated_at": "2026-10-20T15:27:45.882745+00:00",
+    "validated_at": "2026-10-20T15:35:52.100195+00:00",
     "expected_intermediate_failure": "Only336 unannotated units outside the p37–p55 review; all20 assigned units present, statutory coverage and text agreement pass."
   },
   "remaining_limitations": [
@@ -153,5 +153,6 @@
     }
   ],
   "cumulative_independently_reviewed_units": 60,
-  "remaining_existing_commentaries_for_review": 133
+  "remaining_existing_commentaries_for_review": 133,
+  "commentary_characters": 225810
 }
