@@ -1,0 +1,90 @@
+{
+  "complete": true,
+  "units_reviewed": 9,
+  "reviewed_ids": [
+    "p485",
+    "p486",
+    "p487",
+    "p488",
+    "p489",
+    "p490",
+    "p491",
+    "p492",
+    "p493"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p485",
+      "review": "Art.1 Abs.2, Art.2 und Art.50 EGBGB im amtlichen XML gelesen; pauschale Kollisionsbeschreibung durch konkrete Fortgeltung, Neuerlass und Normbegriff ersetzt.",
+      "corrected": true
+    },
+    {
+      "id": "p486",
+      "review": "Alle drei Absätze, §68 BeurkG und §378 Abs.3 geprüft; Ergänzung/Ausführung gegenüber Abweichung und personengebundene Beglaubigungsausnahme korrekt.",
+      "corrected": false
+    },
+    {
+      "id": "p487",
+      "review": "Vier Vorbehalte und Absatz2 geprüft; §373 Abs.2 umfasst auch Einziehung/Kraftloserklärung, im Kommentar ausdrücklich ergänzt.",
+      "corrected": true
+    },
+    {
+      "id": "p488",
+      "review": "Buch1-Ausnahmen vollständig geprüft, Gericht nach §5 und landesgesetzliche Option, GVG-Sprach-/Rechtshilfeverweisung korrekt.",
+      "corrected": false
+    },
+    {
+      "id": "p489",
+      "review": "Landesgesetz als Voraussetzung, örtlicher Bezug, entsprechende §§59–69 und zweite Beschwerdestufe getrennt geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p490",
+      "review": "Zulässigkeit aus Landesrecht als Voraussetzung, Ausschluss/Ersetzung und Abgrenzung §§484/491 geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p491",
+      "review": "Öffentlich-rechtliche Emittenten/Haftungsübernahme, ausschließliche Konzentration, entsprechende §808-Urkunden geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p492",
+      "review": "§342 Abs.2 Nr.1, fünf Sätze Absatz1, subsidiäre Erinnerung mit Frist/Abhilfe/Vorlage und kumulative Unanfechtbarkeit geprüft.",
+      "corrected": false
+    },
+    {
+      "id": "p493",
+      "review": "Alle sechs Übergangsabsätze mit Stichtagen und schriftlichem Verfahren geprüft; Datum 1.9.2013 ausdrücklich ergänzt; BGH XII ZB321/23 vollständig am frischen Primärvolltext geprüft und begrenzt eingearbeitet.",
+      "corrected": true
+    }
+  ],
+  "limitations": [
+    "Exactly p485–p493 reviewed; no whole-book review completion asserted.",
+    "Selective case-law search; no comprehensive state-law inventory, no external professional approval.",
+    "Historical statutory versions are not silently substituted; specific application still requires the relevant historical text."
+  ],
+  "reviewed_at": "2026-10-20T23:01:01.839443+00:00",
+  "source_evidence": "sources/review-p485-p493-version-map.json",
+  "technical_checks": {
+    "assigned_comments": 9,
+    "parser_replay_byte_identical": true,
+    "statutory_agreement": 1.0,
+    "broken_local_links": [],
+    "repeated_paragraphs": [],
+    "unassigned_work_comments_unchanged": true,
+    "audit_limitation": "Legacy hash records without path skipped; new fetch records independently hash-checked."
+  },
+  "strict_validation": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1129560,
+    "errors": [
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  }
+}

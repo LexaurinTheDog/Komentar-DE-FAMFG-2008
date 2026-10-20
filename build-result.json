@@ -1,6 +1,6 @@
 {
-  "exit_code": 1,
-  "stdout": "",
-  "stderr": "CHYBÍ komentář k 9 jednotkám, např.: ['p485', 'p486', 'p487', 'p488', 'p489', 'p490', 'p491', 'p492', 'p493']\n",
-  "scope": "Bounded second pass p465–p484; no unassigned comments authored."
+  "exit_code": 0,
+  "stdout": "OK: /Volumes/LaCie/open-commentary/de/Komentar-DE-FAMFG-2008 — 529 jednotek, 27 kapitol\n",
+  "stderr": "",
+  "scope": "Bounded review p485–p493; rebuild only, no whole-book review claim."
 }

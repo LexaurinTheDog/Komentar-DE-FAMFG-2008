@@ -582,3 +582,6 @@ Alle zwanzig Einheiten p445–p464 am amtlichen Text geprüft. Präzisiert wurde
 ## Begrenzte Zweitprüfung §§ 465–484
 
 Alle zwanzig Einheiten p465–p484 einzeln am amtlichen Text geprüft. Ergänzt wurden § 467 (Inhaberschaft, Eigentum und mittelbarer Besitz), § 476 (Sechswochenminimum nach § 437), § 482 (rechtzeitiger Einleitungsantrag) und § 483 (Aushändigungspflicht nach § 808 BGB). BGH XI ZB 1/16 mit Tenor und allen Gründen vollständig nachgelesen; Parteivortrag und Gerichtsgründe getrennt. [Einzelbefunde](review-p465-p484-result.json), [Quellenabrufe](sources/review-p465-p484-fetch.json), [Fassungsprüfung](sources/review-p465-p484-version-map.json). Diese begrenzte Zweitprüfung ist abgeschlossen. Der Gesamtentwurf bleibt unvollständig; keine externe anwaltliche Freigabe.
+
+
+Begrenzte Zweitprüfung §§ 485–493: alle neun Einheiten am erneut abgerufenen amtlichen Text geprüft. § 485 hinsichtlich der drei EGBGB-Verweisungen berichtigt, § 487 zu den Zeugnisverfahren und § 493 zu Stichtag und verifizierter Rechtsprechung präzisiert. [Einzelbefunde](review-p485-p493-result.json), [Quellen](sources/review-p485-p493-fetch.json), [Fassungsprüfung](sources/review-p485-p493-version-map.json), [Fallkarte](cases/BGH-XII-ZB-321-23.md). Keine Aussage über eine vollständige Gesamtprüfung oder externe anwaltliche Freigabe.

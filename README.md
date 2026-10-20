@@ -137,3 +137,6 @@ Autorencheckpoint §§ 445–464: zwanzig neue Einzelkommentare mit fiktiven Fä
 Begrenzte Zweitprüfung §§ 445–464 abgeschlossen: zwanzig Einheiten gelesen und vier Kommentare präzisiert. [Einzelbefunde](review-p445-p464-result.json), [Prüfbericht](REVIEW.md). Keine Aussage über eine vollständige Gesamtprüfung.
 
 Begrenzte Zweitprüfung §§ 465–484 abgeschlossen: zwanzig Einheiten geprüft, vier Kommentare präzisiert. [Einzelbefunde](review-p465-p484-result.json), [Prüfbericht](REVIEW.md). Keine Aussage über vollständige Gesamtprüfung.
+
+
+Begrenzte Zweitprüfung §§ 485–493: alle neun Einheiten am erneut abgerufenen amtlichen Text geprüft. § 485 hinsichtlich der drei EGBGB-Verweisungen berichtigt, § 487 zu den Zeugnisverfahren und § 493 zu Stichtag und verifizierter Rechtsprechung präzisiert. [Einzelbefunde](review-p485-p493-result.json), [Quellen](sources/review-p485-p493-fetch.json), [Fassungsprüfung](sources/review-p485-p493-version-map.json), [Fallkarte](cases/BGH-XII-ZB-321-23.md). Keine Aussage über eine vollständige Gesamtprüfung oder externe anwaltliche Freigabe.

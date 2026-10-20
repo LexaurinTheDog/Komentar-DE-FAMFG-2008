@@ -1,0 +1,49 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T23:00:18.356854+00:00",
+    "path": "sources/review-p485-p493-famfg.zip",
+    "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "xml_path": "sources/review-p485-p493-famfg.xml",
+    "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+    "format_validation": "ZIP CRC valid; statutory XML root parsed"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgbeg/xml.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T23:00:18.532170+00:00",
+    "path": "sources/review-p485-p493-bgbeg.zip",
+    "sha256": "ce71acfa170c0393285a12eaf96cf6ae518ee5b2ac74ccc67d4c50aae2b93b9b",
+    "xml_path": "sources/review-p485-p493-bgbeg.xml",
+    "xml_sha256": "b494eb13d589b65cef649cf41f1123f0bd7e526a03e2a55c4d2776740367df18",
+    "format_validation": "ZIP CRC valid; statutory XML root parsed"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/beurkg/xml.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T23:00:18.645538+00:00",
+    "path": "sources/review-p485-p493-beurkg.zip",
+    "sha256": "f8b0d085e25d1192e7fed75339e28278e80a5108bece4483266b1afbca676dc9",
+    "xml_path": "sources/review-p485-p493-beurkg.xml",
+    "xml_sha256": "6fee8e9bb8bc08018ccc483986f3ab260a28357e7dfe7d0aa5a8c3bf559ba874",
+    "format_validation": "ZIP CRC valid; statutory XML root parsed"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T23:00:18.791674+00:00",
+    "path": "sources/review-p485-p493-index.html",
+    "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307032024.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T23:00:19.024825+00:00",
+    "path": "sources/review-p485-p493-XII-ZB-321-23.zip",
+    "sha256": "cd380bc643b2e60b36f2f71b0ac5d63ff6ad6470d1a2ef8acf98dbe7d7b3cc46",
+    "xml_path": "sources/review-p485-p493-XII-ZB-321-23.xml",
+    "xml_sha256": "8e2c06db30ef29b34390b5f180650deeba8187f7db52acac2f7894f6f5ed9737",
+    "format_validation": "ZIP CRC valid; decision XML root parsed"
+  }
+]

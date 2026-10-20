@@ -1,0 +1,15 @@
+{
+  "result": {
+    "repo": "Komentar-DE-FAMFG-2008",
+    "units": 529,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1129560,
+    "errors": [
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "scope": "Exactly p485–p493 reviewed; pre-existing uncommitted output chapters 01–26 and INDEX preserved. Validator fails only on repository cleanliness.",
+  "whole_book_review_complete": false
+}

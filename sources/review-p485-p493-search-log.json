@@ -1,0 +1,26 @@
+{
+  "scope": [
+    "p485",
+    "p486",
+    "p487",
+    "p488",
+    "p489",
+    "p490",
+    "p491",
+    "p492",
+    "p493"
+  ],
+  "queries": [
+    "site:rechtsprechung-im-internet.de \"§ 492\" \"FamFG\"",
+    "site:rechtsprechung-im-internet.de \"§ 493\" \"2025\"",
+    "local rii corpus: §485–493 FamFG"
+  ],
+  "local_hits": [
+    "KORE307032024",
+    "KORE703852026",
+    "KORE719492025"
+  ],
+  "selected": "KORE307032024; primary full text and local corpus read completely, Rn.1–11",
+  "not_selected": "KORE703852026 and KORE719492025 concern further value/guardianship questions; no additional holding adopted. BayObLG101VA62/25 found through search, not relied on without full-text review.",
+  "other_units": "No sufficiently relevant verified decision added for p485–p492; no exhaustive survey."
+}
