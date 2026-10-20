@@ -2,5 +2,5 @@
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 89 jednotkám, např.: ['p405', 'p406', 'p407', 'p408', 'p409', 'p410', 'p411', 'p412', 'p413', 'p414']\n",
-  "scope": "Full builder correctly refuses 89 unassigned missing comments. Existing explicit draft exporter used."
+  "scope": "p385–p404 reviewed; 89 unassigned comments missing."
 }

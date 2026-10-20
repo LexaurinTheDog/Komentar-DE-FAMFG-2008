@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:19:07.961365+00:00",
+  "generated_at": "2026-10-20T22:21:23.839791+00:00",
   "decisive_date": "2026-10-19",
   "official_source": "https://www.gesetze-im-internet.de/famfg/",
   "canonical_text": "sources/famfg-canonical.md",
@@ -3410,6 +3410,46 @@
       "bytes": 106117
     },
     {
+      "path": "sources/review-p385-p404-II-ZB-20-21.xml",
+      "sha256": "51e6bccc6305cc2765c5fb1e67bc5a3f5be18d078123c18a383826c1eee2961f",
+      "bytes": 22183
+    },
+    {
+      "path": "sources/review-p385-p404-II-ZB-20-21.zip",
+      "sha256": "e22d2ccce2c22c993394156b5a6d9f9a34abcba641879e02f2e4919928133177",
+      "bytes": 5665
+    },
+    {
+      "path": "sources/review-p385-p404-case-check.json",
+      "sha256": "863f5ddb5340a2cada17b81be01ff50d07cf01e3f86de76ecf3c1cbb1c5fb4e0",
+      "bytes": 622
+    },
+    {
+      "path": "sources/review-p385-p404-famfg.xml",
+      "sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "bytes": 698175
+    },
+    {
+      "path": "sources/review-p385-p404-famfg.zip",
+      "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+      "bytes": 121783
+    },
+    {
+      "path": "sources/review-p385-p404-fetch.json",
+      "sha256": "e17c588ee62e0d5c4077cedcd87507ee853ad9a4ad13754dc6f69d0682c07128",
+      "bytes": 1377
+    },
+    {
+      "path": "sources/review-p385-p404-index.html",
+      "sha256": "d6a508df3e71882434f65afb7822c98b9fe20785de056e09da7b6d295dd6e94c",
+      "bytes": 106117
+    },
+    {
+      "path": "sources/review-p385-p404-version-map.json",
+      "sha256": "7ff961c3bb0691b97bafdf61be8352581a5fad53e37a0c8689699f30352f34a9",
+      "bytes": 13777
+    },
+    {
       "path": "sources/review-p47-674-14-gruende.txt",
       "sha256": "f2176cb1bfaf844119e6fb4d749d34984e078177e383c75fc6050277fe7af8a1",
       "bytes": 22246
@@ -3751,8 +3791,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "f43ebbb87992beb99ea936e6ee437217fb7f5dfdd88d74f97829b7c45c1b0bc6",
-      "bytes": 267307
+      "sha256": "2bb3a8109f6c9efe7d600d99efb1d6f46cdcbd1c40702ec31812d31d7a5ec81b",
+      "bytes": 268765
     }
   ]
 }

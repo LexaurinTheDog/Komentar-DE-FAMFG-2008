@@ -118,3 +118,5 @@ Begrenzte Zweitprüfung §§ 365–384 abgeschlossen: genau 20 Kommentare geprü
 
 
 Aktueller Autorencheckpoint §§ 385–404: 20 neue spezifische Kommentare einschließlich des entfallenen § 396, 19 fiktive Beispiele und drei praktische Prüflisten. Gesamtstand 440/529, noch 89 Kommentare ab § 405 offen. Ein zusätzlicher amtlicher BGH-Volltext wurde vollständig gelesen und mit dem lokalen Justizkorpus abgeglichen. Die unabhängige Zweitprüfung dieser Charge steht aus. [Chargenergebnis](author-p385-p404-result.json), [Fallkarte](cases/BGH-II-ZB-20-21.md), [Quellenabgleich](sources/author-p385-p404-checks.json). Vorstehende Verlaufsabsätze dokumentieren frühere Teilstände.
+
+Begrenzte Zweitprüfung §§ 385–404: zwanzig Einheiten geprüft, drei Kommentare präzisiert. [Prüfbericht](REVIEW.md), [Einzelbefunde](review-p385-p404-result.json). Gesamtmanuskript weiterhin unvollständig.

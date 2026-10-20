@@ -63,7 +63,7 @@
     "repo": "Komentar-DE-FAMFG-2008",
     "units": 529,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 972517,
+    "commentary_chars": 972821,
     "errors": [
       "krátký/chybějící komentář u 89 jednotek: ['p405(0<400)', 'p406(0<400)', 'p407(0<400)', 'p408(0<400)', 'p409(0<400)', 'p410(0<400)', 'p411(0<400)', 'p412(0<400)']"
     ],
@@ -71,9 +71,8 @@
     "ok": false
   },
   "remaining_limitations": [
-    "89 unassigned comments missing from p405.",
-    "Independent second pass pending for p385–p404.",
-    "Case-law research selective."
+    "Bounded second pass of exactly p385–p404; whole manuscript incomplete (89 other comments missing).",
+    "Selective existing case authority re-read; no exhaustive case-law search or external lawyer approval."
   ],
   "commented_scope": "§§ 1–364 einschließlich der Buchstabenparagraphen",
   "resume": {
@@ -98,226 +97,157 @@
   },
   "bounded_review": {
     "complete": true,
-    "kind": "bounded_independent_second_pass",
-    "scope": "Exactly p365–p384; no whole-book completion",
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p365",
-      "p366",
-      "p367",
-      "p368",
-      "p369",
-      "p370",
-      "p371",
-      "p372",
-      "p373",
-      "p374",
-      "p375",
-      "p376",
-      "p377",
-      "p378",
-      "p379",
-      "p380",
-      "p381",
-      "p382",
-      "p383",
-      "p384"
+      "p385",
+      "p386",
+      "p387",
+      "p388",
+      "p389",
+      "p390",
+      "p391",
+      "p392",
+      "p393",
+      "p394",
+      "p395",
+      "p396",
+      "p397",
+      "p398",
+      "p399",
+      "p400",
+      "p401",
+      "p402",
+      "p403",
+      "p404"
     ],
+    "unresolved_blockers": [],
     "findings": [
       {
-        "id": "p365",
-        "review": "Ladung sämtlicher Beteiligter; Ausschluss öffentlicher Zustellung; Sollhinweis zur Säumnis von zwingendem Einsichtshinweis unterschieden und korrigiert.",
-        "statutory_agreement": true,
-        "commentary_characters": 2261,
-        "commentary_sha256": "a878685c83e1982b670c40628d7e7a4e0db1030ddf95cb35d1790083429edc47",
+        "id": "p385",
+        "review": "Öffentliche Register- und Dokumenteneinsicht nach Spezialrecht von §13 und interner Akte getrennt.",
+        "corrected": false
+      },
+      {
+        "id": "p386",
+        "review": "Beide negativen Bescheinigungsalternativen, gebundene Erteilung und begrenzte Beweisaussage geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p387",
+        "review": "Alle sechs Absätze, Länderbefugnisse, Bundesratszustimmung, Datenkatalog und Zweckbindung sowie Auftragsverarbeitung und europäischer Austausch geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p388",
+        "review": "Glaubhafte Kenntnis, materielle Verweisungskette, Frist und Einspruch sowie Muss nach Absatz1/Kann nach Absatz2 geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p389",
+        "review": "Kumulative Nichterfüllung und fehlender Einspruch, erneute Androhung, Kosten und Fortsetzung geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p390",
+        "review": "Alle sechs Absätze: Solltermin, Abwesenheit, Aufhebung, Festsetzungsermessen, Rechtskraftbeginn und frühere Festsetzungen geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p391",
+        "review": "Beschwerdegegenstände und begrenzte Präklusion der ursprünglichen Androhungsgründe geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p392",
+        "review": "Ordnungsgeld statt Zwangsgeld, nachfolgender Verstoß und Einspruchsstand kumulativ; Partnerschaft und eGbR geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p393",
+        "review": "Alle sechs Absätze einschließlich elektronischer Ersatzbenachrichtigung, Kostenunbilligkeit und Vollzugssperre geprüft.",
+        "corrected": false
+      },
+      {
+        "id": "p394",
+        "review": "Rechtsformkatalog, Ermessen/Muss, Anhörung und Widerspruch sowie mehrstufige Vollhafterausnahme geprüft; Personengesellschaften ausdrücklich benannt; BGH volltextgeprüft.",
         "corrected": true
       },
       {
-        "id": "p366",
-        "review": "Absätze 1–4 geprüft: Vereinbarung und Einzelvorschlag, förmliche Zustimmung, Bekanntgabe und Warnung, kumulativer Terminsantrag und Erscheinen.",
-        "statutory_agreement": true,
-        "commentary_characters": 2260,
-        "commentary_sha256": "d72379273d22fa8bf0c0c8844598b03727427c21ad14a83644cd064ce6fb4118",
+        "id": "p395",
+        "review": "Wesentlicher Zulässigkeitsmangel, Vermerklöschung, besondere Bekanntmachung und §393 Absätze3–5 geprüft.",
         "corrected": false
       },
       {
-        "id": "p367",
-        "review": "Unverschuldete Frist- und Terminsäumnis, zwei Wochen, Jahresgrenze und Nachholung geprüft; entscheidender Notar und Ausschluss von § 19 Absatz 2 präzisiert.",
-        "statutory_agreement": true,
-        "commentary_characters": 2424,
-        "commentary_sha256": "0586c4b4ffdb81ff58ed41277c5616b3b8d5c951f70eb2a418ae0d193deefbef",
+        "id": "p396",
+        "review": "Entfallene Nummer unverändert dokumentiert, keine aktuelle Ermächtigung behauptet.",
+        "corrected": false
+      },
+      {
+        "id": "p397",
+        "review": "Alle drei gesellschaftsrechtlichen Nichtigkeitsverweisungen und §395-Verfahren geprüft; keine pauschale Gründungsfehlerfolge.",
+        "corrected": false
+      },
+      {
+        "id": "p398",
+        "review": "Inhaltlicher zwingender Rechtsverstoß und öffentliches Interesse kumulativ; Beschluss statt Gesellschaft als Löschungsgegenstand.",
+        "corrected": false
+      },
+      {
+        "id": "p399",
+        "review": "Absätze1–4 geprüft; Muss-Einschreiten und genaue unterschiedliche Nummernkataloge ergänzt; Aufforderung von Feststellung und Auflösung getrennt.",
         "corrected": true
       },
       {
-        "id": "p368",
-        "review": "Plan, Beurkundung und Bestätigung getrennt; Zustimmungsformen, Schutz Abwesender und ausdrücklich weggefallener Absatz 3 vollständig berücksichtigt.",
-        "statutory_agreement": true,
-        "commentary_characters": 2188,
-        "commentary_sha256": "52c0d509d5d775aec59f5ca21cb37b3b654db859536fac2985310055d487df2d",
+        "id": "p400",
+        "review": "Anhaltspunktschwelle, zwei VereinsG-Kategorien, zuständige Verwaltungsbehörde und begrenzte Mitteilungswirkung geprüft.",
         "corrected": false
       },
       {
-        "id": "p369",
-        "review": "Vereinbarte Losverteilung und bestellter Vertreter nur für die Ziehung; abweichende Bestimmung und fehlende allgemeine Vertretungsmacht geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 1742,
-        "commentary_sha256": "bfb5119d2bcf33bd6184f7c4af5d95171a6af595d3f68eae8bec5603e1a923ef",
+        "id": "p401",
+        "review": "§73 BGB als Grundlage, Rechtskraft als Wirksamkeitserfordernis und keine allgemeine Beendigungsregel geprüft.",
         "corrected": false
       },
       {
-        "id": "p370",
-        "review": "Zwingende Aussetzung und Niederschrift bei Streit; trennbare unstreitige Punkte nach §§ 366, 368, keine notarielle Streitentscheidung.",
-        "statutory_agreement": true,
-        "commentary_characters": 1851,
-        "commentary_sha256": "92567891bee1df9e83b784c89e42b850982f3835a32f3461246c4020922698ba",
-        "corrected": false
-      },
-      {
-        "id": "p371",
-        "review": "Rechtskraft als Wirksamkeitszeitpunkt, vertragsgleiche Bindung, Vollstreckung aus Vereinbarung/Auseinandersetzung und ZPO-Verweis geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 1857,
-        "commentary_sha256": "b2d1fa6f0f6e01dbc94cd955630e22c3f22dca55ca8f08a25eb7cf75bd104c57",
-        "corrected": false
-      },
-      {
-        "id": "p372",
-        "review": "Sofortige Beschwerde nach Absatz 1 von auf Verfahrensfehler begrenzter Bestätigungsbeschwerde nach Absatz 2 unterschieden.",
-        "statutory_agreement": true,
-        "commentary_characters": 1966,
-        "commentary_sha256": "37017b61fa4dd377e3a7f828f9366f3342170ffb7a2c71798bc37a2ce2e48b5a",
-        "corrected": false
-      },
-      {
-        "id": "p373",
-        "review": "Gesamtgut nach drei Gütergemeinschaftsformen und gesondertes Zeugnisverfahren geprüft; § 345 Absatz 1 sowie genaue Zeugnisgrundlagen ergänzt.",
-        "statutory_agreement": true,
-        "commentary_characters": 2620,
-        "commentary_sha256": "2740dbed7a81bccf40c8ec4be0ac09eb761265e9bd2fd5cbc9723f7f7e3cf027",
+        "id": "p402",
+        "review": "Antragsbeschwerde, nur stattgebende Ausnahmen, Spezialrechtvorbehalt geprüft; §11 und §78 BinSchG ausdrücklich ergänzt.",
         "corrected": true
       },
       {
-        "id": "p374",
-        "review": "Alle fünf Registerarten einschließlich Gesellschaftsregister; Abgrenzung zu § 375 und jeweils begrenzte Folgeverweisungen geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 1798,
-        "commentary_sha256": "71f07569e12cc1aa2abcdc9ef8ff85f437e7039b2dcaa81b11dc346546fbdeb5",
+        "id": "p403",
+        "review": "Spezifischer Ablehnungsgrund große Haverei, Beteiligtenantrag, Verpflichtungsentscheidung und Beschwerde geprüft.",
         "corrected": false
       },
       {
-        "id": "p375",
-        "review": "Vollständigen Katalog samt 5a, 11a–11c und 17 gelesen; keine automatische Aktualisierung des alten Investmentgesetz-Verweises; nur zugewiesene Gerichtsaufgaben.",
-        "statutory_agreement": true,
-        "commentary_characters": 2436,
-        "commentary_sha256": "a02931688f6d71f13f623de5bf2412f0c19e23d94fbecfb48eb361d194df8d37",
-        "corrected": false
-      },
-      {
-        "id": "p376",
-        "review": "Amtsgericht am Landgerichtssitz, unterschiedliche Reichweite von Absatz 1/2, Delegation und länderübergreifende Vereinbarung geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 2165,
-        "commentary_sha256": "93ee7cc8e7eccee54838b3571251f36c761197f2784956919d093f347a10e7e7",
-        "corrected": false
-      },
-      {
-        "id": "p377",
-        "review": "Ausschließliche Sitz-/Niederlassungszuständigkeit unter Fachgesetzvorbehalt; Dispacheort und Ausschluss § 2 Absatz 1 geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 2009,
-        "commentary_sha256": "6ac2f15c00e96bd5bda4e7eb999311fdb27f8de4628e95b081fcf27e3ae2dbd9",
-        "corrected": false
-      },
-      {
-        "id": "p378",
-        "review": "Erweiterte Vertretergruppen, beschränkte Antragsermächtigung des Notars, Vorprüfungsausnahmen, zusätzlicher Einreichungsweg und Landesermächtigung geprüft; Wortwahl zur Ermächtigung präzisiert.",
-        "statutory_agreement": true,
-        "commentary_characters": 2323,
-        "commentary_sha256": "5cb2ae92a1ef01df1f7026804ba4286b43e7bdc38fe956568c49572c9bdb8276",
-        "corrected": true
-      },
-      {
-        "id": "p379",
-        "review": "Amtlicher Erkenntniszusammenhang, fünf Register, erforderliche Steuerauskunft und ausdrücklicher Ausschluss ihrer Akteneinsicht geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 2272,
-        "commentary_sha256": "8f61ba584b6dc7d0bed8e411d4a89c9fe95da7a0c5a3cae9a563b9b5c9f7e53d",
-        "corrected": false
-      },
-      {
-        "id": "p380",
-        "review": "Vier berufsständische Gruppen, Anhörungsermessen und Beteiligung auf Antrag, Genossenschaftsbeschränkung, Bekanntgabe und Beschwerde geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 2392,
-        "commentary_sha256": "bae791c85e862b502eea1cf59c7b2bd2d85abbfeb6c53046ca339fe8fa193b95",
-        "corrected": false
-      },
-      {
-        "id": "p381",
-        "review": "Aussetzung ohne anhängige Klage unter sonstigen Voraussetzungen § 21 Absatz 1; zwingende Klagefrist ohne automatische Eintragungsfolge geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 2015,
-        "commentary_sha256": "2e56cc4a0390be9370e5df7dbff308448c7c4e126f330bf521727502733eec4c",
-        "corrected": false
-      },
-      {
-        "id": "p382",
-        "review": "Wirksamkeit durch Vollzug, ablehnender Beschluss und behebbares Hindernis; Sollvorgabe zum Datum von zwingender Signatur getrennt; BGH Tenor und Rn. 1–35 vollständig gelesen.",
-        "statutory_agreement": true,
-        "commentary_characters": 2528,
-        "commentary_sha256": "3a7e561b5f7330e18149f2b367e76013287ff1341b69806e9606478f72213275",
-        "corrected": true
-      },
-      {
-        "id": "p383",
-        "review": "Formlose Mitteilung und Verzicht von Veröffentlichung getrennt; Anfechtungsausschluss und eigenständige Korrekturverfahren geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 1958,
-        "commentary_sha256": "699e4495d0a823bd2d047a76efa7a13549ae4d329afd77ad60cea0a5b9d5a9d2",
-        "corrected": false
-      },
-      {
-        "id": "p384",
-        "review": "Exakte Verweisung auf § 382 Absatz 1 Satz 2/Absatz 2 und § 383; Kennzeichnung unrichtiger Folgeangaben desselben Blatts geprüft.",
-        "statutory_agreement": true,
-        "commentary_characters": 2452,
-        "commentary_sha256": "ef009221709d3ef56bb5bf23a8f439d63491cfb4feafc0e78ebdabd049f6adf0",
+        "id": "p404",
+        "review": "Dispacheurantrag, Besitz und gesetzliche Mitteilungspflicht, Kannentscheidung sowie separates Einsichts-/Abschriftenrecht geprüft.",
         "corrected": false
       }
     ],
-    "unresolved_blockers": [],
     "limitations": [
-      "109 unassigned units ab § 385 remain without commentary; whole-book build/validation remains negative.",
-      "Selective case law: one existing BGH decision fully re-read, no exhaustive update search or external legal approval.",
-      "Technical length/agreement checks do not establish legal quality."
+      "Bounded second pass of exactly p385–p404; whole manuscript incomplete (89 other comments missing).",
+      "Selective existing case authority re-read; no exhaustive case-law search or external lawyer approval."
     ],
-    "case_law_sources": [
-      "cases/BGH-2023-09-19-II-ZB-15-22.md"
-    ],
-    "version_evidence": "sources/review-p365-p384-version-map.json",
-    "completed_at": "2026-10-20T22:12:21.977127+00:00",
-    "whole_book_complete": false,
+    "reviewed_at": "2026-10-20T22:21:10.456127+00:00",
+    "source_evidence": "sources/review-p385-p404-version-map.json",
     "technical_checks": {
-      "statutory_agreement": 1.0,
-      "parser_replay_byte_identical": true,
       "assigned_comments": 20,
-      "local_links_checked": 1175,
+      "parser_replay_byte_identical": true,
+      "statutory_agreement": 1.0,
       "broken_local_links": [],
-      "exact_repeated_paragraphs": [],
-      "near_repeated_comments_above_threshold": []
+      "repeated_paragraphs": []
     },
     "strict_validation": {
       "repo": "Komentar-DE-FAMFG-2008",
       "units": 529,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 941255,
+      "commentary_chars": 972821,
       "errors": [
-        "krátký/chybějící komentář u 109 jednotek: ['p385(0<400)', 'p386(0<400)', 'p387(0<400)', 'p388(0<400)', 'p389(0<400)', 'p390(0<400)', 'p391(0<400)', 'p392(0<400)']"
+        "krátký/chybějící komentář u 89 jednotek: ['p405(0<400)', 'p406(0<400)', 'p407(0<400)', 'p408(0<400)', 'p409(0<400)', 'p410(0<400)', 'p411(0<400)', 'p412(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "validation_scope": "Whole book: only failure is 109 unassigned comments; bounded review of 20 complete."
+    "validation_scope": "Whole book fails only on 89 unassigned comments; assigned review of twenty units complete."
   },
   "bounded_review_history": [
     {

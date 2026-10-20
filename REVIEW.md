@@ -542,3 +542,10 @@ Diese Charge ist nach Korrektur abgeschlossen, ohne festgestellten materiellen B
 
 
 Autorenkontrolle §§ 385–404: Alle 20 neuen Einheiten am amtlichen Wortlaut gelesen; Androhung/Einspruch/Beschwerde, Löschungsgründe und Rechtskraftsperren getrennt erläutert. § 396 ausdrücklich entfallen. BGH II ZB 20/21 wird auf die Registerfolgen nachträglich entdeckten Vermögens beschränkt; die offen gelassene Ausnahmefrage wird nicht als entschieden dargestellt. Diese Eigenkontrolle ist keine unabhängige Zweitprüfung. Gesamtstand 440/529; 89 Kommentare ab § 405 fehlen außerhalb der Charge. [Technisches Chargenergebnis](author-p385-p404-result.json).
+
+
+## Begrenzte Zweitprüfung §§ 385–404
+
+Genau zwanzig Einheiten p385–p404 einzeln mit amtlichem XML geprüft, einschließlich § 396 (entfallen). Präzisierungen bei §§ 394, 399 und 402: erfasste Personengesellschaften, gebundene Einleitung und genaue Mängelkataloge, spezielle Unanfechtbarkeit. Alle übrigen Aussagen nach Prüfung beibehalten. BGH II ZB 20/21, Tenor und Rn. 1–18, erneut gelesen und mit nationalem Korpus abgeglichen; historische FGG-Grundlage und offene Ausnahmefrage bleiben ausdrücklich begrenzt. [Einzelbefunde](review-p385-p404-result.json), [amtlicher Abruf](sources/review-p385-p404-fetch.json), [Versionsprüfung](sources/review-p385-p404-version-map.json).
+
+Der Gesamtkommentar bleibt mit 440/529 kommentierten Einheiten unvollständig. Keine Gesamtfreigabe oder externe anwaltliche Prüfung.

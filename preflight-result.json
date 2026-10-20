@@ -8348,5 +8348,15 @@
       "p384"
     ],
     "unresolved_blockers": []
+  },
+  "bounded_review_recheck_p385_p404": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/famfg/",
+    "verified_at": "2026-10-20T22:21:10.456127+00:00",
+    "version_evidence": "sources/review-p385-p404-version-map.json",
+    "historical_versions_checked": "529 unique provision labels and doknr, no historical duplicates; future 2027 changes excluded per retained commencement evidence.",
+    "annexes_checked": "All 599 XML norms classified; no annex and no operative opening formula supplied; law-head notes retained; final provisions included.",
+    "unresolved_blockers": []
   }
 }
